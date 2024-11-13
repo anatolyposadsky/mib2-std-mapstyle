@@ -1,0 +1,1555 @@
+<LanguagePoiConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xsd/locale/LanguagePoiConfiguration.xsd" version="1">
+<!--Alphabetically sorted setup category definitions for each fuel type, will be reloaded after language change-->
+	<SetupCategoryDefinition>
+		<PoiCategoryMapping fueltype="default">
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Автобусные станции -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- АГЗС (природный газ) -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- АГЗС (сжиженный газ) -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- АЗС -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Аптеки -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Аэропорты -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Банки -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Банкоматы -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Больницы -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Винные магазины -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Вокзалы -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Гольф -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- Дилеры VW -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Достопримечательности -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Зарядные станции -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Изобразительное искусство -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Информация для туристов -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Казино -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Кафе -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Кинотеатры -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Кладбища -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Компании -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Конгрессцентры -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Культовые сооружения -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Лодочный спорт -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Лыжный спорт -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Медицинские службы -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Место отдыха у автомагистрали -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Музеи -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Ночная жизнь -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Образовательные учреждения -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Одежда -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Отели и мотели -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Памятники -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Парки -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Парки культуры и отдыха -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Парковка -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Паромы и автомобилевозы -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Пограничные переходы -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Полиция -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Посольства -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Почта -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Правительство и органы управления -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Прокат автомобилей -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Рестораны -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- Сервисные центры VW -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Спортивные центры -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Съезды/въезды автомагистралей -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Торговые центры -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Электроника -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="gasoline">
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Автобусные станции -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- АГЗС (природный газ) -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- АГЗС (сжиженный газ) -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- АЗС -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Аптеки -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Аэропорты -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Банки -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Банкоматы -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Больницы -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Винные магазины -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Вокзалы -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Гольф -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- Дилеры VW -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Достопримечательности -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Зарядные станции -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Изобразительное искусство -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Информация для туристов -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Казино -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Кафе -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Кинотеатры -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Кладбища -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Компании -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Конгрессцентры -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Культовые сооружения -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Лодочный спорт -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Лыжный спорт -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Медицинские службы -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Место отдыха у автомагистрали -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Музеи -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Ночная жизнь -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Образовательные учреждения -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Одежда -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Отели и мотели -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Памятники -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Парки -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Парки культуры и отдыха -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Парковка -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Паромы и автомобилевозы -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Пограничные переходы -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Полиция -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Посольства -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Почта -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Правительство и органы управления -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Прокат автомобилей -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Рестораны -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- Сервисные центры VW -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Спортивные центры -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Съезды/въезды автомагистралей -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Торговые центры -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Электроника -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="diesel">
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Автобусные станции -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- АГЗС (природный газ) -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- АГЗС (сжиженный газ) -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- АЗС -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Аптеки -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Аэропорты -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Банки -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Банкоматы -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Больницы -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Винные магазины -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Вокзалы -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Гольф -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- Дилеры VW -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Достопримечательности -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Зарядные станции -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Изобразительное искусство -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Информация для туристов -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Казино -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Кафе -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Кинотеатры -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Кладбища -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Компании -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Конгрессцентры -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Культовые сооружения -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Лодочный спорт -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Лыжный спорт -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Медицинские службы -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Место отдыха у автомагистрали -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Музеи -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Ночная жизнь -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Образовательные учреждения -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Одежда -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Отели и мотели -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Памятники -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Парки -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Парки культуры и отдыха -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Парковка -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Паромы и автомобилевозы -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Пограничные переходы -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Полиция -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Посольства -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Почта -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Правительство и органы управления -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Прокат автомобилей -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Рестораны -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- Сервисные центры VW -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Спортивные центры -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Съезды/въезды автомагистралей -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Торговые центры -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Электроника -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="cng">
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Автобусные станции -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- АГЗС (природный газ) -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- АГЗС (сжиженный газ) -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- АЗС -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Аптеки -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Аэропорты -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Банки -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Банкоматы -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Больницы -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Винные магазины -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Вокзалы -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Гольф -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- Дилеры VW -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Достопримечательности -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Зарядные станции -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Изобразительное искусство -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Информация для туристов -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Казино -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Кафе -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Кинотеатры -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Кладбища -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Компании -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Конгрессцентры -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Культовые сооружения -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Лодочный спорт -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Лыжный спорт -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Медицинские службы -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Место отдыха у автомагистрали -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Музеи -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Ночная жизнь -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Образовательные учреждения -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Одежда -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Отели и мотели -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Памятники -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Парки -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Парки культуры и отдыха -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Парковка -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Паромы и автомобилевозы -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Пограничные переходы -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Полиция -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Посольства -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Почта -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Правительство и органы управления -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Прокат автомобилей -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Рестораны -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- Сервисные центры VW -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Спортивные центры -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Съезды/въезды автомагистралей -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Торговые центры -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Электроника -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="lpg">
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Автобусные станции -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- АГЗС (природный газ) -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- АГЗС (сжиженный газ) -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- АЗС -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Аптеки -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Аэропорты -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Банки -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Банкоматы -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Больницы -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Винные магазины -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Вокзалы -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Гольф -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- Дилеры VW -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Достопримечательности -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Зарядные станции -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Изобразительное искусство -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Информация для туристов -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Казино -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Кафе -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Кинотеатры -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Кладбища -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Компании -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Конгрессцентры -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Культовые сооружения -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Лодочный спорт -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Лыжный спорт -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Медицинские службы -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Место отдыха у автомагистрали -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Музеи -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Ночная жизнь -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Образовательные учреждения -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Одежда -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Отели и мотели -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Памятники -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Парки -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Парки культуры и отдыха -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Парковка -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Паромы и автомобилевозы -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Пограничные переходы -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Полиция -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Посольства -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Почта -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Правительство и органы управления -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Прокат автомобилей -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Рестораны -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- Сервисные центры VW -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Спортивные центры -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Съезды/въезды автомагистралей -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Торговые центры -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Электроника -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="bev">
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Автобусные станции -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- АГЗС (природный газ) -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- АГЗС (сжиженный газ) -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- АЗС -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Аптеки -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Аэропорты -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Банки -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Банкоматы -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Больницы -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Винные магазины -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Вокзалы -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Гольф -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- Дилеры VW -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Достопримечательности -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Зарядные станции -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Изобразительное искусство -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Информация для туристов -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Казино -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Кафе -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Кинотеатры -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Кладбища -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Компании -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Конгрессцентры -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Культовые сооружения -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Лодочный спорт -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Лыжный спорт -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Медицинские службы -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Место отдыха у автомагистрали -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Музеи -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Ночная жизнь -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Образовательные учреждения -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Одежда -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Отели и мотели -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Памятники -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Парки -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Парки культуры и отдыха -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Парковка -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Паромы и автомобилевозы -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Пограничные переходы -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Полиция -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Посольства -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Почта -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Правительство и органы управления -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Прокат автомобилей -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Рестораны -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- Сервисные центры VW -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Спортивные центры -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Съезды/въезды автомагистралей -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Торговые центры -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Электроника -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="phev">
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Автобусные станции -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- АГЗС (природный газ) -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- АГЗС (сжиженный газ) -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- АЗС -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Аптеки -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Аэропорты -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Банки -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Банкоматы -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Больницы -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Винные магазины -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Вокзалы -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Гольф -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- Дилеры VW -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Достопримечательности -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Зарядные станции -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Изобразительное искусство -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Информация для туристов -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Казино -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Кафе -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Кинотеатры -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Кладбища -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Компании -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Конгрессцентры -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Культовые сооружения -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Лодочный спорт -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Лыжный спорт -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Медицинские службы -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Место отдыха у автомагистрали -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Музеи -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Ночная жизнь -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Образовательные учреждения -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Одежда -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Отели и мотели -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Памятники -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Парки -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Парки культуры и отдыха -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Парковка -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Паромы и автомобилевозы -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Пограничные переходы -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Полиция -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Посольства -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Почта -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Правительство и органы управления -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Прокат автомобилей -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Рестораны -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- Сервисные центры VW -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Спортивные центры -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Съезды/въезды автомагистралей -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Торговые центры -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Электроника -->
+		</PoiCategoryMapping>
+	</SetupCategoryDefinition>
+
+  <!-- ### Poi category groups defined by vw, the type defines the "local" or "personal Poi" or other types -->
+  <PoiCategoryGroupDefinition>
+    <PoiCategoryGroup id="10" type="dynamic">
+      <Priority>1</Priority>
+      <PoiCategoryMapping>
+        <!-- MUSS LEER BLEIBEN Ueber XSD checken !! -->
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+
+    <PoiCategoryGroup id="11" type="local">
+      <Priority>2</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>18</PoiCategoryRef>
+        <!-- Автобусные остановки -->
+        <PoiCategoryRef>135</PoiCategoryRef>
+        <!-- АГЗС (природный газ) -->
+        <PoiCategoryRef>136</PoiCategoryRef>
+        <!-- АГЗС (сжиж. нефт. газ) -->
+        <PoiCategoryRef>101</PoiCategoryRef>
+        <!-- АЗС -->
+        <PoiCategoryRef>23</PoiCategoryRef>
+        <!-- Аптеки -->
+        <PoiCategoryRef>2</PoiCategoryRef>
+        <!-- Аэропорты -->
+        <PoiCategoryRef>45</PoiCategoryRef>
+        <!-- Банки -->
+        <PoiCategoryRef>25</PoiCategoryRef>
+        <!-- Банкоматы -->
+        <PoiCategoryRef>21</PoiCategoryRef>
+        <!-- Больницы -->
+        <PoiCategoryRef>30</PoiCategoryRef>
+        <!-- Вина и крепкие напитки -->
+        <PoiCategoryRef>41</PoiCategoryRef>
+        <!-- Гольф -->
+        <PoiCategoryRef>11</PoiCategoryRef>
+        <!-- Дилеры VW -->
+        <PoiCategoryRef>33</PoiCategoryRef>
+        <!-- Достопримечательн. -->
+        <PoiCategoryRef>16</PoiCategoryRef>
+        <!-- Ж/д вокзалы -->
+        <PoiCategoryRef>134</PoiCategoryRef>
+        <!-- Зарядные станции -->
+        <PoiCategoryRef>19</PoiCategoryRef>
+        <!-- Инф. для туристов -->
+        <PoiCategoryRef>35</PoiCategoryRef>
+        <!-- Казино -->
+        <PoiCategoryRef>26</PoiCategoryRef>
+        <!-- Кафе -->
+        <PoiCategoryRef>34</PoiCategoryRef>
+        <!-- Кинотеатры -->
+        <PoiCategoryRef>54</PoiCategoryRef>
+        <!-- Кладбища -->
+        <PoiCategoryRef>48</PoiCategoryRef>
+        <!-- Конгресс-центры -->
+        <PoiCategoryRef>42</PoiCategoryRef>
+        <!-- Лодочный спорт -->
+        <PoiCategoryRef>43</PoiCategoryRef>
+        <!-- Лыжи -->
+        <PoiCategoryRef>22</PoiCategoryRef>
+        <!-- Медицинск.учреждения -->
+        <PoiCategoryRef>37</PoiCategoryRef>
+        <!-- Музеи -->
+        <PoiCategoryRef>31</PoiCategoryRef>
+        <!-- Ночная жизнь -->
+        <PoiCategoryRef>52</PoiCategoryRef>
+        <!-- Образоват. учреждения -->
+        <PoiCategoryRef>28</PoiCategoryRef>
+        <!-- Одежда -->
+        <PoiCategoryRef>46</PoiCategoryRef>
+        <!-- Отделения связи -->
+        <PoiCategoryRef>8</PoiCategoryRef>
+        <!-- Отели и мотели -->
+        <PoiCategoryRef>38</PoiCategoryRef>
+        <!-- Памятники -->
+        <PoiCategoryRef>32</PoiCategoryRef>
+        <!-- Парки -->
+        <PoiCategoryRef>44</PoiCategoryRef>
+        <!-- Парки культ. и отдыха -->
+        <PoiCategoryRef>9</PoiCategoryRef>
+        <!-- Паромы -->
+        <PoiCategoryRef>10</PoiCategoryRef>
+        <!-- Погранпереходы -->
+        <PoiCategoryRef>20</PoiCategoryRef>
+        <!-- Полиция/милиция -->
+        <PoiCategoryRef>50</PoiCategoryRef>
+        <!-- Посольства -->
+        <PoiCategoryRef>49</PoiCategoryRef>
+        <!-- Правит., органы управл. -->
+        <PoiCategoryRef>15</PoiCategoryRef>
+        <!-- Прокат автомобилей -->
+        <PoiCategoryRef>104</PoiCategoryRef>
+        <!-- Рестораны -->
+        <PoiCategoryRef>12</PoiCategoryRef>
+        <!-- Сервисные центры VW -->
+        <PoiCategoryRef>39</PoiCategoryRef>
+        <!-- Спортивные центры -->
+        <PoiCategoryRef>102</PoiCategoryRef>
+        <!-- Стоянки -->
+        <PoiCategoryRef>14</PoiCategoryRef>
+        <!-- Съезды/въезды автом. -->
+        <PoiCategoryRef>36</PoiCategoryRef>
+        <!-- Театры, концерт. залы -->
+        <PoiCategoryRef>27</PoiCategoryRef>
+        <!-- Торговые центры -->
+        <PoiCategoryRef>7</PoiCategoryRef>
+        <!-- У автомагистралей -->
+        <PoiCategoryRef>47</PoiCategoryRef>
+        <!-- Фирмы -->
+        <PoiCategoryRef>53</PoiCategoryRef>
+        <!-- Церкви -->
+        <PoiCategoryRef>29</PoiCategoryRef>
+        <!-- Электроника -->
+        <PoiCategoryRef>1</PoiCategoryRef>
+        <!--Autostadt-->
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+
+    <PoiCategoryGroup id="12" type="local">
+      <Priority>3</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>18</PoiCategoryRef>
+        <!-- Автобусные остановки -->
+        <PoiCategoryRef>135</PoiCategoryRef>
+        <!-- АГЗС (природный газ) -->
+        <PoiCategoryRef>136</PoiCategoryRef>
+        <!-- АГЗС (сжиж. нефт. газ) -->
+        <PoiCategoryRef>101</PoiCategoryRef>
+        <!-- АЗС -->
+        <PoiCategoryRef>2</PoiCategoryRef>
+        <!-- Аэропорты -->
+        <PoiCategoryRef>11</PoiCategoryRef>
+        <!-- Дилеры VW -->
+        <PoiCategoryRef>16</PoiCategoryRef>
+        <!-- Ж/д вокзалы -->
+        <PoiCategoryRef>134</PoiCategoryRef>
+        <!-- Зарядные станции -->
+        <PoiCategoryRef>19</PoiCategoryRef>
+        <!-- Инф. для туристов -->
+        <PoiCategoryRef>8</PoiCategoryRef>
+        <!-- Отели и мотели -->
+        <PoiCategoryRef>9</PoiCategoryRef>
+        <!-- Паромы -->
+        <PoiCategoryRef>10</PoiCategoryRef>
+        <!-- Погранпереходы -->
+        <PoiCategoryRef>15</PoiCategoryRef>
+        <!-- Прокат автомобилей -->
+        <PoiCategoryRef>12</PoiCategoryRef>
+        <!-- Сервисные центры VW -->
+        <PoiCategoryRef>102</PoiCategoryRef>
+        <!-- Стоянки -->
+        <PoiCategoryRef>14</PoiCategoryRef>
+        <!-- Съезды/въезды автом. -->
+        <PoiCategoryRef>7</PoiCategoryRef>
+        <!-- У автомагистралей -->
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+
+    <PoiCategoryGroup id="13" type="local">
+      <Priority>4</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>41</PoiCategoryRef>
+        <!-- Гольф -->
+        <PoiCategoryRef>33</PoiCategoryRef>
+        <!-- Достопримечательн. -->
+        <PoiCategoryRef>35</PoiCategoryRef>
+        <!-- Казино -->
+        <PoiCategoryRef>34</PoiCategoryRef>
+        <!-- Кинотеатры -->
+        <PoiCategoryRef>42</PoiCategoryRef>
+        <!-- Лодочный спорт -->
+        <PoiCategoryRef>43</PoiCategoryRef>
+        <!-- Лыжи -->
+        <PoiCategoryRef>37</PoiCategoryRef>
+        <!-- Музеи -->
+        <PoiCategoryRef>38</PoiCategoryRef>
+        <!-- Памятники -->
+        <PoiCategoryRef>32</PoiCategoryRef>
+        <!-- Парки -->
+        <PoiCategoryRef>44</PoiCategoryRef>
+        <!-- Парки культ. и отдыха -->
+        <PoiCategoryRef>39</PoiCategoryRef>
+        <!-- Спортивные центры -->
+        <PoiCategoryRef>36</PoiCategoryRef>
+        <!-- Театры, концерт. залы -->
+        <PoiCategoryRef>1</PoiCategoryRef>
+        <!--Autostadt-->
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+
+    <PoiCategoryGroup id="14" type="local">
+      <Priority>5</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>25</PoiCategoryRef>
+        <!-- Банкоматы -->
+        <PoiCategoryRef>30</PoiCategoryRef>
+        <!-- Вина и крепкие напитки -->
+        <PoiCategoryRef>26</PoiCategoryRef>
+        <!-- Кафе -->
+        <PoiCategoryRef>31</PoiCategoryRef>
+        <!-- Ночная жизнь -->
+        <PoiCategoryRef>28</PoiCategoryRef>
+        <!-- Одежда -->
+        <PoiCategoryRef>104</PoiCategoryRef>
+        <!-- Рестораны -->
+        <PoiCategoryRef>27</PoiCategoryRef>
+        <!-- Торговые центры -->
+        <PoiCategoryRef>29</PoiCategoryRef>
+        <!-- Электроника -->
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+
+    <PoiCategoryGroup id="15" type="local">
+      <Priority>6</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>23</PoiCategoryRef>
+        <!-- Аптеки -->
+        <PoiCategoryRef>21</PoiCategoryRef>
+        <!-- Больницы -->
+        <PoiCategoryRef>22</PoiCategoryRef>
+        <!-- Медицинск.учреждения -->
+        <PoiCategoryRef>20</PoiCategoryRef>
+        <!-- Полиция/милиция -->
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+
+    <PoiCategoryGroup id="16" type="local">
+      <Priority>7</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>45</PoiCategoryRef>
+        <!-- Банки -->
+        <PoiCategoryRef>54</PoiCategoryRef>
+        <!-- Кладбища -->
+        <PoiCategoryRef>48</PoiCategoryRef>
+        <!-- Конгресс-центры -->
+        <PoiCategoryRef>52</PoiCategoryRef>
+        <!-- Образоват. учреждения -->
+        <PoiCategoryRef>46</PoiCategoryRef>
+        <!-- Отделения связи -->
+        <PoiCategoryRef>50</PoiCategoryRef>
+        <!-- Посольства -->
+        <PoiCategoryRef>49</PoiCategoryRef>
+        <!-- Правит., органы управл. -->
+        <PoiCategoryRef>47</PoiCategoryRef>
+        <!-- Фирмы -->
+        <PoiCategoryRef>53</PoiCategoryRef>
+        <!-- Церкви -->
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+
+  </PoiCategoryGroupDefinition>
+
+  <PoiCategoryGroupNameDefinition>
+    <Name category_group_ref="10">Мои объекты (персональные объекты)</Name>
+    <Name category_group_ref="11">Категор. (по алфавиту)</Name>
+    <Name category_group_ref="12">А/м и путешествия</Name>
+    <Name category_group_ref="13">Достопр., места отдыха</Name>
+    <Name category_group_ref="14">Еда и покупки</Name>
+    <Name category_group_ref="15">Если что-то случилось</Name>
+    <Name category_group_ref="16">Фирмы и учреждения</Name>
+  </PoiCategoryGroupNameDefinition>
+	<PoiCategoryThesaurusDefinition>
+		<Thesaurus category_ref="1">
+			<Value>Autostadt</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="2">
+			<Value>Аэропорты</Value>
+			<Value>Аэродромы</Value>
+			<Value>Аэропорт</Value>
+			<Value>Аэродром</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="136">
+			<Value>АГЗС (сжиженный газ)</Value>
+			<Value>АЗС для автомобилей на сжиженном газе</Value>
+			<Value>Сжиженный газ</Value>
+			<Value>LPG</Value>
+			<Value>Пропан-бутан</Value>
+			<Value>Газ</Value>
+			<Value>Заправиться</Value>
+			<Value>Заправка</Value>
+			<Value>Автозаправка</Value>
+			<Value>Заправки</Value>
+			<Value>Автозаправки</Value>
+			<Value>АГЗС</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="135">
+			<Value>АГЗС (природный газ)</Value>
+			<Value>АЗС для автомобилей на природном газе</Value>
+			<Value>Природный газ</Value>
+			<Value>CNG</Value>
+			<Value>Метан</Value>
+			<Value>Газ</Value>
+			<Value>Заправиться</Value>
+			<Value>Заправка</Value>
+			<Value>Автозаправка</Value>
+			<Value>Заправки</Value>
+			<Value>Автозаправки</Value>
+			<Value>АГЗС</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="101">
+			<Value>АЗС</Value>
+			<Value>Заправка</Value>
+			<Value>Автозаправка</Value>
+			<Value>Заправки</Value>
+			<Value>Автозаправки</Value>
+			<Value>Заправиться</Value>
+			<Value>Бензин</Value>
+			<Value>Дизель</Value>
+			<Value>Горючее</Value>
+			<Value>Топливо</Value>
+			<Value>Дизельное топливо</Value>
+			<Value>Дизтопливо</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="102">
+			<Value>Парковка</Value>
+			<Value>Стоянка</Value>
+			<Value>Автостоянка</Value>
+			<Value>Гараж</Value>
+			<Value>Паркинг</Value>
+			<Value>Парковки</Value>
+			<Value>Стоянки</Value>
+			<Value>Автостоянки</Value>
+			<Value>Гаражи</Value>
+			<Value>Паркинги</Value>
+			<Value>Запарковаться</Value>
+			<Value>Парковаться</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="7">
+			<Value>Место отдыха у автомагистрали</Value>
+			<Value>Места отдыха у автомагистралей</Value>
+			<Value>Стоянка с кафе</Value>
+			<Value>Стоянки с кафе</Value>
+			<Value>Место отдыха</Value>
+			<Value>Места отдыха</Value>
+			<Value>Придорожное кафе</Value>
+			<Value>Придорожные кафе</Value>
+			<Value>Кафе</Value>
+			<Value>Остановка</Value>
+			<Value>Перекур</Value>
+			<Value>Отдых</Value>
+			<Value>Привал</Value>
+			<Value>Перерыв</Value>
+			<Value>Туалет</Value>
+			<Value>Туалеты</Value>
+			<Value>Сортир</Value>
+			<Value>Уборная</Value>
+			<Value>WC</Value>
+			<Value>Есть</Value>
+			<Value>Кушать</Value>
+			<Value>Перекус</Value>
+			<Value>Перекусить</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="8">
+			<Value>Отели и мотели</Value>
+			<Value>Отель</Value>
+			<Value>Отели</Value>
+			<Value>Мотель</Value>
+			<Value>Мотели</Value>
+			<Value>Гостевой дом</Value>
+			<Value>Гостевые дома</Value>
+			<Value>Спать</Value>
+			<Value>Ночлег</Value>
+			<Value>Ночевать</Value>
+			<Value>Ночёвка</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="9">
+			<Value>Паромы и автомобилевозы</Value>
+			<Value>Паром</Value>
+			<Value>Паромы</Value>
+			<Value>Перевозка автомобилей по железной дороге</Value>
+			<Value>Автомобилевоз</Value>
+			<Value>Автомобилевозы</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="10">
+			<Value>Пограничные переходы</Value>
+			<Value>Пограничный переход</Value>
+			<Value>Погранпереходы</Value>
+			<Value>Погранпереход</Value>
+			<Value>Граница</Value>
+			<Value>Границы</Value>
+			<Value>Переход</Value>
+			<Value>Пересечение границы</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="11">
+			<Value>Дилеры VW</Value>
+			<Value>Дилеры</Value>
+			<Value>Дилер</Value>
+			<Value>Дилерские предприятия</Value>
+			<Value>Дилерское предприятие</Value>
+			<Value>VW</Value>
+			<Value>Volkswagen</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="12">
+			<Value>Сервисные центры VW</Value>
+			<Value>Volkswagen</Value>
+			<Value>Сервисный центр</Value>
+			<Value>Сервисные центры</Value>
+			<Value>Сервис</Value>
+			<Value>Сервисы</Value>
+			<Value>Инспекционный сервис</Value>
+			<Value>СТО</Value>
+			<Value>Обслуживание</Value>
+			<Value>ТО</Value>
+			<Value>Сервис-центр</Value>
+			<Value>Сервис-центры</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="14">
+			<Value>Съезды/въезды автомагистралей</Value>
+			<Value>Съезд</Value>
+			<Value>Съезды</Value>
+			<Value>Въезд</Value>
+			<Value>Въезды</Value>
+			<Value>Выезд</Value>
+			<Value>Выезды</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="15">
+			<Value>Прокат автомобилей</Value>
+			<Value>Автопрокат</Value>
+			<Value>Прокатные автомобили</Value>
+			<Value>Автомобили в аренду</Value>
+			<Value>Аренда автомобилей</Value>
+			<Value>Прокат</Value>
+			<Value>Взять в прокат</Value>
+			<Value>Взять на прокат</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="16">
+			<Value>Вокзалы</Value>
+			<Value>Вокзал</Value>
+			<Value>Поезд</Value>
+			<Value>Поезда</Value>
+			<Value>Железная дорога</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="18">
+			<Value>Автобусные станции</Value>
+			<Value>Автобусная станция</Value>
+			<Value>Автостанции</Value>
+			<Value>Автостанция</Value>
+			<Value>Автобус</Value>
+			<Value>Автобусы</Value>
+			<Value>Автобусные остановки</Value>
+			<Value>Автобусная остановка</Value>
+			<Value>Автовокзалы</Value>
+			<Value>Автовокзал</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="19">
+			<Value>Информация для туристов</Value>
+			<Value>Туристическая информация</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="20">
+			<Value>Полиция</Value>
+			<Value>Милиция</Value>
+			<Value>02</Value>
+			<Value>102</Value>
+			<Value>112</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="21">
+			<Value>Больницы</Value>
+			<Value>Больница</Value>
+			<Value>Госпиталь</Value>
+			<Value>Госпитали</Value>
+			<Value>Клиника</Value>
+			<Value>Клиники</Value>
+			<Value>Приёмный покой</Value>
+			<Value>Травмпункт</Value>
+			<Value>Врач</Value>
+			<Value>Врачи</Value>
+			<Value>03</Value>
+			<Value>103</Value>
+			<Value>112</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="22">
+			<Value>Медицинские службы</Value>
+			<Value>Медицинская служба</Value>
+			<Value>Врачебная практика</Value>
+			<Value>Врач</Value>
+			<Value>Врачи</Value>
+			<Value>Медицинский центр</Value>
+			<Value>Медслужба</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="23">
+			<Value>Аптеки</Value>
+			<Value>Аптека</Value>
+			<Value>Лекарства</Value>
+			<Value>Медикаменты</Value>
+			<Value>Таблетки</Value>
+			<Value>Пилюли</Value>
+			<Value>Медицина</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="104">
+			<Value>Рестораны</Value>
+			<Value>Ресторан</Value>
+			<Value>Еда</Value>
+			<Value>Есть</Value>
+			<Value>Пить</Value>
+			<Value>Выпить</Value>
+			<Value>Хавчик</Value>
+			<Value>Жратва</Value>
+			<Value>Покушать</Value>
+			<Value>Пожрать</Value>
+			<Value>Столовая</Value>
+			<Value>Столовые</Value>
+			<Value>Кафе</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="25">
+			<Value>Банкоматы</Value>
+			<Value>Банкомат</Value>
+			<Value>Деньги</Value>
+			<Value>Наличные</Value>
+			<Value>Бабло</Value>
+			<Value>Ловэ</Value>
+			<Value>Снять</Value>
+			<Value>Положить</Value>
+			<Value>Наличные деньги</Value>
+			<Value>ATM</Value>
+			<Value>Карточки</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="26">
+			<Value>Кафе</Value>
+			<Value>Кофейня</Value>
+			<Value>Кофейни</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="27">
+			<Value>Торговые центры</Value>
+			<Value>Торговый центр</Value>
+			<Value>Покупки</Value>
+			<Value>Покупать</Value>
+			<Value>Шопинг</Value>
+			<Value>Гипермаркет</Value>
+			<Value>Гипермаркеты</Value>
+			<Value>Молл</Value>
+			<Value>Магазин</Value>
+			<Value>Магазины</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="28">
+			<Value>Одежда</Value>
+			<Value>Шмотки</Value>
+			<Value>Прикид</Value>
+			<Value>Обувь</Value>
+			<Value>Шузы</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="29">
+			<Value>Электроника</Value>
+			<Value>Бытовая техника</Value>
+			<Value>Техника</Value>
+			<Value>ПК</Value>
+			<Value>Компьютер</Value>
+			<Value>Компьютерная техника</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="30">
+			<Value>Винные магазины</Value>
+			<Value>Винный магазин</Value>
+			<Value>Винный</Value>
+			<Value>Вино</Value>
+			<Value>Вина</Value>
+			<Value>Вино-водочные изделия</Value>
+			<Value>Водка</Value>
+			<Value>Пиво</Value>
+			<Value>Алкоголь</Value>
+			<Value>Винный погреб</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="31">
+			<Value>Ночная жизнь</Value>
+			<Value>Бар</Value>
+			<Value>Пивная</Value>
+			<Value>Пивной ресторан</Value>
+			<Value>Рюмочная</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="32">
+			<Value>Парки</Value>
+			<Value>Парк</Value>
+			<Value>Сад</Value>
+			<Value>Сквер</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="33">
+			<Value>Достопримечательности</Value>
+			<Value>Достопримечательность</Value>
+			<Value>Интересное место</Value>
+			<Value>Интересные места</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="34">
+			<Value>Кинотеатры</Value>
+			<Value>Кинотеатр</Value>
+			<Value>Кино</Value>
+			<Value>Киношка</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="35">
+			<Value>Казино</Value>
+			<Value>Игровые автоматы</Value>
+			<Value>Игорный дом</Value>
+			<Value>Игорные дома</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="36">
+			<Value>Изобразительное искусство</Value>
+			<Value>Театр</Value>
+			<Value>Опера</Value>
+			<Value>Концерт</Value>
+			<Value>Постановка</Value>
+			<Value>Мюзикл</Value>
+			<Value>Искусство</Value>
+			<Value>Культура</Value>
+			<Value>Пьеса</Value>
+			<Value>Спектакль</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="37">
+			<Value>Музеи</Value>
+			<Value>Музей</Value>
+			<Value>Выставка</Value>
+			<Value>Выставки</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="38">
+			<Value>Памятники</Value>
+			<Value>Памятник</Value>
+			<Value>Статуя</Value>
+			<Value>Монумент</Value>
+			<Value>Монументы</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="39">
+			<Value>Спортивные центры</Value>
+			<Value>Спортивный центр</Value>
+			<Value>Спорт</Value>
+			<Value>Стадион</Value>
+			<Value>Стадионы</Value>
+			<Value>Арена</Value>
+			<Value>Спорткомплекс</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="41">
+			<Value>Гольф</Value>
+			<Value>Спорт</Value>
+			<Value>Гольф-клуб</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="42">
+			<Value>Лодочный спорт</Value>
+			<Value>Лодка</Value>
+			<Value>Лодки</Value>
+			<Value>Яхта</Value>
+			<Value>Яхты</Value>
+			<Value>Яхт-клуб</Value>
+			<Value>Ходить под парусами</Value>
+			<Value>Парусная секция</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="43">
+			<Value>Лыжный спорт</Value>
+			<Value>Лыжи</Value>
+			<Value>Лыжные гонки</Value>
+			<Value>Горные лыжи</Value>
+			<Value>Фристайл</Value>
+			<Value>Спорт</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="44">
+			<Value>Парки культуры и отдыха</Value>
+			<Value>Парк культуры и отдыха</Value>
+			<Value>Парк развлечений</Value>
+			<Value>Парк отдыха</Value>
+			<Value>Парки отдыха</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="45">
+			<Value>Банки</Value>
+			<Value>Банк</Value>
+			<Value>Деньги</Value>
+			<Value>Бабло</Value>
+			<Value>Ловэ</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="46">
+			<Value>Почта</Value>
+			<Value>Почтовая служба</Value>
+			<Value>Служба доставки посылок</Value>
+			<Value>Транспортная компания</Value>
+			<Value>Письмо</Value>
+			<Value>Письма</Value>
+			<Value>Посылка</Value>
+			<Value>Посылки</Value>
+			<Value>Бандероль</Value>
+			<Value>Бандероли</Value>
+			<Value>Пакет</Value>
+			<Value>Пакеты</Value>
+			<Value>Телеграмма</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="47">
+			<Value>Компании</Value>
+			<Value>Клмпания</Value>
+			<Value>Фирмы</Value>
+			<Value>Фирма</Value>
+			<Value>Предприятия</Value>
+			<Value>Предприятие</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="48">
+			<Value>Конгрессцентры</Value>
+			<Value>Конгрессцентр</Value>
+			<Value>Выставочные центры</Value>
+			<Value>Выставочный центр</Value>
+			<Value>Выставки</Value>
+			<Value>Выставки</Value>
+			<Value>Экспоцентры</Value>
+			<Value>Экспоцентр</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="49">
+			<Value>Правительство и органы управления</Value>
+			<Value>Ратуша</Value>
+			<Value>Власть</Value>
+			<Value>Мэрия</Value>
+			<Value>Правительство</Value>
+			<Value>Администрация</Value>
+			<Value>Учреждение</Value>
+			<Value>Ведомство</Value>
+			<Value>Министерство</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="50">
+			<Value>Посольства</Value>
+			<Value>Посольство</Value>
+			<Value>Консульство</Value>
+			<Value>Консульства</Value>
+			<Value>Консульский отдел</Value>
+			<Value>Консульские отделы</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="52">
+			<Value>Образовательные учреждения</Value>
+			<Value>Образовательное учреждение</Value>
+			<Value>Школа</Value>
+			<Value>Школы</Value>
+			<Value>Гимназия</Value>
+			<Value>Гимназии</Value>
+			<Value>ПТУ</Value>
+			<Value>Колледж</Value>
+			<Value>Колледжи</Value>
+			<Value>Институт</Value>
+			<Value>Институты</Value>
+			<Value>Училище</Value>
+			<Value>Училища</Value>
+			<Value>Университет</Value>
+			<Value>Университеты</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="53">
+			<Value>Культовые сооружения</Value>
+			<Value>Церковь</Value>
+			<Value>Церкви</Value>
+			<Value>Мечеть</Value>
+			<Value>Мечети</Value>
+			<Value>Собор</Value>
+			<Value>Соборы</Value>
+			<Value>Синагога</Value>
+			<Value>Синагоги</Value>
+			<Value>Часовня</Value>
+			<Value>Часовни</Value>
+			<Value>Монастырь</Value>
+			<Value>Монастыри</Value>
+			<Value>Храм</Value>
+			<Value>Храмы</Value>
+			<Value>Лавра</Value>
+			<Value>Лавры</Value>
+			<Value>Ступа</Value>
+			<Value>Ступы</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="54">
+			<Value>Кладбища</Value>
+			<Value>Кладбище</Value>
+			<Value>Погост</Value>
+			<Value>Погосты</Value>
+			<Value>Ритуал</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="134">
+			<Value>Зарядные станции</Value>
+			<Value>Зарядная станция</Value>
+			<Value>Зарядить</Value>
+			<Value>Зарядка</Value>
+			<Value>Зарядиться</Value>
+			<Value>Электрическая АЗС</Value>
+		</Thesaurus>
+	</PoiCategoryThesaurusDefinition>
+
+	<PoiCategoryNameDefinition>
+		<Name category_ref="1">Autostadt</Name>
+		<Name category_ref="2">Аэропорты</Name>
+		<Name category_ref="136">АГЗС (сжиженный газ)</Name>
+		<Name category_ref="135">АГЗС (природный газ)</Name>
+		<Name category_ref="101">АЗС</Name>
+		<Name category_ref="102">Парковка</Name>
+		<Name category_ref="7">Место отдыха у автомагистрали</Name>
+		<Name category_ref="8">Отели и мотели</Name>
+		<Name category_ref="9">Паромы и автомобилевозы</Name>
+		<Name category_ref="10">Пограничные переходы</Name>
+		<Name category_ref="11">Дилеры VW</Name>
+		<Name category_ref="12">Сервисные центры VW</Name>
+		<Name category_ref="14">Съезды/въезды автомагистралей</Name>
+		<Name category_ref="15">Прокат автомобилей</Name>
+		<Name category_ref="16">Вокзалы</Name>
+		<Name category_ref="18">Автобусные станции</Name>
+		<Name category_ref="19">Информация для туристов</Name>
+		<Name category_ref="20">Полиция</Name>
+		<Name category_ref="21">Больницы</Name>
+		<Name category_ref="22">Медицинские службы</Name>
+		<Name category_ref="23">Аптеки</Name>
+		<Name category_ref="104">Рестораны</Name>
+		<Name category_ref="25">Банкоматы</Name>
+		<Name category_ref="26">Кафе</Name>
+		<Name category_ref="27">Торговые центры</Name>
+		<Name category_ref="28">Одежда</Name>
+		<Name category_ref="29">Электроника</Name>
+		<Name category_ref="30">Винные магазины</Name>
+		<Name category_ref="31">Ночная жизнь</Name>
+		<Name category_ref="32">Парки</Name>
+		<Name category_ref="33">Достопримечательности</Name>
+		<Name category_ref="34">Кинотеатры</Name>
+		<Name category_ref="35">Казино</Name>
+		<Name category_ref="36">Изобразительное искусство</Name>
+		<Name category_ref="37">Музеи</Name>
+		<Name category_ref="38">Памятники</Name>
+		<Name category_ref="39">Спортивные центры</Name>
+		<Name category_ref="41">Гольф</Name>
+		<Name category_ref="42">Лодочный спорт</Name>
+		<Name category_ref="43">Лыжный спорт</Name>
+		<Name category_ref="44">Парки культуры и отдыха</Name>
+		<Name category_ref="45">Банки</Name>
+		<Name category_ref="46">Почта</Name>
+		<Name category_ref="47">Компании</Name>
+		<Name category_ref="48">Конгрессцентры</Name>
+		<Name category_ref="49">Правительство и органы управления</Name>
+		<Name category_ref="50">Посольства</Name>
+		<Name category_ref="52">Образовательные учреждения</Name>
+		<Name category_ref="53">Культовые сооружения</Name>
+		<Name category_ref="54">Кладбища</Name>
+		<Name category_ref="134">Зарядные станции</Name>
+	</PoiCategoryNameDefinition>
+</LanguagePoiConfiguration>

@@ -1,0 +1,1289 @@
+<LanguagePoiConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xsd/locale/LanguagePoiConfiguration.xsd" version="1">
+<!--Alphabetically sorted setup category definitions for each fuel type, will be reloaded after language change-->
+	<SetupCategoryDefinition>
+		<PoiCategoryMapping fueltype="default">
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Aeroporturi -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Ambasade -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Autogări -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Automate bancare -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Bănci -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Cafenele -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Cazinouri -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Centre comerciale -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Centre de conferinţe -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Centre sportive -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Cimitire -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Cinematografe -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- Distribuitor VW  -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Electronice -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Evenimente culturale -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Farmacii -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Feriboturi şi trenuri transport auto -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Firme -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Guvern şi administraţie -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Gări -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hoteluri şi moteluri -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Ieşiri de pe autostradă/Intrări pe autostradă -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Informaţii turistice -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Instituţii de învăţământ -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Instituţii religioase -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Monumente istorice -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Muzee -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parcuri -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Parcuri de distracţii -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parcări -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Poliţia -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Poştă -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Puncte de atracţie -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restaurante -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Servicii medicale -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Spaţii de servicii -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Spitale -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Sport cu bărci -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Sport golf -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Sport schi -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Staţii de alimentare -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Staţii de alimentare gaz natural -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- Staţii de alimentare GPL -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Staţii de încărcare -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Treceri frontieră -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Viaţă de noapte -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Vinuri şi băuturi spirtoase -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW Service -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Îmbrăcăminte -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Închirieri auto -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="gasoline">
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Aeroporturi -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Ambasade -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Autogări -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Automate bancare -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Bănci -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Cafenele -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Cazinouri -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Centre comerciale -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Centre de conferinţe -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Centre sportive -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Cimitire -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Cinematografe -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- Distribuitor VW  -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Electronice -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Evenimente culturale -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Farmacii -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Feriboturi şi trenuri transport auto -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Firme -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Guvern şi administraţie -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Gări -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hoteluri şi moteluri -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Ieşiri de pe autostradă/Intrări pe autostradă -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Informaţii turistice -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Instituţii de învăţământ -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Instituţii religioase -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Monumente istorice -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Muzee -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parcuri -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Parcuri de distracţii -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parcări -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Poliţia -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Poştă -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Puncte de atracţie -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restaurante -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Servicii medicale -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Spaţii de servicii -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Spitale -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Sport cu bărci -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Sport golf -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Sport schi -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Staţii de alimentare -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Staţii de alimentare gaz natural -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- Staţii de alimentare GPL -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Staţii de încărcare -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Treceri frontieră -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Viaţă de noapte -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Vinuri şi băuturi spirtoase -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW Service -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Îmbrăcăminte -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Închirieri auto -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="diesel">
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Aeroporturi -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Ambasade -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Autogări -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Automate bancare -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Bănci -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Cafenele -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Cazinouri -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Centre comerciale -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Centre de conferinţe -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Centre sportive -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Cimitire -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Cinematografe -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- Distribuitor VW  -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Electronice -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Evenimente culturale -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Farmacii -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Feriboturi şi trenuri transport auto -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Firme -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Guvern şi administraţie -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Gări -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hoteluri şi moteluri -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Ieşiri de pe autostradă/Intrări pe autostradă -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Informaţii turistice -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Instituţii de învăţământ -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Instituţii religioase -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Monumente istorice -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Muzee -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parcuri -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Parcuri de distracţii -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parcări -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Poliţia -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Poştă -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Puncte de atracţie -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restaurante -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Servicii medicale -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Spaţii de servicii -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Spitale -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Sport cu bărci -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Sport golf -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Sport schi -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Staţii de alimentare -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Staţii de alimentare gaz natural -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- Staţii de alimentare GPL -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Staţii de încărcare -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Treceri frontieră -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Viaţă de noapte -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Vinuri şi băuturi spirtoase -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW Service -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Îmbrăcăminte -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Închirieri auto -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="cng">
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Aeroporturi -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Ambasade -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Autogări -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Automate bancare -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Bănci -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Cafenele -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Cazinouri -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Centre comerciale -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Centre de conferinţe -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Centre sportive -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Cimitire -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Cinematografe -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- Distribuitor VW  -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Electronice -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Evenimente culturale -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Farmacii -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Feriboturi şi trenuri transport auto -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Firme -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Guvern şi administraţie -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Gări -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hoteluri şi moteluri -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Ieşiri de pe autostradă/Intrări pe autostradă -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Informaţii turistice -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Instituţii de învăţământ -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Instituţii religioase -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Monumente istorice -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Muzee -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parcuri -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Parcuri de distracţii -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parcări -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Poliţia -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Poştă -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Puncte de atracţie -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restaurante -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Servicii medicale -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Spaţii de servicii -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Spitale -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Sport cu bărci -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Sport golf -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Sport schi -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Staţii de alimentare -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Staţii de alimentare gaz natural -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- Staţii de alimentare GPL -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Staţii de încărcare -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Treceri frontieră -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Viaţă de noapte -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Vinuri şi băuturi spirtoase -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW Service -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Îmbrăcăminte -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Închirieri auto -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="lpg">
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Aeroporturi -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Ambasade -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Autogări -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Automate bancare -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Bănci -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Cafenele -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Cazinouri -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Centre comerciale -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Centre de conferinţe -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Centre sportive -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Cimitire -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Cinematografe -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- Distribuitor VW  -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Electronice -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Evenimente culturale -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Farmacii -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Feriboturi şi trenuri transport auto -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Firme -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Guvern şi administraţie -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Gări -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hoteluri şi moteluri -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Ieşiri de pe autostradă/Intrări pe autostradă -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Informaţii turistice -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Instituţii de învăţământ -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Instituţii religioase -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Monumente istorice -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Muzee -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parcuri -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Parcuri de distracţii -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parcări -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Poliţia -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Poştă -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Puncte de atracţie -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restaurante -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Servicii medicale -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Spaţii de servicii -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Spitale -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Sport cu bărci -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Sport golf -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Sport schi -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Staţii de alimentare -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Staţii de alimentare gaz natural -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- Staţii de alimentare GPL -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Staţii de încărcare -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Treceri frontieră -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Viaţă de noapte -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Vinuri şi băuturi spirtoase -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW Service -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Îmbrăcăminte -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Închirieri auto -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="bev">
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Aeroporturi -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Ambasade -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Autogări -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Automate bancare -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Bănci -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Cafenele -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Cazinouri -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Centre comerciale -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Centre de conferinţe -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Centre sportive -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Cimitire -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Cinematografe -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- Distribuitor VW  -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Electronice -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Evenimente culturale -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Farmacii -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Feriboturi şi trenuri transport auto -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Firme -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Guvern şi administraţie -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Gări -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hoteluri şi moteluri -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Ieşiri de pe autostradă/Intrări pe autostradă -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Informaţii turistice -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Instituţii de învăţământ -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Instituţii religioase -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Monumente istorice -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Muzee -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parcuri -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Parcuri de distracţii -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parcări -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Poliţia -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Poştă -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Puncte de atracţie -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restaurante -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Servicii medicale -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Spaţii de servicii -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Spitale -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Sport cu bărci -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Sport golf -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Sport schi -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Staţii de alimentare -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Staţii de alimentare gaz natural -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- Staţii de alimentare GPL -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Staţii de încărcare -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Treceri frontieră -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Viaţă de noapte -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Vinuri şi băuturi spirtoase -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW Service -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Îmbrăcăminte -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Închirieri auto -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="phev">
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Aeroporturi -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Ambasade -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Autogări -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Automate bancare -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Bănci -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Cafenele -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Cazinouri -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Centre comerciale -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Centre de conferinţe -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Centre sportive -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Cimitire -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Cinematografe -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- Distribuitor VW  -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Electronice -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Evenimente culturale -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Farmacii -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Feriboturi şi trenuri transport auto -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Firme -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Guvern şi administraţie -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Gări -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hoteluri şi moteluri -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Ieşiri de pe autostradă/Intrări pe autostradă -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Informaţii turistice -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Instituţii de învăţământ -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Instituţii religioase -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Monumente istorice -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Muzee -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parcuri -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Parcuri de distracţii -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parcări -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Poliţia -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Poştă -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Puncte de atracţie -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restaurante -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Servicii medicale -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Spaţii de servicii -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Spitale -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Sport cu bărci -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Sport golf -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Sport schi -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Staţii de alimentare -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Staţii de alimentare gaz natural -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- Staţii de alimentare GPL -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Staţii de încărcare -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Treceri frontieră -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Viaţă de noapte -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Vinuri şi băuturi spirtoase -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW Service -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Îmbrăcăminte -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Închirieri auto -->
+		</PoiCategoryMapping>
+	</SetupCategoryDefinition>
+  <PoiCategoryGroupDefinition>
+    <PoiCategoryGroup id="10" type="dynamic">
+      <Priority>1</Priority>
+      <PoiCategoryMapping>
+        <!-- MUSS LEER BLEIBEN Ueber XSD checken !! -->
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+    <PoiCategoryGroup id="11" type="local">
+      <Priority>2</Priority>
+      <PoiCategoryMapping>
+	<PoiCategoryRef>2</PoiCategoryRef>
+      <PoiCategoryRef>50</PoiCategoryRef>
+      <PoiCategoryRef>28</PoiCategoryRef>
+      <PoiCategoryRef>25</PoiCategoryRef>
+      <PoiCategoryRef>33</PoiCategoryRef>
+      <PoiCategoryRef>18</PoiCategoryRef>
+      <PoiCategoryRef>9</PoiCategoryRef>
+      <PoiCategoryRef>45</PoiCategoryRef>
+      <PoiCategoryRef>26</PoiCategoryRef>
+      <PoiCategoryRef>35</PoiCategoryRef>
+      <PoiCategoryRef>27</PoiCategoryRef>
+      <PoiCategoryRef>48</PoiCategoryRef>
+      <PoiCategoryRef>39</PoiCategoryRef>
+      <PoiCategoryRef>54</PoiCategoryRef>
+      <PoiCategoryRef>34</PoiCategoryRef>
+      <PoiCategoryRef>11</PoiCategoryRef>
+      <PoiCategoryRef>29</PoiCategoryRef>
+      <PoiCategoryRef>23</PoiCategoryRef>
+      <PoiCategoryRef>16</PoiCategoryRef>
+      <PoiCategoryRef>41</PoiCategoryRef>
+      <PoiCategoryRef>8</PoiCategoryRef>
+      <PoiCategoryRef>19</PoiCategoryRef>
+      <PoiCategoryRef>52</PoiCategoryRef>
+      <PoiCategoryRef>49</PoiCategoryRef>
+      <PoiCategoryRef>14</PoiCategoryRef>
+      <PoiCategoryRef>53</PoiCategoryRef>
+      <PoiCategoryRef>38</PoiCategoryRef>
+      <PoiCategoryRef>37</PoiCategoryRef>
+      <PoiCategoryRef>1</PoiCategoryRef>
+      <PoiCategoryRef>102</PoiCategoryRef>
+      <PoiCategoryRef>32</PoiCategoryRef>
+      <PoiCategoryRef>44</PoiCategoryRef>
+      <PoiCategoryRef>20</PoiCategoryRef>
+      <PoiCategoryRef>46</PoiCategoryRef>
+      <PoiCategoryRef>10</PoiCategoryRef>
+      <PoiCategoryRef>104</PoiCategoryRef>
+      <PoiCategoryRef>43</PoiCategoryRef>
+      <PoiCategoryRef>12</PoiCategoryRef>
+      <PoiCategoryRef>22</PoiCategoryRef>
+      <PoiCategoryRef>47</PoiCategoryRef>
+      <PoiCategoryRef>15</PoiCategoryRef>
+      <PoiCategoryRef>7</PoiCategoryRef>
+      <PoiCategoryRef>36</PoiCategoryRef>
+      <PoiCategoryRef>21</PoiCategoryRef>
+      <PoiCategoryRef>42</PoiCategoryRef>
+      <PoiCategoryRef>101</PoiCategoryRef>
+      <PoiCategoryRef>135</PoiCategoryRef>
+      <PoiCategoryRef>136</PoiCategoryRef>
+      <PoiCategoryRef>134</PoiCategoryRef>
+      <PoiCategoryRef>31</PoiCategoryRef>
+      <PoiCategoryRef>30</PoiCategoryRef>
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+
+    <PoiCategoryGroup id="12" type="local">
+      <Priority>3</Priority>
+      <PoiCategoryMapping>
+      <PoiCategoryRef>2</PoiCategoryRef>
+      <PoiCategoryRef>18</PoiCategoryRef>
+      <PoiCategoryRef>9</PoiCategoryRef>
+      <PoiCategoryRef>11</PoiCategoryRef>
+      <PoiCategoryRef>16</PoiCategoryRef>
+      <PoiCategoryRef>8</PoiCategoryRef>
+      <PoiCategoryRef>19</PoiCategoryRef>
+      <PoiCategoryRef>14</PoiCategoryRef>
+      <PoiCategoryRef>102</PoiCategoryRef>
+      <PoiCategoryRef>10</PoiCategoryRef>
+      <PoiCategoryRef>12</PoiCategoryRef>
+      <PoiCategoryRef>15</PoiCategoryRef>
+      <PoiCategoryRef>7</PoiCategoryRef>
+      <PoiCategoryRef>101</PoiCategoryRef>
+      <PoiCategoryRef>135</PoiCategoryRef>
+      <PoiCategoryRef>136</PoiCategoryRef>
+      <PoiCategoryRef>134</PoiCategoryRef>
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+
+    <PoiCategoryGroup id="13" type="local">
+      <Priority>4</Priority>
+      <PoiCategoryMapping>
+      <PoiCategoryRef>33</PoiCategoryRef>
+      <PoiCategoryRef>35</PoiCategoryRef>
+      <PoiCategoryRef>39</PoiCategoryRef>
+      <PoiCategoryRef>34</PoiCategoryRef>
+      <PoiCategoryRef>41</PoiCategoryRef>
+      <PoiCategoryRef>38</PoiCategoryRef>
+      <PoiCategoryRef>37</PoiCategoryRef>
+      <PoiCategoryRef>1</PoiCategoryRef>
+      <PoiCategoryRef>32</PoiCategoryRef>
+      <PoiCategoryRef>44</PoiCategoryRef>
+      <PoiCategoryRef>43</PoiCategoryRef>
+      <PoiCategoryRef>36</PoiCategoryRef>
+      <PoiCategoryRef>42</PoiCategoryRef>
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+
+    <PoiCategoryGroup id="14" type="local">
+      <Priority>5</Priority>
+      <PoiCategoryMapping>
+      <PoiCategoryRef>28</PoiCategoryRef>
+      <PoiCategoryRef>25</PoiCategoryRef>
+      <PoiCategoryRef>26</PoiCategoryRef>
+      <PoiCategoryRef>27</PoiCategoryRef>
+      <PoiCategoryRef>29</PoiCategoryRef>
+      <PoiCategoryRef>104</PoiCategoryRef>
+      <PoiCategoryRef>31</PoiCategoryRef>
+      <PoiCategoryRef>30</PoiCategoryRef>
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+
+    <PoiCategoryGroup id="15" type="local">
+      <Priority>6</Priority>
+      <PoiCategoryMapping>
+      <PoiCategoryRef>23</PoiCategoryRef>
+      <PoiCategoryRef>20</PoiCategoryRef>
+      <PoiCategoryRef>22</PoiCategoryRef>
+      <PoiCategoryRef>21</PoiCategoryRef>
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+
+    <PoiCategoryGroup id="16" type="local">
+      <Priority>7</Priority>
+      <PoiCategoryMapping>
+      <PoiCategoryRef>50</PoiCategoryRef>
+      <PoiCategoryRef>45</PoiCategoryRef>
+      <PoiCategoryRef>48</PoiCategoryRef>
+      <PoiCategoryRef>54</PoiCategoryRef>
+      <PoiCategoryRef>52</PoiCategoryRef>
+      <PoiCategoryRef>49</PoiCategoryRef>
+      <PoiCategoryRef>53</PoiCategoryRef>
+      <PoiCategoryRef>46</PoiCategoryRef>
+      <PoiCategoryRef>47</PoiCategoryRef>
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+  </PoiCategoryGroupDefinition>
+
+  <PoiCategoryGroupNameDefinition>
+    <Name category_group_ref="10">Destinaţiile mele speciale (personal POI)</Name>
+    <Name category_group_ref="11">Categorii (în ordine alfabetică)</Name>
+    <Name category_group_ref="12">Autovehicule şi călătorii</Name>
+    <Name category_group_ref="13">Obiective turistice şi zone de agrement</Name>
+    <Name category_group_ref="14">Restaurante şi magazine</Name>
+    <Name category_group_ref="15">Servicii de urgenţă</Name>
+    <Name category_group_ref="16">Societăţi comerciale şi instituţii publice</Name>
+  </PoiCategoryGroupNameDefinition>
+
+	<PoiCategoryThesaurusDefinition>
+		<Thesaurus category_ref="1">
+			<Value>Autostadt</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="2">
+			<Value>Aeroporturi</Value>
+			<Value>Aeroport</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="136">
+			<Value>Staţii de alimentare GPL</Value>
+			<Value>GPL</Value>
+			<Value>Alimentare</Value>
+			<Value>Gaz</Value>
+			<Value>Staţie de alimentare</Value>
+			<Value>Staţii de alimentare</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="135">
+			<Value>Staţii de alimentare gaz natural</Value>
+			<Value>Staţie de alimentare gaz natural</Value>
+			<Value>Gaz natural</Value>
+			<Value>Gaz</Value>
+			<Value>Alimentare </Value>
+			<Value>GNC</Value>
+			<Value>Staţie de alimentare</Value>
+			<Value>Staţii de alimentare</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="101">
+			<Value>Staţii de alimentare</Value>
+			<Value>Staţie de alimentare</Value>
+			<Value>Alimentare</Value>
+			<Value>Benzină</Value>
+			<Value>Motorină</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="102">
+			<Value>Parcări</Value>
+			<Value>Parcare</Value>
+			<Value>Parcare</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="7">
+			<Value>Spaţii de servicii</Value>
+			<Value>Spaţii de servicii</Value>
+			<Value>Parcare camioane</Value>
+			<Value>Closet</Value>
+			<Value>WC</Value>
+			<Value>Toaletă</Value>
+			<Value>Toalete</Value>
+			<Value>Odihnă</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="8">
+			<Value>Hoteluri şi moteluri</Value>
+			<Value>Hotel</Value>
+			<Value>Hoteluri</Value>
+			<Value>Motel</Value>
+			<Value>Moteluri</Value>
+			<Value>Pensiune</Value>
+			<Value>Pensiuni</Value>
+			<Value> dormit</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="9">
+			<Value>Feriboturi şi trenuri transport auto</Value>
+			<Value>Tren transport auto</Value>
+			<Value>Trenuri transport auto</Value>
+			<Value>Feribot</Value>
+			<Value>Feriboturi</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="10">
+			<Value>Treceri frontieră</Value>
+			<Value>Trecere frontieră</Value>
+			<Value>Frontieră</Value>
+			<Value>Frontiere</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="11">
+			<Value>Distribuitor VW </Value>
+			<Value>Distribuitor</Value>
+			<Value>Distribuitori</Value>
+			<Value>VW</Value>
+			<Value>Volkswagen</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="12">
+			<Value>VW Service</Value>
+			<Value>Volkswagen</Value>
+			<Value>Atelier</Value>
+			<Value>Ateliere</Value>
+			<Value>Service</Value>
+			<Value>Service-uri</Value>
+			<Value>Inspecţie</Value>
+			<Value>Inspecţii</Value>
+			<Value>Întreţinere</Value>
+			<Value>Întreţineri</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="14">
+			<Value>Ieşiri de pe autostradă/Intrări pe autostradă</Value>
+			<Value>Ieşire</Value>
+			<Value>Ieşiri</Value>
+			<Value>Intrare</Value>
+			<Value>Intrări</Value>
+			<Value>Plecare</Value>
+			<Value>Plecări</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="15">
+			<Value>Închirieri auto</Value>
+			<Value>Închiriere auto</Value>
+			<Value>Închiriere</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="16">
+			<Value>Gări</Value>
+			<Value>Gară</Value>
+			<Value>Tren</Value>
+			<Value>Trenuri</Value>
+			<Value>Tren</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="18">
+			<Value>Autogări</Value>
+			<Value>Autogară</Value>
+			<Value>Autobuz</Value>
+			<Value>Autobuze</Value>
+			<Value>Staţie de autobuz</Value>
+			<Value>Staţii de autobuz</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="19">
+			<Value>Informaţii turistice</Value>
+			<Value>Informaţie turistică</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="20">
+			<Value>Poliţia</Value>
+			<Value>Poliţia</Value>
+			<Value>112</Value>
+			<Value>112</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="21">
+			<Value>Spitale</Value>
+			<Value>Spital</Value>
+			<Value>Infirmerie</Value>
+			<Value>Infirmerii</Value>
+			<Value>Clinică</Value>
+			<Value>Clinici</Value>
+			<Value>Urgenţă</Value>
+			<Value>Urgenţe</Value>
+			<Value>Doctor</Value>
+			<Value>Doctori</Value>
+			<Value>110</Value>
+			<Value>112</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="22">
+			<Value>Servicii medicale</Value>
+			<Value>Serviciu medical</Value>
+			<Value>Cabinet</Value>
+			<Value>Cabinete</Value>
+			<Value>Doctor</Value>
+			<Value>Doctori</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="23">
+			<Value>Farmacii</Value>
+			<Value>Farmacie</Value>
+			<Value>Medicament</Value>
+			<Value>Medicamente</Value>
+			<Value>Medicină</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="104">
+			<Value>Restaurante</Value>
+			<Value>Restaurant</Value>
+			<Value>Alimente</Value>
+			<Value>Băuturi</Value>
+			<Value>Tavernă</Value>
+			<Value>Taverne</Value>
+			<Value>Foame</Value>
+			<Value>Sete</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="25">
+			<Value>Automate bancare</Value>
+			<Value>Automat bancar</Value>
+			<Value>Bani</Value>
+			<Value>Bani numerar</Value>
+			<Value>ATM</Value>
+			<Value>EC</Value>
+			<Value>Automat</Value>
+			<Value>Automate</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="26">
+			<Value>Cafenele</Value>
+			<Value>Cafenea</Value>
+			<Value>Cafea</Value>
+			<Value>Cafele</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="27">
+			<Value>Centre comerciale</Value>
+			<Value>Centru comercial</Value>
+			<Value>Shopping</Value>
+			<Value>Cumpărături</Value>
+			<Value>Cumpăra</Value>
+			<Value>Achiziţiona</Value>
+			<Value>Magazin</Value>
+			<Value>Magazine</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="28">
+			<Value>Îmbrăcăminte</Value>
+			<Value>Rochii</Value>
+			<Value>Pantof</Value>
+			<Value>Pantofi</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="29">
+			<Value>Electronice</Value>
+			<Value>Tehnologie</Value>
+			<Value>Calculator</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="30">
+			<Value>Vinuri şi băuturi spirtoase</Value>
+			<Value>Cramă</Value>
+			<Value>Vin</Value>
+			<Value>Vinuri</Value>
+			<Value>Băutură spirtoasă</Value>
+			<Value>Băuturi spirtoase</Value>
+			<Value>Alcool</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="31">
+			<Value>Viaţă de noapte</Value>
+			<Value>Bar</Value>
+			<Value>Pub</Value>
+			<Value>Puburi</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="32">
+			<Value>Parcuri</Value>
+			<Value>Parc</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="33">
+			<Value>Puncte de atracţie</Value>
+			<Value>Punct de atracţie</Value>
+			<Value>Atracţie</Value>
+			<Value>Atracţii</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="34">
+			<Value>Cinematografe</Value>
+			<Value>Cinematograf</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="35">
+			<Value>Cazinouri</Value>
+			<Value>Cazinou</Value>
+			<Value>Sală de jocuri</Value>
+			<Value>Săli de jocuri</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="36">
+			<Value>Evenimente culturale</Value>
+			<Value>Operă</Value>
+			<Value>Teatru</Value>
+			<Value>Concert</Value>
+			<Value>Muzical</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="37">
+			<Value>Muzee</Value>
+			<Value>Muzeu</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="38">
+			<Value>Monumente istorice</Value>
+			<Value>Monument istoric</Value>
+			<Value>Monument</Value>
+			<Value>Monumente</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="39">
+			<Value>Centre sportive</Value>
+			<Value>Centru sportiv</Value>
+			<Value>Stadion</Value>
+			<Value>Stadioane</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="41">
+			<Value>Sport golf</Value>
+			<Value>Golf</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="42">
+			<Value>Sport cu bărci</Value>
+			<Value>Barcă</Value>
+			<Value>Bărci</Value>
+			<Value>Velism</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="43">
+			<Value>Sport schi</Value>
+			<Value>Schi</Value>
+			<Value>Sport</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="44">
+			<Value>Parcuri de distracţii</Value>
+			<Value>Parc de distracţii</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="45">
+			<Value>Bănci</Value>
+			<Value>Bancă</Value>
+			<Value>Bani</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="46">
+			<Value>Poştă</Value>
+			<Value>Scrisoare</Value>
+			<Value>Scrisori</Value>
+			<Value>Pachet</Value>
+			<Value>Pachete</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="47">
+			<Value>Firme</Value>
+			<Value>Firmă</Value>
+			<Value>Societate</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="48">
+			<Value>Centre de conferinţe</Value>
+			<Value>Centru de conferinţe</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="49">
+			<Value>Guvern şi administraţie</Value>
+			<Value>Primărie</Value>
+			<Value>Guvern</Value>
+			<Value>Administraţie</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="50">
+			<Value>Ambasade</Value>
+			<Value>Ambasadă</Value>
+			<Value>Consulat</Value>
+			<Value>Consulate</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="52">
+			<Value>Instituţii de învăţământ</Value>
+			<Value>Şcoală</Value>
+			<Value>Şcoli</Value>
+			<Value>Universitate</Value>
+			<Value>Universităţi</Value>
+			<Value>Instituţie de învăţământ</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="53">
+			<Value>Instituţii religioase</Value>
+			<Value>Instituţie religioasă</Value>
+			<Value>Moschee</Value>
+			<Value>Moschei</Value>
+			<Value>Biserică</Value>
+			<Value>Biserici</Value>
+			<Value>Sinagogă</Value>
+			<Value>Sinagogi</Value>
+			<Value>Mănăstire</Value>
+			<Value>Mănăstiri</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="54">
+			<Value>Cimitire</Value>
+			<Value>Cimitir</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="134">
+			<Value>Staţii de încărcare</Value>
+			<Value>Staţii de încărcare</Value>
+			<Value>Încărcare</Value>
+			<Value>Încărcare</Value>
+		</Thesaurus>
+	</PoiCategoryThesaurusDefinition>
+
+	<PoiCategoryNameDefinition>
+		<Name category_ref="1">Autostadt</Name>
+		<Name category_ref="2">Aeroporturi</Name>
+		<Name category_ref="136">Staţii de alimentare GPL</Name>
+		<Name category_ref="135">Staţii de alimentare gaz natural</Name>
+		<Name category_ref="101">Staţii de alimentare</Name>
+		<Name category_ref="102">Parcări</Name>
+		<Name category_ref="7">Spaţii de servicii</Name>
+		<Name category_ref="8">Hoteluri şi moteluri</Name>
+		<Name category_ref="9">Feriboturi şi trenuri transport auto</Name>
+		<Name category_ref="10">Treceri frontieră</Name>
+		<Name category_ref="11">Distribuitor VW </Name>
+		<Name category_ref="12">VW Service</Name>
+		<Name category_ref="14">Ieşiri de pe autostradă/Intrări pe autostradă</Name>
+		<Name category_ref="15">Închirieri auto</Name>
+		<Name category_ref="16">Gări</Name>
+		<Name category_ref="18">Autogări</Name>
+		<Name category_ref="19">Informaţii turistice</Name>
+		<Name category_ref="20">Poliţia</Name>
+		<Name category_ref="21">Spitale</Name>
+		<Name category_ref="22">Servicii medicale</Name>
+		<Name category_ref="23">Farmacii</Name>
+		<Name category_ref="104">Restaurante</Name>
+		<Name category_ref="25">Automate bancare</Name>
+		<Name category_ref="26">Cafenele</Name>
+		<Name category_ref="27">Centre comerciale</Name>
+		<Name category_ref="28">Îmbrăcăminte</Name>
+		<Name category_ref="29">Electronice</Name>
+		<Name category_ref="30">Vinuri şi băuturi spirtoase</Name>
+		<Name category_ref="31">Viaţă de noapte</Name>
+		<Name category_ref="32">Parcuri</Name>
+		<Name category_ref="33">Puncte de atracţie</Name>
+		<Name category_ref="34">Cinematografe</Name>
+		<Name category_ref="35">Cazinouri</Name>
+		<Name category_ref="36">Evenimente culturale</Name>
+		<Name category_ref="37">Muzee</Name>
+		<Name category_ref="38">Monumente istorice</Name>
+		<Name category_ref="39">Centre sportive</Name>
+		<Name category_ref="41">Sport golf</Name>
+		<Name category_ref="42">Sport cu bărci</Name>
+		<Name category_ref="43">Sport schi</Name>
+		<Name category_ref="44">Parcuri de distracţii</Name>
+		<Name category_ref="45">Bănci</Name>
+		<Name category_ref="46">Poştă</Name>
+		<Name category_ref="47">Firme</Name>
+		<Name category_ref="48">Centre de conferinţe</Name>
+		<Name category_ref="49">Guvern şi administraţie</Name>
+		<Name category_ref="50">Ambasade</Name>
+		<Name category_ref="52">Instituţii de învăţământ</Name>
+		<Name category_ref="53">Instituţii religioase</Name>
+		<Name category_ref="54">Cimitire</Name>
+		<Name category_ref="134">Staţii de încărcare</Name>
+	</PoiCategoryNameDefinition>
+</LanguagePoiConfiguration>

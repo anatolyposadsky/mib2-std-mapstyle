@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<OpenLrConfig>
+   <LinkRatings>
+      <BearingWeight value="2" />
+      <BearingRating bearing="6" name="Excellent" value="100" />
+      <BearingRating bearing="8" name="Good" value="90" />
+      <BearingRating bearing="10" name="Good" value="75" />
+      <BearingRating bearing="12" name="Good" value="50" />
+      <BearingRating bearing="15" name="Average" value="37" />
+      <BearingRating bearing="18" name="Average" value="25" />
+      <BearingRating bearing="40" name="Average" value="10" />
+      <BearingRating bearing="90" name="Poor" value="0" />
+
+      <FrcWeight value="1" />
+      <FrcRating frcDiff="0" name="Excellent" value="100" />
+      <FrcRating frcDiff="1" name="Good" value="75" />
+      <FrcRating frcDiff="2" name="Average" value="50" />
+      <FrcRating frcDiff="3" name="Poor" value="0" />
+      <FrcRating frcDiff="4" name="Poor" value="0" />
+      <FrcRating frcDiff="5" name="Poor" value="0" />
+      <FrcRating frcDiff="6" name="Poor" value="0" />
+      <FrcRating frcDiff="7" name="Poor" value="0" />
+
+      <FowWeight value="1" />
+   <!-- used fow rating strings
+            "FOW_UNDEFINED" = 0,
+            "FOW_MOTORWAY" = 1,
+            "FOW_MULTIPLE_CARRIAGEWAY" = 2,
+            "FOW_SINGLE_CARRIAGEWAY" = 3,
+            "FOW_ROUNDABOUT" = 4,
+            "FOW_TRAFFIC_SQUARE" = 5,
+            "FOW_SLIPROAD" = 6,
+            "OTHER" = 7
+   -->
+
+      <FRCMapping ProviderFRC="0" MapFRC="1" />
+      <FRCMapping ProviderFRC="1" MapFRC="2" />
+      <FRCMapping ProviderFRC="2" MapFRC="3" />
+      <FRCMapping ProviderFRC="3" MapFRC="4" />
+      <FRCMapping ProviderFRC="4" MapFRC="5" />
+
+      <FowRatings supplier="TomTom">
+         <FowRatingCategory name="FOW_RATING_CATEGORY_EXCELLENT" value="100">
+            <FowRating fowProvider="7" fowMap="7" />
+            <FowRating fowProvider="1" fowMap="1" />
+            <FowRating fowProvider="2" fowMap="2" />
+            <FowRating fowProvider="3" fowMap="3" />
+            <FowRating fowProvider="4" fowMap="4" />
+            <FowRating fowProvider="5" fowMap="5" />
+            <FowRating fowProvider="6" fowMap="6" />
+         </FowRatingCategory>
+
+         <FowRatingCategory name="FOW_RATING_CATEGORY_GOOD" value="50">
+            <FowRating fowProvider="1" fowMap="2" />
+            <FowRating fowProvider="2" fowMap="1" />
+            <FowRating fowProvider="2" fowMap="3" />
+            <FowRating fowProvider="3" fowMap="2" />
+         </FowRatingCategory>
+
+         <FowRatingCategory name="FOW_RATING_CATEGORY_AVERAGE" value="50">
+            <FowRating fowProvider="0" fowMap="0" />
+            <FowRating fowProvider="0" fowMap="1" />
+            <FowRating fowProvider="0" fowMap="2" />
+            <FowRating fowProvider="0" fowMap="3" />
+            <FowRating fowProvider="0" fowMap="4" />
+            <FowRating fowProvider="0" fowMap="5" />
+            <FowRating fowProvider="0" fowMap="6" />
+            <FowRating fowProvider="0" fowMap="7" />
+            <FowRating fowProvider="1" fowMap="0" />
+            <FowRating fowProvider="2" fowMap="0" />
+            <FowRating fowProvider="5" fowMap="3" />
+            <FowRating fowProvider="2" fowMap="4" />
+            <FowRating fowProvider="3" fowMap="0" />
+            <FowRating fowProvider="3" fowMap="4" />
+            <FowRating fowProvider="3" fowMap="5" />
+            <FowRating fowProvider="4" fowMap="0" />
+            <FowRating fowProvider="4" fowMap="2" />
+            <FowRating fowProvider="4" fowMap="3" />
+            <FowRating fowProvider="4" fowMap="5" />
+            <FowRating fowProvider="5" fowMap="0" />
+            <FowRating fowProvider="5" fowMap="4" />
+            <FowRating fowProvider="6" fowMap="0" />
+            <FowRating fowProvider="7" fowMap="0" />
+         </FowRatingCategory>
+
+         <FowRatingCategory name="FOW_RATING_CATEGORY_POOR" value="25">
+            <FowRating fowProvider="1" fowMap="3" />
+            <FowRating fowProvider="1" fowMap="4" />
+            <FowRating fowProvider="1" fowMap="5" />
+            <FowRating fowProvider="1" fowMap="6" />
+            <FowRating fowProvider="1" fowMap="7" />
+            <FowRating fowProvider="2" fowMap="5" />
+            <FowRating fowProvider="2" fowMap="6" />
+            <FowRating fowProvider="2" fowMap="7" />
+            <FowRating fowProvider="3" fowMap="1" />
+            <FowRating fowProvider="3" fowMap="6" />
+            <FowRating fowProvider="3" fowMap="7" />
+            <FowRating fowProvider="4" fowMap="1" />
+            <FowRating fowProvider="4" fowMap="6" />
+            <FowRating fowProvider="4" fowMap="7" />
+            <FowRating fowProvider="5" fowMap="1" />
+            <FowRating fowProvider="5" fowMap="2" />
+            <FowRating fowProvider="5" fowMap="6" />
+            <FowRating fowProvider="5" fowMap="7" />
+            <FowRating fowProvider="6" fowMap="1" />
+            <FowRating fowProvider="6" fowMap="2" />
+            <FowRating fowProvider="6" fowMap="3" />
+            <FowRating fowProvider="6" fowMap="4" />
+            <FowRating fowProvider="6" fowMap="5" />
+            <FowRating fowProvider="6" fowMap="7" />
+            <FowRating fowProvider="7" fowMap="1" />
+            <FowRating fowProvider="7" fowMap="2" />
+            <FowRating fowProvider="7" fowMap="3" />
+            <FowRating fowProvider="7" fowMap="4" />
+            <FowRating fowProvider="7" fowMap="5" />
+            <FowRating fowProvider="7" fowMap="6" />
+        </FowRatingCategory>
+      </FowRatings>
+
+      <DistanceWeight value="3" />
+      <LRPSearchDistance value="120" />
+      <MaxBearingDiff value="90" />
+      <MinimumAcceptedRating value="25" />
+   </LinkRatings>
+   
+   <LengthVarianceFactor value="1.01" />
+
+</OpenLrConfig>

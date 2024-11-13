@@ -1,0 +1,221 @@
+﻿<?xml version="1.0"?>
+<!-- Disabled == "0" -->
+
+<TpegTecConfig>
+	<!-- enable vehicle types as defined in table tec009 -->
+	<VehicleType id="1" name="car" />
+	
+	<TmcMapping>
+		<!-- define constants -->
+		<Global>
+			<TestMessage> 1915 </TestMessage>
+		</Global>
+
+		<!-- effect code -->
+		<Effect id="1" name="traffic flow unkonwn" value="0" />
+		<Effect id="2" name="free traffic flow" value="124" />
+		<Effect id="3" name="heavy traffic" value="122" />
+		<Effect id="4" name="slow traffic" value="115" />
+		<Effect id="5" name="queuing traffic" value="108" />
+		<Effect id="6" name="stationary traffic" value="101" />
+		<Effect id="7" name="no traffic flow" value="401" />
+		
+		<!-- lane restriction -->
+		<Lane id="1" name="lane closed" value="500" />
+		<Lane id="2" name="lane open" value="0" />
+		<Lane id="3" name="right lane closed" value="501" />
+		<Lane id="4" name="left lane closed" value="503" />
+
+		<!-- causes: TecTable tec100 + <ID> -->
+		<MainCause id="1" name="TrafficCongestion" default="1">
+		</MainCause>
+
+		<MainCause id="2" name="Accident" default="201">
+			<SubCause id="1" value="203" />
+			<SubCause id="2" value="202" />
+			<SubCause id="3" value="204" />
+			<SubCause id="4" value="335" />
+			<SubCause id="5" value="205" />
+			<!-- <SubCause id="6" value="209" /> no VW -->
+			<SubCause id="7" value="857" />
+		</MainCause>
+
+		<MainCause id="3" name="Roadworks" default="701">
+			<SubCause id="1" value="702" />
+			<SubCause id="2" value="706" />
+			<SubCause id="3" value="804" />
+		</MainCause>
+
+		<MainCause id="4" name="NarrowLanes" default="518">
+			<SubCause id="1" value="517" />
+			<SubCause id="2" value="504" />
+			<SubCause id="3" value="408" />
+			<SubCause id="4" value="639" />
+		</MainCause>
+
+		<MainCause id="5" name="Impassibility" default="1035">
+			<SubCause id="1" value="938" />
+			<SubCause id="2" value="943" />
+			<SubCause id="3" value="993" />
+			<SubCause id="4" value="947" />
+			<SubCause id="5" value="982" />
+		</MainCause>
+
+		<MainCause id="6" name="SlippyRoad" default="1003">
+			<SubCause id="1" value="1115" />
+			<SubCause id="2" value="1045" />
+			<SubCause id="3" value="1004" />
+			<SubCause id="4" value="1018" />
+			<SubCause id="5" value="975" />
+			<SubCause id="6" value="1008" />
+			<SubCause id="7" value="1044" />
+			<SubCause id="8" value="1056" />
+			<SubCause id="9" value="1050" />
+			<SubCause id="10" value="0" />
+		</MainCause>
+
+		<MainCause id="7" name="Aquaplaning" default="1002">
+		</MainCause>
+
+		<MainCause id="8" name="Fire" default=1033>
+		</MainCause>
+
+		<MainCause id="9" name="Hazardous Driving Conditions" default="1001">
+			<SubCause id="1" value="913" />
+			<SubCause id="2" value="915" />
+			<SubCause id="3" value="918" />
+			<SubCause id="4" value="917" />
+			<SubCause id="5" value="1016" />
+			<SubCause id="6" value="904" />
+			<SubCause id="7" value="62" />
+			<SubCause id="9" value="1106" />
+		</MainCause>
+
+		<MainCause id="10" name="Objects On The Road" default="61">
+			<SubCause id="1" value="210" />
+			<SubCause id="5" value="905" />
+			<!-- <SubCause id="7" value="1991" /> no VW -->
+		</MainCause>
+
+		<MainCause id="11" name="Animals On The Road" default="922">
+		</MainCause>
+
+		<MainCause id="12" name="People On Roadway" default="1472">
+			<SubCause id="1" value="1473" />
+			<SubCause id="2" value="1474" />
+		</MainCause>
+
+		<MainCause id="13" name="Broken Down Vehicles" default="211">
+			<SubCause id="1" value="213" />
+		</MainCause>
+
+		<MainCause id="14" name="Vehicle On Wrong Carriageway" default="1701">
+		</MainCause>
+
+		<MainCause id="15" name="Rescue And Recovery Work In Progress" default="397">
+			<SubCause id="1" value="1706" />
+			<SubCause id="5" value="1500" />
+		</MainCause>
+
+		<MainCause id="16" name="Regulatory Measure" default="1515">
+			<SubCause id="4" value="1332" />
+		</MainCause>
+
+		<MainCause id="17" name="Extreme Weather Conditions" default="0">
+			<SubCause id="1" value="1205" />
+			<SubCause id="2" value="1132" />
+			<SubCause id="3" value="1202" />
+			<SubCause id="4" value="1108" />
+			<SubCause id="5" value="1201" />
+			<SubCause id="6" value="1130" />
+		</MainCause>
+
+		<MainCause id="18" name="Visibility Reduced" default="1318">
+			<SubCause id="1" value="1304" />
+			<SubCause id="2" value="1309" />
+			<SubCause id="3" value="1135" />
+			<SubCause id="4" value="1136" />
+			<SubCause id="5" value="1132" />
+			<SubCause id="6" value="1325" />
+			<SubCause id="7" value="1326" />
+			<SubCause id="8" value="1340" />
+		</MainCause>
+
+		<MainCause id="19" name="Precipitation" default="0">
+			<SubCause id="1" value="1109" />
+			<SubCause id="2" value="1101" />
+			<SubCause id="3" value="1106" />
+		</MainCause>
+
+		<MainCause id="20" name="Reckless Persons" default="0">
+			<SubCause id="1" value="1704" />
+			<SubCause id="2" value="1479" />
+			<SubCause id="3" value="897" />
+		</MainCause>
+
+		<MainCause id="21" name="Overheight Warning System Triggered" default="11">
+		</MainCause>
+
+		<MainCause id="22" name="Traffic Regulations Changed" default="0"> <!-- 1854 -->
+		</MainCause>
+
+		<MainCause id="23" name="Major Event" default="1501">
+			<SubCause id="1" value="1502" />
+			<SubCause id="2" value="1513" />
+			<!-- <SubCause id="3" value="1664" /> no VW -->
+			<SubCause id="4" value="1596" />
+			<SubCause id="5" value="1506" />
+			<!-- <SubCause id="6" value="1497" /> no VW -->
+			<!-- <SubCause id="7" value="1449" /> no VW -->
+			<SubCause id="8" value="1504" />
+			<SubCause id="9" value="1470" />
+		</MainCause>
+
+		<MainCause id="24" name="Service Not Operating" default="1637">
+			<SubCause id="1" value="1661" />
+			<SubCause id="2" value="0" />
+			<SubCause id="3" value="1638" />
+			<SubCause id="4" value="1639" />
+		</MainCause>
+
+		<MainCause id="25" name="Service Not Useable" default="0">
+			<SubCause id="1" value="22" />
+			<SubCause id="2" value="20" />
+			<SubCause id="3" value="2013" />
+			<SubCause id="4" value="1903" />
+			<SubCause id="5" value="1903" />
+			<!-- <SubCause id="5" value="1990" /> no VW -->
+		</MainCause>
+
+		<MainCause id="26" name="Slow Moving Vehicles" default="1700">
+			<SubCause id="3" value="1751" />
+			<SubCause id="4" value="1752" />
+			<SubCause id="5" value="1755" />
+			<!-- <SubCause id="6" value="681" /> no VW -->
+		</MainCause>
+
+		<MainCause id="27" name="Dangerous End Of Queue" default="138">
+			<SubCause id="2" value="140" />
+			<SubCause id="3" value="139" />
+		</MainCause>
+
+		<MainCause id="28" name="Risk Of Fire" default="0">
+			<SubCause id="1" value="1058" />
+			<SubCause id="2" value="1032" />
+		</MainCause>
+
+		<MainCause id="29" name="Time Delay" default="1601">
+		</MainCause>
+
+		<MainCause id="30" name="Police Checkpoint" default="1477">
+		</MainCause>
+
+		<MainCause id="31" name="Malfunctioning Roadside Equipment" default="0">
+			<SubCause id="1" value="1806" />
+			<SubCause id="2" value="1849" />
+			<SubCause id="3" value="1804" />
+			<SubCause id="4" value="1802" />
+			<SubCause id="5" value="0" />
+		</MainCause>
+	</TmcMapping>
+</TpegTecConfig>

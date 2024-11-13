@@ -1,0 +1,1393 @@
+<LanguagePoiConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xsd/locale/LanguagePoiConfiguration.xsd" version="1">
+<!--Alphabetically sorted setup category definitions for each fuel type, will be reloaded after language change-->
+	<SetupCategoryDefinition>
+		<PoiCategoryMapping fueltype="default">
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Ambassader -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Apotek -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Banker -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Bankomater -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Bensinstationer -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Biluthyrningar -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Biografer -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Busstationer -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Båtsport -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektronik -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Färjor och biltåg -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Firmor -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Flygplatser -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golfsport -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Gränsövergångar -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hotell och motell -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Järnvägsstationer -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Kaféer -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kasinon -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Kläder -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongresscenter -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Kyrkogårdar -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Laddstationer -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Minnesmärken -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Motorvägsavfarter/-påfarter -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Museer -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Nattliv -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Nöjesparker -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parker -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parkeringsplatser -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Polisstationer -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Post -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Rastplatser -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Religiösa byggnader -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restauranger -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Scenkonst -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Sevärdheter -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Shoppingcenter -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Sjukhus -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Skidsport -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Sportanläggningar -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Styre och förvaltning -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- Tankstationer för motorgas -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Tankstationer för naturgas -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Turistinformationer -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Utbildningsinstitutioner -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Vin och sprit -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW Service -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW-återförsäljare -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Vårdcentraler -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="gasoline">
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Ambassader -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Apotek -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Banker -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Bankomater -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Bensinstationer -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Biluthyrningar -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Biografer -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Busstationer -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Båtsport -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektronik -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Färjor och biltåg -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Firmor -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Flygplatser -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golfsport -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Gränsövergångar -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hotell och motell -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Järnvägsstationer -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Kaféer -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kasinon -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Kläder -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongresscenter -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Kyrkogårdar -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Laddstationer -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Minnesmärken -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Motorvägsavfarter/-påfarter -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Museer -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Nattliv -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Nöjesparker -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parker -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parkeringsplatser -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Polisstationer -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Post -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Rastplatser -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Religiösa byggnader -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restauranger -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Scenkonst -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Sevärdheter -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Shoppingcenter -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Sjukhus -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Skidsport -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Sportanläggningar -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Styre och förvaltning -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- Tankstationer för motorgas -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Tankstationer för naturgas -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Turistinformationer -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Utbildningsinstitutioner -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Vin och sprit -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW Service -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW-återförsäljare -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Vårdcentraler -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="diesel">
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Ambassader -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Apotek -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Banker -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Bankomater -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Bensinstationer -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Biluthyrningar -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Biografer -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Busstationer -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Båtsport -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektronik -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Färjor och biltåg -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Firmor -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Flygplatser -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golfsport -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Gränsövergångar -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hotell och motell -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Järnvägsstationer -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Kaféer -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kasinon -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Kläder -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongresscenter -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Kyrkogårdar -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Laddstationer -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Minnesmärken -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Motorvägsavfarter/-påfarter -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Museer -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Nattliv -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Nöjesparker -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parker -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parkeringsplatser -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Polisstationer -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Post -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Rastplatser -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Religiösa byggnader -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restauranger -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Scenkonst -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Sevärdheter -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Shoppingcenter -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Sjukhus -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Skidsport -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Sportanläggningar -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Styre och förvaltning -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- Tankstationer för motorgas -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Tankstationer för naturgas -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Turistinformationer -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Utbildningsinstitutioner -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Vin och sprit -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW Service -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW-återförsäljare -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Vårdcentraler -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="cng">
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Ambassader -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Apotek -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Banker -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Bankomater -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Bensinstationer -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Biluthyrningar -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Biografer -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Busstationer -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Båtsport -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektronik -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Färjor och biltåg -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Firmor -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Flygplatser -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golfsport -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Gränsövergångar -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hotell och motell -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Järnvägsstationer -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Kaféer -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kasinon -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Kläder -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongresscenter -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Kyrkogårdar -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Laddstationer -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Minnesmärken -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Motorvägsavfarter/-påfarter -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Museer -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Nattliv -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Nöjesparker -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parker -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parkeringsplatser -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Polisstationer -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Post -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Rastplatser -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Religiösa byggnader -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restauranger -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Scenkonst -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Sevärdheter -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Shoppingcenter -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Sjukhus -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Skidsport -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Sportanläggningar -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Styre och förvaltning -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- Tankstationer för motorgas -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Tankstationer för naturgas -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Turistinformationer -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Utbildningsinstitutioner -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Vin och sprit -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW Service -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW-återförsäljare -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Vårdcentraler -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="lpg">
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Ambassader -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Apotek -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Banker -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Bankomater -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Bensinstationer -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Biluthyrningar -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Biografer -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Busstationer -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Båtsport -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektronik -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Färjor och biltåg -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Firmor -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Flygplatser -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golfsport -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Gränsövergångar -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hotell och motell -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Järnvägsstationer -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Kaféer -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kasinon -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Kläder -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongresscenter -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Kyrkogårdar -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Laddstationer -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Minnesmärken -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Motorvägsavfarter/-påfarter -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Museer -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Nattliv -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Nöjesparker -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parker -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parkeringsplatser -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Polisstationer -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Post -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Rastplatser -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Religiösa byggnader -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restauranger -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Scenkonst -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Sevärdheter -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Shoppingcenter -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Sjukhus -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Skidsport -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Sportanläggningar -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Styre och förvaltning -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- Tankstationer för motorgas -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Tankstationer för naturgas -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Turistinformationer -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Utbildningsinstitutioner -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Vin och sprit -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW Service -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW-återförsäljare -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Vårdcentraler -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="bev">
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Ambassader -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Apotek -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Banker -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Bankomater -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Bensinstationer -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Biluthyrningar -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Biografer -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Busstationer -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Båtsport -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektronik -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Färjor och biltåg -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Firmor -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Flygplatser -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golfsport -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Gränsövergångar -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hotell och motell -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Järnvägsstationer -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Kaféer -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kasinon -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Kläder -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongresscenter -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Kyrkogårdar -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Laddstationer -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Minnesmärken -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Motorvägsavfarter/-påfarter -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Museer -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Nattliv -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Nöjesparker -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parker -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parkeringsplatser -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Polisstationer -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Post -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Rastplatser -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Religiösa byggnader -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restauranger -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Scenkonst -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Sevärdheter -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Shoppingcenter -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Sjukhus -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Skidsport -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Sportanläggningar -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Styre och förvaltning -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- Tankstationer för motorgas -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Tankstationer för naturgas -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Turistinformationer -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Utbildningsinstitutioner -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Vin och sprit -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW Service -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW-återförsäljare -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Vårdcentraler -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="phev">
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Ambassader -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Apotek -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Banker -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Bankomater -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Bensinstationer -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Biluthyrningar -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Biografer -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Busstationer -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Båtsport -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektronik -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Färjor och biltåg -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Firmor -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Flygplatser -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golfsport -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Gränsövergångar -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hotell och motell -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Järnvägsstationer -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Kaféer -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kasinon -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Kläder -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongresscenter -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Kyrkogårdar -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Laddstationer -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Minnesmärken -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Motorvägsavfarter/-påfarter -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Museer -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Nattliv -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Nöjesparker -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parker -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parkeringsplatser -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Polisstationer -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Post -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Rastplatser -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Religiösa byggnader -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restauranger -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Scenkonst -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Sevärdheter -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Shoppingcenter -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Sjukhus -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Skidsport -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Sportanläggningar -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Styre och förvaltning -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- Tankstationer för motorgas -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Tankstationer för naturgas -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Turistinformationer -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Utbildningsinstitutioner -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Vin och sprit -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW Service -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW-återförsäljare -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Vårdcentraler -->
+		</PoiCategoryMapping>
+	</SetupCategoryDefinition>
+  <PoiCategoryGroupDefinition>
+    <PoiCategoryGroup id="10" type="dynamic">
+      <Priority>1</Priority>
+      <PoiCategoryMapping>
+        <!-- MUSS LEER BLEIBEN Ueber XSD checken !! -->
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+
+    <PoiCategoryGroup id="11" type="local">
+      <Priority>2</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>50</PoiCategoryRef>
+        <!-- Ambassader -->
+        <PoiCategoryRef>23</PoiCategoryRef>
+        <!-- Apotek -->
+        <PoiCategoryRef>1</PoiCategoryRef>
+        <!-- Autostadt -->
+        <PoiCategoryRef>45</PoiCategoryRef>
+        <!-- Banker -->
+        <PoiCategoryRef>25</PoiCategoryRef>
+        <!-- Bankomater -->
+        <PoiCategoryRef>42</PoiCategoryRef>
+        <!-- Båtsport -->
+        <PoiCategoryRef>15</PoiCategoryRef>
+        <!-- Biluthyrning -->
+        <PoiCategoryRef>34</PoiCategoryRef>
+        <!-- Biograf -->
+        <PoiCategoryRef>18</PoiCategoryRef>
+        <!-- Busstation -->
+        <PoiCategoryRef>26</PoiCategoryRef>
+        <!-- Cafeér -->
+        <PoiCategoryRef>35</PoiCategoryRef>
+        <!-- Casino -->
+        <PoiCategoryRef>9</PoiCategoryRef>
+        <!-- Färjor och biltåg -->
+        <PoiCategoryRef>2</PoiCategoryRef>
+        <!-- Flygplats -->
+        <PoiCategoryRef>135</PoiCategoryRef>
+        <!-- Fordonsgasstation -->
+        <PoiCategoryRef>47</PoiCategoryRef>
+        <!-- Företag -->
+        <PoiCategoryRef>101</PoiCategoryRef>
+        <!-- Gasstation -->
+        <PoiCategoryRef>41</PoiCategoryRef>
+        <!-- Golf -->
+        <PoiCategoryRef>10</PoiCategoryRef>
+        <!-- Gränsstation -->
+        <PoiCategoryRef>29</PoiCategoryRef>
+        <!-- Hemelektronik -->
+        <PoiCategoryRef>8</PoiCategoryRef>
+        <!-- Hotell och motell -->
+        <PoiCategoryRef>28</PoiCategoryRef>
+        <!-- Kläder -->
+        <PoiCategoryRef>48</PoiCategoryRef>
+        <!-- Kongresscenter -->
+        <PoiCategoryRef>54</PoiCategoryRef>
+        <!-- Kyrkogård -->
+        <PoiCategoryRef>134</PoiCategoryRef>
+        <!-- Laddstationer -->
+        <PoiCategoryRef>22</PoiCategoryRef>
+        <!-- Läkare -->
+        <PoiCategoryRef>136</PoiCategoryRef>
+        <!-- LPG-station -->
+        <PoiCategoryRef>38</PoiCategoryRef>
+        <!-- Minnesmärken -->
+        <PoiCategoryRef>14</PoiCategoryRef>
+        <!-- Motorvägsavfart/påfart -->
+        <PoiCategoryRef>37</PoiCategoryRef>
+        <!-- Museum -->
+        <PoiCategoryRef>31</PoiCategoryRef>
+        <!-- Nattliv -->
+        <PoiCategoryRef>44</PoiCategoryRef>
+        <!-- Nöjesparker -->
+        <PoiCategoryRef>32</PoiCategoryRef>
+        <!-- Parker -->
+        <PoiCategoryRef>102</PoiCategoryRef>
+        <!-- Parkering -->
+        <PoiCategoryRef>20</PoiCategoryRef>
+        <!-- Polis -->
+        <PoiCategoryRef>46</PoiCategoryRef>
+        <!-- Post -->
+        <PoiCategoryRef>7</PoiCategoryRef>
+        <!-- Rastplats -->
+        <PoiCategoryRef>49</PoiCategoryRef>
+        <!-- Regering -->
+        <PoiCategoryRef>104</PoiCategoryRef>
+        <!-- Restauranger -->
+        <PoiCategoryRef>53</PoiCategoryRef>
+        <!-- Rum för religionsutövning -->
+        <PoiCategoryRef>33</PoiCategoryRef>
+        <!-- Sevärdheter -->
+        <PoiCategoryRef>27</PoiCategoryRef>
+        <!-- Shoppingcenter -->
+        <PoiCategoryRef>21</PoiCategoryRef>
+        <!-- Sjukhus -->
+        <PoiCategoryRef>43</PoiCategoryRef>
+        <!-- Skidsport -->
+        <PoiCategoryRef>39</PoiCategoryRef>
+        <!-- Sportcenter -->
+        <PoiCategoryRef>16</PoiCategoryRef>
+        <!-- Tågstation -->
+        <PoiCategoryRef>36</PoiCategoryRef>
+        <!-- Teater -->
+        <PoiCategoryRef>19</PoiCategoryRef>
+        <!-- Turistinformation -->
+        <PoiCategoryRef>52</PoiCategoryRef>
+        <!-- Utbildningscenter -->
+        <PoiCategoryRef>30</PoiCategoryRef>
+        <!-- Vin och sprit -->
+        <PoiCategoryRef>11</PoiCategoryRef>
+        <!-- VW-handlare -->
+        <PoiCategoryRef>12</PoiCategoryRef>
+        <!-- VW-service -->
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+
+    <PoiCategoryGroup id="12" type="local">
+      <Priority>3</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>23</PoiCategoryRef>
+        <!-- Apotek -->
+        <PoiCategoryRef>22</PoiCategoryRef>
+        <!-- Läkare -->
+        <PoiCategoryRef>20</PoiCategoryRef>
+        <!-- Polis -->
+        <PoiCategoryRef>21</PoiCategoryRef>
+        <!-- Sjukhus -->
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+
+    <PoiCategoryGroup id="13" type="local">
+      <Priority>4</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>15</PoiCategoryRef>
+        <!-- Biluthyrning -->
+        <PoiCategoryRef>18</PoiCategoryRef>
+        <!-- Busstation -->
+        <PoiCategoryRef>9</PoiCategoryRef>
+        <!-- Färjor och biltåg -->
+        <PoiCategoryRef>2</PoiCategoryRef>
+        <!-- Flygplats -->
+        <PoiCategoryRef>135</PoiCategoryRef>
+        <!-- Fordonsgasstation -->
+        <PoiCategoryRef>101</PoiCategoryRef>
+        <!-- Gasstation -->
+        <PoiCategoryRef>10</PoiCategoryRef>
+        <!-- Gränsstation -->
+        <PoiCategoryRef>8</PoiCategoryRef>
+        <!-- Hotell och motell -->
+        <PoiCategoryRef>134</PoiCategoryRef>
+        <!-- Laddstationer -->
+        <PoiCategoryRef>136</PoiCategoryRef>
+        <!-- LPG-station -->
+        <PoiCategoryRef>14</PoiCategoryRef>
+        <!-- Motorvägsavfart/påfart -->
+        <PoiCategoryRef>102</PoiCategoryRef>
+        <!-- Parkering -->
+        <PoiCategoryRef>7</PoiCategoryRef>
+        <!-- Rastplats -->
+        <PoiCategoryRef>16</PoiCategoryRef>
+        <!-- Tågstation -->
+        <PoiCategoryRef>19</PoiCategoryRef>
+        <!-- Turistinformation -->
+        <PoiCategoryRef>11</PoiCategoryRef>
+        <!-- VW-handlare -->
+        <PoiCategoryRef>12</PoiCategoryRef>
+        <!-- VW-service -->
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+
+    <PoiCategoryGroup id="14" type="local">
+      <Priority>5</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>1</PoiCategoryRef>
+        <!-- Autostadt -->
+        <PoiCategoryRef>42</PoiCategoryRef>
+        <!-- Båtsport -->
+        <PoiCategoryRef>34</PoiCategoryRef>
+        <!-- Biograf -->
+        <PoiCategoryRef>35</PoiCategoryRef>
+        <!-- Casino -->
+        <PoiCategoryRef>41</PoiCategoryRef>
+        <!-- Golf -->
+        <PoiCategoryRef>38</PoiCategoryRef>
+        <!-- Minnesmärken -->
+        <PoiCategoryRef>37</PoiCategoryRef>
+        <!-- Museum -->
+        <PoiCategoryRef>44</PoiCategoryRef>
+        <!-- Nöjesparker -->
+        <PoiCategoryRef>32</PoiCategoryRef>
+        <!-- Parker -->
+        <PoiCategoryRef>33</PoiCategoryRef>
+        <!-- Sevärdheter -->
+        <PoiCategoryRef>43</PoiCategoryRef>
+        <!-- Skidsport -->
+        <PoiCategoryRef>39</PoiCategoryRef>
+        <!-- Sportcenter -->
+        <PoiCategoryRef>36</PoiCategoryRef>
+        <!-- Teater -->
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+
+    <PoiCategoryGroup id="15" type="local">
+      <Priority>6</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>50</PoiCategoryRef>
+        <!-- Ambassader -->
+        <PoiCategoryRef>45</PoiCategoryRef>
+        <!-- Banker -->
+        <PoiCategoryRef>47</PoiCategoryRef>
+        <!-- Företag -->
+        <PoiCategoryRef>48</PoiCategoryRef>
+        <!-- Kongresscenter -->
+        <PoiCategoryRef>54</PoiCategoryRef>
+        <!-- Kyrkogård -->
+        <PoiCategoryRef>46</PoiCategoryRef>
+        <!-- Post -->
+        <PoiCategoryRef>49</PoiCategoryRef>
+        <!-- Regering -->
+        <PoiCategoryRef>53</PoiCategoryRef>
+        <!-- Rum för religionsutövning -->
+        <PoiCategoryRef>52</PoiCategoryRef>
+        <!-- Utbildningscenter -->
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+
+    <PoiCategoryGroup id="16" type="local">
+      <Priority>7</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>25</PoiCategoryRef>
+        <!-- Bankomater -->
+        <PoiCategoryRef>26</PoiCategoryRef>
+        <!-- Cafeér -->
+        <PoiCategoryRef>29</PoiCategoryRef>
+        <!-- Hemelektronik -->
+        <PoiCategoryRef>28</PoiCategoryRef>
+        <!-- Kläder -->
+        <PoiCategoryRef>31</PoiCategoryRef>
+        <!-- Nattliv -->
+        <PoiCategoryRef>104</PoiCategoryRef>
+        <!-- Restauranger -->
+        <PoiCategoryRef>27</PoiCategoryRef>
+        <!-- Shoppingcenter -->
+        <PoiCategoryRef>30</PoiCategoryRef>
+        <!-- Vin och sprit -->
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+
+  </PoiCategoryGroupDefinition>
+
+  <PoiCategoryGroupNameDefinition>
+    <Name category_group_ref="10">Mina specialmål (Personal POI)</Name>
+    <Name category_group_ref="11">Alla i alfabetisk ordning</Name>
+    <Name category_group_ref="12">Akutmottagning</Name>
+    <Name category_group_ref="13">Bil och resa</Name>
+    <Name category_group_ref="14">Fritid och nöjen</Name>
+    <Name category_group_ref="15">Företag och offentliga platser</Name>
+    <Name category_group_ref="16">Restauranger och shopping</Name>
+  </PoiCategoryGroupNameDefinition>
+
+	<PoiCategoryThesaurusDefinition>
+		<Thesaurus category_ref="1">
+			<Value>Autostadt</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="2">
+			<Value>Flygplatser</Value>
+			<Value>Flygplats</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="136">
+			<Value>Tankstationer för motorgas</Value>
+			<Value>LPG</Value>
+			<Value>Gas</Value>
+			<Value>Tanka</Value>
+			<Value>Tankstation</Value>
+			<Value>Tankstationer</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="135">
+			<Value>Tankstationer för naturgas</Value>
+			<Value>Tankstation för naturgas</Value>
+			<Value>Naturgas</Value>
+			<Value>Gas</Value>
+			<Value>CNG</Value>
+			<Value>Tanka</Value>
+			<Value>Tankstation</Value>
+			<Value>Tankstationer</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="101">
+			<Value>Bensinstationer</Value>
+			<Value>Bensinstation</Value>
+			<Value>Tanka</Value>
+			<Value>Bensin</Value>
+			<Value>Diesel</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="102">
+			<Value>Parkeringsplatser</Value>
+			<Value>Parkeringsplats</Value>
+			<Value>Parkera</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="7">
+			<Value>Rastplatser</Value>
+			<Value>Rastplats</Value>
+			<Value>Rastplats</Value>
+			<Value>Toa</Value>
+			<Value>WC</Value>
+			<Value>Toalett</Value>
+			<Value>Toaletter</Value>
+			<Value>Rasta</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="8">
+			<Value>Hotell och motell</Value>
+			<Value>Hotell</Value>
+			<Value>Hotell</Value>
+			<Value>Motell</Value>
+			<Value>Motell</Value>
+			<Value>Värdshus</Value>
+			<Value>Värdshus</Value>
+			<Value>Sova</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="9">
+			<Value>Färjor och biltåg</Value>
+			<Value>Biltåg</Value>
+			<Value>Biltåg</Value>
+			<Value>Färja</Value>
+			<Value>Färjor</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="10">
+			<Value>Gränsövergångar</Value>
+			<Value>Gränsövergång</Value>
+			<Value>Gräns</Value>
+			<Value>Gränser</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="11">
+			<Value>VW-återförsäljare</Value>
+			<Value>Återförsäljare</Value>
+			<Value>Återförsäljare</Value>
+			<Value>VW</Value>
+			<Value>Volkswagen</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="12">
+			<Value>VW Service</Value>
+			<Value>Volkswagen</Value>
+			<Value>Verkstad</Value>
+			<Value>Verkstäder</Value>
+			<Value>Reparation</Value>
+			<Value>Reparationer</Value>
+			<Value>Inspektion</Value>
+			<Value>Inspektioner</Value>
+			<Value>Underhåll</Value>
+			<Value>Underhåll</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="14">
+			<Value>Motorvägsavfarter/-påfarter</Value>
+			<Value>Utfart</Value>
+			<Value>Utfarter</Value>
+			<Value>Påfart</Value>
+			<Value>Påfarter</Value>
+			<Value>Avfart</Value>
+			<Value>Avfarter</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="15">
+			<Value>Biluthyrningar</Value>
+			<Value>Biluthyrning</Value>
+			<Value>Hyra</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="16">
+			<Value>Järnvägsstationer</Value>
+			<Value>Järnvägsstation</Value>
+			<Value>Tåg</Value>
+			<Value>Tåg</Value>
+			<Value>Järnväg</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="18">
+			<Value>Busstationer</Value>
+			<Value>Busstation</Value>
+			<Value>Buss</Value>
+			<Value>Bussar</Value>
+			<Value>Busshållplats</Value>
+			<Value>Busshållplatser</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="19">
+			<Value>Turistinformationer</Value>
+			<Value>Turistinformation</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="20">
+			<Value>Polisstationer</Value>
+			<Value>Polisstation</Value>
+			<Value>112</Value>
+			<Value>112</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="21">
+			<Value>Sjukhus</Value>
+			<Value>Sjukhus</Value>
+			<Value>Lasarett</Value>
+			<Value>Lasarett</Value>
+			<Value>Klinik</Value>
+			<Value>Kliniker</Value>
+			<Value>Nödfall</Value>
+			<Value>Nödfall</Value>
+			<Value>Läkare</Value>
+			<Value>Läkare</Value>
+			<Value>112</Value>
+			<Value>112</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="22">
+			<Value>Vårdcentraler</Value>
+			<Value>Vårdcentral</Value>
+			<Value>Läkarmottagning</Value>
+			<Value>Läkarmottagningar</Value>
+			<Value>Läkare</Value>
+			<Value>Läkare</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="23">
+			<Value>Apotek</Value>
+			<Value>Apotek</Value>
+			<Value>Läkemedel</Value>
+			<Value>Läkemedel</Value>
+			<Value>Medicin</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="104">
+			<Value>Restauranger</Value>
+			<Value>Restaurang</Value>
+			<Value>Äta</Value>
+			<Value>Dricka</Value>
+			<Value>Matställe</Value>
+			<Value>Matställen</Value>
+			<Value>Hungrig</Value>
+			<Value>Törstig</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="25">
+			<Value>Bankomater</Value>
+			<Value>Bankomat</Value>
+			<Value>Pengar</Value>
+			<Value>Kontanter</Value>
+			<Value>Uttagsautomat</Value>
+			<Value>Uttagsautomat</Value>
+			<Value>Uttagsautomat</Value>
+			<Value>Uttagsautomater</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="26">
+			<Value>Kaféer</Value>
+			<Value>Kafé</Value>
+			<Value>Kaffe</Value>
+			<Value>Kaffe</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="27">
+			<Value>Shoppingcenter</Value>
+			<Value>Shoppingcenter</Value>
+			<Value>Shopping</Value>
+			<Value>Shoppa</Value>
+			<Value>Handla</Value>
+			<Value>Handla</Value>
+			<Value>Varuhus</Value>
+			<Value>Varuhus</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="28">
+			<Value>Kläder</Value>
+			<Value>Kläder</Value>
+			<Value>Sko</Value>
+			<Value>Skor</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="29">
+			<Value>Elektronik</Value>
+			<Value>Teknik</Value>
+			<Value>Dator</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="30">
+			<Value>Vin och sprit</Value>
+			<Value>Vinkällare</Value>
+			<Value>Vin</Value>
+			<Value>Viner</Value>
+			<Value>Sprit</Value>
+			<Value>Sprit</Value>
+			<Value>Alkohol</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="31">
+			<Value>Nattliv</Value>
+			<Value>Bar</Value>
+			<Value>Krog</Value>
+			<Value>Krogar</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="32">
+			<Value>Parker</Value>
+			<Value>Park</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="33">
+			<Value>Sevärdheter</Value>
+			<Value>Sevärdhet</Value>
+			<Value>Attraktion</Value>
+			<Value>Attraktioner</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="34">
+			<Value>Biografer</Value>
+			<Value>Bio</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="35">
+			<Value>Kasinon</Value>
+			<Value>Kasino</Value>
+			<Value>Kasino</Value>
+			<Value>Kasinon</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="36">
+			<Value>Scenkonst</Value>
+			<Value>Opera</Value>
+			<Value>Teater</Value>
+			<Value>Konsert</Value>
+			<Value>Musikal</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="37">
+			<Value>Museer</Value>
+			<Value>Museum</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="38">
+			<Value>Minnesmärken</Value>
+			<Value>Minnesmärke</Value>
+			<Value>Monument</Value>
+			<Value>Monument</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="39">
+			<Value>Sportanläggningar</Value>
+			<Value>Sportanläggning</Value>
+			<Value>Stadion</Value>
+			<Value>Stadion</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="41">
+			<Value>Golfsport</Value>
+			<Value>Golf</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="42">
+			<Value>Båtsport</Value>
+			<Value>Båt</Value>
+			<Value>Båtar</Value>
+			<Value>Segla</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="43">
+			<Value>Skidsport</Value>
+			<Value>Skidor</Value>
+			<Value>Sport</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="44">
+			<Value>Nöjesparker</Value>
+			<Value>Nöjespark</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="45">
+			<Value>Banker</Value>
+			<Value>Bank</Value>
+			<Value>Pengar</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="46">
+			<Value>Post</Value>
+			<Value>Brev</Value>
+			<Value>Brev</Value>
+			<Value>Paket</Value>
+			<Value>Paket</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="47">
+			<Value>Firmor</Value>
+			<Value>Firma</Value>
+			<Value>Företag</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="48">
+			<Value>Kongresscenter</Value>
+			<Value>Kongresscenter</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="49">
+			<Value>Styre och förvaltning</Value>
+			<Value>Stadshus</Value>
+			<Value>Styre</Value>
+			<Value>Förvaltning</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="50">
+			<Value>Ambassader</Value>
+			<Value>Ambassad</Value>
+			<Value>Konsulat</Value>
+			<Value>Konsulat</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="52">
+			<Value>Utbildningsinstitutioner</Value>
+			<Value>Skola</Value>
+			<Value>Skolor</Value>
+			<Value>Universitet</Value>
+			<Value>Universitet</Value>
+			<Value>Utbildningsinstitution</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="53">
+			<Value>Religiösa byggnader</Value>
+			<Value>Religiös byggnad</Value>
+			<Value>Moské</Value>
+			<Value>Moskéer</Value>
+			<Value>Kyrka</Value>
+			<Value>Kyrkor</Value>
+			<Value>Synagoga</Value>
+			<Value>Synagogor</Value>
+			<Value>Kloster</Value>
+			<Value>Kloster</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="54">
+			<Value>Kyrkogårdar</Value>
+			<Value>Kyrkogård</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="134">
+			<Value>Laddstationer</Value>
+			<Value>Laddstation</Value>
+			<Value>Ladda</Value>
+			<Value>Ladda</Value>
+		</Thesaurus>
+	</PoiCategoryThesaurusDefinition>
+
+	<PoiCategoryNameDefinition>
+		<Name category_ref="1">Autostadt</Name>
+		<Name category_ref="2">Flygplatser</Name>
+		<Name category_ref="136">Tankstationer för motorgas</Name>
+		<Name category_ref="135">Tankstationer för naturgas</Name>
+		<Name category_ref="101">Bensinstationer</Name>
+		<Name category_ref="102">Parkeringsplatser</Name>
+		<Name category_ref="7">Rastplatser</Name>
+		<Name category_ref="8">Hotell och motell</Name>
+		<Name category_ref="9">Färjor och biltåg</Name>
+		<Name category_ref="10">Gränsövergångar</Name>
+		<Name category_ref="11">VW-återförsäljare</Name>
+		<Name category_ref="12">VW Service</Name>
+		<Name category_ref="14">Motorvägsavfarter/-påfarter</Name>
+		<Name category_ref="15">Biluthyrningar</Name>
+		<Name category_ref="16">Järnvägsstationer</Name>
+		<Name category_ref="18">Busstationer</Name>
+		<Name category_ref="19">Turistinformationer</Name>
+		<Name category_ref="20">Polisstationer</Name>
+		<Name category_ref="21">Sjukhus</Name>
+		<Name category_ref="22">Vårdcentraler</Name>
+		<Name category_ref="23">Apotek</Name>
+		<Name category_ref="104">Restauranger</Name>
+		<Name category_ref="25">Bankomater</Name>
+		<Name category_ref="26">Kaféer</Name>
+		<Name category_ref="27">Shoppingcenter</Name>
+		<Name category_ref="28">Kläder</Name>
+		<Name category_ref="29">Elektronik</Name>
+		<Name category_ref="30">Vin och sprit</Name>
+		<Name category_ref="31">Nattliv</Name>
+		<Name category_ref="32">Parker</Name>
+		<Name category_ref="33">Sevärdheter</Name>
+		<Name category_ref="34">Biografer</Name>
+		<Name category_ref="35">Kasinon</Name>
+		<Name category_ref="36">Scenkonst</Name>
+		<Name category_ref="37">Museer</Name>
+		<Name category_ref="38">Minnesmärken</Name>
+		<Name category_ref="39">Sportanläggningar</Name>
+		<Name category_ref="41">Golfsport</Name>
+		<Name category_ref="42">Båtsport</Name>
+		<Name category_ref="43">Skidsport</Name>
+		<Name category_ref="44">Nöjesparker</Name>
+		<Name category_ref="45">Banker</Name>
+		<Name category_ref="46">Post</Name>
+		<Name category_ref="47">Firmor</Name>
+		<Name category_ref="48">Kongresscenter</Name>
+		<Name category_ref="49">Styre och förvaltning</Name>
+		<Name category_ref="50">Ambassader</Name>
+		<Name category_ref="52">Utbildningsinstitutioner</Name>
+		<Name category_ref="53">Religiösa byggnader</Name>
+		<Name category_ref="54">Kyrkogårdar</Name>
+		<Name category_ref="134">Laddstationer</Name>
+	</PoiCategoryNameDefinition>
+</LanguagePoiConfiguration>

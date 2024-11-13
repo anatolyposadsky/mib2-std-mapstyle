@@ -1,0 +1,4781 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TmcConfig>
+  <locale code="en_GB" unit_system="UNITS_METRIC">
+    <tmc_event event_code="1">
+      <short_text>traffic problem</short_text>
+      <long_text>traffic problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="2">
+      <short_text>%lqueuing traffic</short_text>
+      <long_text>queuing traffic. Danger of stationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="11">
+      <short_text>overheight warning</short_text>
+      <long_text>overheight warning system triggered</long_text>
+    </tmc_event>
+    <tmc_event event_code="12">
+      <short_text>accident</short_text>
+      <long_text>%s accident(s), traffic being directed around accident</long_text>
+    </tmc_event>
+    <tmc_event event_code="16">
+      <short_text>closures</short_text>
+      <long_text>closed, rescue and recovery work in progress</long_text>
+    </tmc_event>
+    <tmc_event event_code="20">
+      <short_text>car park full</short_text>
+      <long_text>service area overcrowded, drive to another service area</long_text>
+    </tmc_event>
+    <tmc_event event_code="22">
+      <short_text>fuel station closed</short_text>
+      <long_text>service area, fuel station closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="23">
+      <short_text>restaurant closed</short_text>
+      <long_text>service area, restaurant closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="24">
+      <short_text>bridge closed</short_text>
+      <long_text>bridge closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="25">
+      <short_text>tunnel closed</short_text>
+      <long_text>tunnel closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="26">
+      <short_text>bridge blocked</short_text>
+      <long_text>bridge blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="27">
+      <short_text>tunnel blocked</short_text>
+      <long_text>tunnel blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="28">
+      <short_text>road closed intermittently</short_text>
+      <long_text>road closed intermittently</long_text>
+    </tmc_event>
+    <tmc_event event_code="41">
+      <short_text>narrow lanes</short_text>
+      <long_text>%s overtaking lane(s) closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="42">
+      <short_text>narrow lanes</short_text>
+      <long_text>%s overtaking lane(s) blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="51">
+      <short_text>roadworks</short_text>
+      <long_text>roadworks, %s overtaking lane(s) closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="52">
+      <short_text>roadworks</short_text>
+      <long_text>(%s sets of) roadworks on the hard shoulder</long_text>
+    </tmc_event>
+    <tmc_event event_code="53">
+      <short_text>roadworks</short_text>
+      <long_text>(%s sets of) roadworks in the emergency lane</long_text>
+    </tmc_event>
+    <tmc_event event_code="55">
+      <short_text>traffic problem expected</short_text>
+      <long_text>traffic problem expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="56">
+      <short_text>traffic congestion expected</short_text>
+      <long_text>traffic congestion expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="61">
+      <short_text>obstruction hazard</short_text>
+      <long_text>%s object(s) on the road</long_text>
+    </tmc_event>
+    <tmc_event event_code="62">
+      <short_text>%s burst pipe(s)</short_text>
+      <long_text>%s burst pipe(s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="63">
+      <short_text>obstruction hazard</short_text>
+      <long_text>%s object(s) on the road. Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="64">
+      <short_text>burst pipe. Danger</short_text>
+      <long_text>burst pipe. Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="70">
+      <short_text>%lstationary traffic</short_text>
+      <long_text>traffic congestion, average speed of 10 km/h</long_text>
+    </tmc_event>
+    <tmc_event event_code="71">
+      <short_text>%lstationary traffic</short_text>
+      <long_text>traffic congestion, average speed of 20 km/h</long_text>
+    </tmc_event>
+    <tmc_event event_code="72">
+      <short_text>%lstationary traffic</short_text>
+      <long_text>traffic congestion, average speed of 30 km/h</long_text>
+    </tmc_event>
+    <tmc_event event_code="73">
+      <short_text>%lstationary traffic</short_text>
+      <long_text>traffic congestion, average speed of 40 km/h</long_text>
+    </tmc_event>
+    <tmc_event event_code="74">
+      <short_text>%lqueuing traffic</short_text>
+      <long_text>traffic congestion, average speed of 50 km/h</long_text>
+    </tmc_event>
+    <tmc_event event_code="75">
+      <short_text>%lqueuing traffic</short_text>
+      <long_text>traffic congestion, average speed of 60 km/h</long_text>
+    </tmc_event>
+    <tmc_event event_code="76">
+      <short_text>%lqueuing traffic</short_text>
+      <long_text>traffic congestion, average speed of 70 km/h</long_text>
+    </tmc_event>
+    <tmc_event event_code="82">
+      <short_text>roadworks</short_text>
+      <long_text>roadworks</long_text>
+    </tmc_event>
+    <tmc_event event_code="83">
+      <short_text>closures</short_text>
+      <long_text>closures</long_text>
+    </tmc_event>
+    <tmc_event event_code="84">
+      <short_text>major event</short_text>
+      <long_text>major event</long_text>
+    </tmc_event>
+    <tmc_event event_code="85">
+      <short_text>major event</short_text>
+      <long_text>major event</long_text>
+    </tmc_event>
+    <tmc_event event_code="86">
+      <short_text>major event</short_text>
+      <long_text>major event</long_text>
+    </tmc_event>
+    <tmc_event event_code="91">
+      <short_text>delays</short_text>
+      <long_text>delays %s for cars</long_text>
+    </tmc_event>
+    <tmc_event event_code="101">
+      <short_text>%lstationary traffic</short_text>
+      <long_text>%lstationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="102">
+      <short_text>1 km stationary traffic</short_text>
+      <long_text>stationary traffic for 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="103">
+      <short_text>2 km stationary traffic</short_text>
+      <long_text>stationary traffic for 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="104">
+      <short_text>4 km stationary traffic</short_text>
+      <long_text>stationary traffic for 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="105">
+      <short_text>6 km stationary traffic</short_text>
+      <long_text>stationary traffic for 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="106">
+      <short_text>10 km stationary traffic</short_text>
+      <long_text>stationary traffic for 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="107">
+      <short_text>incident</short_text>
+      <long_text>stationary traffic expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="108">
+      <short_text>%lqueuing traffic</short_text>
+      <long_text>%lqueuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="109">
+      <short_text>1 km queuing traffic</short_text>
+      <long_text>queuing traffic for 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="110">
+      <short_text>2 km queuing traffic</short_text>
+      <long_text>queuing traffic for 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="111">
+      <short_text>4 km queuing traffic</short_text>
+      <long_text>queuing traffic for 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="112">
+      <short_text>6 km queuing traffic</short_text>
+      <long_text>queuing traffic for 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="113">
+      <short_text>10 km queuing traffic</short_text>
+      <long_text>queuing traffic for 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="114">
+      <short_text>incident</short_text>
+      <long_text>queuing traffic expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="115">
+      <short_text>%lslow traffic</short_text>
+      <long_text>%lslow traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="116">
+      <short_text>1 km slow traffic</short_text>
+      <long_text>slow traffic for 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="117">
+      <short_text>2 km slow traffic</short_text>
+      <long_text>slow traffic for 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="118">
+      <short_text>4 km slow traffic</short_text>
+      <long_text>slow traffic for 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="119">
+      <short_text>6 km slow traffic</short_text>
+      <long_text>slow traffic for 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="120">
+      <short_text>10 km slow traffic</short_text>
+      <long_text>slow traffic for 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="121">
+      <short_text>incident</short_text>
+      <long_text>slow traffic expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="122">
+      <short_text>%lheavy traffic</short_text>
+      <long_text>%lheavy traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="123">
+      <short_text>incident</short_text>
+      <long_text>heavy traffic expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="124">
+      <short_text>traffic flowing freely</short_text>
+      <long_text>traffic flowing freely</long_text>
+    </tmc_event>
+    <tmc_event event_code="125">
+      <short_text>%lslow traffic</short_text>
+      <long_text>traffic building up</long_text>
+    </tmc_event>
+    <tmc_event event_code="129">
+      <short_text>3 km stationary traffic</short_text>
+      <long_text>stationary traffic for 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="130">
+      <short_text>%lslow traffic</short_text>
+      <long_text>danger of stationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="131">
+      <short_text>3 km queuing traffic</short_text>
+      <long_text>queuing traffic for 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="132">
+      <short_text>%lslow traffic</short_text>
+      <long_text>danger of queuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="133">
+      <short_text>%lqueuing traffic</short_text>
+      <long_text>long queues</long_text>
+    </tmc_event>
+    <tmc_event event_code="134">
+      <short_text>3 km slow traffic</short_text>
+      <long_text>slow traffic for 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="136">
+      <short_text>%lqueuing traffic</short_text>
+      <long_text>traffic congestion</long_text>
+    </tmc_event>
+    <tmc_event event_code="138">
+      <short_text>%lqueuing traffic</short_text>
+      <long_text>queuing traffic. Approach with care</long_text>
+    </tmc_event>
+    <tmc_event event_code="139">
+      <short_text>%lqueuing traffic</short_text>
+      <long_text>queuing traffic around a bend in the road</long_text>
+    </tmc_event>
+    <tmc_event event_code="140">
+      <short_text>%lqueuing traffic</short_text>
+      <long_text>queuing traffic over the crest of a hill</long_text>
+    </tmc_event>
+    <tmc_event event_code="142">
+      <short_text>%lslow traffic</short_text>
+      <long_text>traffic heavier than normal</long_text>
+    </tmc_event>
+    <tmc_event event_code="143">
+      <short_text>%lslow traffic</short_text>
+      <long_text>traffic very much heavier than normal</long_text>
+    </tmc_event>
+    <tmc_event event_code="200">
+      <short_text>accident</short_text>
+      <long_text>multi vehicle accident. Delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="201">
+      <short_text>%s accident(s)</short_text>
+      <long_text>%s accident(s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="202">
+      <short_text>accident</short_text>
+      <long_text>%s serious accident(s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="203">
+      <short_text>accident</short_text>
+      <long_text>multi-vehicle accident (involving %s vehicles)</long_text>
+    </tmc_event>
+    <tmc_event event_code="204">
+      <short_text>accident</short_text>
+      <long_text>accident involving (a/%s) lorr(y/ies)</long_text>
+    </tmc_event>
+    <tmc_event event_code="205">
+      <short_text>accident</short_text>
+      <long_text>%s accident(s) involving hazardous materials</long_text>
+    </tmc_event>
+    <tmc_event event_code="206">
+      <short_text>accident</short_text>
+      <long_text>%s fuel spillage(s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="207">
+      <short_text>accident</short_text>
+      <long_text>%s chemical spillage(s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="208">
+      <short_text>incident</short_text>
+      <long_text>drivers slowing to look at %s accident(s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="210">
+      <short_text>%s shed load(s)</short_text>
+      <long_text>%s shed load(s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="211">
+      <short_text>incident</short_text>
+      <long_text>%s broken down vehicle(s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="212">
+      <short_text>incident</short_text>
+      <long_text>%s broken down lorr(y/ies)</long_text>
+    </tmc_event>
+    <tmc_event event_code="213">
+      <short_text>accident</short_text>
+      <long_text>%s vehicle fire(s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="214">
+      <short_text>%s incident(s)</short_text>
+      <long_text>%s incident(s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="215">
+      <short_text>%lstationary traffic</short_text>
+      <long_text>%s accident(s). Stationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="216">
+      <short_text>1 km stationary traffic</short_text>
+      <long_text>%s accident(s). Stationary traffic for 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="217">
+      <short_text>2 km stationary traffic</short_text>
+      <long_text>%s accident(s). Stationary traffic for 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="218">
+      <short_text>4 km stationary traffic</short_text>
+      <long_text>%s accident(s). Stationary traffic for 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="219">
+      <short_text>6 km stationary traffic</short_text>
+      <long_text>%s accident(s). Stationary traffic for 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="220">
+      <short_text>10 km stationary traffic</short_text>
+      <long_text>%s accident(s). Stationary traffic for 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="221">
+      <short_text>accident</short_text>
+      <long_text>%s accident(s). Danger of stationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="222">
+      <short_text>%lqueuing traffic</short_text>
+      <long_text>%s accident(s). Queuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="223">
+      <short_text>1 km queuing traffic</short_text>
+      <long_text>%s accident(s). Queuing traffic for 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="224">
+      <short_text>2 km queuing traffic</short_text>
+      <long_text>%s accident(s). Queuing traffic for 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="225">
+      <short_text>4 km queuing traffic</short_text>
+      <long_text>%s accident(s). Queuing traffic for 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="226">
+      <short_text>6 km queuing traffic</short_text>
+      <long_text>%s accident(s). Queuing traffic for 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="227">
+      <short_text>10 km queuing traffic</short_text>
+      <long_text>%s accident(s). Queuing traffic for 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="228">
+      <short_text>accident</short_text>
+      <long_text>%s accident(s). Danger of queuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="229">
+      <short_text>%lslow traffic</short_text>
+      <long_text>%s accident(s). Slow traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="230">
+      <short_text>1 km slow traffic</short_text>
+      <long_text>%s accident(s). Slow traffic for 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="231">
+      <short_text>2 km slow traffic</short_text>
+      <long_text>%s accident(s). Slow traffic for 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="232">
+      <short_text>4 km slow traffic</short_text>
+      <long_text>%s accident(s). Slow traffic for 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="233">
+      <short_text>6 km slow traffic</short_text>
+      <long_text>%s accident(s). Slow traffic for 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="234">
+      <short_text>10 km slow traffic</short_text>
+      <long_text>%s accident(s). Slow traffic for 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="235">
+      <short_text>accident</short_text>
+      <long_text>%s accident(s). Slow traffic expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="236">
+      <short_text>accident</short_text>
+      <long_text>%s accident(s). Heavy traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="237">
+      <short_text>accident</short_text>
+      <long_text>%s accident(s). Heavy traffic expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="238">
+      <short_text>accident</short_text>
+      <long_text>%s accident(s). Traffic flowing freely</long_text>
+    </tmc_event>
+    <tmc_event event_code="239">
+      <short_text>%lslow traffic</short_text>
+      <long_text>%s accident(s). Traffic building up</long_text>
+    </tmc_event>
+    <tmc_event event_code="240">
+      <short_text>closures</short_text>
+      <long_text>road closed due to %s accident(s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="241">
+      <short_text>narrow lanes</short_text>
+      <long_text>%s accident(s). Right lane blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="242">
+      <short_text>narrow lanes</short_text>
+      <long_text>%s accident(s). Centre lane blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="243">
+      <short_text>narrow lanes</short_text>
+      <long_text>%s accident(s). Left lane blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="244">
+      <short_text>narrow lanes</short_text>
+      <long_text>%s accident(s). Hard shoulder blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="245">
+      <short_text>narrow lanes</short_text>
+      <long_text>%s accident(s). Two lanes blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="246">
+      <short_text>narrow lanes</short_text>
+      <long_text>%s accident(s). Three lanes blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="247">
+      <short_text>accident</short_text>
+      <long_text>accident. Delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="248">
+      <short_text>accident</short_text>
+      <long_text>accident. Delays %s expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="249">
+      <short_text>accident</short_text>
+      <long_text>accident. Long delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="250">
+      <short_text>%lstationary traffic</short_text>
+      <long_text>drivers slowing to look at %s accident(s). Stationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="251">
+      <short_text>1 km stationary traffic</short_text>
+      <long_text>vehicles slowing to look at %s accident(s). Stationary traffic for 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="252">
+      <short_text>2 km stationary traffic</short_text>
+      <long_text>vehicles slowing to look at %s accident(s). Stationary traffic for 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="253">
+      <short_text>4 km stationary traffic</short_text>
+      <long_text>vehicles slowing to look at %s accident(s). Stationary traffic for 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="254">
+      <short_text>6 km stationary traffic</short_text>
+      <long_text>vehicles slowing to look at %s accident(s). Stationary traffic for 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="255">
+      <short_text>10 km stationary traffic</short_text>
+      <long_text>vehicles slowing to look at %s accident(s). Stationary traffic for 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="256">
+      <short_text>incident</short_text>
+      <long_text>drivers slowing to look at %s accident(s). Danger of stationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="257">
+      <short_text>%lqueuing traffic</short_text>
+      <long_text>drivers slowing to look at %s accident(s). Queuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="258">
+      <short_text>1 km queuing traffic</short_text>
+      <long_text>vehicles slowing to look at %s accident(s). Queuing traffic for 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="259">
+      <short_text>2 km queuing traffic</short_text>
+      <long_text>vehicles slowing to look at %s accident(s). Queuing traffic for 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="260">
+      <short_text>4 km queuing traffic</short_text>
+      <long_text>vehicles slowing to look at %s accident(s). Queuing traffic for 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="261">
+      <short_text>6 km queuing traffic</short_text>
+      <long_text>vehicles slowing to look at %s accident(s). Queuing traffic for 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="262">
+      <short_text>10 km queuing traffic</short_text>
+      <long_text>vehicles slowing to look at %s accident(s). Queuing traffic for 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="263">
+      <short_text>incident</short_text>
+      <long_text>drivers slowing to look at %s accident(s). Danger of queuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="264">
+      <short_text>%lslow traffic</short_text>
+      <long_text>drivers slowing to look at %s accident(s). Slow traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="265">
+      <short_text>1 km slow traffic</short_text>
+      <long_text>vehicles slowing to look at %s accident(s). Slow traffic for 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="266">
+      <short_text>2 km slow traffic</short_text>
+      <long_text>vehicles slowing to look at %s accident(s). Slow traffic for 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="267">
+      <short_text>4 km slow traffic</short_text>
+      <long_text>vehicles slowing to look at %s accident(s). Slow traffic for 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="268">
+      <short_text>6 km slow traffic</short_text>
+      <long_text>vehicles slowing to look at %s accident(s). Slow traffic for 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="269">
+      <short_text>10 km slow traffic</short_text>
+      <long_text>vehicles slowing to look at %s accident(s). Slow traffic for 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="271">
+      <short_text>%lheavy traffic</short_text>
+      <long_text>drivers slowing to look at %s accident(s). Heavy traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="274">
+      <short_text>%lslow traffic</short_text>
+      <long_text>drivers slowing to look at %s accident(s). Traffic building up</long_text>
+    </tmc_event>
+    <tmc_event event_code="275">
+      <short_text>delays</short_text>
+      <long_text>drivers slowing to look at accident. Delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="276">
+      <short_text>delays</short_text>
+      <long_text>drivers slowing to look at accident. Delays %s expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="277">
+      <short_text>long delays</short_text>
+      <long_text>drivers slowing to look at accident. Long delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="278">
+      <short_text>%lstationary traffic</short_text>
+      <long_text>%s shed load(s). Stationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="279">
+      <short_text>1 km stationary traffic</short_text>
+      <long_text>%s shed load(s). Stationary traffic for 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="280">
+      <short_text>2 km stationary traffic</short_text>
+      <long_text>%s shed load(s). Stationary traffic for 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="281">
+      <short_text>4 km stationary traffic</short_text>
+      <long_text>%s shed load(s). Stationary traffic for 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="282">
+      <short_text>6 km stationary traffic</short_text>
+      <long_text>%s shed load(s). Stationary traffic for 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="283">
+      <short_text>10 km stationary traffic</short_text>
+      <long_text>%s shed load(s). Stationary traffic for 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="284">
+      <short_text>obstruction hazard</short_text>
+      <long_text>%s shed load(s). Danger of stationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="285">
+      <short_text>%lqueuing traffic</short_text>
+      <long_text>%s shed load(s). Queuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="286">
+      <short_text>1 km queuing traffic</short_text>
+      <long_text>%s shed load(s). Queuing traffic for 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="287">
+      <short_text>2 km queuing traffic</short_text>
+      <long_text>%s shed load(s). Queuing traffic for 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="288">
+      <short_text>4 km queuing traffic</short_text>
+      <long_text>%s shed load(s). Queuing traffic for 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="289">
+      <short_text>6 km queuing traffic</short_text>
+      <long_text>%s shed load(s). Queuing traffic for 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="290">
+      <short_text>10 km queuing traffic</short_text>
+      <long_text>%s shed load(s). Queuing traffic for 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="291">
+      <short_text>obstruction hazard</short_text>
+      <long_text>%s shed load(s). Danger of queuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="292">
+      <short_text>%lslow traffic</short_text>
+      <long_text>%s shed load(s). Slow traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="293">
+      <short_text>1 km slow traffic</short_text>
+      <long_text>%s shed load(s). Slow traffic for 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="294">
+      <short_text>2 km slow traffic</short_text>
+      <long_text>%s shed load(s). Slow traffic for 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="295">
+      <short_text>4 km slow traffic</short_text>
+      <long_text>%s shed load(s). Slow traffic for 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="296">
+      <short_text>6 km slow traffic</short_text>
+      <long_text>%s shed load(s). Slow traffic for 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="297">
+      <short_text>10 km slow traffic</short_text>
+      <long_text>%s shed load(s). Slow traffic for 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="298">
+      <short_text>obstruction hazard</short_text>
+      <long_text>%s shed load(s). Slow traffic expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="299">
+      <short_text>obstruction hazard</short_text>
+      <long_text>%s shed load(s). Heavy traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="300">
+      <short_text>obstruction hazard</short_text>
+      <long_text>%s shed load(s). Heavy traffic expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="301">
+      <short_text>obstruction hazard</short_text>
+      <long_text>%s shed load(s). Traffic flowing freely</long_text>
+    </tmc_event>
+    <tmc_event event_code="302">
+      <short_text>obstruction hazard</short_text>
+      <long_text>%s shed load(s). Traffic building up</long_text>
+    </tmc_event>
+    <tmc_event event_code="303">
+      <short_text>closures</short_text>
+      <long_text>blocked by %s shed load(s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="304">
+      <short_text>narrow lanes</short_text>
+      <long_text>%s shed load(s). Right lane blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="305">
+      <short_text>narrow lanes</short_text>
+      <long_text>%s shed load(s). Centre lane blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="306">
+      <short_text>narrow lanes</short_text>
+      <long_text>%s shed load(s). Left lane blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="307">
+      <short_text>narrow lanes</short_text>
+      <long_text>%s shed load(s). Hard shoulder blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="308">
+      <short_text>narrow lanes</short_text>
+      <long_text>%s shed load(s). Two lanes blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="309">
+      <short_text>narrow lanes</short_text>
+      <long_text>%s shed load(s). Three lanes blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="310">
+      <short_text>obstruction hazard</short_text>
+      <long_text>shed load. Delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="311">
+      <short_text>obstruction hazard</short_text>
+      <long_text>shed load. Delays %s expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="312">
+      <short_text>obstruction hazard</short_text>
+      <long_text>shed load. Long delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="313">
+      <short_text>%lstationary traffic</short_text>
+      <long_text>%s broken down vehicle(s). Stationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="314">
+      <short_text>incident</short_text>
+      <long_text>%s broken down vehicle(s). Danger of stationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="315">
+      <short_text>%lqueuing traffic</short_text>
+      <long_text>%s broken down vehicle(s). Queuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="316">
+      <short_text>incident</short_text>
+      <long_text>%s broken down vehicle(s). Danger of queuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="317">
+      <short_text>%lslow traffic</short_text>
+      <long_text>%s broken down vehicle(s). Slow traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="318">
+      <short_text>incident</short_text>
+      <long_text>%s broken down vehicle(s). Slow traffic expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="319">
+      <short_text>incident</short_text>
+      <long_text>%s broken down vehicle(s). Heavy traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="320">
+      <short_text>incident</short_text>
+      <long_text>%s broken down vehicle(s). Heavy traffic expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="321">
+      <short_text>incident</short_text>
+      <long_text>%s broken down vehicle(s). Traffic flowing freely</long_text>
+    </tmc_event>
+    <tmc_event event_code="322">
+      <short_text>incident</short_text>
+      <long_text>%s broken down vehicle(s).traffic building up</long_text>
+    </tmc_event>
+    <tmc_event event_code="323">
+      <short_text>closures</short_text>
+      <long_text>blocked by %s broken down vehicle(s).</long_text>
+    </tmc_event>
+    <tmc_event event_code="324">
+      <short_text>narrow lanes</short_text>
+      <long_text>%s broken down vehicle(s). Right lane blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="325">
+      <short_text>narrow lanes</short_text>
+      <long_text>%s broken down vehicle(s). Centre lane blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="326">
+      <short_text>narrow lanes</short_text>
+      <long_text>%s broken down vehicle(s). Left lane blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="327">
+      <short_text>narrow lanes</short_text>
+      <long_text>%s broken down vehicle(s). Hard shoulder blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="328">
+      <short_text>narrow lanes</short_text>
+      <long_text>%s broken down vehicle(s). Two lanes blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="329">
+      <short_text>narrow lanes</short_text>
+      <long_text>%s broken down vehicle(s). Three lanes blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="330">
+      <short_text>incident</short_text>
+      <long_text>broken down vehicle. Delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="331">
+      <short_text>incident</short_text>
+      <long_text>broken down vehicle. Delays %s expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="332">
+      <short_text>incident</short_text>
+      <long_text>broken down vehicle. Long delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="335">
+      <short_text>accident</short_text>
+      <long_text>accident involving (a/%s) bus(es)</long_text>
+    </tmc_event>
+    <tmc_event event_code="336">
+      <short_text>accident</short_text>
+      <long_text>%s oil spillage(s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="337">
+      <short_text>accident</short_text>
+      <long_text>%s overturned vehicle(s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="338">
+      <short_text>accident</short_text>
+      <long_text>%s overturned lorr(y/ies)</long_text>
+    </tmc_event>
+    <tmc_event event_code="339">
+      <short_text>accident</short_text>
+      <long_text>%s jackknifed trailer(s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="340">
+      <short_text>accident</short_text>
+      <long_text>%s jackknifed caravan(s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="341">
+      <short_text>accident</short_text>
+      <long_text>%s jackknifed lorr(y/ies)</long_text>
+    </tmc_event>
+    <tmc_event event_code="342">
+      <short_text>accident</short_text>
+      <long_text>%s vehicle(s) spun around</long_text>
+    </tmc_event>
+    <tmc_event event_code="343">
+      <short_text>accident</short_text>
+      <long_text>%s accident(s) earlier</long_text>
+    </tmc_event>
+    <tmc_event event_code="344">
+      <short_text>accident</short_text>
+      <long_text>accident investigation work</long_text>
+    </tmc_event>
+    <tmc_event event_code="345">
+      <short_text>accident</short_text>
+      <long_text>%s secondary accident(s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="346">
+      <short_text>incident</short_text>
+      <long_text>%s broken down bus(es)</long_text>
+    </tmc_event>
+    <tmc_event event_code="348">
+      <short_text>3 km stationary traffic</short_text>
+      <long_text>%s accident(s). Stationary traffic for 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="349">
+      <short_text>3 km queuing traffic</short_text>
+      <long_text>%s accident(s). Queuing traffic for 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="350">
+      <short_text>3 km slow traffic</short_text>
+      <long_text>%s accident(s). Slow traffic for 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="351">
+      <short_text>accident</short_text>
+      <long_text>%s accident(s) in roadworks area</long_text>
+    </tmc_event>
+    <tmc_event event_code="352">
+      <short_text>3 km stationary traffic</short_text>
+      <long_text>vehicles slowing to look at %s accident(s). Stationary traffic for 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="353">
+      <short_text>3 km queuing traffic</short_text>
+      <long_text>vehicles slowing to look at %s accident(s). Queuing traffic for 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="354">
+      <short_text>3 km slow traffic</short_text>
+      <long_text>vehicles slowing to look at %s accident(s). Slow traffic for 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="355">
+      <short_text>accident</short_text>
+      <long_text>drivers slowing to look at %s accident(s). Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="356">
+      <short_text>3 km stationary traffic</short_text>
+      <long_text>%s shed load(s). Stationary traffic for 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="357">
+      <short_text>3 km queuing traffic</short_text>
+      <long_text>%s shed load(s). Queuing traffic for 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="358">
+      <short_text>3 km slow traffic</short_text>
+      <long_text>%s shed load(s). Slow traffic for 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="359">
+      <short_text>obstruction hazard</short_text>
+      <long_text>%s shed load(s). Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="360">
+      <short_text>%lstationary traffic</short_text>
+      <long_text>%s overturned vehicle(s). Stationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="361">
+      <short_text>accident</short_text>
+      <long_text>%s overturned vehicle(s). Danger of stationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="362">
+      <short_text>%lqueuing traffic</short_text>
+      <long_text>%s overturned vehicle(s). Queuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="363">
+      <short_text>accident</short_text>
+      <long_text>%s overturned vehicle(s). Danger of queuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="364">
+      <short_text>%lslow traffic</short_text>
+      <long_text>%s overturned vehicle(s). Slow traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="365">
+      <short_text>accident</short_text>
+      <long_text>%s overturned vehicle(s). Slow traffic expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="366">
+      <short_text>accident</short_text>
+      <long_text>%s overturned vehicle(s). Heavy traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="367">
+      <short_text>accident</short_text>
+      <long_text>%s overturned vehicle(s). Heavy traffic expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="368">
+      <short_text>accident</short_text>
+      <long_text>%s overturned vehicle(s). Traffic building up</long_text>
+    </tmc_event>
+    <tmc_event event_code="369">
+      <short_text>closures</short_text>
+      <long_text>blocked by %s overturned vehicle(s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="370">
+      <short_text>narrow lanes</short_text>
+      <long_text>%s overturned vehicle(s). Right lane blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="371">
+      <short_text>narrow lanes</short_text>
+      <long_text>%s overturned vehicle(s). Centre lane blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="372">
+      <short_text>narrow lanes</short_text>
+      <long_text>%s overturned vehicle(s). Left lane blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="373">
+      <short_text>narrow lanes</short_text>
+      <long_text>%s overturned vehicle(s). Two lanes blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="374">
+      <short_text>narrow lanes</short_text>
+      <long_text>%s overturned vehicle(s). Three lanes blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="375">
+      <short_text>accident</short_text>
+      <long_text>overturned vehicle. Delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="376">
+      <short_text>accident</short_text>
+      <long_text>overturned vehicle. Delays %s expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="377">
+      <short_text>accident</short_text>
+      <long_text>overturned vehicle. Long delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="378">
+      <short_text>accident</short_text>
+      <long_text>%s overturned vehicle(s). Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="379">
+      <short_text>%lstationary traffic</short_text>
+      <long_text>stationary traffic due to %s accident(s) earlier</long_text>
+    </tmc_event>
+    <tmc_event event_code="381">
+      <short_text>%lqueuing traffic</short_text>
+      <long_text>queuing traffic due to %s accident(s) earlier</long_text>
+    </tmc_event>
+    <tmc_event event_code="382">
+      <short_text>incident</short_text>
+      <long_text>danger of queuing traffic due to %s accident(s) earlier</long_text>
+    </tmc_event>
+    <tmc_event event_code="383">
+      <short_text>%lslow traffic</short_text>
+      <long_text>slow traffic due to %s accident(s) earlier</long_text>
+    </tmc_event>
+    <tmc_event event_code="387">
+      <short_text>%lslow traffic</short_text>
+      <long_text>traffic building up due to %s accident(s) earlier</long_text>
+    </tmc_event>
+    <tmc_event event_code="388">
+      <short_text>accident</short_text>
+      <long_text>delays %s due to accident earlier</long_text>
+    </tmc_event>
+    <tmc_event event_code="390">
+      <short_text>incident</short_text>
+      <long_text>long delays %s due to accident earlier</long_text>
+    </tmc_event>
+    <tmc_event event_code="391">
+      <short_text>accident</short_text>
+      <long_text>accident investigation work. Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="392">
+      <short_text>accident</short_text>
+      <long_text>%s secondary accident(s). Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="393">
+      <short_text>incident</short_text>
+      <long_text>%s broken down vehicle(s). Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="394">
+      <short_text>incident</short_text>
+      <long_text>%s broken down lorr(y/ies). Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="397">
+      <short_text>incident</short_text>
+      <long_text>rescue and recovery work in progress</long_text>
+    </tmc_event>
+    <tmc_event event_code="401">
+      <short_text>closed</short_text>
+      <long_text>closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="402">
+      <short_text>blocked</short_text>
+      <long_text>blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="406">
+      <short_text>entry restriction</short_text>
+      <long_text>(%s th) entry slip road closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="407">
+      <short_text>exit restriction</short_text>
+      <long_text>(%s th) exit slip road closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="408">
+      <short_text>slip roads closed</short_text>
+      <long_text>slip roads closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="409">
+      <short_text>slip road restrictions</short_text>
+      <long_text>slip road restrictions</long_text>
+    </tmc_event>
+    <tmc_event event_code="410">
+      <short_text>closures</short_text>
+      <long_text>closed. Stationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="411">
+      <short_text>closures, 1 km stationary traffic</short_text>
+      <long_text>closed ahead. Stationary traffic for 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="412">
+      <short_text>closures, 2 km stationary traffic</short_text>
+      <long_text>closed ahead. Stationary traffic for 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="413">
+      <short_text>closures, 4 km stationary traffic</short_text>
+      <long_text>closed ahead. Stationary traffic for 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="414">
+      <short_text>closures, 6 km stationary traffic</short_text>
+      <long_text>closed ahead. Stationary traffic for 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="415">
+      <short_text>closures, 10 km stationary traffic</short_text>
+      <long_text>closed ahead. Stationary traffic for 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="416">
+      <short_text>closures</short_text>
+      <long_text>closed. Danger of stationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="417">
+      <short_text>closures</short_text>
+      <long_text>closed. Queuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="418">
+      <short_text>closures, 1 km queuing traffic</short_text>
+      <long_text>closed ahead. Queuing traffic for 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="419">
+      <short_text>closures, 2 km queuing traffic</short_text>
+      <long_text>closed ahead. Queuing traffic for 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="420">
+      <short_text>closures, 4 km queuing traffic</short_text>
+      <long_text>closed ahead. Queuing traffic for 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="421">
+      <short_text>closures, 6 km queuing traffic</short_text>
+      <long_text>closed ahead. Queuing traffic for 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="422">
+      <short_text>closures, 10 km queuing traffic</short_text>
+      <long_text>closed ahead. Queuing traffic for 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="423">
+      <short_text>closures</short_text>
+      <long_text>closed. Danger of queuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="424">
+      <short_text>closures</short_text>
+      <long_text>closed. Slow traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="425">
+      <short_text>closures, 1 km slow traffic</short_text>
+      <long_text>closed ahead. Slow traffic for 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="426">
+      <short_text>closures, 2 km slow traffic</short_text>
+      <long_text>closed ahead. Slow traffic for 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="427">
+      <short_text>closures, 4 km slow traffic</short_text>
+      <long_text>closed ahead. Slow traffic for 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="428">
+      <short_text>closures, 6 km slow traffic</short_text>
+      <long_text>closed ahead. Slow traffic for 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="429">
+      <short_text>closures, 10 km slow traffic</short_text>
+      <long_text>closed ahead. Slow traffic for 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="430">
+      <short_text>closures</short_text>
+      <long_text>closed. Slow traffic expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="431">
+      <short_text>closures</short_text>
+      <long_text>closed. Heavy traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="432">
+      <short_text>closures</short_text>
+      <long_text>closed. Heavy traffic expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="433">
+      <short_text>closures</short_text>
+      <long_text>closed. Traffic flowing freely</long_text>
+    </tmc_event>
+    <tmc_event event_code="434">
+      <short_text>closures</short_text>
+      <long_text>closed. Traffic building up</long_text>
+    </tmc_event>
+    <tmc_event event_code="435">
+      <short_text>closures</short_text>
+      <long_text>closed. Delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="436">
+      <short_text>closures</short_text>
+      <long_text>closed. Delays %s expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="437">
+      <short_text>closures</short_text>
+      <long_text>closed. Long delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="438">
+      <short_text>closures</short_text>
+      <long_text>blocked. Stationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="439">
+      <short_text>blocked, 1 km stationary traffic</short_text>
+      <long_text>blocked ahead. Stationary traffic for 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="440">
+      <short_text>blocked, 2 km stationary traffic</short_text>
+      <long_text>blocked ahead. Stationary traffic for 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="441">
+      <short_text>blocked, 4 km stationary traffic</short_text>
+      <long_text>blocked ahead. Stationary traffic for 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="442">
+      <short_text>blocked, 6 km stationary traffic</short_text>
+      <long_text>blocked ahead. Stationary traffic for 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="443">
+      <short_text>blocked, 10 km stationary traffic</short_text>
+      <long_text>blocked ahead. Stationary traffic for 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="444">
+      <short_text>closures</short_text>
+      <long_text>blocked. Danger of stationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="445">
+      <short_text>closures</short_text>
+      <long_text>blocked. Queuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="446">
+      <short_text>blocked, 1 km queuing traffic</short_text>
+      <long_text>blocked ahead. Queuing traffic for 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="447">
+      <short_text>blocked, 2 km queuing traffic</short_text>
+      <long_text>blocked ahead. Queuing traffic for 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="448">
+      <short_text>blocked, 4 km queuing traffic</short_text>
+      <long_text>blocked ahead. Queuing traffic for 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="449">
+      <short_text>blocked, 6 km queuing traffic</short_text>
+      <long_text>blocked ahead. Queuing traffic for 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="450">
+      <short_text>blocked, 10 km queuing traffic</short_text>
+      <long_text>blocked ahead. Queuing traffic for 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="451">
+      <short_text>closures</short_text>
+      <long_text>blocked. Danger of queuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="452">
+      <short_text>closures</short_text>
+      <long_text>blocked. Slow traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="453">
+      <short_text>blocked, 1 km slow traffic</short_text>
+      <long_text>blocked ahead. Slow traffic for 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="454">
+      <short_text>blocked, 2 km slow traffic</short_text>
+      <long_text>blocked ahead. Slow traffic for 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="455">
+      <short_text>blocked, 4 km slow traffic</short_text>
+      <long_text>blocked ahead. Slow traffic for 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="456">
+      <short_text>blocked, 6 km slow traffic</short_text>
+      <long_text>blocked ahead. Slow traffic for 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="457">
+      <short_text>blocked, 10 km slow traffic</short_text>
+      <long_text>blocked ahead. Slow traffic for 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="458">
+      <short_text>closures</short_text>
+      <long_text>blocked. Slow traffic expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="459">
+      <short_text>closures</short_text>
+      <long_text>blocked. Heavy traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="460">
+      <short_text>closures</short_text>
+      <long_text>blocked. Heavy traffic expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="461">
+      <short_text>closures</short_text>
+      <long_text>blocked. Traffic flowing freely</long_text>
+    </tmc_event>
+    <tmc_event event_code="462">
+      <short_text>closures</short_text>
+      <long_text>blocked. Traffic building up</long_text>
+    </tmc_event>
+    <tmc_event event_code="463">
+      <short_text>closures</short_text>
+      <long_text>blocked. Delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="464">
+      <short_text>closures</short_text>
+      <long_text>blocked. Delays %s expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="465">
+      <short_text>closures</short_text>
+      <long_text>blocked. Long delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="469">
+      <short_text>closed</short_text>
+      <long_text>closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="470">
+      <short_text>blocked</short_text>
+      <long_text>blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="471">
+      <short_text>entry restriction</short_text>
+      <long_text>%s entry slip road(s) closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="472">
+      <short_text>entry restriction</short_text>
+      <long_text>(%s th) entry slip road blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="473">
+      <short_text>entry blocked</short_text>
+      <long_text>entry blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="474">
+      <short_text>exit restriction</short_text>
+      <long_text>%s exit slip road(s) closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="475">
+      <short_text>exit restriction</short_text>
+      <long_text>(%s th) exit slip road blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="476">
+      <short_text>exit blocked</short_text>
+      <long_text>exit blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="477">
+      <short_text>slip roads blocked</short_text>
+      <long_text>slip roads blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="478">
+      <short_text>exit restriction</short_text>
+      <long_text>connecting carriageway closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="479">
+      <short_text>traffic restrictions</short_text>
+      <long_text>parallel carriageway closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="480">
+      <short_text>traffic restrictions</short_text>
+      <long_text>right-hand parallel carriageway closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="481">
+      <short_text>traffic restrictions</short_text>
+      <long_text>left-hand parallel carriageway closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="482">
+      <short_text>express lanes closed</short_text>
+      <long_text>express lanes closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="483">
+      <short_text>narrow lanes</short_text>
+      <long_text>through traffic lanes closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="484">
+      <short_text>local lanes closed</short_text>
+      <long_text>local lanes closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="485">
+      <short_text>exit restriction</short_text>
+      <long_text>connecting carriageway blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="486">
+      <short_text>traffic restrictions</short_text>
+      <long_text>parallel carriageway blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="487">
+      <short_text>traffic restrictions</short_text>
+      <long_text>right-hand parallel carriageway blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="488">
+      <short_text>traffic restrictions</short_text>
+      <long_text>left-hand parallel carriageway blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="489">
+      <short_text>express lanes blocked</short_text>
+      <long_text>express lanes blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="490">
+      <short_text>narrow lanes</short_text>
+      <long_text>through traffic lanes blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="491">
+      <short_text>local lanes blocked</short_text>
+      <long_text>local lanes blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="492">
+      <short_text>no motor vehicles</short_text>
+      <long_text>no motor vehicles</long_text>
+    </tmc_event>
+    <tmc_event event_code="493">
+      <short_text>restrictions</short_text>
+      <long_text>restrictions</long_text>
+    </tmc_event>
+    <tmc_event event_code="495">
+      <short_text>closed, 3 km stationary traffic</short_text>
+      <long_text>closed ahead. Stationary traffic for 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="496">
+      <short_text>closed, 3 km queuing traffic</short_text>
+      <long_text>closed ahead. Queuing traffic for 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="497">
+      <short_text>closed, 3 km slow traffic</short_text>
+      <long_text>closed ahead. Slow traffic for 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="498">
+      <short_text>blocked, 3 km stationary traffic</short_text>
+      <long_text>blocked ahead. Stationary traffic for 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="499">
+      <short_text>blocked, 3 km queuing traffic</short_text>
+      <long_text>blocked ahead. Queuing traffic for 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="500">
+      <short_text>narrow lanes</short_text>
+      <long_text>%s lane(s) closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="501">
+      <short_text>narrow lanes</short_text>
+      <long_text>%s right lane(s) closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="502">
+      <short_text>narrow lanes</short_text>
+      <long_text>%s centre lane(s) closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="503">
+      <short_text>narrow lanes</short_text>
+      <long_text>%s left lane(s) closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="504">
+      <short_text>narrow lanes</short_text>
+      <long_text>hard shoulder closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="505">
+      <short_text>two lanes closed</short_text>
+      <long_text>two lanes closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="506">
+      <short_text>narrow lanes</short_text>
+      <long_text>three lanes closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="507">
+      <short_text>narrow lanes</short_text>
+      <long_text>%s right lane(s) blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="508">
+      <short_text>narrow lanes</short_text>
+      <long_text>%s centre lane(s) blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="509">
+      <short_text>narrow lanes</short_text>
+      <long_text>%s left lane(s) blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="510">
+      <short_text>narrow lanes</short_text>
+      <long_text>hard shoulder blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="511">
+      <short_text>two lanes blocked</short_text>
+      <long_text>two lanes blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="512">
+      <short_text>narrow lanes</short_text>
+      <long_text>three lanes blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="513">
+      <short_text>narrow lanes</short_text>
+      <long_text>single alternate line traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="514">
+      <short_text>narrow lanes</short_text>
+      <long_text>carriageway reduced (from %s lanes) to one lane</long_text>
+    </tmc_event>
+    <tmc_event event_code="515">
+      <short_text>narrow lanes</short_text>
+      <long_text>carriageway reduced (from %s lanes) to two lanes</long_text>
+    </tmc_event>
+    <tmc_event event_code="516">
+      <short_text>narrow lanes</short_text>
+      <long_text>carriageway reduced (from %s lanes) to three lanes</long_text>
+    </tmc_event>
+    <tmc_event event_code="517">
+      <short_text>contraflow</short_text>
+      <long_text>contraflow</long_text>
+    </tmc_event>
+    <tmc_event event_code="518">
+      <short_text>narrow lanes</short_text>
+      <long_text>narrow lanes</long_text>
+    </tmc_event>
+    <tmc_event event_code="519">
+      <short_text>narrow lanes</short_text>
+      <long_text>contraflow with narrow lanes</long_text>
+    </tmc_event>
+    <tmc_event event_code="520">
+      <short_text>narrow lanes</short_text>
+      <long_text>%s lane(s) blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="521">
+      <short_text>%lstationary traffic</short_text>
+      <long_text>%s lane(s) closed. Stationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="522">
+      <short_text>1 km stationary traffic</short_text>
+      <long_text>%s lanes closed. Stationary traffic for 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="523">
+      <short_text>2 km stationary traffic</short_text>
+      <long_text>%s lanes closed. Stationary traffic for 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="524">
+      <short_text>4 km stationary traffic</short_text>
+      <long_text>%s lanes closed. Stationary traffic for 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="525">
+      <short_text>6 km stationary traffic</short_text>
+      <long_text>%s lanes closed. Stationary traffic for 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="526">
+      <short_text>10 km stationary traffic</short_text>
+      <long_text>%s lanes closed. Stationary traffic for 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="527">
+      <short_text>narrow lanes</short_text>
+      <long_text>%s lane(s) closed. Danger of stationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="528">
+      <short_text>%lqueuing traffic</short_text>
+      <long_text>%s lane(s) closed. Queuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="529">
+      <short_text>1 km queuing traffic</short_text>
+      <long_text>%s lanes closed. Queuing traffic for 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="530">
+      <short_text>2 km queuing traffic</short_text>
+      <long_text>%s lanes closed. Queuing traffic for 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="531">
+      <short_text>4 km queuing traffic</short_text>
+      <long_text>%s lanes closed. Queuing traffic for 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="532">
+      <short_text>6 km queuing traffic</short_text>
+      <long_text>%s lanes closed. Queuing traffic for 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="533">
+      <short_text>10 km queuing traffic</short_text>
+      <long_text>%s lanes closed. Queuing traffic for 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="534">
+      <short_text>narrow lanes</short_text>
+      <long_text>%s lane(s) closed. Danger of queuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="535">
+      <short_text>%lslow traffic</short_text>
+      <long_text>%s lane(s) closed. Slow traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="536">
+      <short_text>1 km slow traffic</short_text>
+      <long_text>%s lanes closed. Slow traffic for 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="537">
+      <short_text>2 km slow traffic</short_text>
+      <long_text>%s lanes closed. Slow traffic for 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="538">
+      <short_text>4 km slow traffic</short_text>
+      <long_text>%s lanes closed. Slow traffic for 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="539">
+      <short_text>6 km slow traffic</short_text>
+      <long_text>%s lanes closed. Slow traffic for 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="540">
+      <short_text>10 km slow traffic</short_text>
+      <long_text>%s lanes closed. Slow traffic for 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="541">
+      <short_text>narrow lanes</short_text>
+      <long_text>%s lane(s) closed. Slow traffic expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="542">
+      <short_text>%lheavy traffic</short_text>
+      <long_text>%s lane(s) closed. Heavy traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="543">
+      <short_text>narrow lanes</short_text>
+      <long_text>%s lane(s) closed. Heavy traffic expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="544">
+      <short_text>narrow lanes</short_text>
+      <long_text>%slane(s) closed. Traffic flowing freely</long_text>
+    </tmc_event>
+    <tmc_event event_code="545">
+      <short_text>narrow lanes</short_text>
+      <long_text>%slane(s) closed. Traffic building up</long_text>
+    </tmc_event>
+    <tmc_event event_code="546">
+      <short_text>%lstationary traffic</short_text>
+      <long_text>carriageway reduced (from %s lanes) to one lane. Stationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="547">
+      <short_text>narrow lanes</short_text>
+      <long_text>carriageway reduced (from %s lanes) to one lane. Danger of stationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="548">
+      <short_text>%lqueuing traffic</short_text>
+      <long_text>carriageway reduced (from %s lanes) to one lane. Queuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="549">
+      <short_text>narrow lanes</short_text>
+      <long_text>carriageway reduced (from %s lanes) to one lane. Danger of queuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="550">
+      <short_text>%lslow traffic</short_text>
+      <long_text>carriageway reduced (from %s lanes) to one lane. Slow traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="551">
+      <short_text>narrow lanes</short_text>
+      <long_text>carriageway reduced (from %s lanes) to one lane. Slow traffic expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="552">
+      <short_text>%lheavy traffic</short_text>
+      <long_text>carriageway reduced (from %s lanes) to one lane. Heavy traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="553">
+      <short_text>narrow lanes</short_text>
+      <long_text>carriageway reduced (from %s lanes) to one lane. Heavy traffic expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="554">
+      <short_text>narrow lanes</short_text>
+      <long_text>carriageway reduced (from %s lanes) to one lane. Traffic flowing freely</long_text>
+    </tmc_event>
+    <tmc_event event_code="555">
+      <short_text>narrow lanes</short_text>
+      <long_text>carriageway reduced (from %s lanes) to one lane. Traffic building up</long_text>
+    </tmc_event>
+    <tmc_event event_code="556">
+      <short_text>%lstationary traffic</short_text>
+      <long_text>carriageway reduced (from %s lanes) to two lanes. Stationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="557">
+      <short_text>narrow lanes</short_text>
+      <long_text>carriageway reduced (from %s lanes) to two lanes. Danger of stationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="558">
+      <short_text>%lstationary traffic</short_text>
+      <long_text>carriageway reduced (from %s lanes) to two lanes. Queuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="559">
+      <short_text>narrow lanes</short_text>
+      <long_text>carriageway reduced (from %s lanes) to two lanes. Danger of queuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="560">
+      <short_text>%lslow traffic</short_text>
+      <long_text>carriageway reduced (from %s lanes) to two lanes. Slow traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="561">
+      <short_text>narrow lanes</short_text>
+      <long_text>carriageway reduced (from %s lanes) to two lanes. Slow traffic expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="562">
+      <short_text>%lheavy traffic</short_text>
+      <long_text>carriageway reduced (from %s lanes) to two lanes. Heavy traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="563">
+      <short_text>narrow lanes</short_text>
+      <long_text>carriageway reduced (from %s lanes) to two lanes. Heavy traffic expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="564">
+      <short_text>narrow lanes</short_text>
+      <long_text>carriageway reduced (from %s lanes) to two lanes. Traffic flowing freely</long_text>
+    </tmc_event>
+    <tmc_event event_code="565">
+      <short_text>narrow lanes</short_text>
+      <long_text>carriageway reduced (from %s lanes) to two lanes. Traffic building up</long_text>
+    </tmc_event>
+    <tmc_event event_code="566">
+      <short_text>%lstationary traffic</short_text>
+      <long_text>carriageway reduced (from %s lanes) to three lanes. Stationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="567">
+      <short_text>narrow lanes</short_text>
+      <long_text>carriageway reduced (from %s lanes) to three lanes. Danger of stationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="568">
+      <short_text>%lqueuing traffic</short_text>
+      <long_text>carriageway reduced (from %s lanes) to three lanes. Queuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="569">
+      <short_text>narrow lanes</short_text>
+      <long_text>carriageway reduced (from %s lanes) to three lanes. Danger of queuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="570">
+      <short_text>%lslow traffic</short_text>
+      <long_text>carriageway reduced (from %s lanes) to three lanes. Slow traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="571">
+      <short_text>narrow lanes</short_text>
+      <long_text>carriageway reduced (from %s lanes) to three lanes. Slow traffic expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="572">
+      <short_text>%lheavy traffic</short_text>
+      <long_text>carriageway reduced (from %s lanes) to three lanes. Heavy traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="573">
+      <short_text>narrow lanes</short_text>
+      <long_text>carriageway reduced (from %s lanes) to three lanes. Heavy traffic expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="574">
+      <short_text>narrow lanes</short_text>
+      <long_text>carriageway reduced (from %s lanes) to three lanes. Traffic flowing freely</long_text>
+    </tmc_event>
+    <tmc_event event_code="575">
+      <short_text>narrow lanes</short_text>
+      <long_text>carriageway reduced (from %s lanes) to three lanes. Traffic building up</long_text>
+    </tmc_event>
+    <tmc_event event_code="576">
+      <short_text>%lstationary traffic</short_text>
+      <long_text>contraflow. Stationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="577">
+      <short_text>1 km stationary traffic</short_text>
+      <long_text>contraflow. Stationary traffic for 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="578">
+      <short_text>2 km stationary traffic</short_text>
+      <long_text>contraflow. Stationary traffic for 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="579">
+      <short_text>4 km stationary traffic</short_text>
+      <long_text>contraflow. Stationary traffic for 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="580">
+      <short_text>6 km stationary traffic</short_text>
+      <long_text>contraflow. Stationary traffic for 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="581">
+      <short_text>10 km stationary traffic</short_text>
+      <long_text>contraflow. Stationary traffic for 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="583">
+      <short_text>%lqueuing traffic</short_text>
+      <long_text>contraflow. Queuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="584">
+      <short_text>1 km queuing traffic</short_text>
+      <long_text>contraflow. Queuing traffic for 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="585">
+      <short_text>2 km queuing traffic</short_text>
+      <long_text>contraflow. Queuing traffic for 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="586">
+      <short_text>4 km queuing traffic</short_text>
+      <long_text>contraflow. Queuing traffic for 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="587">
+      <short_text>6 km queuing traffic</short_text>
+      <long_text>contraflow. Queuing traffic for 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="588">
+      <short_text>10 km queuing traffic</short_text>
+      <long_text>contraflow. Queuing traffic for 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="590">
+      <short_text>%lslow traffic</short_text>
+      <long_text>contraflow. Slow traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="591">
+      <short_text>1 km slow traffic</short_text>
+      <long_text>contraflow. Slow traffic for 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="592">
+      <short_text>2 km slow traffic</short_text>
+      <long_text>contraflow. Slow traffic for 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="593">
+      <short_text>4 km slow traffic</short_text>
+      <long_text>contraflow. Slow traffic for 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="594">
+      <short_text>6 km slow traffic</short_text>
+      <long_text>contraflow. Slow traffic for 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="595">
+      <short_text>10 km slow traffic</short_text>
+      <long_text>contraflow. Slow traffic for 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="597">
+      <short_text>%lheavy traffic</short_text>
+      <long_text>contraflow. Heavy traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="600">
+      <short_text>%lslow traffic</short_text>
+      <long_text>contraflow. Traffic building up</long_text>
+    </tmc_event>
+    <tmc_event event_code="601">
+      <short_text>narrow lanes</short_text>
+      <long_text>contraflow. Carriageway reduced (from %s lanes) to one lane</long_text>
+    </tmc_event>
+    <tmc_event event_code="602">
+      <short_text>narrow lanes</short_text>
+      <long_text>contraflow. Carriageway reduced (from %s lanes) to two lanes</long_text>
+    </tmc_event>
+    <tmc_event event_code="603">
+      <short_text>narrow lanes</short_text>
+      <long_text>contraflow. Carriageway reduced (from %s lanes) to three lanes</long_text>
+    </tmc_event>
+    <tmc_event event_code="604">
+      <short_text>%lstationary traffic</short_text>
+      <long_text>narrow lanes. Stationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="605">
+      <short_text>narrow lanes</short_text>
+      <long_text>narrow lanes. Danger of stationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="606">
+      <short_text>%lqueuing traffic</short_text>
+      <long_text>narrow lanes. Queuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="607">
+      <short_text>narrow lanes</short_text>
+      <long_text>narrow lanes. Danger of queuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="608">
+      <short_text>%lslow traffic</short_text>
+      <long_text>narrow lanes. Slow traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="609">
+      <short_text>narrow lanes</short_text>
+      <long_text>narrow lanes. Slow traffic expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="610">
+      <short_text>%lheavy traffic</short_text>
+      <long_text>narrow lanes. Heavy traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="611">
+      <short_text>narrow lanes</short_text>
+      <long_text>narrow lanes. Heavy traffic expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="612">
+      <short_text>narrow lanes</short_text>
+      <long_text>narrow lanes. Traffic flowing freely</long_text>
+    </tmc_event>
+    <tmc_event event_code="613">
+      <short_text>narrow lanes</short_text>
+      <long_text>narrow lanes. Traffic building up</long_text>
+    </tmc_event>
+    <tmc_event event_code="614">
+      <short_text>%lstationary traffic</short_text>
+      <long_text>contraflow with narrow lanes. Stationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="615">
+      <short_text>narrow lanes</short_text>
+      <long_text>contraflow with narrow lanes. Stationary traffic. Danger of stationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="616">
+      <short_text>%lqueuing traffic</short_text>
+      <long_text>contraflow with narrow lanes. Queuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="617">
+      <short_text>narrow lanes</short_text>
+      <long_text>contraflow with narrow lanes. Danger of queuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="618">
+      <short_text>%lslow traffic</short_text>
+      <long_text>contraflow with narrow lanes. Slow traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="619">
+      <short_text>narrow lanes</short_text>
+      <long_text>contraflow with narrow lanes. Slow traffic expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="620">
+      <short_text>%lheavy traffic</short_text>
+      <long_text>contraflow with narrow lanes. Heavy traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="621">
+      <short_text>narrow lanes</short_text>
+      <long_text>contraflow with narrow lanes. Heavy traffic expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="622">
+      <short_text>narrow lanes</short_text>
+      <long_text>contraflow with narrow lanes. Traffic flowing freely</long_text>
+    </tmc_event>
+    <tmc_event event_code="623">
+      <short_text>narrow lanes</short_text>
+      <long_text>contraflow with narrow lanes. Traffic building up</long_text>
+    </tmc_event>
+    <tmc_event event_code="626">
+      <short_text>closures</short_text>
+      <long_text>blocked ahead. Slow traffic for 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="628">
+      <short_text>closures</short_text>
+      <long_text>no motor vehicles with even-numbered registration plates</long_text>
+    </tmc_event>
+    <tmc_event event_code="629">
+      <short_text>closures</short_text>
+      <long_text>no motor vehicles with odd-numbered registration plates</long_text>
+    </tmc_event>
+    <tmc_event event_code="637">
+      <short_text>narrow lanes</short_text>
+      <long_text>emergency lane closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="638">
+      <short_text>narrow lanes</short_text>
+      <long_text>turning lane closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="639">
+      <short_text>narrow lanes</short_text>
+      <long_text>crawler lane closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="640">
+      <short_text>narrow lanes</short_text>
+      <long_text>slow vehicle lane closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="641">
+      <short_text>one lane closed</short_text>
+      <long_text>one lane closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="642">
+      <short_text>narrow lanes</short_text>
+      <long_text>emergency lane blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="643">
+      <short_text>narrow lanes</short_text>
+      <long_text>turning lane blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="644">
+      <short_text>narrow lanes</short_text>
+      <long_text>crawler lane blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="645">
+      <short_text>narrow lanes</short_text>
+      <long_text>slow vehicle lane blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="646">
+      <short_text>one lane blocked</short_text>
+      <long_text>one lane blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="647">
+      <short_text>carpool information</short_text>
+      <long_text>(%s person) carpool lane in operation</long_text>
+    </tmc_event>
+    <tmc_event event_code="648">
+      <short_text>carpool information</short_text>
+      <long_text>(%s person) carpool lane closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="649">
+      <short_text>carpool information</short_text>
+      <long_text>(%s person) carpool lane blocked</long_text>
+    </tmc_event>
+    <tmc_event event_code="650">
+      <short_text>carpool information</short_text>
+      <long_text>carpool restrictions changed (to %s persons per vehicle)</long_text>
+    </tmc_event>
+    <tmc_event event_code="651">
+      <short_text>3 km stationary traffic</short_text>
+      <long_text>%s lanes closed. Stationary traffic for 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="652">
+      <short_text>3 km queuing traffic</short_text>
+      <long_text>%s lanes closed. Queuing traffic for 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="653">
+      <short_text>3 km slow traffic</short_text>
+      <long_text>%s lanes closed. Slow traffic for 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="654">
+      <short_text>3 km stationary traffic</short_text>
+      <long_text>contraflow. Stationary traffic for 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="655">
+      <short_text>3 km queuing traffic</short_text>
+      <long_text>contraflow. Queuing traffic for 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="656">
+      <short_text>3 km slow traffic</short_text>
+      <long_text>contraflow. Slow traffic for 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="664">
+      <short_text>closures</short_text>
+      <long_text>carriageway closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="665">
+      <short_text>closures</short_text>
+      <long_text>both directions closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="666">
+      <short_text>closures</short_text>
+      <long_text>intermittend short term closures</long_text>
+    </tmc_event>
+    <tmc_event event_code="671">
+      <short_text>carpool information</short_text>
+      <long_text>bus lane available for carpools (with at least %s occupants)</long_text>
+    </tmc_event>
+    <tmc_event event_code="701">
+      <short_text>roadworks</short_text>
+      <long_text>(%s sets of) roadworks</long_text>
+    </tmc_event>
+    <tmc_event event_code="702">
+      <short_text>roadworks</short_text>
+      <long_text>(%s sets of) major roadworks</long_text>
+    </tmc_event>
+    <tmc_event event_code="703">
+      <short_text>roadworks</short_text>
+      <long_text>(%s sets of) maintenance work</long_text>
+    </tmc_event>
+    <tmc_event event_code="704">
+      <short_text>roadworks</short_text>
+      <long_text>(%s sections of) resurfacing work</long_text>
+    </tmc_event>
+    <tmc_event event_code="705">
+      <short_text>roadworks</short_text>
+      <long_text>(%s sets of) central reservation work</long_text>
+    </tmc_event>
+    <tmc_event event_code="706">
+      <short_text>dangerous situation</short_text>
+      <long_text>(%s sets of) road marking work</long_text>
+    </tmc_event>
+    <tmc_event event_code="707">
+      <short_text>roadworks</short_text>
+      <long_text>bridge maintenance work (at %s bridges)</long_text>
+    </tmc_event>
+    <tmc_event event_code="708">
+      <short_text>roadworks</short_text>
+      <long_text>(%s sets of) temporary traffic lights</long_text>
+    </tmc_event>
+    <tmc_event event_code="709">
+      <short_text>roadworks</short_text>
+      <long_text>(%s sections of) blasting work</long_text>
+    </tmc_event>
+    <tmc_event event_code="710">
+      <short_text>%lstationary traffic</short_text>
+      <long_text>(%s sets of) roadworks. Stationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="711">
+      <short_text>1 km stationary traffic</short_text>
+      <long_text>(%s sets of) roadworks. Stationary traffic for 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="712">
+      <short_text>2 km stationary traffic</short_text>
+      <long_text>(%s sets of) roadworks. Stationary traffic for 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="713">
+      <short_text>4 km stationary traffic</short_text>
+      <long_text>(%s sets of) roadworks. Stationary traffic for 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="714">
+      <short_text>6 km stationary traffic</short_text>
+      <long_text>(%s sets of) roadworks. Stationary traffic for 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="715">
+      <short_text>10 km stationary traffic</short_text>
+      <long_text>(%s sets of) roadworks. Stationary traffic for 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="716">
+      <short_text>roadworks</short_text>
+      <long_text>(%s sets of) roadworks. Danger of stationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="717">
+      <short_text>%lqueuing traffic</short_text>
+      <long_text>(%s sets of) roadworks. Queuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="718">
+      <short_text>1 km queuing traffic</short_text>
+      <long_text>(%s sets of) roadworks. Queuing traffic for 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="719">
+      <short_text>2 km queuing traffic</short_text>
+      <long_text>(%s sets of) roadworks. Queuing traffic for 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="720">
+      <short_text>4 km queuing traffic</short_text>
+      <long_text>(%s sets of) roadworks. Queuing traffic for 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="721">
+      <short_text>6 km queuing traffic</short_text>
+      <long_text>(%s sets of) roadworks. Queuing traffic for 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="722">
+      <short_text>10 km queuing traffic</short_text>
+      <long_text>(%s sets of) roadworks. Queuing traffic for 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="723">
+      <short_text>roadworks</short_text>
+      <long_text>(%s sets of) roadworks. Danger of queuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="724">
+      <short_text>%lslow traffic</short_text>
+      <long_text>(%s sets of) roadworks. Slow traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="725">
+      <short_text>1 km slow traffic</short_text>
+      <long_text>(%s sets of) roadworks. Slow traffic for 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="726">
+      <short_text>2 km slow traffic</short_text>
+      <long_text>(%s sets of) roadworks. Slow traffic for 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="727">
+      <short_text>4 km slow traffic</short_text>
+      <long_text>(%s sets of) roadworks. Slow traffic for 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="728">
+      <short_text>6 km slow traffic</short_text>
+      <long_text>(%s sets of) roadworks. Slow traffic for 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="729">
+      <short_text>10 km slow traffic</short_text>
+      <long_text>(%s sets of) roadworks. Slow traffic for 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="730">
+      <short_text>roadworks</short_text>
+      <long_text>(%s sets of) roadworks. Slow traffic expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="731">
+      <short_text>roadworks</short_text>
+      <long_text>(%s sets of) roadworks. Heavy traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="732">
+      <short_text>roadworks</short_text>
+      <long_text>(%s sets of) roadworks. Heavy traffic expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="733">
+      <short_text>roadworks</short_text>
+      <long_text>(%s sets of) roadworks. Traffic flowing freely</long_text>
+    </tmc_event>
+    <tmc_event event_code="734">
+      <short_text>roadworks</short_text>
+      <long_text>(%s sets of) roadworks. Traffic building up</long_text>
+    </tmc_event>
+    <tmc_event event_code="735">
+      <short_text>closures</short_text>
+      <long_text>closed due to (%s sets of) roadworks</long_text>
+    </tmc_event>
+    <tmc_event event_code="736">
+      <short_text>narrow lanes</short_text>
+      <long_text>(%s sets of) roadworks. Right lane closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="737">
+      <short_text>narrow lanes</short_text>
+      <long_text>(%s sets of) roadworks. Centre lane closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="738">
+      <short_text>narrow lanes</short_text>
+      <long_text>(%s sets of) roadworks. Left lane closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="739">
+      <short_text>narrow lanes</short_text>
+      <long_text>(%s sets of) roadworks. Hard shoulder closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="740">
+      <short_text>narrow lanes</short_text>
+      <long_text>(%s sets of) roadworks. Two lanes closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="741">
+      <short_text>narrow lanes</short_text>
+      <long_text>(%s sets of) roadworks. Three lanes closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="742">
+      <short_text>narrow lanes</short_text>
+      <long_text>(%s sets of) roadworks. Single alternate line traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="743">
+      <short_text>narrow lanes</short_text>
+      <long_text>roadworks. Carriageway reduced (from %s lanes) to one lane</long_text>
+    </tmc_event>
+    <tmc_event event_code="744">
+      <short_text>narrow lanes</short_text>
+      <long_text>roadworks. Carriageway reduced (from %s lanes) to two lanes</long_text>
+    </tmc_event>
+    <tmc_event event_code="745">
+      <short_text>narrow lanes</short_text>
+      <long_text>roadworks. Carriageway reduced (from %s lanes) to three lanes</long_text>
+    </tmc_event>
+    <tmc_event event_code="746">
+      <short_text>narrow lanes</short_text>
+      <long_text>(%s sets of) roadworks. Contraflow</long_text>
+    </tmc_event>
+    <tmc_event event_code="747">
+      <short_text>roadworks</short_text>
+      <long_text>roadworks. Delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="748">
+      <short_text>roadworks</short_text>
+      <long_text>roadworks. Delays %s expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="749">
+      <short_text>roadworks</short_text>
+      <long_text>roadworks. Long delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="750">
+      <short_text>%lstationary traffic</short_text>
+      <long_text>(%s sections of) resurfacing work. Stationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="751">
+      <short_text>1 km stationary traffic</short_text>
+      <long_text>(%s sections of) resurfacing work. Stationary traffic for 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="752">
+      <short_text>2 km stationary traffic</short_text>
+      <long_text>(%s sections of) resurfacing work. Stationary traffic for 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="753">
+      <short_text>4 km stationary traffic</short_text>
+      <long_text>(%s sections of) resurfacing work. Stationary traffic for 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="754">
+      <short_text>6 km stationary traffic</short_text>
+      <long_text>(%s sections of) resurfacing work. Stationary traffic for 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="755">
+      <short_text>10 km stationary traffic</short_text>
+      <long_text>(%s sections of) resurfacing work. Stationary traffic for 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="756">
+      <short_text>roadworks</short_text>
+      <long_text>(%s sections of) resurfacing work. Danger of stationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="757">
+      <short_text>%lqueuing traffic</short_text>
+      <long_text>(%s sections of) resurfacing work. Queuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="758">
+      <short_text>1 km queuing traffic</short_text>
+      <long_text>(%s sections of) resurfacing work. Queuing traffic for 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="759">
+      <short_text>2 km queuing traffic</short_text>
+      <long_text>(%s sections of) resurfacing work. Queuing traffic for 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="760">
+      <short_text>4 km queuing traffic</short_text>
+      <long_text>(%s sections of) resurfacing work. Queuing traffic for 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="761">
+      <short_text>6 km queuing traffic</short_text>
+      <long_text>(%s sections of) resurfacing work. Queuing traffic for 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="762">
+      <short_text>10 km queuing traffic</short_text>
+      <long_text>(%s sections of) resurfacing work. Queuing traffic for 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="763">
+      <short_text>roadworks</short_text>
+      <long_text>(%s sections of) resurfacing work. Danger of queuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="764">
+      <short_text>%lslow traffic</short_text>
+      <long_text>(%s sections of) resurfacing work. Slow traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="765">
+      <short_text>1 km slow traffic</short_text>
+      <long_text>(%s sections of) resurfacing work. Slow traffic for 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="766">
+      <short_text>2 km slow traffic</short_text>
+      <long_text>(%s sections of) resurfacing work. Slow traffic for 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="767">
+      <short_text>4 km slow traffic</short_text>
+      <long_text>(%s sections of) resurfacing work. Slow traffic for 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="768">
+      <short_text>6 km slow traffic</short_text>
+      <long_text>(%s sections of) resurfacing work. Slow traffic for 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="769">
+      <short_text>10 km slow traffic</short_text>
+      <long_text>(%s sections of) resurfacing work. Slow traffic for 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="770">
+      <short_text>roadworks</short_text>
+      <long_text>(%s sections of) resurfacing work. Slow traffic expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="771">
+      <short_text>%lslow traffic</short_text>
+      <long_text>(%s sections of) resurfacing work. %lHeavy traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="772">
+      <short_text>roadworks</short_text>
+      <long_text>(%s sections of) resurfacing work. Heavy traffic expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="773">
+      <short_text>roadworks</short_text>
+      <long_text>(%s sections of) resurfacing work. Traffic flowing freely</long_text>
+    </tmc_event>
+    <tmc_event event_code="774">
+      <short_text>roadworks</short_text>
+      <long_text>(%s sections of) resurfacing work. Traffic building up</long_text>
+    </tmc_event>
+    <tmc_event event_code="775">
+      <short_text>narrow lanes</short_text>
+      <long_text>(%s sections of) resurfacing work. Single alternate line traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="776">
+      <short_text>narrow lanes</short_text>
+      <long_text>resurfacing work. Carriageway reduced (from %s lanes) to one lane</long_text>
+    </tmc_event>
+    <tmc_event event_code="777">
+      <short_text>narrow lanes</short_text>
+      <long_text>resurfacing work. Carriageway reduced (from %s lanes) to two lanes</long_text>
+    </tmc_event>
+    <tmc_event event_code="780">
+      <short_text>roadworks</short_text>
+      <long_text>resurfacing work. Delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="781">
+      <short_text>roadworks</short_text>
+      <long_text>resurfacing work. Delays %s expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="782">
+      <short_text>roadworks</short_text>
+      <long_text>resurfacing work. Long delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="783">
+      <short_text>%lstationary traffic</short_text>
+      <long_text>(%s sets of) road marking work. Stationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="785">
+      <short_text>%lqueuing traffic</short_text>
+      <long_text>(%s sets of) road marking work. Queuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="786">
+      <short_text>incident</short_text>
+      <long_text>(%s sets of) road marking work. Danger of queuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="787">
+      <short_text>%lslow traffic</short_text>
+      <long_text>(%s sets of) road marking work. Slow traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="789">
+      <short_text>%lheavy traffic</short_text>
+      <long_text>(%s sets of) road marking work. %lHeavy traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="791">
+      <short_text>roadworks</short_text>
+      <long_text>(%s sets of) road marking work. Traffic flowing freely</long_text>
+    </tmc_event>
+    <tmc_event event_code="792">
+      <short_text>%lslow traffic</short_text>
+      <long_text>(%s sets of) road marking work. Traffic building up</long_text>
+    </tmc_event>
+    <tmc_event event_code="793">
+      <short_text>narrow lanes</short_text>
+      <long_text>(%s sets of) road marking work. Right lane closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="794">
+      <short_text>narrow lanes</short_text>
+      <long_text>(%s sets of) road marking work. Centre lane closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="795">
+      <short_text>narrow lanes</short_text>
+      <long_text>(%s sets of) road marking work. Left lane closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="796">
+      <short_text>narrow lanes</short_text>
+      <long_text>(%s sets of) road marking work. Hard shoulder closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="797">
+      <short_text>narrow lanes</short_text>
+      <long_text>(%s sets of) road marking work. Two lanes closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="798">
+      <short_text>narrow lanes</short_text>
+      <long_text>(%s sets of) road marking work. Three lanes closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="799">
+      <short_text>closures</short_text>
+      <long_text>closed for bridge demolition work (at %s bridges)</long_text>
+    </tmc_event>
+    <tmc_event event_code="802">
+      <short_text>roadworks</short_text>
+      <long_text>(%s sets of) long-term roadworks</long_text>
+    </tmc_event>
+    <tmc_event event_code="803">
+      <short_text>roadworks</short_text>
+      <long_text>(%s sets of) construction work</long_text>
+    </tmc_event>
+    <tmc_event event_code="804">
+      <short_text>roadworks</short_text>
+      <long_text>(%s sets of) slow moving maintenance vehicles</long_text>
+    </tmc_event>
+    <tmc_event event_code="805">
+      <short_text>roadworks</short_text>
+      <long_text>bridge demolition work (at %s bridges)</long_text>
+    </tmc_event>
+    <tmc_event event_code="806">
+      <short_text>roadworks</short_text>
+      <long_text>(%s sets of) water main work</long_text>
+    </tmc_event>
+    <tmc_event event_code="807">
+      <short_text>gas main work</short_text>
+      <long_text>(%s sets of) gas main work</long_text>
+    </tmc_event>
+    <tmc_event event_code="808">
+      <short_text>roadworks</short_text>
+      <long_text>(%s sets of) work on buried cables</long_text>
+    </tmc_event>
+    <tmc_event event_code="809">
+      <short_text>roadworks</short_text>
+      <long_text>(%s sets of) work on buried services</long_text>
+    </tmc_event>
+    <tmc_event event_code="810">
+      <short_text>roadworks</short_text>
+      <long_text>new roadworks layout</long_text>
+    </tmc_event>
+    <tmc_event event_code="812">
+      <short_text>3 km stationary traffic</short_text>
+      <long_text>(%s sets of) roadworks. Stationary traffic for 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="813">
+      <short_text>3 km queuing traffic</short_text>
+      <long_text>(%s sets of) roadworks. Queuing traffic for 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="814">
+      <short_text>3 km slow traffic</short_text>
+      <long_text>(%s sets of) roadworks. Slow traffic for 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="815">
+      <short_text>roadworks</short_text>
+      <long_text>(%s sets of) roadworks during the day time</long_text>
+    </tmc_event>
+    <tmc_event event_code="816">
+      <short_text>roadworks</short_text>
+      <long_text>(%s sets of) roadworks during off-peak periods</long_text>
+    </tmc_event>
+    <tmc_event event_code="817">
+      <short_text>roadworks</short_text>
+      <long_text>(%s sets of) roadworks during the night</long_text>
+    </tmc_event>
+    <tmc_event event_code="818">
+      <short_text>3 km stationary traffic</short_text>
+      <long_text>(%s sections of) resurfacing work. Stationary traffic for 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="819">
+      <short_text>3 km queuing traffic</short_text>
+      <long_text>(%s sections of) resurfacing work. Queuing traffic for 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="820">
+      <short_text>3 km slow traffic</short_text>
+      <long_text>(%s sections of) resurfacing work. Slow traffic for 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="821">
+      <short_text>roadworks</short_text>
+      <long_text>(%s sets of) resurfacing work during the day time</long_text>
+    </tmc_event>
+    <tmc_event event_code="822">
+      <short_text>roadworks</short_text>
+      <long_text>(%s sets of) resurfacing work during off-peak periods</long_text>
+    </tmc_event>
+    <tmc_event event_code="823">
+      <short_text>roadworks</short_text>
+      <long_text>(%s sets of) resurfacing work during the night</long_text>
+    </tmc_event>
+    <tmc_event event_code="824">
+      <short_text>dangerous situation</short_text>
+      <long_text>(%s sets of) road marking work. Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="825">
+      <short_text>%lstationary traffic</short_text>
+      <long_text>(%s sets of) slow moving maintenance vehicles. Stationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="826">
+      <short_text>roadworks</short_text>
+      <long_text>(%s sets of) slow moving maintenance vehicles. Danger of stationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="827">
+      <short_text>%lqueuing traffic</short_text>
+      <long_text>(%s sets of) slow moving maintenance vehicles. Queuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="828">
+      <short_text>roadworks</short_text>
+      <long_text>(%s sets of) slow moving maintenance vehicles. Danger of queuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="829">
+      <short_text>%lslow traffic</short_text>
+      <long_text>(%s sets of) slow moving maintenance vehicles. Slow traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="830">
+      <short_text>roadworks</short_text>
+      <long_text>(%s sets of) slow moving maintenance vehicles. Slow traffic expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="831">
+      <short_text>%lheavy traffic</short_text>
+      <long_text>(%s sets of) slow moving maintenance vehicles. Heavy traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="832">
+      <short_text>roadworks</short_text>
+      <long_text>(%s sets of) slow moving maintenance vehicles. Heavy traffic expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="833">
+      <short_text>roadworks</short_text>
+      <long_text>(%s sets of) slow moving maintenance vehicles. Traffic flowing freely</long_text>
+    </tmc_event>
+    <tmc_event event_code="834">
+      <short_text>roadworks</short_text>
+      <long_text>(%s sets of) slow moving maintenance vehicles. Traffic building up</long_text>
+    </tmc_event>
+    <tmc_event event_code="835">
+      <short_text>narrow lanes</short_text>
+      <long_text>(%s sets of) slow moving maintenance vehicles. Right lane closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="836">
+      <short_text>narrow lanes</short_text>
+      <long_text>(%s sets of) slow moving maintenance vehicles. Centre lane closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="837">
+      <short_text>narrow lanes</short_text>
+      <long_text>(%s sets of) slow moving maintenance vehicles. Left lane closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="838">
+      <short_text>narrow lanes</short_text>
+      <long_text>(%s sets of) slow moving maintenance vehicles. Two lanes closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="839">
+      <short_text>narrow lanes</short_text>
+      <long_text>(%s sets of) slow moving maintenance vehicles. Three lanes closed</long_text>
+    </tmc_event>
+    <tmc_event event_code="840">
+      <short_text>roadworks</short_text>
+      <long_text>water main work. Delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="841">
+      <short_text>roadworks</short_text>
+      <long_text>water main work. Delays %s expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="842">
+      <short_text>roadworks</short_text>
+      <long_text>water main work. Long delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="843">
+      <short_text>roadworks</short_text>
+      <long_text>gas main work. Delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="844">
+      <short_text>roadworks</short_text>
+      <long_text>gas main work. Delays %s expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="845">
+      <short_text>roadworks</short_text>
+      <long_text>gas main work. Long delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="846">
+      <short_text>roadworks</short_text>
+      <long_text>work on buried cables. Delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="847">
+      <short_text>roadworks</short_text>
+      <long_text>work on buried cables. Delays %s expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="848">
+      <short_text>roadworks</short_text>
+      <long_text>work on buried cables. Long delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="849">
+      <short_text>roadworks</short_text>
+      <long_text>work on buried services. Delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="850">
+      <short_text>roadworks</short_text>
+      <long_text>work on buried services. Delays %s expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="851">
+      <short_text>roadworks</short_text>
+      <long_text>work on buried services. Long delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="852">
+      <short_text>dangerous situation</short_text>
+      <long_text>construction traffic merging</long_text>
+    </tmc_event>
+    <tmc_event event_code="853">
+      <short_text>roadworks</short_text>
+      <long_text>roadwork clearance in progress</long_text>
+    </tmc_event>
+    <tmc_event event_code="856">
+      <short_text>dangerous situation</short_text>
+      <long_text>construction traffic merging. Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="857">
+      <short_text>dangerous situation</short_text>
+      <long_text>%s unprotected accident area(s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="858">
+      <short_text>dangerous situation</short_text>
+      <long_text>danger of %s unprotected accident area(s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="900">
+      <short_text>flood alert</short_text>
+      <long_text>flood alert</long_text>
+    </tmc_event>
+    <tmc_event event_code="901">
+      <short_text>obstruction hazard</short_text>
+      <long_text>%s obstruction(s) on the road</long_text>
+    </tmc_event>
+    <tmc_event event_code="902">
+      <short_text>obstruction hazard</short_text>
+      <long_text>%s obstruction(s) on the road. Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="903">
+      <short_text>obstruction hazard</short_text>
+      <long_text>spillage on the road</long_text>
+    </tmc_event>
+    <tmc_event event_code="904">
+      <short_text>storm damage</short_text>
+      <long_text>storm damage</long_text>
+    </tmc_event>
+    <tmc_event event_code="905">
+      <short_text>obstruction hazard</short_text>
+      <long_text>%s fallen tree(s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="906">
+      <short_text>obstruction hazard</short_text>
+      <long_text>%s fallen tree(s). Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="907">
+      <short_text>flooding</short_text>
+      <long_text>flooding</long_text>
+    </tmc_event>
+    <tmc_event event_code="908">
+      <short_text>flooding. Danger</short_text>
+      <long_text>flooding. Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="909">
+      <short_text>flash floods</short_text>
+      <long_text>flash floods</long_text>
+    </tmc_event>
+    <tmc_event event_code="910">
+      <short_text>danger of flash floods</short_text>
+      <long_text>danger of flash floods</long_text>
+    </tmc_event>
+    <tmc_event event_code="911">
+      <short_text>avalanches</short_text>
+      <long_text>avalanches</long_text>
+    </tmc_event>
+    <tmc_event event_code="912">
+      <short_text>avalanche risk</short_text>
+      <long_text>avalanche risk</long_text>
+    </tmc_event>
+    <tmc_event event_code="913">
+      <short_text>rockfalls</short_text>
+      <long_text>rockfalls</long_text>
+    </tmc_event>
+    <tmc_event event_code="914">
+      <short_text>landslips</short_text>
+      <long_text>landslips</long_text>
+    </tmc_event>
+    <tmc_event event_code="915">
+      <short_text>earthquake damage</short_text>
+      <long_text>earthquake damage</long_text>
+    </tmc_event>
+    <tmc_event event_code="916">
+      <short_text>hazardous driving conditions</short_text>
+      <long_text>road surface in poor condition</long_text>
+    </tmc_event>
+    <tmc_event event_code="917">
+      <short_text>subsidence</short_text>
+      <long_text>subsidence</long_text>
+    </tmc_event>
+    <tmc_event event_code="918">
+      <short_text>obstruction hazard</short_text>
+      <long_text>%s collapsed sewer(s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="919">
+      <short_text>burst water main</short_text>
+      <long_text>burst water main</long_text>
+    </tmc_event>
+    <tmc_event event_code="920">
+      <short_text>gas leak</short_text>
+      <long_text>gas leak</long_text>
+    </tmc_event>
+    <tmc_event event_code="921">
+      <short_text>serious fire</short_text>
+      <long_text>serious fire</long_text>
+    </tmc_event>
+    <tmc_event event_code="922">
+      <short_text>dangerous situation</short_text>
+      <long_text>animals on the road</long_text>
+    </tmc_event>
+    <tmc_event event_code="923">
+      <short_text>dangerous situation</short_text>
+      <long_text>animals on the road. Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="924">
+      <short_text>clearance work</short_text>
+      <long_text>clearance work</long_text>
+    </tmc_event>
+    <tmc_event event_code="925">
+      <short_text>closures</short_text>
+      <long_text>blocked by storm damage</long_text>
+    </tmc_event>
+    <tmc_event event_code="926">
+      <short_text>closures</short_text>
+      <long_text>blocked by %s fallen tree(s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="927">
+      <short_text>obstruction hazard</short_text>
+      <long_text>%s fallen tree(s). Passable with care</long_text>
+    </tmc_event>
+    <tmc_event event_code="928">
+      <short_text>%lstationary traffic</short_text>
+      <long_text>flooding. Stationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="929">
+      <short_text>danger of flash floods</short_text>
+      <long_text>flooding. Danger of stationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="930">
+      <short_text>%lqueuing traffic</short_text>
+      <long_text>flooding. Queuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="931">
+      <short_text>incident</short_text>
+      <long_text>flooding. Danger of queuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="932">
+      <short_text>%lslow traffic</short_text>
+      <long_text>flooding. Slow traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="934">
+      <short_text>%lheavy traffic</short_text>
+      <long_text>flooding. Heavy traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="936">
+      <short_text>danger of flash floods</short_text>
+      <long_text>flooding. Traffic flowing freely</long_text>
+    </tmc_event>
+    <tmc_event event_code="937">
+      <short_text>%lslow traffic</short_text>
+      <long_text>flooding. Traffic building up</long_text>
+    </tmc_event>
+    <tmc_event event_code="938">
+      <short_text>closures</short_text>
+      <long_text>closed due to flooding</long_text>
+    </tmc_event>
+    <tmc_event event_code="939">
+      <short_text>danger of flash floods</short_text>
+      <long_text>flooding. Delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="940">
+      <short_text>danger of flash floods</short_text>
+      <long_text>flooding. Delays %s expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="941">
+      <short_text>danger of flash floods</short_text>
+      <long_text>flooding. Long delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="942">
+      <short_text>danger of flash floods</short_text>
+      <long_text>flooding. Passable with care</long_text>
+    </tmc_event>
+    <tmc_event event_code="943">
+      <short_text>closures</short_text>
+      <long_text>closed due to avalanches</long_text>
+    </tmc_event>
+    <tmc_event event_code="944">
+      <short_text>obstruction hazard</short_text>
+      <long_text>avalanches. Passable with care (above %s hundred metres)</long_text>
+    </tmc_event>
+    <tmc_event event_code="945">
+      <short_text>closures</short_text>
+      <long_text>closed due to rockfalls</long_text>
+    </tmc_event>
+    <tmc_event event_code="946">
+      <short_text>dangerous situation</short_text>
+      <long_text>rockfalls. Passable with care</long_text>
+    </tmc_event>
+    <tmc_event event_code="947">
+      <short_text>closures</short_text>
+      <long_text>road closed due to landslips</long_text>
+    </tmc_event>
+    <tmc_event event_code="948">
+      <short_text>dangerous situation</short_text>
+      <long_text>landslips. Passable with care</long_text>
+    </tmc_event>
+    <tmc_event event_code="949">
+      <short_text>closures</short_text>
+      <long_text>closed due to subsidence</long_text>
+    </tmc_event>
+    <tmc_event event_code="950">
+      <short_text>narrow lanes</short_text>
+      <long_text>subsidence. Single alternate line traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="951">
+      <short_text>narrow lanes</short_text>
+      <long_text>subsidence. Carriageway reduced (from %s lanes) to one lane</long_text>
+    </tmc_event>
+    <tmc_event event_code="952">
+      <short_text>narrow lanes</short_text>
+      <long_text>subsidence. Carriageway reduced (from %s lanes) to two lanes</long_text>
+    </tmc_event>
+    <tmc_event event_code="953">
+      <short_text>narrow lanes</short_text>
+      <long_text>subsidence. Carriageway reduced (from %s lanes) to three lanes</long_text>
+    </tmc_event>
+    <tmc_event event_code="955">
+      <short_text>obstruction hazard</short_text>
+      <long_text>subsidence. Passable with care</long_text>
+    </tmc_event>
+    <tmc_event event_code="956">
+      <short_text>closures</short_text>
+      <long_text>closed due to sewer collapse</long_text>
+    </tmc_event>
+    <tmc_event event_code="957">
+      <short_text>closures</short_text>
+      <long_text>road closed due to burst water main</long_text>
+    </tmc_event>
+    <tmc_event event_code="958">
+      <short_text>danger of flash floods</short_text>
+      <long_text>burst water main. Delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="959">
+      <short_text>danger of flash floods</short_text>
+      <long_text>burst water main. Delays %s expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="960">
+      <short_text>danger of flash floods</short_text>
+      <long_text>burst water main. Long delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="961">
+      <short_text>closures</short_text>
+      <long_text>closed due to gas leak</long_text>
+    </tmc_event>
+    <tmc_event event_code="962">
+      <short_text>obstruction hazard</short_text>
+      <long_text>gas leak. Delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="963">
+      <short_text>obstruction hazard</short_text>
+      <long_text>gas leak. Delays %s expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="964">
+      <short_text>obstruction hazard</short_text>
+      <long_text>gas leak. Long delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="965">
+      <short_text>closures</short_text>
+      <long_text>closed due to serious fire</long_text>
+    </tmc_event>
+    <tmc_event event_code="966">
+      <short_text>obstruction hazard</short_text>
+      <long_text>serious fire. Delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="967">
+      <short_text>obstruction hazard</short_text>
+      <long_text>serious fire. Delays %s expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="968">
+      <short_text>obstruction hazard</short_text>
+      <long_text>serious fire. Long delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="969">
+      <short_text>closures</short_text>
+      <long_text>closed for clearance work</long_text>
+    </tmc_event>
+    <tmc_event event_code="972">
+      <short_text>obstruction hazard</short_text>
+      <long_text>storm damage expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="973">
+      <short_text>obstruction hazard</short_text>
+      <long_text>fallen power cables</long_text>
+    </tmc_event>
+    <tmc_event event_code="974">
+      <short_text>sewer overflow</short_text>
+      <long_text>sewer overflow</long_text>
+    </tmc_event>
+    <tmc_event event_code="975">
+      <short_text>ice build-up</short_text>
+      <long_text>ice build-up</long_text>
+    </tmc_event>
+    <tmc_event event_code="976">
+      <short_text>mud slide</short_text>
+      <long_text>mud slide</long_text>
+    </tmc_event>
+    <tmc_event event_code="977">
+      <short_text>grass fire</short_text>
+      <long_text>grass fire</long_text>
+    </tmc_event>
+    <tmc_event event_code="978">
+      <short_text>air crash</short_text>
+      <long_text>air crash</long_text>
+    </tmc_event>
+    <tmc_event event_code="979">
+      <short_text>rail crash</short_text>
+      <long_text>rail crash</long_text>
+    </tmc_event>
+    <tmc_event event_code="980">
+      <short_text>closures</short_text>
+      <long_text>blocked by %s obstruction(s) on the road</long_text>
+    </tmc_event>
+    <tmc_event event_code="981">
+      <short_text>obstruction hazard</short_text>
+      <long_text>%s obstruction(s) on the road. Passable with care</long_text>
+    </tmc_event>
+    <tmc_event event_code="982">
+      <short_text>closures</short_text>
+      <long_text>blocked due to spillage on the road</long_text>
+    </tmc_event>
+    <tmc_event event_code="983">
+      <short_text>obstruction hazard</short_text>
+      <long_text>spillage on the road. Passable with care</long_text>
+    </tmc_event>
+    <tmc_event event_code="984">
+      <short_text>obstruction hazard</short_text>
+      <long_text>spillage on the road. Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="985">
+      <short_text>obstruction hazard</short_text>
+      <long_text>storm damage. Passable with care</long_text>
+    </tmc_event>
+    <tmc_event event_code="986">
+      <short_text>obstruction hazard</short_text>
+      <long_text>storm damage. Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="987">
+      <short_text>closures</short_text>
+      <long_text>blocked by fallen power cables</long_text>
+    </tmc_event>
+    <tmc_event event_code="988">
+      <short_text>obstruction hazard</short_text>
+      <long_text>fallen power cables. Passable with care</long_text>
+    </tmc_event>
+    <tmc_event event_code="989">
+      <short_text>obstruction hazard</short_text>
+      <long_text>fallen power cables. Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="990">
+      <short_text>danger of flash floods</short_text>
+      <long_text>sewer overflow. Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="991">
+      <short_text>danger of flash floods</short_text>
+      <long_text>flash floods. Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="992">
+      <short_text>obstruction hazard</short_text>
+      <long_text>avalanches. Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="993">
+      <short_text>closures</short_text>
+      <long_text>closed due to avalanche risk</long_text>
+    </tmc_event>
+    <tmc_event event_code="994">
+      <short_text>obstruction hazard</short_text>
+      <long_text>avalanche risk. Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="995">
+      <short_text>closures</short_text>
+      <long_text>closed due to ice build-up</long_text>
+    </tmc_event>
+    <tmc_event event_code="996">
+      <short_text>slippery road</short_text>
+      <long_text>ice build-up. Passable with care (above %s hundred metres)</long_text>
+    </tmc_event>
+    <tmc_event event_code="997">
+      <short_text>obstruction hazard</short_text>
+      <long_text>ice build-up. Single alternate line traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="998">
+      <short_text>rockfalls. Danger</short_text>
+      <long_text>rockfalls. Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="999">
+      <short_text>landslips. Danger</short_text>
+      <long_text>landslips. Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="1000">
+      <short_text>obstruction hazard</short_text>
+      <long_text>earthquake damage. Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="1001">
+      <short_text>hazardous driving conditions</short_text>
+      <long_text>hazardous driving conditions (above %s hundred metres)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1002">
+      <short_text>slippery road</short_text>
+      <long_text>danger of aquaplaning</long_text>
+    </tmc_event>
+    <tmc_event event_code="1003">
+      <short_text>slippery road</short_text>
+      <long_text>slippery road (above %s hundred metres)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1004">
+      <short_text>mud on road</short_text>
+      <long_text>mud on road</long_text>
+    </tmc_event>
+    <tmc_event event_code="1005">
+      <short_text>leaves on road</short_text>
+      <long_text>leaves on road</long_text>
+    </tmc_event>
+    <tmc_event event_code="1006">
+      <short_text>slippery road</short_text>
+      <long_text>ice (above %s hundred metres)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1007">
+      <short_text>slippery road</short_text>
+      <long_text>danger of ice (above %s hundred metres)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1008">
+      <short_text>slippery road</short_text>
+      <long_text>black ice (above %s hundred metres)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1009">
+      <short_text>slippery road</short_text>
+      <long_text>freezing rain (above %s hundred metres)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1010">
+      <short_text>slippery road</short_text>
+      <long_text>wet and icy roads (above %s hundred metres)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1011">
+      <short_text>slippery road</short_text>
+      <long_text>slush (above %s hundred metres)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1012">
+      <short_text>slippery road</short_text>
+      <long_text>snow on the road (above %s hundred metres)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1013">
+      <short_text>snowfall</short_text>
+      <long_text>packed snow (above %s hundred metres)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1014">
+      <short_text>snowfall</short_text>
+      <long_text>fresh snow (above %s hundred metres)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1015">
+      <short_text>snowfall</short_text>
+      <long_text>deep snow (above %s hundred metres)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1016">
+      <short_text>snowfall</short_text>
+      <long_text>snow drifts (above %s hundred metres)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1017">
+      <short_text>slippery road</short_text>
+      <long_text>slippery due to spillage on the road</long_text>
+    </tmc_event>
+    <tmc_event event_code="1018">
+      <short_text>slippery road</short_text>
+      <long_text>slippery road (above %s hundred metres) due to snow</long_text>
+    </tmc_event>
+    <tmc_event event_code="1019">
+      <short_text>slippery road</short_text>
+      <long_text>slippery road (above %s hundred metres) due to frost</long_text>
+    </tmc_event>
+    <tmc_event event_code="1020">
+      <short_text>slippery road</short_text>
+      <long_text>road blocked by snow (above %s hundred metres)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1021">
+      <short_text>narrow lanes</short_text>
+      <long_text>snow on the road. Carriageway reduced (from %s lanes) to one lane</long_text>
+    </tmc_event>
+    <tmc_event event_code="1022">
+      <short_text>narrow lanes</short_text>
+      <long_text>snow on the road. Carriageway reduced (from %s lanes) to two lanes</long_text>
+    </tmc_event>
+    <tmc_event event_code="1023">
+      <short_text>narrow lanes</short_text>
+      <long_text>snow on the road. Carriageway reduced (from %s lanes) to three lanes</long_text>
+    </tmc_event>
+    <tmc_event event_code="1026">
+      <short_text>obstruction hazard</short_text>
+      <long_text>subsidence. Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="1027">
+      <short_text>danger of flash floods</short_text>
+      <long_text>sewer collapse. Delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1028">
+      <short_text>danger of flash floods</short_text>
+      <long_text>sewer collapse. Delays %s expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="1029">
+      <short_text>danger of flash floods</short_text>
+      <long_text>sewer collapse. Long delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1030">
+      <short_text>obstruction hazard</short_text>
+      <long_text>sewer collapse. Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="1031">
+      <short_text>danger of flash floods</short_text>
+      <long_text>burst water main. Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="1032">
+      <short_text>gas leak. Danger</short_text>
+      <long_text>gas leak. Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="1033">
+      <short_text>obstruction hazard</short_text>
+      <long_text>serious fire. Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="1034">
+      <short_text>incident</short_text>
+      <long_text>clearance work. Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="1035">
+      <short_text>impassable</short_text>
+      <long_text>impassable (above %s hundred metres)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1036">
+      <short_text>hazardous driving conditions</short_text>
+      <long_text>just passable (above %s hundred metres)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1037">
+      <short_text>hazardous driving conditions</short_text>
+      <long_text>extremely hazardous driving conditions (above %s hundred metres)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1038">
+      <short_text>hazardous driving conditions</short_text>
+      <long_text>difficult driving conditions (above %s hundred metres)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1041">
+      <short_text>danger of flash floods</short_text>
+      <long_text>surface water hazard</long_text>
+    </tmc_event>
+    <tmc_event event_code="1042">
+      <short_text>slippery road</short_text>
+      <long_text>loose sand on road</long_text>
+    </tmc_event>
+    <tmc_event event_code="1044">
+      <short_text>oil on road</short_text>
+      <long_text>oil on road</long_text>
+    </tmc_event>
+    <tmc_event event_code="1045">
+      <short_text>fuel on road</short_text>
+      <long_text>fuel on road</long_text>
+    </tmc_event>
+    <tmc_event event_code="1047">
+      <short_text>slippery road</short_text>
+      <long_text>icy patches (above %s hundred metres)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1048">
+      <short_text>slippery road</short_text>
+      <long_text>danger of icy patches (above %s hundred metres)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1050">
+      <short_text>slippery road</short_text>
+      <long_text>danger of black ice (above %s hundred metres)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1054">
+      <short_text>slippery road</short_text>
+      <long_text>slippery due to loose sand on the road</long_text>
+    </tmc_event>
+    <tmc_event event_code="1055">
+      <short_text>slippery road</short_text>
+      <long_text>mud on road. Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="1056">
+      <short_text>slippery road</short_text>
+      <long_text>loose chippings. Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="1057">
+      <short_text>slippery road</short_text>
+      <long_text>oil on road. Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="1058">
+      <short_text>dangerous situation</short_text>
+      <long_text>fuel on road. Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="1059">
+      <short_text>hazardous driving conditions</short_text>
+      <long_text>road surface in poor condition. Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="1060">
+      <short_text>slippery road</short_text>
+      <long_text>icy patches (above %s hundred metres) on bridges</long_text>
+    </tmc_event>
+    <tmc_event event_code="1061">
+      <short_text>slippery road</short_text>
+      <long_text>danger of icy patches (above %s hundred metres) on bridges</long_text>
+    </tmc_event>
+    <tmc_event event_code="1062">
+      <short_text>slippery road</short_text>
+      <long_text>icy patches (above %s hundred metres) on bridges, in the shade and on slip roads</long_text>
+    </tmc_event>
+    <tmc_event event_code="1064">
+      <short_text>hazardous driving conditions</short_text>
+      <long_text>impassable (above %s hundred metres) for vehicles with trailers</long_text>
+    </tmc_event>
+    <tmc_event event_code="1066">
+      <short_text>incident</short_text>
+      <long_text>rescue and recovery work in progress. Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="1067">
+      <short_text>dangerous situation</short_text>
+      <long_text>large animals on the road</long_text>
+    </tmc_event>
+    <tmc_event event_code="1068">
+      <short_text>dangerous situation</short_text>
+      <long_text>herds of animals on the road</long_text>
+    </tmc_event>
+    <tmc_event event_code="1073">
+      <short_text>hazardous driving conditions</short_text>
+      <long_text>extremely hazardous driving conditions expected (above %s hundred metres)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1074">
+      <short_text>slippery road</short_text>
+      <long_text>freezing rain expected (above %s hundred metres)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1075">
+      <short_text>snowfall</short_text>
+      <long_text>danger of road blocked by snow (above %s hundred metres)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1079">
+      <short_text>extreme cold</short_text>
+      <long_text>temperature falling rapidly (to %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1080">
+      <short_text>extreme heat</short_text>
+      <long_text>extreme heat (up to %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1081">
+      <short_text>extreme cold</short_text>
+      <long_text>extreme cold (of %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1083">
+      <short_text>extreme heat</short_text>
+      <long_text>current temperature %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1084">
+      <short_text>house fire</short_text>
+      <long_text>house fire</long_text>
+    </tmc_event>
+    <tmc_event event_code="1086">
+      <short_text>accident</short_text>
+      <long_text>vehicle stuck under bridge</long_text>
+    </tmc_event>
+    <tmc_event event_code="1101">
+      <short_text>snowfall</short_text>
+      <long_text>heavy snowfall %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1102">
+      <short_text>snowfall</short_text>
+      <long_text>heavy snowfall %s. Visibility reduced to &lt;30 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1103">
+      <short_text>snowfall</short_text>
+      <long_text>heavy snowfall %s. Visibility reduced to &lt;50 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1104">
+      <short_text>snowfall %s</short_text>
+      <long_text>snowfall %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1105">
+      <short_text>snowfall</short_text>
+      <long_text>snowfall %s. Visibility reduced to &lt;100 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1106">
+      <short_text>visibility reduced</short_text>
+      <long_text>hail (visibility reduced to %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1107">
+      <short_text>snowfall</short_text>
+      <long_text>sleet (visibility reduced to %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1108">
+      <short_text>visibility reduced</short_text>
+      <long_text>thunderstorms (visibility reduced to %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1109">
+      <short_text>heavy rain %s</short_text>
+      <long_text>heavy rain %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1110">
+      <short_text>heavy rain</short_text>
+      <long_text>heavy rain %s. Visibility reduced to &lt;30 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1111">
+      <short_text>heavy rain</short_text>
+      <long_text>heavy rain %s. Visibility reduced to &lt;50 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1112">
+      <short_text>rain %s</short_text>
+      <long_text>rain %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1113">
+      <short_text>heavy rain</short_text>
+      <long_text>rain %s. Visibility reduced to &lt;100 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1114">
+      <short_text>heavy rain</short_text>
+      <long_text>showers (visibility reduced to %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1115">
+      <short_text>heavy frost</short_text>
+      <long_text>heavy frost</long_text>
+    </tmc_event>
+    <tmc_event event_code="1116">
+      <short_text>frost</short_text>
+      <long_text>frost</long_text>
+    </tmc_event>
+    <tmc_event event_code="1118">
+      <short_text>heavy rain</short_text>
+      <long_text>heavy rain</long_text>
+    </tmc_event>
+    <tmc_event event_code="1119">
+      <short_text>heavy rain</short_text>
+      <long_text>heavy rain</long_text>
+    </tmc_event>
+    <tmc_event event_code="1128">
+      <short_text>snowfall</short_text>
+      <long_text>winter storm (visibility reduced to %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1130">
+      <short_text>visibility reduced</short_text>
+      <long_text>blizzard (visibility reduced to %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1131">
+      <short_text>visibility reduced</short_text>
+      <long_text>visibility reduced</long_text>
+    </tmc_event>
+    <tmc_event event_code="1132">
+      <short_text>visibility reduced</short_text>
+      <long_text>damaging hail (visibility reduced to %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1133">
+      <short_text>visibility reduced</short_text>
+      <long_text>visibility reduced</long_text>
+    </tmc_event>
+    <tmc_event event_code="1134">
+      <short_text>snowfall</short_text>
+      <long_text>heavy snowfall. Visibility reduced (to %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1135">
+      <short_text>snowfall</short_text>
+      <long_text>snowfall. Visibility reduced (to %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1136">
+      <short_text>heavy rain</short_text>
+      <long_text>heavy rain. Visibility reduced (to %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1137">
+      <short_text>heavy rain</short_text>
+      <long_text>rain. Visibility reduced (to %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1153">
+      <short_text>visibility reduced</short_text>
+      <long_text>visibility reduced</long_text>
+    </tmc_event>
+    <tmc_event event_code="1154">
+      <short_text>visibility reduced</short_text>
+      <long_text>visibility reduced</long_text>
+    </tmc_event>
+    <tmc_event event_code="1155">
+      <short_text>visibility reduced</short_text>
+      <long_text>visibility reduced</long_text>
+    </tmc_event>
+    <tmc_event event_code="1156">
+      <short_text>heavy rain</short_text>
+      <long_text>heavy rain</long_text>
+    </tmc_event>
+    <tmc_event event_code="1157">
+      <short_text>heavy rain</short_text>
+      <long_text>heavy rain</long_text>
+    </tmc_event>
+    <tmc_event event_code="1158">
+      <short_text>heavy rain</short_text>
+      <long_text>heavy rain</long_text>
+    </tmc_event>
+    <tmc_event event_code="1170">
+      <short_text>snowfall</short_text>
+      <long_text>heavy snowfall %s expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="1171">
+      <short_text>heavy rain</short_text>
+      <long_text>heavy rain %s expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="1173">
+      <short_text>visibility reduced</short_text>
+      <long_text>blizzard (with visibility reduced to %s) expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="1174">
+      <short_text>visibility reduced</short_text>
+      <long_text>damaging hail (with visibility reduced to %s) expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="1175">
+      <short_text>visibility reduced</short_text>
+      <long_text>reduced visibility (to %s) expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="1176">
+      <short_text>slippery road</short_text>
+      <long_text>freezing fog expected (with visibility reduced to %s). Danger of slippery roads</long_text>
+    </tmc_event>
+    <tmc_event event_code="1177">
+      <short_text>fog</short_text>
+      <long_text>dense fog (with visibility reduced to %s) expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="1178">
+      <short_text>fog</short_text>
+      <long_text>patchy fog (with visibility reduced to %s) expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="1190">
+      <short_text>severe smog</short_text>
+      <long_text>severe smog</long_text>
+    </tmc_event>
+    <tmc_event event_code="1191">
+      <short_text>smog-alert</short_text>
+      <long_text>severe exhaust pollution</long_text>
+    </tmc_event>
+    <tmc_event event_code="1201">
+      <short_text>tornadoes</short_text>
+      <long_text>tornadoes</long_text>
+    </tmc_event>
+    <tmc_event event_code="1202">
+      <short_text>strong winds</short_text>
+      <long_text>hurricane force winds %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1203">
+      <short_text>gales %s</short_text>
+      <long_text>gales %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1204">
+      <short_text>strong winds</short_text>
+      <long_text>storm force winds %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1205">
+      <short_text>strong winds %s</short_text>
+      <long_text>strong winds %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1209">
+      <short_text>gusty winds %s</short_text>
+      <long_text>gusty winds %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1210">
+      <short_text>crosswinds %s</short_text>
+      <long_text>crosswinds %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1211">
+      <short_text>strong winds</short_text>
+      <long_text>strong winds %s affecting high-sided vehicles</long_text>
+    </tmc_event>
+    <tmc_event event_code="1300">
+      <short_text>visibility reduced</short_text>
+      <long_text>visibility reduced</long_text>
+    </tmc_event>
+    <tmc_event event_code="1301">
+      <short_text>fog</short_text>
+      <long_text>dense fog (visibility reduced to %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1302">
+      <short_text>fog</short_text>
+      <long_text>dense fog. Visibility reduced to &lt;30 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1303">
+      <short_text>fog</short_text>
+      <long_text>dense fog. Visibility reduced to &lt;50 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1304">
+      <short_text>fog</short_text>
+      <long_text>fog (visibility reduced to %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1305">
+      <short_text>fog</short_text>
+      <long_text>fog. Visibility reduced to &lt;100 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1307">
+      <short_text>fog</short_text>
+      <long_text>patchy fog (visibility reduced to %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1308">
+      <short_text>fog</short_text>
+      <long_text>freezing fog (visibility reduced to %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1309">
+      <short_text>visibility reduced</short_text>
+      <long_text>smoke hazard (visibility reduced to %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1310">
+      <short_text>visibility reduced</short_text>
+      <long_text>blowing dust (visibility reduced to %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1312">
+      <short_text>snowfall</short_text>
+      <long_text>snowfall and fog (visibility reduced to %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1318">
+      <short_text>visibility reduced</short_text>
+      <long_text>visibility reduced (to %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1319">
+      <short_text>visibility reduced</short_text>
+      <long_text>visibility reduced to &lt;30 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1320">
+      <short_text>visibility reduced</short_text>
+      <long_text>visibility reduced to &lt;50 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1321">
+      <short_text>visibility reduced</short_text>
+      <long_text>visibility reduced to &lt;100 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1322">
+      <short_text>visibility reduced</short_text>
+      <long_text>white out (visibility reduced to %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1323">
+      <short_text>snowfall</short_text>
+      <long_text>blowing snow (visibility reduced to %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1324">
+      <short_text>visibility reduced</short_text>
+      <long_text>spray hazard (visibility reduced to %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1325">
+      <short_text>low sun glare</short_text>
+      <long_text>low sun glare</long_text>
+    </tmc_event>
+    <tmc_event event_code="1326">
+      <short_text>visibility reduced</short_text>
+      <long_text>sandstorms (visibility reduced to %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1327">
+      <short_text>visibility reduced</short_text>
+      <long_text>visibility reduced</long_text>
+    </tmc_event>
+    <tmc_event event_code="1332">
+      <short_text>smog alert</short_text>
+      <long_text>smog alert</long_text>
+    </tmc_event>
+    <tmc_event event_code="1337">
+      <short_text>slippery road</short_text>
+      <long_text>freezing fog (visibility reduced to %s). Slippery roads</long_text>
+    </tmc_event>
+    <tmc_event event_code="1338">
+      <short_text>smog-alert</short_text>
+      <long_text>no motor vehicles due to smog alert</long_text>
+    </tmc_event>
+    <tmc_event event_code="1340">
+      <short_text>visibility reduced</short_text>
+      <long_text>swarms of insects (visibility reduced to %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1450">
+      <short_text>major event</short_text>
+      <long_text>international sports event</long_text>
+    </tmc_event>
+    <tmc_event event_code="1451">
+      <short_text>match</short_text>
+      <long_text>match</long_text>
+    </tmc_event>
+    <tmc_event event_code="1452">
+      <short_text>tournament</short_text>
+      <long_text>tournament</long_text>
+    </tmc_event>
+    <tmc_event event_code="1453">
+      <short_text>athletics event</short_text>
+      <long_text>athletics event</long_text>
+    </tmc_event>
+    <tmc_event event_code="1454">
+      <short_text>ball game</short_text>
+      <long_text>ball game</long_text>
+    </tmc_event>
+    <tmc_event event_code="1455">
+      <short_text>boxing tournament</short_text>
+      <long_text>boxing tournament</long_text>
+    </tmc_event>
+    <tmc_event event_code="1456">
+      <short_text>bull fight</short_text>
+      <long_text>bull fight</long_text>
+    </tmc_event>
+    <tmc_event event_code="1457">
+      <short_text>cricket match</short_text>
+      <long_text>cricket match</long_text>
+    </tmc_event>
+    <tmc_event event_code="1458">
+      <short_text>cycle race</short_text>
+      <long_text>cycle race</long_text>
+    </tmc_event>
+    <tmc_event event_code="1459">
+      <short_text>football match</short_text>
+      <long_text>football match</long_text>
+    </tmc_event>
+    <tmc_event event_code="1460">
+      <short_text>golf tournament</short_text>
+      <long_text>golf tournament</long_text>
+    </tmc_event>
+    <tmc_event event_code="1461">
+      <short_text>marathon</short_text>
+      <long_text>marathon</long_text>
+    </tmc_event>
+    <tmc_event event_code="1462">
+      <short_text>race meeting</short_text>
+      <long_text>race meeting</long_text>
+    </tmc_event>
+    <tmc_event event_code="1463">
+      <short_text>rugby match</short_text>
+      <long_text>rugby match</long_text>
+    </tmc_event>
+    <tmc_event event_code="1464">
+      <short_text>show jumping</short_text>
+      <long_text>show jumping</long_text>
+    </tmc_event>
+    <tmc_event event_code="1465">
+      <short_text>tennis tournament</short_text>
+      <long_text>tennis tournament</long_text>
+    </tmc_event>
+    <tmc_event event_code="1466">
+      <short_text>major event</short_text>
+      <long_text>water sports event</long_text>
+    </tmc_event>
+    <tmc_event event_code="1467">
+      <short_text>major event</short_text>
+      <long_text>winter sports event</long_text>
+    </tmc_event>
+    <tmc_event event_code="1468">
+      <short_text>funfair</short_text>
+      <long_text>funfair</long_text>
+    </tmc_event>
+    <tmc_event event_code="1469">
+      <short_text>trade fair</short_text>
+      <long_text>trade fair</long_text>
+    </tmc_event>
+    <tmc_event event_code="1470">
+      <short_text>procession</short_text>
+      <long_text>procession</long_text>
+    </tmc_event>
+    <tmc_event event_code="1471">
+      <short_text>dangerous situation</short_text>
+      <long_text>sightseers obstructing access</long_text>
+    </tmc_event>
+    <tmc_event event_code="1472">
+      <short_text>dangerous situation</short_text>
+      <long_text>people on the road</long_text>
+    </tmc_event>
+    <tmc_event event_code="1473">
+      <short_text>dangerous situation</short_text>
+      <long_text>children on the road</long_text>
+    </tmc_event>
+    <tmc_event event_code="1474">
+      <short_text>dangerous situation</short_text>
+      <long_text>cyclists on the road</long_text>
+    </tmc_event>
+    <tmc_event event_code="1475">
+      <short_text>strike</short_text>
+      <long_text>strike</long_text>
+    </tmc_event>
+    <tmc_event event_code="1476">
+      <short_text>security incident</short_text>
+      <long_text>security incident</long_text>
+    </tmc_event>
+    <tmc_event event_code="1477">
+      <short_text>police checkpoint</short_text>
+      <long_text>police checkpoint</long_text>
+    </tmc_event>
+    <tmc_event event_code="1478">
+      <short_text>security incident</short_text>
+      <long_text>terrorist incident</long_text>
+    </tmc_event>
+    <tmc_event event_code="1479">
+      <short_text>security incident</short_text>
+      <long_text>gunfire on the road, danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="1480">
+      <short_text>civil emergency</short_text>
+      <long_text>civil emergency</long_text>
+    </tmc_event>
+    <tmc_event event_code="1481">
+      <short_text>air raid, danger</short_text>
+      <long_text>air raid, danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="1482">
+      <short_text>dangerous situation</short_text>
+      <long_text>people on the road. Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="1483">
+      <short_text>dangerous situation</short_text>
+      <long_text>children on the road. Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="1484">
+      <short_text>dangerous situation</short_text>
+      <long_text>cyclists on the road. Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="1485">
+      <short_text>closures</short_text>
+      <long_text>closed due to security incident</long_text>
+    </tmc_event>
+    <tmc_event event_code="1486">
+      <short_text>security incident</short_text>
+      <long_text>security incident. Delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1487">
+      <short_text>security incident</short_text>
+      <long_text>security incident. Delays %s expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="1488">
+      <short_text>security incident</short_text>
+      <long_text>security incident. Long delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1489">
+      <short_text>security incident</short_text>
+      <long_text>police checkpoint. Delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1490">
+      <short_text>security incident</short_text>
+      <long_text>police checkpoint. Delays %s expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="1491">
+      <short_text>security incident</short_text>
+      <long_text>police checkpoint. Long delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1494">
+      <short_text>evacuation</short_text>
+      <long_text>evacuation</long_text>
+    </tmc_event>
+    <tmc_event event_code="1495">
+      <short_text>%lslow traffic</short_text>
+      <long_text>evacuation. Heavy traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="1501">
+      <short_text>major event</short_text>
+      <long_text>major event</long_text>
+    </tmc_event>
+    <tmc_event event_code="1502">
+      <short_text>sports event</short_text>
+      <long_text>sports event</long_text>
+    </tmc_event>
+    <tmc_event event_code="1503">
+      <short_text>show</short_text>
+      <long_text>show</long_text>
+    </tmc_event>
+    <tmc_event event_code="1504">
+      <short_text>festival</short_text>
+      <long_text>festival</long_text>
+    </tmc_event>
+    <tmc_event event_code="1505">
+      <short_text>exhibition</short_text>
+      <long_text>exhibition</long_text>
+    </tmc_event>
+    <tmc_event event_code="1506">
+      <short_text>fair</short_text>
+      <long_text>fair</long_text>
+    </tmc_event>
+    <tmc_event event_code="1507">
+      <short_text>market</short_text>
+      <long_text>market</long_text>
+    </tmc_event>
+    <tmc_event event_code="1508">
+      <short_text>ceremonial event</short_text>
+      <long_text>ceremonial event</long_text>
+    </tmc_event>
+    <tmc_event event_code="1509">
+      <short_text>state occasion</short_text>
+      <long_text>state occasion</long_text>
+    </tmc_event>
+    <tmc_event event_code="1510">
+      <short_text>parade</short_text>
+      <long_text>parade</long_text>
+    </tmc_event>
+    <tmc_event event_code="1511">
+      <short_text>crowd</short_text>
+      <long_text>crowd</long_text>
+    </tmc_event>
+    <tmc_event event_code="1512">
+      <short_text>march</short_text>
+      <long_text>march</long_text>
+    </tmc_event>
+    <tmc_event event_code="1513">
+      <short_text>demonstration</short_text>
+      <long_text>demonstration</long_text>
+    </tmc_event>
+    <tmc_event event_code="1514">
+      <short_text>major event</short_text>
+      <long_text>public disturbance</long_text>
+    </tmc_event>
+    <tmc_event event_code="1515">
+      <short_text>security alert</short_text>
+      <long_text>security alert</long_text>
+    </tmc_event>
+    <tmc_event event_code="1516">
+      <short_text>bomb alert</short_text>
+      <long_text>bomb alert</long_text>
+    </tmc_event>
+    <tmc_event event_code="1517">
+      <short_text>%lstationary traffic</short_text>
+      <long_text>major event. Stationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="1519">
+      <short_text>%lqueuing traffic</short_text>
+      <long_text>major event. Queuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="1521">
+      <short_text>%lslow traffic</short_text>
+      <long_text>major event. Slow traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="1523">
+      <short_text>%lslow traffic</short_text>
+      <long_text>major event. Heavy traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="1525">
+      <short_text>major event</short_text>
+      <long_text>major event. Traffic flowing freely</long_text>
+    </tmc_event>
+    <tmc_event event_code="1526">
+      <short_text>%lslow traffic</short_text>
+      <long_text>major event. Traffic building up</long_text>
+    </tmc_event>
+    <tmc_event event_code="1527">
+      <short_text>closures</short_text>
+      <long_text>closed due to major event</long_text>
+    </tmc_event>
+    <tmc_event event_code="1528">
+      <short_text>delays</short_text>
+      <long_text>major event. Delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1529">
+      <short_text>delays</short_text>
+      <long_text>major event. Delays %s expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="1530">
+      <short_text>long delays</short_text>
+      <long_text>major event. Long delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1531">
+      <short_text>%lstationary traffic</short_text>
+      <long_text>sports event. Stationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="1533">
+      <short_text>%lqueuing traffic</short_text>
+      <long_text>sports event. Queuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="1535">
+      <short_text>%lslow traffic</short_text>
+      <long_text>sports event. Slow traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="1537">
+      <short_text>%lheavy traffic</short_text>
+      <long_text>sports event. Heavy traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="1539">
+      <short_text>major event</short_text>
+      <long_text>sports event. Traffic flowing freely</long_text>
+    </tmc_event>
+    <tmc_event event_code="1540">
+      <short_text>%lslow traffic</short_text>
+      <long_text>sports event. Traffic building up</long_text>
+    </tmc_event>
+    <tmc_event event_code="1541">
+      <short_text>closures</short_text>
+      <long_text>closed due to sports event</long_text>
+    </tmc_event>
+    <tmc_event event_code="1542">
+      <short_text>delays</short_text>
+      <long_text>sports event. Delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1543">
+      <short_text>delays</short_text>
+      <long_text>sports event. Delays %s expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="1544">
+      <short_text>long delays</short_text>
+      <long_text>sports event. Long delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1545">
+      <short_text>%lstationary traffic</short_text>
+      <long_text>fair. Stationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="1547">
+      <short_text>%lqueuing traffic</short_text>
+      <long_text>fair. Queuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="1549">
+      <short_text>%lslow traffic</short_text>
+      <long_text>fair. Slow traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="1551">
+      <short_text>%lheavy traffic</short_text>
+      <long_text>fair. Heavy traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="1553">
+      <short_text>major event</short_text>
+      <long_text>fair. Traffic flowing freely</long_text>
+    </tmc_event>
+    <tmc_event event_code="1554">
+      <short_text>%lslow traffic</short_text>
+      <long_text>fair. Traffic building up</long_text>
+    </tmc_event>
+    <tmc_event event_code="1555">
+      <short_text>closures</short_text>
+      <long_text>closed due to fair</long_text>
+    </tmc_event>
+    <tmc_event event_code="1556">
+      <short_text>fair. Delays %s</short_text>
+      <long_text>fair. Delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1557">
+      <short_text>delays</short_text>
+      <long_text>fair. Delays %s expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="1558">
+      <short_text>long delays</short_text>
+      <long_text>fair. Long delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1559">
+      <short_text>closures</short_text>
+      <long_text>closed due to parade</long_text>
+    </tmc_event>
+    <tmc_event event_code="1560">
+      <short_text>delays</short_text>
+      <long_text>parade. Delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1561">
+      <short_text>delays</short_text>
+      <long_text>parade. Delays %s expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="1562">
+      <short_text>long delays</short_text>
+      <long_text>parade. Long delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1563">
+      <short_text>closures</short_text>
+      <long_text>closed due to strike</long_text>
+    </tmc_event>
+    <tmc_event event_code="1564">
+      <short_text>long delays</short_text>
+      <long_text>strike. Delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1565">
+      <short_text>delays</short_text>
+      <long_text>strike. Delays %s expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="1566">
+      <short_text>long delays</short_text>
+      <long_text>strike. Long delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1567">
+      <short_text>closures</short_text>
+      <long_text>closed due to demonstration</long_text>
+    </tmc_event>
+    <tmc_event event_code="1568">
+      <short_text>delays</short_text>
+      <long_text>demonstration. Delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1569">
+      <short_text>delays</short_text>
+      <long_text>demonstration. Delays %s expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="1570">
+      <short_text>long delays</short_text>
+      <long_text>demonstration. Long delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1571">
+      <short_text>%lstationary traffic</short_text>
+      <long_text>security alert. Stationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="1573">
+      <short_text>%lqueuing traffic</short_text>
+      <long_text>security alert. Queuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="1575">
+      <short_text>%lslow traffic</short_text>
+      <long_text>security alert. Slow traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="1577">
+      <short_text>%lslow traffic</short_text>
+      <long_text>security alert. Heavy traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="1579">
+      <short_text>%lslow traffic</short_text>
+      <long_text>security alert. Traffic building up</long_text>
+    </tmc_event>
+    <tmc_event event_code="1580">
+      <short_text>closures</short_text>
+      <long_text>closed due to security alert</long_text>
+    </tmc_event>
+    <tmc_event event_code="1581">
+      <short_text>delays</short_text>
+      <long_text>security alert. Delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1582">
+      <short_text>delays</short_text>
+      <long_text>security alert. Delays %s expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="1583">
+      <short_text>long delays</short_text>
+      <long_text>security alert. Long delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1586">
+      <short_text>security incident</short_text>
+      <long_text>security alert. Traffic flowing freely</long_text>
+    </tmc_event>
+    <tmc_event event_code="1590">
+      <short_text>major event</short_text>
+      <long_text>several major events</long_text>
+    </tmc_event>
+    <tmc_event event_code="1591">
+      <short_text>major event</short_text>
+      <long_text>information about major event no longer valid</long_text>
+    </tmc_event>
+    <tmc_event event_code="1592">
+      <short_text>automobile race</short_text>
+      <long_text>automobile race</long_text>
+    </tmc_event>
+    <tmc_event event_code="1593">
+      <short_text>baseball game</short_text>
+      <long_text>baseball game</long_text>
+    </tmc_event>
+    <tmc_event event_code="1594">
+      <short_text>basketball game</short_text>
+      <long_text>basketball game</long_text>
+    </tmc_event>
+    <tmc_event event_code="1595">
+      <short_text>boat race</short_text>
+      <long_text>boat race</long_text>
+    </tmc_event>
+    <tmc_event event_code="1596">
+      <short_text>concert</short_text>
+      <long_text>concert</long_text>
+    </tmc_event>
+    <tmc_event event_code="1597">
+      <short_text>hockey game</short_text>
+      <long_text>hockey game</long_text>
+    </tmc_event>
+    <tmc_event event_code="1601">
+      <short_text>delays</short_text>
+      <long_text>delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1602">
+      <short_text>delays</short_text>
+      <long_text>delays up to 15 minutes</long_text>
+    </tmc_event>
+    <tmc_event event_code="1603">
+      <short_text>delays</short_text>
+      <long_text>delays up to 30 minutes</long_text>
+    </tmc_event>
+    <tmc_event event_code="1604">
+      <short_text>long delays</short_text>
+      <long_text>delays up to one hour</long_text>
+    </tmc_event>
+    <tmc_event event_code="1605">
+      <short_text>long delays</short_text>
+      <long_text>delays up to two hours</long_text>
+    </tmc_event>
+    <tmc_event event_code="1606">
+      <short_text>long delays</short_text>
+      <long_text>delays of several hours</long_text>
+    </tmc_event>
+    <tmc_event event_code="1607">
+      <short_text>delays</short_text>
+      <long_text>delays %s expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="1608">
+      <short_text>long delays</short_text>
+      <long_text>long delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1615">
+      <short_text>service suspended</short_text>
+      <long_text>service suspended (until %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1616">
+      <short_text>service withdrawn</short_text>
+      <long_text>%s service withdrawn</long_text>
+    </tmc_event>
+    <tmc_event event_code="1617">
+      <short_text>service fully booked</short_text>
+      <long_text>%s service(s) fully booked</long_text>
+    </tmc_event>
+    <tmc_event event_code="1621">
+      <short_text>delays</short_text>
+      <long_text>delays up to 5 minutes</long_text>
+    </tmc_event>
+    <tmc_event event_code="1622">
+      <short_text>delays</short_text>
+      <long_text>delays up to 10 minutes</long_text>
+    </tmc_event>
+    <tmc_event event_code="1623">
+      <short_text>delays</short_text>
+      <long_text>delays up to 20 minutes</long_text>
+    </tmc_event>
+    <tmc_event event_code="1624">
+      <short_text>delays</short_text>
+      <long_text>delays up to 25 minutes</long_text>
+    </tmc_event>
+    <tmc_event event_code="1625">
+      <short_text>delays</short_text>
+      <long_text>delays up to 40 minutes</long_text>
+    </tmc_event>
+    <tmc_event event_code="1626">
+      <short_text>long delays</short_text>
+      <long_text>delays up to 50 minutes</long_text>
+    </tmc_event>
+    <tmc_event event_code="1627">
+      <short_text>long delays</short_text>
+      <long_text>delays up to 90 minutes</long_text>
+    </tmc_event>
+    <tmc_event event_code="1628">
+      <short_text>long delays</short_text>
+      <long_text>delays up to three hours</long_text>
+    </tmc_event>
+    <tmc_event event_code="1629">
+      <short_text>long delays</short_text>
+      <long_text>delays up to four hours</long_text>
+    </tmc_event>
+    <tmc_event event_code="1630">
+      <short_text>long delays</short_text>
+      <long_text>delays up to five hours</long_text>
+    </tmc_event>
+    <tmc_event event_code="1631">
+      <short_text>long delays</short_text>
+      <long_text>very long delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1632">
+      <short_text>long delays</short_text>
+      <long_text>delays of uncertain duration</long_text>
+    </tmc_event>
+    <tmc_event event_code="1633">
+      <short_text>delayed until further notice</short_text>
+      <long_text>delayed until further notice</long_text>
+    </tmc_event>
+    <tmc_event event_code="1634">
+      <short_text>cancellations</short_text>
+      <long_text>cancellations</long_text>
+    </tmc_event>
+    <tmc_event event_code="1635">
+      <short_text>parking</short_text>
+      <long_text>park and ride service not operating (until %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1636">
+      <short_text>special public transport services operating</short_text>
+      <long_text>special public transport services operating (until %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1637">
+      <short_text>normal services not operating</short_text>
+      <long_text>normal services not operating (until %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1638">
+      <short_text>rail services not operating</short_text>
+      <long_text>rail services not operating (until %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1639">
+      <short_text>bus services not operating</short_text>
+      <long_text>bus services not operating (until %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1640">
+      <short_text>shuttle service operating</short_text>
+      <long_text>shuttle service operating (until %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1641">
+      <short_text>free shuttle service operating</short_text>
+      <long_text>free shuttle service operating (until %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1649">
+      <short_text>rapid transit service not operating</short_text>
+      <long_text>rapid transit service not operating (until %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1650">
+      <short_text>delays</short_text>
+      <long_text>delays %s possible</long_text>
+    </tmc_event>
+    <tmc_event event_code="1651">
+      <short_text>underground service not operating</short_text>
+      <long_text>underground service not operating (until %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1652">
+      <short_text>cancellations expected</short_text>
+      <long_text>cancellations expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="1653">
+      <short_text>long delays</short_text>
+      <long_text>long delays expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="1654">
+      <short_text>long delays</short_text>
+      <long_text>very long delays expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="1655">
+      <short_text>all services fully booked</short_text>
+      <long_text>all services fully booked (until %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1656">
+      <short_text>next arrival %s</short_text>
+      <long_text>next arrival %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1657">
+      <short_text>rail services irregular</short_text>
+      <long_text>rail services irregular. Delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1658">
+      <short_text>bus services irregular</short_text>
+      <long_text>bus services irregular. Delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1659">
+      <short_text>underground services irregular</short_text>
+      <long_text>underground services irregular</long_text>
+    </tmc_event>
+    <tmc_event event_code="1660">
+      <short_text>normal public transport services resumed</short_text>
+      <long_text>normal public transport services resumed</long_text>
+    </tmc_event>
+    <tmc_event event_code="1661">
+      <short_text>ferry service not operating</short_text>
+      <long_text>ferry service not operating (until %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1662">
+      <short_text>parking</short_text>
+      <long_text>park and ride trip time %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1680">
+      <short_text>delays</short_text>
+      <long_text>delays</long_text>
+    </tmc_event>
+    <tmc_event event_code="1681">
+      <short_text>delays</short_text>
+      <long_text>delays</long_text>
+    </tmc_event>
+    <tmc_event event_code="1683">
+      <short_text>roadworks</short_text>
+      <long_text>roadworks</long_text>
+    </tmc_event>
+    <tmc_event event_code="1684">
+      <short_text>danger of flash floods</short_text>
+      <long_text>danger of flash floods</long_text>
+    </tmc_event>
+    <tmc_event event_code="1685">
+      <short_text>delays</short_text>
+      <long_text>delays</long_text>
+    </tmc_event>
+    <tmc_event event_code="1687">
+      <short_text>delays</short_text>
+      <long_text>delays</long_text>
+    </tmc_event>
+    <tmc_event event_code="1688">
+      <short_text>delays</short_text>
+      <long_text>delays</long_text>
+    </tmc_event>
+    <tmc_event event_code="1689">
+      <short_text>delays</short_text>
+      <long_text>delays</long_text>
+    </tmc_event>
+    <tmc_event event_code="1695">
+      <short_text>travel time information</short_text>
+      <long_text>current trip time %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1696">
+      <short_text>travel time information</short_text>
+      <long_text>expected trip time %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1700">
+      <short_text>obstruction hazard</short_text>
+      <long_text>%s slow moving maintenance vehicle(s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1701">
+      <short_text>driver on wrong carriageway</short_text>
+      <long_text>%s vehicle(s) on wrong carriageway</long_text>
+    </tmc_event>
+    <tmc_event event_code="1704">
+      <short_text>dangerous situation</short_text>
+      <long_text>%s reckless driver(s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1705">
+      <short_text>dangerous situation</short_text>
+      <long_text>%s prohibited vehicle(s) on the road</long_text>
+    </tmc_event>
+    <tmc_event event_code="1706">
+      <short_text>dangerous situation</short_text>
+      <long_text>%s emergency vehicles</long_text>
+    </tmc_event>
+    <tmc_event event_code="1707">
+      <short_text>dangerous situation</short_text>
+      <long_text>%s high-speed emergency vehicles</long_text>
+    </tmc_event>
+    <tmc_event event_code="1708">
+      <short_text>dangerous situation</short_text>
+      <long_text>high-speed chase (involving %s vehicles)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1709">
+      <short_text>obstruction hazard</short_text>
+      <long_text>spillage occurring from moving vehicle</long_text>
+    </tmc_event>
+    <tmc_event event_code="1710">
+      <short_text>dangerous situation</short_text>
+      <long_text>objects falling from moving vehicle</long_text>
+    </tmc_event>
+    <tmc_event event_code="1720">
+      <short_text>rail services irregular</short_text>
+      <long_text>rail services irregular</long_text>
+    </tmc_event>
+    <tmc_event event_code="1721">
+      <short_text>public transport services not operating</short_text>
+      <long_text>public transport services not operating</long_text>
+    </tmc_event>
+    <tmc_event event_code="1731">
+      <short_text>exceptional loads</short_text>
+      <long_text>%s abnormal load(s), danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="1732">
+      <short_text>exceptional loads</short_text>
+      <long_text>%s wide load(s), danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="1733">
+      <short_text>exceptional loads</short_text>
+      <long_text>%s long load(s), danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="1734">
+      <short_text>exceptional loads</short_text>
+      <long_text>%s slow vehicle(s), danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="1735">
+      <short_text>exceptional loads</short_text>
+      <long_text>%s track-laying vehicle(s), danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="1736">
+      <short_text>vehicle carrying hazardous materials</short_text>
+      <long_text>%s vehicle(s) carrying hazardous materials. Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="1737">
+      <short_text>exceptional loads</short_text>
+      <long_text>%s convoy(s), danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="1738">
+      <short_text>exceptional loads</short_text>
+      <long_text>%s military convoy(s), danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="1739">
+      <short_text>exceptional loads</short_text>
+      <long_text>%s overheight load(s), danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="1740">
+      <short_text>%lslow traffic</short_text>
+      <long_text>abnormal load causing slow traffic. Delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1741">
+      <short_text>%lslow traffic</short_text>
+      <long_text>convoy causing slow traffic. Delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1751">
+      <short_text>exceptional loads</short_text>
+      <long_text>%s abnormal load(s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1752">
+      <short_text>%s wide load(s)</short_text>
+      <long_text>%s wide load(s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1753">
+      <short_text>%s long load(s)</short_text>
+      <long_text>%s long load(s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1754">
+      <short_text>exceptional loads</short_text>
+      <long_text>%s slow vehicle(s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1755">
+      <short_text>%s convoy(s)</short_text>
+      <long_text>%s convoy(s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1756">
+      <short_text>delays</short_text>
+      <long_text>abnormal load. Delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1757">
+      <short_text>delays</short_text>
+      <long_text>abnormal load. Delays %s expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="1758">
+      <short_text>long delays</short_text>
+      <long_text>abnormal load. Long delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1759">
+      <short_text>delays</short_text>
+      <long_text>convoy causing delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1760">
+      <short_text>delays</short_text>
+      <long_text>convoy. Delays %s expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="1761">
+      <short_text>long delays</short_text>
+      <long_text>convoy causing long delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1764">
+      <short_text>exceptional loads</short_text>
+      <long_text>%s track-laying vehicle(s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1765">
+      <short_text>vehicle carrying hazardous materials</short_text>
+      <long_text>%s vehicle(s) carrying hazardous materials</long_text>
+    </tmc_event>
+    <tmc_event event_code="1766">
+      <short_text>exceptional loads</short_text>
+      <long_text>%s military convoy(s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1767">
+      <short_text>exceptional loads</short_text>
+      <long_text>%s abnormal load(s). No overtaking</long_text>
+    </tmc_event>
+    <tmc_event event_code="1768">
+      <short_text>vehicle carrying hazardous materials</short_text>
+      <long_text>vehicles carrying hazardous materials should stop at next safe place!</long_text>
+    </tmc_event>
+    <tmc_event event_code="1801">
+      <short_text>lane control signs not working</short_text>
+      <long_text>lane control signs not working</long_text>
+    </tmc_event>
+    <tmc_event event_code="1802">
+      <short_text>traffic equipment status</short_text>
+      <long_text>emergency telephones not working</long_text>
+    </tmc_event>
+    <tmc_event event_code="1803">
+      <short_text>traffic equipment status</short_text>
+      <long_text>emergency telephone number not working</long_text>
+    </tmc_event>
+    <tmc_event event_code="1804">
+      <short_text>obstruction hazard</short_text>
+      <long_text>(%s sets of) traffic lights not working</long_text>
+    </tmc_event>
+    <tmc_event event_code="1805">
+      <short_text>obstruction hazard</short_text>
+      <long_text>(%s sets of) traffic lights working incorrectly</long_text>
+    </tmc_event>
+    <tmc_event event_code="1806">
+      <short_text>obstruction hazard</short_text>
+      <long_text>level crossing failure</long_text>
+    </tmc_event>
+    <tmc_event event_code="1807">
+      <short_text>%lstationary traffic</short_text>
+      <long_text>(%s sets of) traffic lights faulty. Stationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="1809">
+      <short_text>%lqueuing traffic</short_text>
+      <long_text>(%s sets of) traffic lights faulty. Queuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="1811">
+      <short_text>%lslow traffic</short_text>
+      <long_text>(%s sets of) traffic lights faulty. Slow traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="1812">
+      <short_text>obstruction hazard</short_text>
+      <long_text>(%s sets of) traffic lights faulty. Slow traffic expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="1813">
+      <short_text>%lheavy traffic</short_text>
+      <long_text>(%s sets of) traffic lights faulty. Heavy traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="1814">
+      <short_text>obstruction hazard</short_text>
+      <long_text>(%s sets of) traffic lights faulty. Heavy traffic expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="1815">
+      <short_text>obstruction hazard</short_text>
+      <long_text>(%s sets of) traffic lights faulty. Traffic flowing freely</long_text>
+    </tmc_event>
+    <tmc_event event_code="1816">
+      <short_text>%lslow traffic</short_text>
+      <long_text>(%s sets of) traffic lights faulty. Traffic building up</long_text>
+    </tmc_event>
+    <tmc_event event_code="1817">
+      <short_text>obstruction hazard</short_text>
+      <long_text>traffic lights not working. Delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1818">
+      <short_text>obstruction hazard</short_text>
+      <long_text>traffic lights not working. Delays %s expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="1819">
+      <short_text>obstruction hazard</short_text>
+      <long_text>traffic lights not working. Long delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1820">
+      <short_text>%lstationary traffic</short_text>
+      <long_text>level crossing failure. Stationary traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="1822">
+      <short_text>%lqueuing traffic</short_text>
+      <long_text>level crossing failure. Queuing traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="1824">
+      <short_text>%lslow traffic</short_text>
+      <long_text>level crossing failure. Slow traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="1825">
+      <short_text>obstruction hazard</short_text>
+      <long_text>level crossing failure. Slow traffic expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="1826">
+      <short_text>%lheavy traffic</short_text>
+      <long_text>level crossing failure. Heavy traffic</long_text>
+    </tmc_event>
+    <tmc_event event_code="1827">
+      <short_text>obstruction hazard</short_text>
+      <long_text>level crossing failure. Heavy traffic expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="1828">
+      <short_text>obstruction hazard</short_text>
+      <long_text>level crossing failure. Traffic flowing freely</long_text>
+    </tmc_event>
+    <tmc_event event_code="1829">
+      <short_text>%lslow traffic</short_text>
+      <long_text>level crossing failure. Traffic building up</long_text>
+    </tmc_event>
+    <tmc_event event_code="1830">
+      <short_text>delays</short_text>
+      <long_text>level crossing failure. Delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1831">
+      <short_text>delays</short_text>
+      <long_text>level crossing failure. Delays %s expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="1832">
+      <short_text>long delays</short_text>
+      <long_text>level crossing failure. Long delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1838">
+      <short_text>long delays</short_text>
+      <long_text>lane control signs working incorrectly</long_text>
+    </tmc_event>
+    <tmc_event event_code="1840">
+      <short_text>traffic equipment status</short_text>
+      <long_text>variable message signs not working</long_text>
+    </tmc_event>
+    <tmc_event event_code="1841">
+      <short_text>traffic equipment status</short_text>
+      <long_text>variable message signs working incorrectly</long_text>
+    </tmc_event>
+    <tmc_event event_code="1842">
+      <short_text>traffic equipment status</short_text>
+      <long_text>variable message signs operating</long_text>
+    </tmc_event>
+    <tmc_event event_code="1843">
+      <short_text>traffic equipment status</short_text>
+      <long_text>(%s sets of) ramp control signals not working</long_text>
+    </tmc_event>
+    <tmc_event event_code="1844">
+      <short_text>traffic equipment status</short_text>
+      <long_text>(%s sets of) ramp control signals working incorrectly</long_text>
+    </tmc_event>
+    <tmc_event event_code="1845">
+      <short_text>traffic equipment status</short_text>
+      <long_text>(%s sets of) temporary traffic lights not working</long_text>
+    </tmc_event>
+    <tmc_event event_code="1846">
+      <short_text>traffic equipment status</short_text>
+      <long_text>(%s sets of) temporary traffic lights working incorrectly</long_text>
+    </tmc_event>
+    <tmc_event event_code="1847">
+      <short_text>traffic equipment status</short_text>
+      <long_text>traffic signal control computer not working</long_text>
+    </tmc_event>
+    <tmc_event event_code="1848">
+      <short_text>traffic equipment status</short_text>
+      <long_text>traffic signal timings changed</long_text>
+    </tmc_event>
+    <tmc_event event_code="1849">
+      <short_text>traffic equipment status</short_text>
+      <long_text>tunnel ventilation not working</long_text>
+    </tmc_event>
+    <tmc_event event_code="1850">
+      <short_text>traffic equipment status</short_text>
+      <long_text>lane control signs not working. Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="1853">
+      <short_text>obstruction hazard</short_text>
+      <long_text>obstruction hazard</long_text>
+    </tmc_event>
+    <tmc_event event_code="1864">
+      <short_text>obstruction hazard</short_text>
+      <long_text>lane control signs working incorrectly. Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="1865">
+      <short_text>obstruction hazard</short_text>
+      <long_text>emergency telephones out of order. Extra police patrols in operation</long_text>
+    </tmc_event>
+    <tmc_event event_code="1866">
+      <short_text>traffic equipment status</short_text>
+      <long_text>emergency telephones out of order. In emergency, wait for police patrol</long_text>
+    </tmc_event>
+    <tmc_event event_code="1867">
+      <short_text>obstruction hazard</short_text>
+      <long_text>(%s sets of) traffic lights not working. Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="1868">
+      <short_text>obstruction hazard</short_text>
+      <long_text>traffic lights working incorrectly. Delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1869">
+      <short_text>obstruction hazard</short_text>
+      <long_text>traffic lights working incorrectly. Delays %s expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="1870">
+      <short_text>obstruction hazard</short_text>
+      <long_text>traffic lights working incorrectly. Long delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1875">
+      <short_text>obstruction hazard</short_text>
+      <long_text>(%s sets of) traffic lights working incorrectly. Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="1876">
+      <short_text>obstruction hazard</short_text>
+      <long_text>temporary traffic lights not working. Delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1877">
+      <short_text>obstruction hazard</short_text>
+      <long_text>temporary traffic lights not working. Delays %s expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="1878">
+      <short_text>obstruction hazard</short_text>
+      <long_text>temporary traffic lights not working. Long delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1879">
+      <short_text>obstruction hazard</short_text>
+      <long_text>(%s sets of) temporary traffic lights not working. Danger</long_text>
+    </tmc_event>
+    <tmc_event event_code="1880">
+      <short_text>delays</short_text>
+      <long_text>traffic signal control computer not working. Delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1884">
+      <short_text>delays</short_text>
+      <long_text>traffic signal control computer not working. Delays %s expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="1885">
+      <short_text>long delays</short_text>
+      <long_text>traffic signal control computer not working. Long delays %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1886">
+      <short_text>parking</short_text>
+      <long_text>normal parking restrictions lifted</long_text>
+    </tmc_event>
+    <tmc_event event_code="1887">
+      <short_text>parking</short_text>
+      <long_text>special parking restrictions in force</long_text>
+    </tmc_event>
+    <tmc_event event_code="1888">
+      <short_text>10% full</short_text>
+      <long_text>10% full</long_text>
+    </tmc_event>
+    <tmc_event event_code="1889">
+      <short_text>20% full</short_text>
+      <long_text>20% full</long_text>
+    </tmc_event>
+    <tmc_event event_code="1890">
+      <short_text>30% full</short_text>
+      <long_text>30% full</long_text>
+    </tmc_event>
+    <tmc_event event_code="1891">
+      <short_text>40% full</short_text>
+      <long_text>40% full</long_text>
+    </tmc_event>
+    <tmc_event event_code="1892">
+      <short_text>50% full</short_text>
+      <long_text>50% full</long_text>
+    </tmc_event>
+    <tmc_event event_code="1893">
+      <short_text>60% full</short_text>
+      <long_text>60% full</long_text>
+    </tmc_event>
+    <tmc_event event_code="1894">
+      <short_text>70% full</short_text>
+      <long_text>70% full</long_text>
+    </tmc_event>
+    <tmc_event event_code="1895">
+      <short_text>80% full</short_text>
+      <long_text>80% full</long_text>
+    </tmc_event>
+    <tmc_event event_code="1896">
+      <short_text>90% full</short_text>
+      <long_text>90% full</long_text>
+    </tmc_event>
+    <tmc_event event_code="1897">
+      <short_text>only a few parking spaces available</short_text>
+      <long_text>less than 10 parking spaces available</long_text>
+    </tmc_event>
+    <tmc_event event_code="1898">
+      <short_text>only a few parking spaces available</short_text>
+      <long_text>less than 20 parking spaces available</long_text>
+    </tmc_event>
+    <tmc_event event_code="1899">
+      <short_text>only a few parking spaces available</short_text>
+      <long_text>less than 30 parking spaces available</long_text>
+    </tmc_event>
+    <tmc_event event_code="1900">
+      <short_text>only a few parking spaces available</short_text>
+      <long_text>less than 40 parking spaces available</long_text>
+    </tmc_event>
+    <tmc_event event_code="1901">
+      <short_text>travel time information</short_text>
+      <long_text>next departure %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1903">
+      <short_text>car park %s full</short_text>
+      <long_text>car park %s full</long_text>
+    </tmc_event>
+    <tmc_event event_code="1904">
+      <short_text>only a few parking spaces available</short_text>
+      <long_text>all car parks %s full</long_text>
+    </tmc_event>
+    <tmc_event event_code="1905">
+      <short_text>parking</short_text>
+      <long_text>less than %s car parking spaces available</long_text>
+    </tmc_event>
+    <tmc_event event_code="1906">
+      <short_text>parking</short_text>
+      <long_text>park and ride service operating (until %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1908">
+      <short_text>service messages</short_text>
+      <long_text>switch your car radio (to %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1909">
+      <short_text>service messages</short_text>
+      <long_text>alarm call: important new information on this frequency follows now in normal programme</long_text>
+    </tmc_event>
+    <tmc_event event_code="1910">
+      <short_text>service messages</short_text>
+      <long_text>alarm set: new information will be broadcast between these times in normal programme</long_text>
+    </tmc_event>
+    <tmc_event event_code="1913">
+      <short_text>service messages</short_text>
+      <long_text>switch your car radio (to %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1918">
+      <short_text>full</short_text>
+      <long_text>full</long_text>
+    </tmc_event>
+    <tmc_event event_code="1920">
+      <short_text>only a few parking spaces available</short_text>
+      <long_text>only a few parking spaces available</long_text>
+    </tmc_event>
+    <tmc_event event_code="1921">
+      <short_text>parking space available</short_text>
+      <long_text>%s parking spaces available</long_text>
+    </tmc_event>
+    <tmc_event event_code="1922">
+      <short_text>car park full</short_text>
+      <long_text>car park expected to be full</long_text>
+    </tmc_event>
+    <tmc_event event_code="1923">
+      <short_text>car park full</short_text>
+      <long_text>no parking spaces expected</long_text>
+    </tmc_event>
+    <tmc_event event_code="1924">
+      <short_text>car park full</short_text>
+      <long_text>multi story car parks full</long_text>
+    </tmc_event>
+    <tmc_event event_code="1926">
+      <short_text>car park full</short_text>
+      <long_text>no parking spaces available</long_text>
+    </tmc_event>
+    <tmc_event event_code="1927">
+      <short_text>parking</short_text>
+      <long_text>no parking (until %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1928">
+      <short_text>parking</short_text>
+      <long_text>special parking restrictions lifted</long_text>
+    </tmc_event>
+    <tmc_event event_code="1930">
+      <short_text>service messages</short_text>
+      <long_text>this tmc-service is not active (until %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1961">
+      <short_text>dangerous situation</short_text>
+      <long_text>allow emergency vehicles to pass in the carpool lane</long_text>
+    </tmc_event>
+    <tmc_event event_code="1962">
+      <short_text>carpool information</short_text>
+      <long_text>carpool lane available for all vehicles</long_text>
+    </tmc_event>
+    <tmc_event event_code="1963">
+      <short_text>carpool information</short_text>
+      <long_text>police directing traffic via the carpool lane</long_text>
+    </tmc_event>
+    <tmc_event event_code="1974">
+      <short_text>dangerous situation</short_text>
+      <long_text>allow emergency vehicles to pass</long_text>
+    </tmc_event>
+    <tmc_event event_code="1977">
+      <short_text>dangerous situation</short_text>
+      <long_text>allow emergency vehicles to pass in the heavy vehicle lane</long_text>
+    </tmc_event>
+    <tmc_event event_code="2000">
+      <short_text>closures</short_text>
+      <long_text>closed due to smog alert (until %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="2013">
+      <short_text>service area busy</short_text>
+      <long_text>service area busy</long_text>
+    </tmc_event>
+    <tmc_event event_code="2021">
+      <short_text>service not operating, substitute service available</short_text>
+      <long_text>service not operating, substitute service available</long_text>
+    </tmc_event>
+    <tmc_event event_code="2022">
+      <short_text>public transport strike</short_text>
+      <long_text>public transport strike</long_text>
+    </tmc_event>
+  </locale>
+</TmcConfig>

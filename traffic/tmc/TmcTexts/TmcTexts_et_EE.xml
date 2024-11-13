@@ -1,0 +1,4793 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TmcConfig>
+  <locale code="et_EE" unit_system="UNITS_METRIC">
+    <tmc_event event_code="1">
+      <short_text>liiklustakistus</short_text>
+      <long_text>liiklustakistus</long_text>
+    </tmc_event>
+    <tmc_event event_code="2">
+      <short_text>%lhäiritud liiklus</short_text>
+      <long_text>%lhäiritud liiklus, ummikuoht</long_text>
+    </tmc_event>
+    <tmc_event event_code="11">
+      <short_text>liiklustakistus</short_text>
+      <long_text>kõrguse kontroll rakendunud</long_text>
+    </tmc_event>
+    <tmc_event event_code="12">
+      <short_text>õnnetus</short_text>
+      <long_text>õnnetus, liiklus juhitakse õnnetuspaigast mööda</long_text>
+    </tmc_event>
+    <tmc_event event_code="16">
+      <short_text>sulgemine</short_text>
+      <long_text>päästetööde tõttu suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="20">
+      <short_text>parkimisplats hõivatud</short_text>
+      <long_text>tankla- ja puhkekompleks ülekoormatud, sõitke mõnda teise tankla- või puhkekompleksi</long_text>
+    </tmc_event>
+    <tmc_event event_code="22">
+      <short_text>tankla suletud</short_text>
+      <long_text>tankla- ja puhkekompleks, tankla suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="23">
+      <short_text>puhkekompleks suletud</short_text>
+      <long_text>tankla- ja puhkekompleks, puhkekompleks suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="24">
+      <short_text>silla sulgemine</short_text>
+      <long_text>sild suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="25">
+      <short_text>tunneli sulgemine</short_text>
+      <long_text>tunnel suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="26">
+      <short_text>sild blokeeritud</short_text>
+      <long_text>sild blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="27">
+      <short_text>tunnel blokeeritud</short_text>
+      <long_text>tunnel blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="28">
+      <short_text>tee sulgemine</short_text>
+      <long_text>tee suletakse mitu korda</long_text>
+    </tmc_event>
+    <tmc_event event_code="41">
+      <short_text>teekitsend</short_text>
+      <long_text>möödasõidurada suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="42">
+      <short_text>teekitsend</short_text>
+      <long_text>möödasõidurada blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="51">
+      <short_text>teetööd</short_text>
+      <long_text>tööd möödasõidurajal</long_text>
+    </tmc_event>
+    <tmc_event event_code="52">
+      <short_text>teetööd</short_text>
+      <long_text>tööd seisurajal</long_text>
+    </tmc_event>
+    <tmc_event event_code="53">
+      <short_text>teetööd</short_text>
+      <long_text>tööd tehnoabiribal</long_text>
+    </tmc_event>
+    <tmc_event event_code="55">
+      <short_text>liiklustakistus</short_text>
+      <long_text>oodatav liiklustakistus</long_text>
+    </tmc_event>
+    <tmc_event event_code="56">
+      <short_text>liiklustakistus</short_text>
+      <long_text>oodatav liiklushäire</long_text>
+    </tmc_event>
+    <tmc_event event_code="61">
+      <short_text>esemed sõiduteel</short_text>
+      <long_text>liiklustakistus esemete tõttu sõiduteel</long_text>
+    </tmc_event>
+    <tmc_event event_code="62">
+      <short_text>toru purunemine</short_text>
+      <long_text>liiklustakistus toru purunemise tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="63">
+      <short_text>esemed sõiduteel</short_text>
+      <long_text>oht esemete tõttu sõiduteel</long_text>
+    </tmc_event>
+    <tmc_event event_code="64">
+      <short_text>toru purunemine</short_text>
+      <long_text>oht toru purunemise tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="70">
+      <short_text>%lummik</short_text>
+      <long_text>liiklushäire, keskmine kiirus 10 km/h</long_text>
+    </tmc_event>
+    <tmc_event event_code="71">
+      <short_text>%lummik</short_text>
+      <long_text>liiklushäire, keskmine kiirus 20 km/h</long_text>
+    </tmc_event>
+    <tmc_event event_code="72">
+      <short_text>%lummik</short_text>
+      <long_text>liiklushäire, keskmine kiirus 30 km/h</long_text>
+    </tmc_event>
+    <tmc_event event_code="73">
+      <short_text>%lummik</short_text>
+      <long_text>liiklushäire, keskmine kiirus 40 km/h</long_text>
+    </tmc_event>
+    <tmc_event event_code="74">
+      <short_text>%lhäiritud liiklus</short_text>
+      <long_text>liiklushäire, keskmine kiirus 50 km/h</long_text>
+    </tmc_event>
+    <tmc_event event_code="75">
+      <short_text>%lhäiritud liiklus</short_text>
+      <long_text>liiklushäire, keskmine kiirus 60 km/h</long_text>
+    </tmc_event>
+    <tmc_event event_code="76">
+      <short_text>%lhäiritud liiklus</short_text>
+      <long_text>liiklushäire, keskmine kiirus 70 km/h</long_text>
+    </tmc_event>
+    <tmc_event event_code="80">
+      <short_text>tihe liiklus</short_text>
+      <long_text>tuleb arvestada elava liiklusega</long_text>
+    </tmc_event>
+    <tmc_event event_code="81">
+      <short_text>liiklushäired</short_text>
+      <long_text>tuleb arvestada liiklushäiretega</long_text>
+    </tmc_event>
+    <tmc_event event_code="82">
+      <short_text>teetööd</short_text>
+      <long_text>teetööd</long_text>
+    </tmc_event>
+    <tmc_event event_code="83">
+      <short_text>sulgemine</short_text>
+      <long_text>sulgemine</long_text>
+    </tmc_event>
+    <tmc_event event_code="84">
+      <short_text>üritus</short_text>
+      <long_text>üritus</long_text>
+    </tmc_event>
+    <tmc_event event_code="85">
+      <short_text>spordiüritus</short_text>
+      <long_text>spordiüritus</long_text>
+    </tmc_event>
+    <tmc_event event_code="86">
+      <short_text>mess</short_text>
+      <long_text>mess, tuleb arvestada elava liiklusega</long_text>
+    </tmc_event>
+    <tmc_event event_code="87">
+      <short_text>evakueerimine</short_text>
+      <long_text>evakueerimine, tuleb arvestada elava liiklusega</long_text>
+    </tmc_event>
+    <tmc_event event_code="91">
+      <short_text>ajakadu</short_text>
+      <long_text>ajakadu sõiduautodel</long_text>
+    </tmc_event>
+    <tmc_event event_code="101">
+      <short_text>%lummik</short_text>
+      <long_text>%lummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="102">
+      <short_text>1 km ummik</short_text>
+      <long_text>1 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="103">
+      <short_text>2 km ummik</short_text>
+      <long_text>2 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="104">
+      <short_text> km ummik</short_text>
+      <long_text>4 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="105">
+      <short_text>6 km ummik</short_text>
+      <long_text>6 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="106">
+      <short_text>10 km ummik</short_text>
+      <long_text>10 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="107">
+      <short_text>liiklustakistus</short_text>
+      <long_text>oodatav ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="108">
+      <short_text>%lhäiritud liiklus</short_text>
+      <long_text>%lhäiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="109">
+      <short_text>1 km häiritud liiklus</short_text>
+      <long_text>1 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="110">
+      <short_text>2 km häiritud liiklus</short_text>
+      <long_text>2 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="111">
+      <short_text>4 km häiritud liiklus</short_text>
+      <long_text>4 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="112">
+      <short_text>6 km häiritud liiklus</short_text>
+      <long_text>6 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="113">
+      <short_text>10 km häiritud liiklus</short_text>
+      <long_text>10 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="114">
+      <short_text>häiritud liiklus</short_text>
+      <long_text>oodatav häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="115">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>%ltihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="116">
+      <short_text>1 km tihe liiklus</short_text>
+      <long_text>1 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="117">
+      <short_text>2 km tihe liiklus</short_text>
+      <long_text>2 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="118">
+      <short_text>4 km tihe liiklus</short_text>
+      <long_text>4 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="119">
+      <short_text>6 km tihe liiklus</short_text>
+      <long_text>6 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="120">
+      <short_text>10 km tihe liiklus</short_text>
+      <long_text>10 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="121">
+      <short_text>liiklustakistus</short_text>
+      <long_text>oodatav tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="122">
+      <short_text>%elav liiklus</short_text>
+      <long_text>%elav liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="123">
+      <short_text>liiklustakistus</short_text>
+      <long_text>oodatav elav liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="124">
+      <short_text>tavaline liiklus</short_text>
+      <long_text>häireteta liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="125">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>%lsuureneva tendentsiga tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="129">
+      <short_text>3 km ummik</short_text>
+      <long_text>3 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="130">
+      <short_text>ummikuoht</short_text>
+      <long_text>ummikuoht</long_text>
+    </tmc_event>
+    <tmc_event event_code="131">
+      <short_text>3 km häiritud liiklus</short_text>
+      <long_text>3 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="132">
+      <short_text>%lhäiritud liiklus</short_text>
+      <long_text>häiritud liikluse oht</long_text>
+    </tmc_event>
+    <tmc_event event_code="133">
+      <short_text>%lpikad ummikud</short_text>
+      <long_text>pikad ummikud</long_text>
+    </tmc_event>
+    <tmc_event event_code="134">
+      <short_text>3 km tihe liiklus</short_text>
+      <long_text>3 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="136">
+      <short_text>liiklushäire</short_text>
+      <long_text>liiklushäire</long_text>
+    </tmc_event>
+    <tmc_event event_code="138">
+      <short_text>%lummik</short_text>
+      <long_text>%lummik, sõitke ettevaatlikult ummiku lõppu</long_text>
+    </tmc_event>
+    <tmc_event event_code="139">
+      <short_text>%lhäiritud liiklus</short_text>
+      <long_text>%ummiku lõpp asub kurvi taga</long_text>
+    </tmc_event>
+    <tmc_event event_code="140">
+      <short_text>%lhäiritud liiklus</short_text>
+      <long_text>%ummiku lõpp asub künka taga</long_text>
+    </tmc_event>
+    <tmc_event event_code="142">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>väga palju tihedam liiklus kui tavaliselt</long_text>
+    </tmc_event>
+    <tmc_event event_code="143">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>tihedam liiklus kui tavaliselt</long_text>
+    </tmc_event>
+    <tmc_event event_code="200">
+      <short_text>õnnetus</short_text>
+      <long_text>mitme sõidukiga õnnetus, ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="201">
+      <short_text>õnnetus</short_text>
+      <long_text>õnnetus</long_text>
+    </tmc_event>
+    <tmc_event event_code="202">
+      <short_text>raske õnnetus</short_text>
+      <long_text>raske õnnetus</long_text>
+    </tmc_event>
+    <tmc_event event_code="203">
+      <short_text>õnnetus</short_text>
+      <long_text>mitme sõidukiga õnnetus</long_text>
+    </tmc_event>
+    <tmc_event event_code="204">
+      <short_text>õnnetus veoautoga</short_text>
+      <long_text>õnnetus veoautoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="205">
+      <short_text>õnnetus</short_text>
+      <long_text>õnnetus ohtlike veoste veokiga</long_text>
+    </tmc_event>
+    <tmc_event event_code="206">
+      <short_text>õnnetus</short_text>
+      <long_text>õnnetus, väljavoolava bensiini oht</long_text>
+    </tmc_event>
+    <tmc_event event_code="207">
+      <short_text>õnnetus</short_text>
+      <long_text>õnnetus, väljavoolavate kemikaalide oht</long_text>
+    </tmc_event>
+    <tmc_event event_code="208">
+      <short_text>liiklustakistus</short_text>
+      <long_text>takistus uudishimulike tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="210">
+      <short_text>kaotatud koorem</short_text>
+      <long_text>kaotatud koorem</long_text>
+    </tmc_event>
+    <tmc_event event_code="211">
+      <short_text>defektne sõiduk</short_text>
+      <long_text>liiklustakistus defektse sõiduki tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="212">
+      <short_text>defektne veoauto</short_text>
+      <long_text>liiklustakistus defektse veoauto tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="213">
+      <short_text>põlev sõiduk</short_text>
+      <long_text>põlev sõiduk</long_text>
+    </tmc_event>
+    <tmc_event event_code="214">
+      <short_text>liiklustakistus</short_text>
+      <long_text>liiklustakistus</long_text>
+    </tmc_event>
+    <tmc_event event_code="215">
+      <short_text>%lummik</short_text>
+      <long_text>õnnetus, %lummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="216">
+      <short_text>1 km ummik</short_text>
+      <long_text>õnnetus, 1 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="217">
+      <short_text>2 km ummik</short_text>
+      <long_text>õnnetus, 2 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="218">
+      <short_text>4 km ummik</short_text>
+      <long_text>õnnetus, 4 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="219">
+      <short_text>6 km ummik</short_text>
+      <long_text>õnnetus, 6 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="220">
+      <short_text>10 km ummik</short_text>
+      <long_text>õnnetus, 10 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="221">
+      <short_text>õnnetus</short_text>
+      <long_text>õnnetus, ummikuoht</long_text>
+    </tmc_event>
+    <tmc_event event_code="222">
+      <short_text>%lhäiritud liiklus</short_text>
+      <long_text>õnnetus, %lhäiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="223">
+      <short_text>1 km häiritud liiklus</short_text>
+      <long_text>õnnetus, 1 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="224">
+      <short_text>2 km häiritud liiklus</short_text>
+      <long_text>õnnetus, 2 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="225">
+      <short_text>4 km häiritud liiklus</short_text>
+      <long_text>õnnetus, 4 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="226">
+      <short_text>6 km häiritud liiklus</short_text>
+      <long_text>õnnetus, 6 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="227">
+      <short_text>10 km häiritud liiklus</short_text>
+      <long_text>õnnetus, 10 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="228">
+      <short_text>õnnetus</short_text>
+      <long_text>õnnetus, häiritud liikluse oht</long_text>
+    </tmc_event>
+    <tmc_event event_code="229">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>õnnetus, %ltihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="230">
+      <short_text>1 km tihe liiklus</short_text>
+      <long_text>õnnetus, 1 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="231">
+      <short_text>2 km tihe liiklus</short_text>
+      <long_text>õnnetus, 2 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="232">
+      <short_text>4 km tihe liiklus</short_text>
+      <long_text>õnnetus, 4 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="233">
+      <short_text>6 km tihe liiklus</short_text>
+      <long_text>õnnetus, 6 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="234">
+      <short_text>10 km tihe liiklus</short_text>
+      <long_text>õnnetus, 10 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="235">
+      <short_text>õnnetus</short_text>
+      <long_text>õnnetus, oodatav tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="236">
+      <short_text>%elav liiklus</short_text>
+      <long_text>õnnetus, %elav liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="237">
+      <short_text>õnnetus</short_text>
+      <long_text>õnnetus, oodatav elav liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="238">
+      <short_text>õnnetus</short_text>
+      <long_text>õnnetus, häireteta liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="239">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>õnnetus, %lsuureneva tendentsiga tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="240">
+      <short_text>õnnetus, sulgemine</short_text>
+      <long_text>õnnetus, tee suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="241">
+      <short_text>teekitsend</short_text>
+      <long_text>õnnetus, parem sõidurada blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="242">
+      <short_text>teekitsend</short_text>
+      <long_text>õnnetus, keskmine sõidurada blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="243">
+      <short_text>teekitsend</short_text>
+      <long_text>õnnetus, vasak sõidurada blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="244">
+      <short_text>teekitsend</short_text>
+      <long_text>õnnetus, seisurada blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="245">
+      <short_text>teekitsend</short_text>
+      <long_text>õnnetus, 2 sõidurada blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="246">
+      <short_text>teekitsend</short_text>
+      <long_text>õnnetus, 3 sõidurada blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="247">
+      <short_text>õnnetus</short_text>
+      <long_text>õnnetus, ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="248">
+      <short_text>õnnetus</short_text>
+      <long_text>õnnetus, tuleb arvestada ajakaoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="249">
+      <short_text>õnnetus</short_text>
+      <long_text>õnnetus, suur ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="250">
+      <short_text>%lummik</short_text>
+      <long_text>takistus uudishimulike tõttu, %lummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="251">
+      <short_text>1 km ummik</short_text>
+      <long_text>takistus uudishimulike tõttu, 1 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="252">
+      <short_text>2 km ummik</short_text>
+      <long_text>takistus uudishimulike tõttu, 2 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="253">
+      <short_text>4 km ummik</short_text>
+      <long_text>takistus uudishimulike tõttu, 4 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="254">
+      <short_text>6 km ummik</short_text>
+      <long_text>takistus uudishimulike tõttu, 6 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="255">
+      <short_text>10 km ummik</short_text>
+      <long_text>takistus uudishimulike tõttu, 10 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="256">
+      <short_text>liiklustakistus</short_text>
+      <long_text>takistus uudishimulike tõttu, ummikuoht</long_text>
+    </tmc_event>
+    <tmc_event event_code="257">
+      <short_text>%lhäiritud liiklus</short_text>
+      <long_text>takistus uudishimulike tõttu, %lhäiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="258">
+      <short_text>1 km häiritud liiklus</short_text>
+      <long_text>takistus uudishimulike tõttu, 1 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="259">
+      <short_text>2 km häiritud liiklus</short_text>
+      <long_text>takistus uudishimulike tõttu, 2 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="260">
+      <short_text>4 km häiritud liiklus</short_text>
+      <long_text>takistus uudishimulike tõttu, 4 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="261">
+      <short_text>6 km häiritud liiklus</short_text>
+      <long_text>takistus uudishimulike tõttu, 6 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="262">
+      <short_text>10 km häiritud liiklus</short_text>
+      <long_text>takistus uudishimulike tõttu, 10 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="263">
+      <short_text>liiklustakistus</short_text>
+      <long_text>takistus uudishimulike tõttu, häiritud liikluse oht</long_text>
+    </tmc_event>
+    <tmc_event event_code="264">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>takistus uudishimulike tõttu, %ltihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="265">
+      <short_text>1 km tihe liiklus</short_text>
+      <long_text>takistus uudishimulike tõttu, 1 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="266">
+      <short_text>2 km tihe liiklus</short_text>
+      <long_text>takistus uudishimulike tõttu, 2 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="267">
+      <short_text>4 km tihe liiklus</short_text>
+      <long_text>takistus uudishimulike tõttu, 4 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="268">
+      <short_text>6 km tihe liiklus</short_text>
+      <long_text>takistus uudishimulike tõttu, 6 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="269">
+      <short_text>10 km tihe liiklus</short_text>
+      <long_text>takistus uudishimulike tõttu, 10 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="271">
+      <short_text>%elav liiklus</short_text>
+      <long_text>takistus uudishimulike tõttu, %elav liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="274">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>takistus uudishimulike tõttu, %lsuureneva tendentsiga tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="275">
+      <short_text>ajakadu</short_text>
+      <long_text>takistus uudishimulike tõttu, ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="276">
+      <short_text>ajakadu</short_text>
+      <long_text>takistus uudishimulike tõttu, tuleb arvestada ajakaoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="277">
+      <short_text>pikk ooteaeg</short_text>
+      <long_text>takistus uudishimulike tõttu, suur ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="278">
+      <short_text>%lummik</short_text>
+      <long_text>kaotatud koorem, %lummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="279">
+      <short_text>1 km ummik</short_text>
+      <long_text>kaotatud koorem, 1 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="280">
+      <short_text>2 km ummik</short_text>
+      <long_text>kaotatud koorem, 2 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="281">
+      <short_text>4 km ummik</short_text>
+      <long_text>kaotatud koorem, 4 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="282">
+      <short_text>6 km ummik</short_text>
+      <long_text>kaotatud koorem, 6 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="283">
+      <short_text>10 km ummik</short_text>
+      <long_text>kaotatud koorem, 10 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="284">
+      <short_text>ummikuoht</short_text>
+      <long_text>kaotatud koorem, ummikuoht</long_text>
+    </tmc_event>
+    <tmc_event event_code="285">
+      <short_text>%lhäiritud liiklus</short_text>
+      <long_text>kaotatud koorem, %lhäiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="286">
+      <short_text>1 km häiritud liiklus</short_text>
+      <long_text>kaotatud koorem, 1 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="287">
+      <short_text>2 km häiritud liiklus</short_text>
+      <long_text>kaotatud koorem, 2 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="288">
+      <short_text>4 km häiritud liiklus</short_text>
+      <long_text>kaotatud koorem, 4 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="289">
+      <short_text>6 km häiritud liiklus</short_text>
+      <long_text>kaotatud koorem, 6 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="290">
+      <short_text>10 km häiritud liiklus</short_text>
+      <long_text>kaotatud koorem, 10 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="291">
+      <short_text>häiritud liiklus</short_text>
+      <long_text>kaotatud koorem, häiritud liikluse oht</long_text>
+    </tmc_event>
+    <tmc_event event_code="292">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>kaotatud koorem, %ltihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="293">
+      <short_text>1 km tihe liiklus</short_text>
+      <long_text>kaotatud koorem, 1 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="294">
+      <short_text>2 km tihe liiklus</short_text>
+      <long_text>kaotatud koorem, 2 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="295">
+      <short_text>4 km tihe liiklus</short_text>
+      <long_text>kaotatud koorem, 4 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="296">
+      <short_text>6 km tihe liiklus</short_text>
+      <long_text>kaotatud koorem, 6 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="297">
+      <short_text>10 km tihe liiklus</short_text>
+      <long_text>kaotatud koorem, 10 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="298">
+      <short_text>tihe liiklus</short_text>
+      <long_text>kaotatud koorem, oodatav tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="299">
+      <short_text>%elav liiklus</short_text>
+      <long_text>kaotatud koorem, %lelav liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="300">
+      <short_text>elav liiklus</short_text>
+      <long_text>kaotatud koorem, oodatav elav liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="301">
+      <short_text>kaotatud koorem</short_text>
+      <long_text>kaotatud koorem, häireteta liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="302">
+      <short_text>tihe liiklus</short_text>
+      <long_text>kaotatud koorem, %lsuureneva tendentsiga tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="303">
+      <short_text>sulgemine</short_text>
+      <long_text>kaotatud koorma tõttu blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="304">
+      <short_text>teekitsend</short_text>
+      <long_text>kaotatud koorem, parem sõidurada blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="305">
+      <short_text>teekitsend</short_text>
+      <long_text>kaotatud koorem, keskmine sõidurada blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="306">
+      <short_text>teekitsend</short_text>
+      <long_text>kaotatud koorem, vasak sõidurada blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="307">
+      <short_text>teekitsend</short_text>
+      <long_text>kaotatud koorem, seisurada blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="308">
+      <short_text>teekitsend</short_text>
+      <long_text>kaotatud koorem, 2 sõidurada blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="309">
+      <short_text>teekitsend</short_text>
+      <long_text>kaotatud koorem, 3 sõidurada blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="310">
+      <short_text>kaotatud koorem</short_text>
+      <long_text>kaotatud koorem, ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="311">
+      <short_text>kaotatud koorem</short_text>
+      <long_text>kaotatud koorem, tuleb arvestada ajakaoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="312">
+      <short_text>kaotatud koorem</short_text>
+      <long_text>kaotatud koorem, suur ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="313">
+      <short_text>%lummik</short_text>
+      <long_text>liiklustakistus defektse sõiduki tõttu, %lummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="314">
+      <short_text>liiklustakistus</short_text>
+      <long_text>liiklustakistus defektse sõiduki tõttu, ummikuoht</long_text>
+    </tmc_event>
+    <tmc_event event_code="315">
+      <short_text>%lhäiritud liiklus</short_text>
+      <long_text>liiklustakistus defektse sõiduki tõttu, häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="316">
+      <short_text>liiklustakistus</short_text>
+      <long_text>liiklustakistus defektse sõiduki tõttu, häiritud liikluse oht</long_text>
+    </tmc_event>
+    <tmc_event event_code="317">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>liiklustakistus defektse sõiduki tõttu, %ltihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="318">
+      <short_text>liiklustakistus</short_text>
+      <long_text>liiklustakistus defektse sõiduki tõttu, oodatav tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="319">
+      <short_text>%elav liiklus</short_text>
+      <long_text>liiklustakistus defektse sõiduki tõttu, %elav liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="320">
+      <short_text>liiklustakistus</short_text>
+      <long_text>liiklustakistus defektse sõiduki tõttu, oodatav elav liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="321">
+      <short_text>defektne sõiduk</short_text>
+      <long_text>defektne sõiduk, vaba liiklusvoog</long_text>
+    </tmc_event>
+    <tmc_event event_code="322">
+      <short_text>liiklustakistus</short_text>
+      <long_text>liiklustakistus defektse sõiduki tõttu, %lsuureneva tendentsiga tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="323">
+      <short_text>sulgemine</short_text>
+      <long_text>liiklustakistus defektse sõiduki tõttu, tee blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="324">
+      <short_text>teekitsend</short_text>
+      <long_text>liiklustakistus defektse sõiduki tõttu, parem sõidurada blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="325">
+      <short_text>teekitsend</short_text>
+      <long_text>liiklustakistus defektse sõiduki tõttu, keskmine sõidurada blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="326">
+      <short_text>teekitsend</short_text>
+      <long_text>liiklustakistus defektse sõiduki tõttu, vasak sõidurada blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="327">
+      <short_text>teekitsend</short_text>
+      <long_text>liiklustakistus defektse sõiduki tõttu, seisurada blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="328">
+      <short_text>teekitsend</short_text>
+      <long_text>liiklustakistus defektse sõiduki tõttu, 2 sõidurada blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="329">
+      <short_text>teekitsend</short_text>
+      <long_text>liiklustakistus defektse sõiduki tõttu, 3 sõidurada blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="330">
+      <short_text>defektne sõiduk</short_text>
+      <long_text>liiklustakistus defektse sõiduki tõttu, ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="331">
+      <short_text>defektne sõiduk</short_text>
+      <long_text>liiklustakistus defektse sõiduki tõttu, tuleb arvestada ajakaoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="332">
+      <short_text>defektne sõiduk</short_text>
+      <long_text>liiklustakistus defektse sõiduki tõttu, suur ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="335">
+      <short_text>õnnetus bussidega</short_text>
+      <long_text>õnnetus bussidega</long_text>
+    </tmc_event>
+    <tmc_event event_code="336">
+      <short_text>õnnetus</short_text>
+      <long_text>õnnetus, oht väljavoolava õli tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="337">
+      <short_text>õnnetus</short_text>
+      <long_text>ümberkukkunud sõiduk</long_text>
+    </tmc_event>
+    <tmc_event event_code="338">
+      <short_text>õnnetus</short_text>
+      <long_text>liiklustakistus ümberkukkunud veoauto tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="339">
+      <short_text>õnnetus</short_text>
+      <long_text>ristiseisev haagis</long_text>
+    </tmc_event>
+    <tmc_event event_code="340">
+      <short_text>õnnetus</short_text>
+      <long_text>ristiseisev haagissuvila</long_text>
+    </tmc_event>
+    <tmc_event event_code="341">
+      <short_text>ristiseisev veoauto</short_text>
+      <long_text>ristiseisev veoauto</long_text>
+    </tmc_event>
+    <tmc_event event_code="342">
+      <short_text>õnnetus</short_text>
+      <long_text>õnnetus sõidukiga</long_text>
+    </tmc_event>
+    <tmc_event event_code="343">
+      <short_text>õnnetus</short_text>
+      <long_text>eelnenud õnnetus</long_text>
+    </tmc_event>
+    <tmc_event event_code="344">
+      <short_text>õnnetuse fikseerimine</short_text>
+      <long_text>õnnetuse fikseerimine</long_text>
+    </tmc_event>
+    <tmc_event event_code="345">
+      <short_text>järelõnnetus</short_text>
+      <long_text>järelõnnetus</long_text>
+    </tmc_event>
+    <tmc_event event_code="346">
+      <short_text>liiklustakistus</short_text>
+      <long_text>defektne buss</long_text>
+    </tmc_event>
+    <tmc_event event_code="348">
+      <short_text>õnnetus, 3 km ummik</short_text>
+      <long_text>õnnetus, 3 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="349">
+      <short_text>3 km häiritud liiklus</short_text>
+      <long_text>õnnetus, 3 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="350">
+      <short_text>3 km tihe liiklus</short_text>
+      <long_text>õnnetus, 3 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="351">
+      <short_text>õnnetus</short_text>
+      <long_text>õnnetus teetööde alas</long_text>
+    </tmc_event>
+    <tmc_event event_code="352">
+      <short_text>3 km ummik</short_text>
+      <long_text>takistus uudishimulike tõttu, 3 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="353">
+      <short_text>3 km häiritud liiklus</short_text>
+      <long_text>takistus uudishimulike tõttu, 3 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="354">
+      <short_text>3 km tihe liiklus</short_text>
+      <long_text>takistus uudishimulike tõttu, 3 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="355">
+      <short_text>liiklustakistus</short_text>
+      <long_text>takistus uudishimulike tõttu, oht</long_text>
+    </tmc_event>
+    <tmc_event event_code="356">
+      <short_text>3 km ummik</short_text>
+      <long_text>kaotatud koorem, 3 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="357">
+      <short_text>3 km häiritud liiklus</short_text>
+      <long_text>kaotatud koorem, 3 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="358">
+      <short_text>3 km tihe liiklus</short_text>
+      <long_text>kaotatud koorem, 3 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="359">
+      <short_text>kaotatud koorem</short_text>
+      <long_text>kaotatud koorem, oht</long_text>
+    </tmc_event>
+    <tmc_event event_code="360">
+      <short_text>%lummik</short_text>
+      <long_text>ümberkukkunud sõiduk, %lummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="361">
+      <short_text>õnnetus</short_text>
+      <long_text>ümberkukkunud sõiduk, ummikuoht</long_text>
+    </tmc_event>
+    <tmc_event event_code="362">
+      <short_text>%lhäiritud liiklus</short_text>
+      <long_text>ümberkukkunud sõiduk, %lhäiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="363">
+      <short_text>õnnetus</short_text>
+      <long_text>ümberkukkunud sõiduk, häiritud liikluse oht</long_text>
+    </tmc_event>
+    <tmc_event event_code="364">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>ümberkukkunud sõiduk, %ltihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="365">
+      <short_text>õnnetus</short_text>
+      <long_text>ümberkukkunud sõiduk, oodatav tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="366">
+      <short_text>%elav liiklus</short_text>
+      <long_text>ümberkukkunud sõiduk, %elav liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="367">
+      <short_text>õnnetus</short_text>
+      <long_text>ümberkukkunud sõiduk, oodatav elav liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="368">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>ümberkukkunud sõiduk, %lsuureneva tendentsiga tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="369">
+      <short_text>sulgemine</short_text>
+      <long_text>ümberkukkunud sõiduki tõttu blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="370">
+      <short_text>teekitsend</short_text>
+      <long_text>ümberkukkunud sõiduk, parem sõidurada blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="371">
+      <short_text>teekitsend</short_text>
+      <long_text>ümberkukkunud sõiduk, keskmine sõidurada blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="372">
+      <short_text>teekitsend</short_text>
+      <long_text>ümberkukkunud sõiduk, vasak sõidurada blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="373">
+      <short_text>teekitsend</short_text>
+      <long_text>ümberkukkunud sõiduk, 2 sõidurada blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="374">
+      <short_text>teekitsend</short_text>
+      <long_text>ümberkukkunud sõiduk, 3 sõidurada blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="375">
+      <short_text>õnnetus</short_text>
+      <long_text>ümberkukkunud sõiduk, ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="376">
+      <short_text>õnnetus</short_text>
+      <long_text>ümberkukkunud sõiduk, tuleb arvestada ajakaoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="377">
+      <short_text>õnnetus</short_text>
+      <long_text>ümberkukkunud sõiduk, suur ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="378">
+      <short_text>õnnetus</short_text>
+      <long_text>oht ümberkukkunud veoauto tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="379">
+      <short_text>%lummik</short_text>
+      <long_text>%lummik, õnnetuspaik vabastatud</long_text>
+    </tmc_event>
+    <tmc_event event_code="381">
+      <short_text>%lhäiritud liiklus</short_text>
+      <long_text>%lhäiritud liiklus, õnnetuspaik vabastatud</long_text>
+    </tmc_event>
+    <tmc_event event_code="382">
+      <short_text>liiklustakistus</short_text>
+      <long_text>Häiritud liikluse oht, õnnetuspaik vabastatud</long_text>
+    </tmc_event>
+    <tmc_event event_code="383">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>%ltihe liiklus, õnnetuspaik vabastatud</long_text>
+    </tmc_event>
+    <tmc_event event_code="387">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>%lsuureneva tendentsiga tihe liiklus, õnnetuspaik vabastatud</long_text>
+    </tmc_event>
+    <tmc_event event_code="388">
+      <short_text>õnnetus</short_text>
+      <long_text>varasem õnnetus, ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="390">
+      <short_text>õnnetus</short_text>
+      <long_text>varasem õnnetus, suur ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="391">
+      <short_text>õnnetus</short_text>
+      <long_text>õnnetuse fikseerimine, oht</long_text>
+    </tmc_event>
+    <tmc_event event_code="392">
+      <short_text>õnnetus</short_text>
+      <long_text>järelõnnetus, oht</long_text>
+    </tmc_event>
+    <tmc_event event_code="393">
+      <short_text>defektne sõiduk</short_text>
+      <long_text>oht defektse sõiduki tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="394">
+      <short_text>defektne veoauto</short_text>
+      <long_text>oht defektse veoauto tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="397">
+      <short_text>päästetööd</short_text>
+      <long_text>liiklustakistus päästetööde tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="401">
+      <short_text>sulgemine</short_text>
+      <long_text>suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="402">
+      <short_text>sulgemine</short_text>
+      <long_text>blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="406">
+      <short_text>pealesõit suletud</short_text>
+      <long_text>pealesõit suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="407">
+      <short_text>mahasõit suletud</short_text>
+      <long_text>mahasõit suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="408">
+      <short_text>ühendus suletud</short_text>
+      <long_text>ühenduskoht suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="409">
+      <short_text>liikluspiirangud</short_text>
+      <long_text>ühenduskoha piirang</long_text>
+    </tmc_event>
+    <tmc_event event_code="410">
+      <short_text>sulgemine</short_text>
+      <long_text>suletud, %lummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="411">
+      <short_text>sulgemine</short_text>
+      <long_text>suletud, 1 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="412">
+      <short_text>sulgemine</short_text>
+      <long_text>suletud, 2 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="413">
+      <short_text>sulgemine</short_text>
+      <long_text>suletud, 4 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="414">
+      <short_text>sulgemine</short_text>
+      <long_text>suletud, 6 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="415">
+      <short_text>sulgemine</short_text>
+      <long_text>suletud, 10 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="416">
+      <short_text>sulgemine</short_text>
+      <long_text>suletud, ummikuoht</long_text>
+    </tmc_event>
+    <tmc_event event_code="417">
+      <short_text>sulgemine</short_text>
+      <long_text>suletud, %lhäiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="418">
+      <short_text>sulgemine</short_text>
+      <long_text>suletud, 1 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="419">
+      <short_text>sulgemine</short_text>
+      <long_text>suletud, 2 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="420">
+      <short_text>sulgemine</short_text>
+      <long_text>suletud, 4 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="421">
+      <short_text>sulgemine</short_text>
+      <long_text>suletud, 6 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="422">
+      <short_text>sulgemine</short_text>
+      <long_text>suletud, 10 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="423">
+      <short_text>sulgemine</short_text>
+      <long_text>suletud, häiritud liikluse oht</long_text>
+    </tmc_event>
+    <tmc_event event_code="424">
+      <short_text>sulgemine</short_text>
+      <long_text>suletud, %ltihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="425">
+      <short_text>sulgemine</short_text>
+      <long_text>suletud, 1 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="426">
+      <short_text>sulgemine</short_text>
+      <long_text>suletud, 2 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="427">
+      <short_text>sulgemine</short_text>
+      <long_text>suletud, 4 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="428">
+      <short_text>sulgemine</short_text>
+      <long_text>suletud, 6 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="429">
+      <short_text>sulgemine</short_text>
+      <long_text>suletud, 10 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="430">
+      <short_text>sulgemine</short_text>
+      <long_text>suletud, oodatav tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="431">
+      <short_text>sulgemine</short_text>
+      <long_text>suletud, %elav liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="432">
+      <short_text>sulgemine</short_text>
+      <long_text>suletud, oodatav elav liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="433">
+      <short_text>sulgemine</short_text>
+      <long_text>suletud, häireteta liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="434">
+      <short_text>sulgemine</short_text>
+      <long_text>suletud, %lsuureneva tendentsiga tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="435">
+      <short_text>sulgemine</short_text>
+      <long_text>suletud, ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="436">
+      <short_text>sulgemine</short_text>
+      <long_text>suletud, tuleb arvestada ajakaoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="437">
+      <short_text>sulgemine</short_text>
+      <long_text>suletud, suur ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="438">
+      <short_text>sulgemine</short_text>
+      <long_text>blokeeritud, %lummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="439">
+      <short_text>sulgemine</short_text>
+      <long_text>blokeeritud, 1 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="440">
+      <short_text>sulgemine</short_text>
+      <long_text>blokeeritud, 2 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="441">
+      <short_text>sulgemine</short_text>
+      <long_text>blokeeritud, 4 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="442">
+      <short_text>sulgemine</short_text>
+      <long_text>blokeeritud, 6 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="443">
+      <short_text>sulgemine</short_text>
+      <long_text>blokeeritud, 10 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="444">
+      <short_text>sulgemine</short_text>
+      <long_text>blokeeritud, ummikuoht</long_text>
+    </tmc_event>
+    <tmc_event event_code="445">
+      <short_text>sulgemine</short_text>
+      <long_text>blokeeritud, %lhäiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="446">
+      <short_text>sulgemine</short_text>
+      <long_text>blokeeritud, 1 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="447">
+      <short_text>sulgemine</short_text>
+      <long_text>blokeeritud, 2 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="448">
+      <short_text>sulgemine</short_text>
+      <long_text>blokeeritud, 4 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="449">
+      <short_text>sulgemine</short_text>
+      <long_text>blokeeritud, 6 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="450">
+      <short_text>sulgemine</short_text>
+      <long_text>blokeeritud, 10 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="451">
+      <short_text>sulgemine</short_text>
+      <long_text>blokeeritud, häiritud liikluse oht</long_text>
+    </tmc_event>
+    <tmc_event event_code="452">
+      <short_text>sulgemine</short_text>
+      <long_text>blokeeritud, %ltihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="453">
+      <short_text>sulgemine</short_text>
+      <long_text>blokeeritud, 1 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="454">
+      <short_text>sulgemine</short_text>
+      <long_text>blokeeritud, 2 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="455">
+      <short_text>sulgemine</short_text>
+      <long_text>blokeeritud, 4 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="456">
+      <short_text>sulgemine</short_text>
+      <long_text>blokeeritud, 6 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="457">
+      <short_text>sulgemine</short_text>
+      <long_text>blokeeritud, 10 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="458">
+      <short_text>sulgemine</short_text>
+      <long_text>blokeeritud, oodatav tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="459">
+      <short_text>sulgemine</short_text>
+      <long_text>blokeeritud, %elav liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="460">
+      <short_text>sulgemine</short_text>
+      <long_text>blokeeritud, oodatav elav liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="461">
+      <short_text>sulgemine</short_text>
+      <long_text>blokeeritud, häireteta liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="462">
+      <short_text>sulgemine</short_text>
+      <long_text>blokeeritud, %lsuureneva tendentsiga tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="463">
+      <short_text>sulgemine</short_text>
+      <long_text>blokeeritud, ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="464">
+      <short_text>sulgemine</short_text>
+      <long_text>blokeeritud, tuleb arvestada ajakaoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="465">
+      <short_text>sulgemine</short_text>
+      <long_text>blokeeritud, suur ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="469">
+      <short_text>sulgemine</short_text>
+      <long_text>suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="470">
+      <short_text>sulgemine</short_text>
+      <long_text>blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="471">
+      <short_text>pealesõit suletud</short_text>
+      <long_text>pealesõit suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="472">
+      <short_text>pealesõit blokeeritud</short_text>
+      <long_text>pealesõit blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="473">
+      <short_text>pealesõit blokeeritud</short_text>
+      <long_text>pealesõit blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="474">
+      <short_text>mahasõit suletud</short_text>
+      <long_text>mahasõit suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="475">
+      <short_text>mahasõit blokeeritud</short_text>
+      <long_text>mahasõit blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="476">
+      <short_text>mahasõit blokeeritud</short_text>
+      <long_text>mahasõit blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="477">
+      <short_text>peale-/mahasõidu sulgemine</short_text>
+      <long_text>peale- ja mahasõidud suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="478">
+      <short_text>ühendussõidutee sulgemine</short_text>
+      <long_text>ühendussõidutee suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="479">
+      <short_text>liikluspiirangud</short_text>
+      <long_text>paralleelsõidutee suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="480">
+      <short_text>liikluspiirangud</short_text>
+      <long_text>parem sõidusuunavöönd suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="481">
+      <short_text>liikluspiirangud</short_text>
+      <long_text>vasak sõidusuunavöönd suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="482">
+      <short_text>teekitsend</short_text>
+      <long_text>möödasõidurada suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="483">
+      <short_text>teekitsend</short_text>
+      <long_text>kaugliiklusrada suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="484">
+      <short_text>teekitsend</short_text>
+      <long_text>lähiliiklusrada suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="485">
+      <short_text>ühendussõidutee sulgemine</short_text>
+      <long_text>ühendussõidutee blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="486">
+      <short_text>liikluspiirangud</short_text>
+      <long_text>paralleelsõidutee blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="487">
+      <short_text>liikluspiirangud</short_text>
+      <long_text>parem sõidusuunavöönd blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="488">
+      <short_text>liikluspiirangud</short_text>
+      <long_text>vasak sõidusuunavöönd blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="489">
+      <short_text>teekitsend</short_text>
+      <long_text>möödasõidurada blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="490">
+      <short_text>teekitsend</short_text>
+      <long_text>kaugliiklusrada blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="491">
+      <short_text>teekitsend</short_text>
+      <long_text>lähiliiklusrada blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="492">
+      <short_text>sõidukeeld</short_text>
+      <long_text>sõidukeeld</long_text>
+    </tmc_event>
+    <tmc_event event_code="493">
+      <short_text>piirangud</short_text>
+      <long_text>piirangud</long_text>
+    </tmc_event>
+    <tmc_event event_code="495">
+      <short_text>sulgemine</short_text>
+      <long_text>suletud, 3 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="496">
+      <short_text>sulgemine</short_text>
+      <long_text>suletud, 3 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="497">
+      <short_text>sulgemine</short_text>
+      <long_text>suletud, 3 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="498">
+      <short_text>sulgemine</short_text>
+      <long_text>blokeeritud, 3 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="499">
+      <short_text>sulgemine</short_text>
+      <long_text>blokeeritud, 3 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="500">
+      <short_text>teekitsend</short_text>
+      <long_text>sõidurada suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="501">
+      <short_text>teekitsend</short_text>
+      <long_text>parem sõidurada suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="502">
+      <short_text>teekitsend</short_text>
+      <long_text>keskmine sõidurada suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="503">
+      <short_text>teekitsend</short_text>
+      <long_text>vasak sõidurada suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="504">
+      <short_text>teekitsend</short_text>
+      <long_text>seisurada suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="505">
+      <short_text>teekitsend</short_text>
+      <long_text>2 sõidurada suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="506">
+      <short_text>teekitsend</short_text>
+      <long_text>3 sõidurada suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="507">
+      <short_text>teekitsend</short_text>
+      <long_text>parem sõidurada blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="508">
+      <short_text>teekitsend</short_text>
+      <long_text>keskmine sõidurada blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="509">
+      <short_text>teekitsend</short_text>
+      <long_text>vasak sõidurada blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="510">
+      <short_text>teekitsend</short_text>
+      <long_text>seisurada blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="511">
+      <short_text>teekitsend</short_text>
+      <long_text>2 sõidurada blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="512">
+      <short_text>teekitsend</short_text>
+      <long_text>3 sõidurada blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="513">
+      <short_text>teekitsend</short_text>
+      <long_text>mõlema suuna jaoks vaheldumisi vaba ainult üks sõidurada</long_text>
+    </tmc_event>
+    <tmc_event event_code="514">
+      <short_text>teekitsend</short_text>
+      <long_text>sõidutee kitsendatud ühele sõidurajale</long_text>
+    </tmc_event>
+    <tmc_event event_code="515">
+      <short_text>teekitsend</short_text>
+      <long_text>sõidutee kitsendatud kahele sõidurajale</long_text>
+    </tmc_event>
+    <tmc_event event_code="516">
+      <short_text>teekitsend</short_text>
+      <long_text>sõidutee kitsendatud kolmele sõidurajale</long_text>
+    </tmc_event>
+    <tmc_event event_code="517">
+      <short_text>liikluspiirangud</short_text>
+      <long_text>liiklus suunatakse üle vastassuunalise sõiduraja</long_text>
+    </tmc_event>
+    <tmc_event event_code="518">
+      <short_text>teekitsend</short_text>
+      <long_text>teekitsend</long_text>
+    </tmc_event>
+    <tmc_event event_code="519">
+      <short_text>teekitsend</short_text>
+      <long_text>teekitsend, liiklus suunatakse üle vastassuunalise sõiduraja</long_text>
+    </tmc_event>
+    <tmc_event event_code="520">
+      <short_text>teekitsend</short_text>
+      <long_text>sõidurada blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="521">
+      <short_text>%lummik</short_text>
+      <long_text>sõidurada suletud, %lummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="522">
+      <short_text>1 km ummik</short_text>
+      <long_text>sõidurada suletud, 1 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="523">
+      <short_text>2 km ummik</short_text>
+      <long_text>sõidurada suletud, 2 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="524">
+      <short_text>4 km ummik</short_text>
+      <long_text>sõidurada suletud, 4 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="525">
+      <short_text>6 km ummik</short_text>
+      <long_text>sõidurada suletud, 6 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="526">
+      <short_text>10 km ummik</short_text>
+      <long_text>sõidurada suletud, 10 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="527">
+      <short_text>ummikuoht</short_text>
+      <long_text>sõidurada suletud, ummikuoht</long_text>
+    </tmc_event>
+    <tmc_event event_code="528">
+      <short_text>%lhäiritud liiklus</short_text>
+      <long_text>sõidurada suletud, %lhäiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="529">
+      <short_text>1 km häiritud liiklus</short_text>
+      <long_text>sõidurada suletud, 1 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="530">
+      <short_text>2 km häiritud liiklus</short_text>
+      <long_text>sõidurada suletud, 2 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="531">
+      <short_text>4 km häiritud liiklus</short_text>
+      <long_text>sõidurada suletud, 4 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="532">
+      <short_text>6 km häiritud liiklus</short_text>
+      <long_text>sõidurada suletud, 6 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="533">
+      <short_text>10 km häiritud liiklus</short_text>
+      <long_text>sõidurada suletud, 10 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="534">
+      <short_text>teekitsend</short_text>
+      <long_text>sõidurada suletud, häiritud liikluse oht</long_text>
+    </tmc_event>
+    <tmc_event event_code="535">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>sõidurada suletud, %ltihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="536">
+      <short_text>1 km tihe liiklus</short_text>
+      <long_text>sõidurada suletud, 1 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="537">
+      <short_text>2 km tihe liiklus</short_text>
+      <long_text>sõidurada suletud, 2 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="538">
+      <short_text>4 km tihe liiklus</short_text>
+      <long_text>sõidurada suletud, 4 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="539">
+      <short_text>6 km tihe liiklus</short_text>
+      <long_text>sõidurada suletud, 6 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="540">
+      <short_text>10 km tihe liiklus</short_text>
+      <long_text>sõidurada suletud, 10 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="541">
+      <short_text>teekitsend</short_text>
+      <long_text>sõidurada suletud, oodatav tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="542">
+      <short_text>%elav liiklus</short_text>
+      <long_text>sõidurada suletud, %lelav liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="543">
+      <short_text>teekitsend</short_text>
+      <long_text>sõidurada suletud, oodatav elav liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="544">
+      <short_text>teekitsend</short_text>
+      <long_text>sõidurada suletud, häireteta liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="545">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>sõidurada suletud, %lsuureneva tendentsiga tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="546">
+      <short_text>%lummik</short_text>
+      <long_text>sõidutee kitsendatud ühele sõidurajale, %lummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="547">
+      <short_text>teekitsend</short_text>
+      <long_text>sõidutee kitsendatud ühele sõidurajale, ummikuoht</long_text>
+    </tmc_event>
+    <tmc_event event_code="548">
+      <short_text>%lhäiritud liiklus</short_text>
+      <long_text>sõidutee kitsendatud ühele sõidurajale, %lhäiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="549">
+      <short_text>teekitsend</short_text>
+      <long_text>sõidutee kitsendatud ühele sõidurajale, häiritud liikluse oht</long_text>
+    </tmc_event>
+    <tmc_event event_code="550">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>sõidutee kitsendatud ühele sõidurajale, %ltihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="551">
+      <short_text>teekitsend</short_text>
+      <long_text>sõidutee kitsendatud ühele sõidurajale, oodatav tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="552">
+      <short_text>%elav liiklus</short_text>
+      <long_text>sõidutee kitsendatud ühele sõidurajale, %elav liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="553">
+      <short_text>teekitsend</short_text>
+      <long_text>sõidutee kitsendatud ühele sõidurajale, oodatav elav liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="554">
+      <short_text>teekitsend</short_text>
+      <long_text>sõidutee kitsendatud ühele sõidurajale, häireteta liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="555">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>sõidutee kitsendatud ühele sõidurajale, %lsuureneva tendentsiga tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="556">
+      <short_text>%lummik</short_text>
+      <long_text>sõidutee kitsendatud kahele sõidurajale, %lummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="557">
+      <short_text>teekitsend</short_text>
+      <long_text>sõidutee kitsendatud kahele sõidurajale, ummikuoht</long_text>
+    </tmc_event>
+    <tmc_event event_code="558">
+      <short_text>%lhäiritud liiklus</short_text>
+      <long_text>sõidutee kitsendatud kahele sõidurajale, %lhäiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="559">
+      <short_text>teekitsend</short_text>
+      <long_text>sõidutee kitsendatud kahele sõidurajale, häiritud liikluse oht</long_text>
+    </tmc_event>
+    <tmc_event event_code="560">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>sõidutee kitsendatud kahele sõidurajale, %ltihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="561">
+      <short_text>teekitsend</short_text>
+      <long_text>sõidutee kitsendatud kahele sõidurajale, oodatav tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="562">
+      <short_text>%elav liiklus</short_text>
+      <long_text>sõidutee kitsendatud kahele sõidurajale, %lelav liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="563">
+      <short_text>teekitsend</short_text>
+      <long_text>sõidutee kitsendatud kahele sõidurajale, oodatav elav liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="564">
+      <short_text>teekitsend</short_text>
+      <long_text>sõidutee kitsendatud kahele sõidurajale, häireteta liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="565">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>sõidutee kitsendatud kahele sõidurajale, %lsuureneva tendentsiga tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="566">
+      <short_text>%lummik</short_text>
+      <long_text>sõidutee kitsendatud kolmele sõidurajale, %lummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="567">
+      <short_text>teekitsend</short_text>
+      <long_text>sõidutee kitsendatud kolmele sõidurajale, ummikuoht</long_text>
+    </tmc_event>
+    <tmc_event event_code="568">
+      <short_text>%lhäiritud liiklus</short_text>
+      <long_text>sõidutee kitsendatud kolmele sõidurajale, %lhäiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="569">
+      <short_text>teekitsend</short_text>
+      <long_text>sõidutee kitsendatud kolmele sõidurajale, häiritud liikluse oht</long_text>
+    </tmc_event>
+    <tmc_event event_code="570">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>sõidutee kitsendatud kolmele sõidurajale, %ltihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="571">
+      <short_text>teekitsend</short_text>
+      <long_text>sõidutee kitsendatud kolmele sõidurajale, oodatav tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="572">
+      <short_text>%elav liiklus</short_text>
+      <long_text>sõidutee kitsendatud kolmele sõidurajale %lelav liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="573">
+      <short_text>teekitsend</short_text>
+      <long_text>sõidutee kitsendatud kolmele sõidurajale, oodatav elav liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="574">
+      <short_text>teekitsend</short_text>
+      <long_text>sõidutee kitsendatud kolmele sõidurajale, häireteta liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="575">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>sõidutee kitsendatud kolmele sõidurajale, %lsuureneva tendentsiga tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="576">
+      <short_text>%lummik</short_text>
+      <long_text>liiklus suunatakse üle vastassuunalise sõiduraja, %lummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="577">
+      <short_text>%lummik</short_text>
+      <long_text>liiklus suunatakse üle vastassuunalise sõiduraja, oodatav ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="578">
+      <short_text>%lummik</short_text>
+      <long_text>liiklus suunatakse üle vastassuunalise sõiduraja, 2 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="579">
+      <short_text>%lummik</short_text>
+      <long_text>liiklus suunatakse üle vastassuunalise sõiduraja, 4 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="580">
+      <short_text>%lummik</short_text>
+      <long_text>liiklus suunatakse üle vastassuunalise sõiduraja, 6 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="581">
+      <short_text>%lummik</short_text>
+      <long_text>liiklus suunatakse üle vastassuunalise sõiduraja, 10 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="583">
+      <short_text>%lhäiritud liiklus</short_text>
+      <long_text>liiklus suunatakse üle vastassuunalise sõiduraja, %lhäiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="584">
+      <short_text>1 km häiritud liiklus</short_text>
+      <long_text>liiklus suunatakse üle vastassuunalise sõiduraja, 1 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="585">
+      <short_text>2 km häiritud liiklus</short_text>
+      <long_text>liiklus suunatakse üle vastassuunalise sõiduraja, 2 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="586">
+      <short_text>4 km häiritud liiklus</short_text>
+      <long_text>liiklus suunatakse üle vastassuunalise sõiduraja, 4 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="587">
+      <short_text>6 km häiritud liiklus</short_text>
+      <long_text>liiklus suunatakse üle vastassuunalise sõiduraja, 6 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="588">
+      <short_text>10 km häiritud liiklus</short_text>
+      <long_text>liiklus suunatakse üle vastassuunalise sõiduraja, 10 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="590">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>liiklus suunatakse üle vastassuunalise sõiduraja, %ltihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="591">
+      <short_text>1 km tihe liiklus</short_text>
+      <long_text>liiklus suunatakse üle vastassuunalise sõiduraja, 1 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="592">
+      <short_text>2 km tihe liiklus</short_text>
+      <long_text>liiklus suunatakse üle vastassuunalise sõiduraja, 2 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="593">
+      <short_text>4 km tihe liiklus</short_text>
+      <long_text>liiklus suunatakse üle vastassuunalise sõiduraja, 4 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="594">
+      <short_text>6 km tihe liiklus</short_text>
+      <long_text>liiklus suunatakse üle vastassuunalise sõiduraja, 6 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="595">
+      <short_text>10 km tihe liiklus</short_text>
+      <long_text>liiklus suunatakse üle vastassuunalise sõiduraja, 10 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="597">
+      <short_text>%elav liiklus</short_text>
+      <long_text>liiklus suunatakse üle vastassuunalise sõiduraja, %lelav liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="600">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>liiklus suunatakse üle vastassuunalise sõiduraja, %lsuureneva tendentsiga tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="601">
+      <short_text>teekitsend</short_text>
+      <long_text>sõidutee kitsendatud ühele sõidurajale, liiklus suunatakse üle vastassuunalise sõiduraja</long_text>
+    </tmc_event>
+    <tmc_event event_code="602">
+      <short_text>teekitsend</short_text>
+      <long_text>sõidutee kitsendatud kahele sõidurajale, liiklus suunatakse üle vastassuunalise sõiduraja</long_text>
+    </tmc_event>
+    <tmc_event event_code="603">
+      <short_text>teekitsend</short_text>
+      <long_text>sõidutee kitsendatud kolmele sõidurajale, liiklus suunatakse üle vastassuunalise sõiduraja</long_text>
+    </tmc_event>
+    <tmc_event event_code="604">
+      <short_text>%lummik</short_text>
+      <long_text>teekitsend, %lummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="605">
+      <short_text>teekitsend</short_text>
+      <long_text>teekitsend, ummikuoht</long_text>
+    </tmc_event>
+    <tmc_event event_code="606">
+      <short_text>%lhäiritud liiklus</short_text>
+      <long_text>teekitsend, %lhäiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="607">
+      <short_text>teekitsend</short_text>
+      <long_text>teekitsend, häiritud liikluse oht</long_text>
+    </tmc_event>
+    <tmc_event event_code="608">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>teekitsend, %ltihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="609">
+      <short_text>teekitsend</short_text>
+      <long_text>teekitsend, oodatav tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="610">
+      <short_text>%elav liiklus</short_text>
+      <long_text>teekitsend, %elav liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="611">
+      <short_text>teekitsend</short_text>
+      <long_text>teekitsend, oodatav elav liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="612">
+      <short_text>teekitsend</short_text>
+      <long_text>teekitsend, häireteta liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="613">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>teekitsend, %lsuureneva tendentsiga tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="614">
+      <short_text>%lummik</short_text>
+      <long_text> teekitsend, liiklus suunatakse üle vastassuunalise sõiduraja, %lummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="615">
+      <short_text>teekitsend</short_text>
+      <long_text>teekitsend, liiklus suunatakse üle vastassuunalise sõiduraja, ummikuoht</long_text>
+    </tmc_event>
+    <tmc_event event_code="616">
+      <short_text>%lhäiritud liiklus</short_text>
+      <long_text>teekitsend, liiklus suunatakse üle vastassuunalise sõiduraja, %lhäiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="617">
+      <short_text>teekitsend</short_text>
+      <long_text>teekitsend, liiklus suunatakse üle vastassuunalise sõiduraja, häiritud liikluse oht</long_text>
+    </tmc_event>
+    <tmc_event event_code="618">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>teekitsend, liiklus suunatakse üle vastassuunalise sõiduraja, %ltihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="619">
+      <short_text>teekitsend</short_text>
+      <long_text>teekitsend, liiklus suunatakse üle vastassuunalise sõiduraja, oodatav tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="620">
+      <short_text>%elav liiklus</short_text>
+      <long_text>teekitsend, liiklus suunatakse üle vastassuunalise sõiduraja, %lelav liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="621">
+      <short_text>teekitsend</short_text>
+      <long_text>teekitsend, liiklus suunatakse üle vastassuunalise sõiduraja, oodatav elav liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="622">
+      <short_text>teekitsend</short_text>
+      <long_text>teekitsend, liiklus suunatakse üle vastassuunalise sõiduraja, häireteta liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="623">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>teekitsend, liiklus suunatakse üle vastassuunalise sõiduraja, %lsuureneva tendentsiga tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="626">
+      <short_text>sulgemine</short_text>
+      <long_text>blokeeritud, 3 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="628">
+      <short_text>sulgemine</short_text>
+      <long_text>suletud paarisarvulise numbrimärgiga veoautodele</long_text>
+    </tmc_event>
+    <tmc_event event_code="629">
+      <short_text>sulgemine</short_text>
+      <long_text>suletud paarituarvulise numbrimärgiga veoautodele</long_text>
+    </tmc_event>
+    <tmc_event event_code="637">
+      <short_text>teekitsend</short_text>
+      <long_text>tehnoabiriba suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="638">
+      <short_text>teekitsend</short_text>
+      <long_text>tagasipöörderada suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="639">
+      <short_text>teekitsend</short_text>
+      <long_text>aeglaste sõidukite sõidurada suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="640">
+      <short_text>teekitsend</short_text>
+      <long_text>mitmeotstarbeline rada suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="641">
+      <short_text>teekitsend</short_text>
+      <long_text>üks sõidurada suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="642">
+      <short_text>teekitsend</short_text>
+      <long_text>tehnoabirada blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="643">
+      <short_text>teekitsend</short_text>
+      <long_text>tagasipöörderada blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="644">
+      <short_text>teekitsend</short_text>
+      <long_text>aeglaste sõidukite sõidurada blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="645">
+      <short_text>teekitsend</short_text>
+      <long_text>mitmeotstarbeline rada blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="646">
+      <short_text>teekitsend</short_text>
+      <long_text>sõidurada blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="647">
+      <short_text>eriotstarbeline rada avatud</short_text>
+      <long_text>ühissõidukite eriotstarbeline rada avatud</long_text>
+    </tmc_event>
+    <tmc_event event_code="648">
+      <short_text>eriotstarbeline rada suletud</short_text>
+      <long_text>ühissõidukite eriotstarbeline rada suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="649">
+      <short_text>eriotstarbeline rada blokeeritud</short_text>
+      <long_text>ühissõidukite rada blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="650">
+      <short_text>ühissõiduk</short_text>
+      <long_text>ühissõidukite tingimused muutunud</long_text>
+    </tmc_event>
+    <tmc_event event_code="651">
+      <short_text>3 km ummik</short_text>
+      <long_text>sõidurada suletud, 3 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="652">
+      <short_text>3 km häiritud liiklus</short_text>
+      <long_text>sõidurada suletud, 3 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="653">
+      <short_text>3 km tihe liiklus</short_text>
+      <long_text>sõidurada suletud, 3 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="654">
+      <short_text>3 km ummik</short_text>
+      <long_text>liiklus suunatakse üle vastassuunalise sõiduraja, 3 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="655">
+      <short_text>3 km häiritud liiklus</short_text>
+      <long_text>liiklus suunatakse üle vastassuunalise sõiduraja, 3 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="656">
+      <short_text>3 km tihe liiklus</short_text>
+      <long_text>liiklus suunatakse üle vastassuunalise sõiduraja, 3 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="664">
+      <short_text>sulgemine</short_text>
+      <long_text>sõidusuunavöönd suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="665">
+      <short_text>sulgemine</short_text>
+      <long_text>mõlemad sõidusuunad suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="666">
+      <short_text>sulgemine</short_text>
+      <long_text>mitmekordsed lühiajalised sulgemised</long_text>
+    </tmc_event>
+    <tmc_event event_code="671">
+      <short_text>bussiraja kasutamine</short_text>
+      <long_text>bussiraja kasutamine ühissõidukitel lubatud</long_text>
+    </tmc_event>
+    <tmc_event event_code="701">
+      <short_text>teetööd</short_text>
+      <long_text>teetööd</long_text>
+    </tmc_event>
+    <tmc_event event_code="702">
+      <short_text>ulatuslikud teetööd</short_text>
+      <long_text>ulatuslikud teetööd</long_text>
+    </tmc_event>
+    <tmc_event event_code="703">
+      <short_text>teetööd</short_text>
+      <long_text>korrashoiutööd</long_text>
+    </tmc_event>
+    <tmc_event event_code="704">
+      <short_text>teetööd</short_text>
+      <long_text>teeremont</long_text>
+    </tmc_event>
+    <tmc_event event_code="705">
+      <short_text>teetööd</short_text>
+      <long_text>tööd eraldusribal</long_text>
+    </tmc_event>
+    <tmc_event event_code="706">
+      <short_text>märgistustööd</short_text>
+      <long_text>märgistustööd</long_text>
+    </tmc_event>
+    <tmc_event event_code="707">
+      <short_text>sillatööd</short_text>
+      <long_text>sillatööd</long_text>
+    </tmc_event>
+    <tmc_event event_code="708">
+      <short_text>teetööde foor</short_text>
+      <long_text>ajutine reguleerimine ajutiste fooridega</long_text>
+    </tmc_event>
+    <tmc_event event_code="709">
+      <short_text>lõhketööd</short_text>
+      <long_text>lõhketööd</long_text>
+    </tmc_event>
+    <tmc_event event_code="710">
+      <short_text>%lummik</short_text>
+      <long_text>teetööd, %lummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="711">
+      <short_text>1 km ummik</short_text>
+      <long_text>teetööd, 1 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="712">
+      <short_text>2 km ummik</short_text>
+      <long_text>teetööd, 2 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="713">
+      <short_text>4 km ummik</short_text>
+      <long_text>teetööd, 4 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="714">
+      <short_text>6 km ummik</short_text>
+      <long_text>teetööd, 6 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="715">
+      <short_text>10 km ummik</short_text>
+      <long_text>teetööd, 10 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="716">
+      <short_text>teetööd</short_text>
+      <long_text>teetööd, ummikuoht</long_text>
+    </tmc_event>
+    <tmc_event event_code="717">
+      <short_text>%lhäiritud liiklus</short_text>
+      <long_text>teetööd, %lhäiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="718">
+      <short_text>1 km häiritud liiklus</short_text>
+      <long_text>teetööd, 1 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="719">
+      <short_text>2 km häiritud liiklus</short_text>
+      <long_text>teetööd, 2 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="720">
+      <short_text>4 km häiritud liiklus</short_text>
+      <long_text>teetööd, 4 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="721">
+      <short_text>6 km häiritud liiklus</short_text>
+      <long_text>teetööd, 6 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="722">
+      <short_text>10 km häiritud liiklus</short_text>
+      <long_text>teetööd, 10 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="723">
+      <short_text>teetööd</short_text>
+      <long_text>teetööd, häiritud liikluse oht</long_text>
+    </tmc_event>
+    <tmc_event event_code="724">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>teetööd, %ltihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="725">
+      <short_text>1 km tihe liiklus</short_text>
+      <long_text>teetööd, 1 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="726">
+      <short_text>2 km tihe liiklus</short_text>
+      <long_text>teetööd, 2 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="727">
+      <short_text>4 km tihe liiklus</short_text>
+      <long_text>teetööd, 4 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="728">
+      <short_text>6 km tihe liiklus</short_text>
+      <long_text>teetööd, 6 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="729">
+      <short_text>10 km tihe liiklus</short_text>
+      <long_text>teetööd, 10 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="730">
+      <short_text>teetööd</short_text>
+      <long_text>teetööd, oodatav tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="731">
+      <short_text>%elav liiklus</short_text>
+      <long_text>teetööd, %elav liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="732">
+      <short_text>teetööd</short_text>
+      <long_text>teetööd, oodatav elav liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="733">
+      <short_text>teetööd</short_text>
+      <long_text>teetööd, häireteta liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="734">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>teetööd, %lsuureneva tendentsiga tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="735">
+      <short_text>sulgemine</short_text>
+      <long_text>teetööde tõttu suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="736">
+      <short_text>teekitsend</short_text>
+      <long_text>teetööd, parem sõidurada suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="737">
+      <short_text>teekitsend</short_text>
+      <long_text>teetööd, keskmine sõidurada suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="738">
+      <short_text>teekitsend</short_text>
+      <long_text>teetööd, vasak sõidurada suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="739">
+      <short_text>teekitsend</short_text>
+      <long_text>teetööd, seisurada suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="740">
+      <short_text>teekitsend</short_text>
+      <long_text>teetööd, 2 sõidurada suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="741">
+      <short_text>teekitsend</short_text>
+      <long_text>teetööd, 3 sõidurada suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="742">
+      <short_text>teekitsend</short_text>
+      <long_text>teetööd, mõlemas suunas vaheldumisi vaba ainult üks sõidurada</long_text>
+    </tmc_event>
+    <tmc_event event_code="743">
+      <short_text>teekitsend</short_text>
+      <long_text>teetööd, sõidutee kitsendatud ühele sõidurajale</long_text>
+    </tmc_event>
+    <tmc_event event_code="744">
+      <short_text>teekitsend</short_text>
+      <long_text>teetööd, sõidutee kitsendatud kahele sõidurajale</long_text>
+    </tmc_event>
+    <tmc_event event_code="745">
+      <short_text>teekitsend</short_text>
+      <long_text>teetööd, sõidutee kitsendatud kolmele sõidurajale</long_text>
+    </tmc_event>
+    <tmc_event event_code="746">
+      <short_text>teekitsend</short_text>
+      <long_text>teetööd, liiklus suunatakse üle vastassuunalise sõiduraja</long_text>
+    </tmc_event>
+    <tmc_event event_code="747">
+      <short_text>teetööd</short_text>
+      <long_text>teetööd, ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="748">
+      <short_text>teetööd</short_text>
+      <long_text>teetööd, tuleb arvestada ajakaoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="749">
+      <short_text>teetööd</short_text>
+      <long_text>teetööd, suur ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="750">
+      <short_text>%lummik</short_text>
+      <long_text>teeremont, %lummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="751">
+      <short_text>1 km ummik</short_text>
+      <long_text>teeremont, 1 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="752">
+      <short_text>2 km ummik</short_text>
+      <long_text>teeremont, 2 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="753">
+      <short_text>4 km ummik</short_text>
+      <long_text>teeremont, 4 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="754">
+      <short_text>6 km ummik</short_text>
+      <long_text>teeremont, 6 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="755">
+      <short_text>10 km ummik</short_text>
+      <long_text>teeremont, 10 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="756">
+      <short_text>teetööd</short_text>
+      <long_text>teeremont, ummikuoht</long_text>
+    </tmc_event>
+    <tmc_event event_code="757">
+      <short_text>%lhäiritud liiklus</short_text>
+      <long_text>teeremont, %lhäiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="758">
+      <short_text>1 km häiritud liiklus</short_text>
+      <long_text>teeremont, 1 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="759">
+      <short_text>2 km häiritud liiklus</short_text>
+      <long_text>teeremont, 2 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="760">
+      <short_text>4 km häiritud liiklus</short_text>
+      <long_text>teeremont, 4 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="761">
+      <short_text>6 km häiritud liiklus</short_text>
+      <long_text>teeremont, 6 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="762">
+      <short_text>10 km häiritud liiklus</short_text>
+      <long_text>teeremont, 10 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="763">
+      <short_text>teetööd</short_text>
+      <long_text>teeremont, häiritud liikluse oht</long_text>
+    </tmc_event>
+    <tmc_event event_code="764">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>teeremont, %ltihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="765">
+      <short_text>1 km tihe liiklus</short_text>
+      <long_text>teeremont, 1 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="766">
+      <short_text>2 km tihe liiklus</short_text>
+      <long_text>teeremont, 2 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="767">
+      <short_text>4 km tihe liiklus</short_text>
+      <long_text>teeremont, 4 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="768">
+      <short_text>6 km tihe liiklus</short_text>
+      <long_text>teeremont, 6 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="769">
+      <short_text>10 km tihe liiklus</short_text>
+      <long_text>teeremont, 10 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="770">
+      <short_text>teetööd</short_text>
+      <long_text>teeremont, oodatav tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="771">
+      <short_text>%elav liiklus</short_text>
+      <long_text>teeremont, %lelav liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="772">
+      <short_text>teetööd</short_text>
+      <long_text>teeremont, oodatav elav liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="773">
+      <short_text>teetööd</short_text>
+      <long_text>teeremont, häireteta liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="774">
+      <short_text>teetööd</short_text>
+      <long_text>teeremont, %lsuureneva tendentsiga tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="775">
+      <short_text>teekitsend</short_text>
+      <long_text>teeremont, mõlemas suunas vaheldumisi vaba ainult üks sõidurada</long_text>
+    </tmc_event>
+    <tmc_event event_code="776">
+      <short_text>teekitsend</short_text>
+      <long_text>teeremont, sõidutee kitsendatud ühele sõidurajale</long_text>
+    </tmc_event>
+    <tmc_event event_code="777">
+      <short_text>teekitsend</short_text>
+      <long_text>teeremont, sõidutee kitsendatud kahele sõidurajale</long_text>
+    </tmc_event>
+    <tmc_event event_code="780">
+      <short_text>teetööd</short_text>
+      <long_text>teeremont, ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="781">
+      <short_text>teetööd</short_text>
+      <long_text>teeremont, tuleb arvestada ajakaoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="782">
+      <short_text>teetööd</short_text>
+      <long_text>teeremont, suur ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="783">
+      <short_text>%lummik</short_text>
+      <long_text>märgistustööd, %lummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="785">
+      <short_text>%lhäiritud liiklus</short_text>
+      <long_text>märgistustööd, %lhäiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="786">
+      <short_text>liiklustakistus</short_text>
+      <long_text>märgistustööd, häiritud liikluse oht</long_text>
+    </tmc_event>
+    <tmc_event event_code="787">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>märgistustööd, %ltihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="789">
+      <short_text>%elav liiklus</short_text>
+      <long_text>märgistustööd, %elav liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="791">
+      <short_text>märgistustööd</short_text>
+      <long_text>märgistustööd, häireteta liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="792">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>märgistustööd, %lsuureneva tendentsiga tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="793">
+      <short_text>teekitsend</short_text>
+      <long_text>märgistustööd, parem sõidurada suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="794">
+      <short_text>teekitsend</short_text>
+      <long_text>märgistustööd, keskmine sõidurada suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="795">
+      <short_text>teekitsend</short_text>
+      <long_text>märgistustööd, vasak sõidurada suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="796">
+      <short_text>teekitsend</short_text>
+      <long_text>märgistustööd, seisurada suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="797">
+      <short_text>teekitsend</short_text>
+      <long_text>märgistustööd, 2 sõidurada suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="798">
+      <short_text>teekitsend</short_text>
+      <long_text>märgistustööd, 3 sõidurada suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="799">
+      <short_text>sulgemine</short_text>
+      <long_text>silla lammutamine, tee suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="802">
+      <short_text>pidevad ehitustööd</short_text>
+      <long_text>pidevad ehitustööd</long_text>
+    </tmc_event>
+    <tmc_event event_code="803">
+      <short_text>tööd</short_text>
+      <long_text>tööd</long_text>
+    </tmc_event>
+    <tmc_event event_code="804">
+      <short_text>mobiilsed teetööd</short_text>
+      <long_text>mobiilsed teetööd</long_text>
+    </tmc_event>
+    <tmc_event event_code="805">
+      <short_text>silla lammutamine</short_text>
+      <long_text>silla lammutamine</long_text>
+    </tmc_event>
+    <tmc_event event_code="806">
+      <short_text>teetööd</short_text>
+      <long_text>tööd veetorudel</long_text>
+    </tmc_event>
+    <tmc_event event_code="807">
+      <short_text>teetööd</short_text>
+      <long_text>tööd gaasitorudel</long_text>
+    </tmc_event>
+    <tmc_event event_code="808">
+      <short_text>teetööd</short_text>
+      <long_text>tööd maakaablitel</long_text>
+    </tmc_event>
+    <tmc_event event_code="809">
+      <short_text>teetööd</short_text>
+      <long_text>süvaehitustööd</long_text>
+    </tmc_event>
+    <tmc_event event_code="810">
+      <short_text>teetööd</short_text>
+      <long_text>muudetud liikluskorraldus teetööde tsoonis</long_text>
+    </tmc_event>
+    <tmc_event event_code="812">
+      <short_text>3 km ummik</short_text>
+      <long_text>teetööd, 3 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="813">
+      <short_text>3 km häiritud liiklus</short_text>
+      <long_text>teetööd, 3 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="814">
+      <short_text>3 km tihe liiklus</short_text>
+      <long_text>teetööd, 3 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="815">
+      <short_text>teetööd päeval</short_text>
+      <long_text>teetööd päeval</long_text>
+    </tmc_event>
+    <tmc_event event_code="816">
+      <short_text>teetööd</short_text>
+      <long_text>teetööd hõreda liiklusega aegadel</long_text>
+    </tmc_event>
+    <tmc_event event_code="817">
+      <short_text>öised teetööd</short_text>
+      <long_text>teetööd öösel</long_text>
+    </tmc_event>
+    <tmc_event event_code="818">
+      <short_text>3 km ummik</short_text>
+      <long_text>teeremont, 3 km ummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="819">
+      <short_text>3 km häiritud liiklus</short_text>
+      <long_text>teeremont, 3 km häiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="820">
+      <short_text>3 km tihe liiklus</short_text>
+      <long_text>teeremont, 3 km tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="821">
+      <short_text>teetööd</short_text>
+      <long_text>teeremont päeval</long_text>
+    </tmc_event>
+    <tmc_event event_code="822">
+      <short_text>teetööd</short_text>
+      <long_text>teeremont hõreda liiklusega aegadel</long_text>
+    </tmc_event>
+    <tmc_event event_code="823">
+      <short_text>öised teetööd</short_text>
+      <long_text>teeremont öösel</long_text>
+    </tmc_event>
+    <tmc_event event_code="824">
+      <short_text>märgistustööd</short_text>
+      <long_text>märgistustööd, oht</long_text>
+    </tmc_event>
+    <tmc_event event_code="825">
+      <short_text>%lummik</short_text>
+      <long_text>mobiilsed teetööd, %lummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="826">
+      <short_text>mobiilsed teetööd</short_text>
+      <long_text>mobiilsed teetööd, ummikuoht</long_text>
+    </tmc_event>
+    <tmc_event event_code="827">
+      <short_text>%lhäiritud liiklus</short_text>
+      <long_text>mobiilsed teetööd, %lhäiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="828">
+      <short_text>mobiilsed teetööd</short_text>
+      <long_text>mobiilsed teetööd, häiritud liikluse oht</long_text>
+    </tmc_event>
+    <tmc_event event_code="829">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>mobiilsed teetööd, %ltihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="830">
+      <short_text>mobiilsed teetööd</short_text>
+      <long_text>mobiilsed teetööd, oodatav tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="831">
+      <short_text>%elav liiklus</short_text>
+      <long_text>mobiilsed teetööd, %elav liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="832">
+      <short_text>mobiilsed teetööd</short_text>
+      <long_text>mobiilsed teetööd, oodatav elav liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="833">
+      <short_text>mobiilsed teetööd</short_text>
+      <long_text>mobiilsed teetööd, häireteta liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="834">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>mobiilsed teetööd, %lsuureneva tendentsiga tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="835">
+      <short_text>teekitsend</short_text>
+      <long_text>mobiilsed teetööd, parem sõidurada suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="836">
+      <short_text>teekitsend</short_text>
+      <long_text>mobiilsed teetööd, keskmine sõidurada suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="837">
+      <short_text>teekitsend</short_text>
+      <long_text>mobiilsed teetööd, vasak sõidurada suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="838">
+      <short_text>teekitsend</short_text>
+      <long_text>mobiilsed teetööd, 2 sõidurada suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="839">
+      <short_text>teekitsend</short_text>
+      <long_text>mobiilsed teetööd, 3 sõidurada suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="840">
+      <short_text>teetööd</short_text>
+      <long_text>tööd veetorudel, ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="841">
+      <short_text>teetööd</short_text>
+      <long_text>tööd veetorudel, tuleb arvestada ajakaoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="842">
+      <short_text>teetööd</short_text>
+      <long_text>tööd veetorudel, suur ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="843">
+      <short_text>teetööd</short_text>
+      <long_text>tööd gaasitorudel, ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="844">
+      <short_text>teetööd</short_text>
+      <long_text>tööd gaasitorudel, tuleb arvestada ajakaoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="845">
+      <short_text>teetööd</short_text>
+      <long_text>tööd gaasitorudel, suur ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="846">
+      <short_text>teetööd</short_text>
+      <long_text>tööd maakaablitel, ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="847">
+      <short_text>teetööd</short_text>
+      <long_text>tööd maakaablitel, tuleb arvestada ajakaoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="848">
+      <short_text>teetööd</short_text>
+      <long_text>tööd maakaablitel, suur ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="849">
+      <short_text>teetööd</short_text>
+      <long_text>süvaehitustööd, ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="850">
+      <short_text>teetööd</short_text>
+      <long_text>süvaehitustööd, tuleb arvestada ajakaoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="851">
+      <short_text>teetööd</short_text>
+      <long_text>süvaehitustööd, suur ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="852">
+      <short_text>ehitussõidukid</short_text>
+      <long_text>liiklustakistus ehitussõidukite tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="853">
+      <short_text>teetööd</short_text>
+      <long_text>liiklustakistus teetööde lõpetamise tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="856">
+      <short_text>ehitussõidukid</short_text>
+      <long_text>oht ehitussõidukite tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="857">
+      <short_text>ohtlik olukord</short_text>
+      <long_text>kindlustamata õnnetuspaik</long_text>
+    </tmc_event>
+    <tmc_event event_code="858">
+      <short_text>ohtlik olukord</short_text>
+      <long_text>oht kindlustamata õnnetuspaiga tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="900">
+      <short_text>üleujutusoht</short_text>
+      <long_text>tuleb arvestada tulvaveega</long_text>
+    </tmc_event>
+    <tmc_event event_code="901">
+      <short_text>liiklustakistus</short_text>
+      <long_text>liiklustakistus takistuste tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="902">
+      <short_text>liiklustakistus</short_text>
+      <long_text>oht takistuste tõttu sõiduteel</long_text>
+    </tmc_event>
+    <tmc_event event_code="903">
+      <short_text>kaotatud koorem</short_text>
+      <long_text>liiklustakistus kaotatud koorma tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="904">
+      <short_text>tormikahjustused</short_text>
+      <long_text>liiklustakistus tormikahjustuste tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="905">
+      <short_text>mahalangenud puud</short_text>
+      <long_text>liiklustakistus mahalangenud puude tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="906">
+      <short_text>mahalangenud puud</short_text>
+      <long_text>oht mahalangenud puude tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="907">
+      <short_text>üleujutusoht</short_text>
+      <long_text>liiklustakistus kõrgvee tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="908">
+      <short_text>üleujutusoht</short_text>
+      <long_text>oht kõrgvee tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="909">
+      <short_text>üleujutusoht</short_text>
+      <long_text>liiklustakistus üleujutuse tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="910">
+      <short_text>üleujutusoht</short_text>
+      <long_text>üleujutusoht</long_text>
+    </tmc_event>
+    <tmc_event event_code="911">
+      <short_text>laviinioht</short_text>
+      <long_text>liiklustakistus laviinide tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="912">
+      <short_text>laviinioht</short_text>
+      <long_text>liiklustakistus ähvardavate laviinide tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="913">
+      <short_text>kivivaringuoht</short_text>
+      <long_text>liiklustakistus kivivaringu tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="914">
+      <short_text>maalihkeoht</short_text>
+      <long_text>liiklustakistus maalihke tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="915">
+      <short_text>maavärinakahjustused</short_text>
+      <long_text>liiklustakistus maavärinakahjustuste tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="916">
+      <short_text>teekahjustused</short_text>
+      <long_text>liiklustakistus teekahjustuste tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="917">
+      <short_text>sõidutee vajumine</short_text>
+      <long_text>liiklustakistus sõidutee vajumise tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="918">
+      <short_text>sõidutee alt ärauhtumine</short_text>
+      <long_text>liiklustakistus sõidutee alt ärauhtumise tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="919">
+      <short_text>üleujutusoht</short_text>
+      <long_text>liiklustakistus lõhkenud veetoru tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="920">
+      <short_text>ohtlik olukord</short_text>
+      <long_text>liiklustakistus väljavoolava gaasi tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="921">
+      <short_text>suurpõleng</short_text>
+      <long_text>liiklustakistus suurpõlengu tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="922">
+      <short_text>loomad sõiduteel</short_text>
+      <long_text>liiklustakistus loomade tõttu sõiduteel</long_text>
+    </tmc_event>
+    <tmc_event event_code="923">
+      <short_text>loomad sõiduteel</short_text>
+      <long_text>oht loomade tõttu sõiduteel</long_text>
+    </tmc_event>
+    <tmc_event event_code="924">
+      <short_text>liiklustakistus</short_text>
+      <long_text>liiklustakistus koristustööde tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="925">
+      <short_text>sulgemine</short_text>
+      <long_text>liiklustakistus tormikahjustuste tõttu, tee blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="926">
+      <short_text>sulgemine</short_text>
+      <long_text>liiklustakistus mahalangenud puude tõttu, tee blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="927">
+      <short_text>mahalangenud puud</short_text>
+      <long_text>liiklustakistus mahalangenud puude tõttu, tee piiratult kasutatav</long_text>
+    </tmc_event>
+    <tmc_event event_code="928">
+      <short_text>%lummik</short_text>
+      <long_text>liiklustakistus kõrgvee tõttu, %lummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="929">
+      <short_text>üleujutusoht</short_text>
+      <long_text>liiklustakistus kõrgvee tõttu, ummikuoht</long_text>
+    </tmc_event>
+    <tmc_event event_code="930">
+      <short_text>%lhäiritud liiklus</short_text>
+      <long_text>liiklustakistus kõrgvee tõttu, %lhäiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="931">
+      <short_text>liiklustakistus</short_text>
+      <long_text>liiklustakistus kõrgvee tõttu, häiritud liikluse oht</long_text>
+    </tmc_event>
+    <tmc_event event_code="932">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>liiklustakistus kõrgvee tõttu, %ltihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="934">
+      <short_text>%elav liiklus</short_text>
+      <long_text>liiklustakistus kõrgvee tõttu, %elav liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="936">
+      <short_text>kõrgvesi</short_text>
+      <long_text>kõrgvesi, häireteta liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="937">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>liiklustakistus kõrgvee tõttu, %lsuureneva tendentsiga tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="938">
+      <short_text>sulgemine</short_text>
+      <long_text>liiklustakistus kõrgvee tõttu, tee suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="939">
+      <short_text>kõrgvesi</short_text>
+      <long_text>liiklustakistus kõrgvee tõttu, ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="940">
+      <short_text>kõrgvesi</short_text>
+      <long_text>liiklustakistus kõrgvee tõttu, tuleb arvestada ajakaoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="941">
+      <short_text>kõrgvesi</short_text>
+      <long_text>liiklustakistus kõrgvee tõttu, suur ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="942">
+      <short_text>kõrgvesi</short_text>
+      <long_text>liiklustakistus kõrgvee tõttu, tee piiratult kasutatav</long_text>
+    </tmc_event>
+    <tmc_event event_code="943">
+      <short_text>sulgemine</short_text>
+      <long_text>liiklustakistus laviinide tõttu, tee suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="944">
+      <short_text>laviin</short_text>
+      <long_text>liiklustakistus laviinide tõttu, tee piiratult kasutatav</long_text>
+    </tmc_event>
+    <tmc_event event_code="945">
+      <short_text>sulgemine</short_text>
+      <long_text>liiklustakistus kivivaringu tõttu, tee suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="946">
+      <short_text>kivivaring</short_text>
+      <long_text>liiklustakistus kivivaringu tõttu, tee piiratud kasutatav</long_text>
+    </tmc_event>
+    <tmc_event event_code="947">
+      <short_text>sulgemine</short_text>
+      <long_text>liiklustakistus maalihke tõttu, tee suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="948">
+      <short_text>maalihe</short_text>
+      <long_text>liiklustakistus maalihke tõttu, tee piiratult kasutatav</long_text>
+    </tmc_event>
+    <tmc_event event_code="949">
+      <short_text>sulgemine</short_text>
+      <long_text>liiklustakistus sõidutee vajumise tõttu, tee suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="950">
+      <short_text>teekitsend</short_text>
+      <long_text>liiklustakistus sõidutee vajumise tõttu, tehnoabiriba suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="951">
+      <short_text>teekitsend</short_text>
+      <long_text>liiklustakistus sõidutee vajumise tõttu, sõidutee kitsendatud ühele sõidurajale</long_text>
+    </tmc_event>
+    <tmc_event event_code="952">
+      <short_text>teekitsend</short_text>
+      <long_text>liiklustakistus sõidutee vajumise tõttu, sõidutee kitsendatud kahele sõidurajale</long_text>
+    </tmc_event>
+    <tmc_event event_code="953">
+      <short_text>teekitsend</short_text>
+      <long_text>liiklustakistus sõidutee vajumise tõttu, sõidutee kitsendatud kolmele sõidurajale</long_text>
+    </tmc_event>
+    <tmc_event event_code="955">
+      <short_text>liiklustakistus</short_text>
+      <long_text>liiklustakistus sõidutee vajumise tõttu, tee piiratult kasutatav</long_text>
+    </tmc_event>
+    <tmc_event event_code="956">
+      <short_text>sulgemine</short_text>
+      <long_text>liiklustakistus sõidutee alt ärauhtumise tõttu, tee suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="957">
+      <short_text>sulgemine</short_text>
+      <long_text>liiklustakistus lõhkenud veetoru tõttu, tee suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="958">
+      <short_text>üleujutusoht</short_text>
+      <long_text>liiklustakistus lõhkenud veetoru tõttu, ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="959">
+      <short_text>üleujutusoht</short_text>
+      <long_text>liiklustakistus lõhkenud veetoru tõttu, tuleb arvestada ajakaoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="960">
+      <short_text>üleujutusoht</short_text>
+      <long_text>liiklustakistus lõhkenud veetoru tõttu, suur ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="961">
+      <short_text>sulgemine</short_text>
+      <long_text>liiklustakistus väljavoolava gaasi tõttu, tee suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="962">
+      <short_text>liiklustakistus</short_text>
+      <long_text>liiklustakistus väljavoolava gaasi tõttu, ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="963">
+      <short_text>liiklustakistus</short_text>
+      <long_text>liiklustakistus väljavoolava gaasi tõttu, tuleb arvestada ajakaoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="964">
+      <short_text>liiklustakistus</short_text>
+      <long_text>liiklustakistus väljavoolava gaasi tõttu, suur ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="965">
+      <short_text>sulgemine</short_text>
+      <long_text>liiklustakistus tulekahju tõttu, tee suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="966">
+      <short_text>tulekahju</short_text>
+      <long_text>liiklustakistus tulekahju tõttu, ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="967">
+      <short_text>tulekahju</short_text>
+      <long_text>liiklustakistus tulekahju tõttu, tuleb arvestada ajakaoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="968">
+      <short_text>tulekahju</short_text>
+      <long_text>liiklustakistus tulekahju tõttu, suur ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="969">
+      <short_text>sulgemine</short_text>
+      <long_text>liiklustakistus koristustööde tõttu, tee suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="972">
+      <short_text>tormikahjustused</short_text>
+      <long_text>tuleb arvestada tormikahjustustega</long_text>
+    </tmc_event>
+    <tmc_event event_code="973">
+      <short_text>liiklustakistus</short_text>
+      <long_text>liiklustakistus rippuvate elektrikaablite tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="974">
+      <short_text>üleujutusoht</short_text>
+      <long_text>liiklustakistus ülekoormatud äravoolukanalite tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="975">
+      <short_text>must jää</short_text>
+      <long_text>must jää</long_text>
+    </tmc_event>
+    <tmc_event event_code="976">
+      <short_text>mudalaviin</short_text>
+      <long_text>liiklustakistus mudalaviini tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="977">
+      <short_text>kulupõleng</short_text>
+      <long_text>liiklustakistus kulupõlengu tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="978">
+      <short_text>lennuki allakukkumine</short_text>
+      <long_text>lennuki allakukkumine</long_text>
+    </tmc_event>
+    <tmc_event event_code="979">
+      <short_text>rongiõnnetus</short_text>
+      <long_text>rongiõnnetus</long_text>
+    </tmc_event>
+    <tmc_event event_code="980">
+      <short_text>sulgemine</short_text>
+      <long_text>liiklustakistus takistuste tõttu, tee blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="981">
+      <short_text>liiklustakistus</short_text>
+      <long_text>liiklustakistus takistuste tõttu, tee piiratult kasutatav</long_text>
+    </tmc_event>
+    <tmc_event event_code="982">
+      <short_text>sulgemine</short_text>
+      <long_text>liiklustakistus kaotatud koorma tõttu, tee blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="983">
+      <short_text>kaotatud koorem</short_text>
+      <long_text>liiklustakistus kaotatud koorma tõttu, tee piiratult kasutatav</long_text>
+    </tmc_event>
+    <tmc_event event_code="984">
+      <short_text>kaotatud koorem</short_text>
+      <long_text>oht kaotatud koorma tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="985">
+      <short_text>tormikahjustused</short_text>
+      <long_text>liiklustakistus tormikahjustuste tõttu, tee piiratult kasutatav</long_text>
+    </tmc_event>
+    <tmc_event event_code="986">
+      <short_text>tormikahjustused</short_text>
+      <long_text>oht tormikahjustuste tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="987">
+      <short_text>sulgemine</short_text>
+      <long_text>liiklustakistus rippuvate elektrikaablite tõttu, tee blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="988">
+      <short_text>liiklustakistus</short_text>
+      <long_text>liiklustakistus rippuvate elektrikaablite tõttu, tee piiratult kasutatav</long_text>
+    </tmc_event>
+    <tmc_event event_code="989">
+      <short_text>liiklustakistus</short_text>
+      <long_text>oht rippuvate elektrikaablite tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="990">
+      <short_text>üleujutusoht</short_text>
+      <long_text>oht ülekoormatud äravoolukanalite tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="991">
+      <short_text>üleujutusoht</short_text>
+      <long_text>oht üleujutuse tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="992">
+      <short_text>laviinioht</short_text>
+      <long_text>oht laviinide tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="993">
+      <short_text>sulgemine</short_text>
+      <long_text>oht laviinide tõttu, tee suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="994">
+      <short_text>laviinioht</short_text>
+      <long_text>oht ähvardavate laviinide tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="995">
+      <short_text>sulgemine</short_text>
+      <long_text>kiilasjää, tee suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="996">
+      <short_text>kiilasjääoht</short_text>
+      <long_text>kiilasjääoht, tee piiratult kasutatav</long_text>
+    </tmc_event>
+    <tmc_event event_code="997">
+      <short_text>teekitsend</short_text>
+      <long_text>jäätumine mõlema suuna jaoks vaheldumisi vaba ainult üks sõidurada</long_text>
+    </tmc_event>
+    <tmc_event event_code="998">
+      <short_text>kivivaringuoht</short_text>
+      <long_text>oht kivivaringu tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="999">
+      <short_text>maalihkeoht</short_text>
+      <long_text>oht maalihke tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1000">
+      <short_text>maavärinakahjustused</short_text>
+      <long_text>oht maavärinakahjustuste tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1001">
+      <short_text>ohtlikud teeolud</short_text>
+      <long_text>ohtlikud teeolud</long_text>
+    </tmc_event>
+    <tmc_event event_code="1002">
+      <short_text>vesiliuoht</short_text>
+      <long_text>vesiliuoht</long_text>
+    </tmc_event>
+    <tmc_event event_code="1003">
+      <short_text>jäide</short_text>
+      <long_text>jäide</long_text>
+    </tmc_event>
+    <tmc_event event_code="1004">
+      <short_text>määrdunud sõidutee</short_text>
+      <long_text>liiklustakistus määrdunud sõidutee tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1005">
+      <short_text>libisemisoht</short_text>
+      <long_text>libisemisoht puulehtede tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1006">
+      <short_text>kiilasjääoht</short_text>
+      <long_text>kiilasjääoht</long_text>
+    </tmc_event>
+    <tmc_event event_code="1007">
+      <short_text>kiilasjää</short_text>
+      <long_text>kiilasjää</long_text>
+    </tmc_event>
+    <tmc_event event_code="1008">
+      <short_text>jäide</short_text>
+      <long_text>külmuv niiskus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1009">
+      <short_text>jäide</short_text>
+      <long_text>jäävihm</long_text>
+    </tmc_event>
+    <tmc_event event_code="1010">
+      <short_text>kiilasjää</short_text>
+      <long_text>osaliselt jäätunud sõidutee</long_text>
+    </tmc_event>
+    <tmc_event event_code="1011">
+      <short_text>sulalumi</short_text>
+      <long_text>sulalumi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1012">
+      <short_text>kinnisõidetud lumi</short_text>
+      <long_text>kinnisõidetud lumi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1013">
+      <short_text>lumesadu</short_text>
+      <long_text>kinnisõidetud lumikate</long_text>
+    </tmc_event>
+    <tmc_event event_code="1014">
+      <short_text>värskelt sadanud lumi</short_text>
+      <long_text>värskelt sadanud lumi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1015">
+      <short_text>sügav lumi</short_text>
+      <long_text>sügav lumi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1016">
+      <short_text>lumevaalud</short_text>
+      <long_text>lumevaalud</long_text>
+    </tmc_event>
+    <tmc_event event_code="1017">
+      <short_text>kaotatud koorem</short_text>
+      <long_text>libisemisoht kaotatud koorma tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1018">
+      <short_text>kinnisõidetud lumi</short_text>
+      <long_text>libisemisoht kinnisõidetud lume tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1019">
+      <short_text>härmatis</short_text>
+      <long_text>härmatis</long_text>
+    </tmc_event>
+    <tmc_event event_code="1020">
+      <short_text>sulgemine</short_text>
+      <long_text>kinnisõidetud lumi, tee blokeeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="1021">
+      <short_text>teekitsend</short_text>
+      <long_text>kinnisõidetud lumi, sõidutee kitsendatud ühele sõidurajale</long_text>
+    </tmc_event>
+    <tmc_event event_code="1022">
+      <short_text>teekitsend</short_text>
+      <long_text>kinnisõidetud lumi, sõidutee kitsendatud kahele sõidurajale</long_text>
+    </tmc_event>
+    <tmc_event event_code="1023">
+      <short_text>teekitsend</short_text>
+      <long_text>kinnisõidetud lumi, sõidutee kitsendatud kolmele sõidurajale</long_text>
+    </tmc_event>
+    <tmc_event event_code="1026">
+      <short_text>liiklustakistus</short_text>
+      <long_text>oht sõidutee vajumise tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1027">
+      <short_text>üleujutusoht</short_text>
+      <long_text>liiklustakistus sõidutee alt ärauhtumise tõttu, ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1028">
+      <short_text>üleujutusoht</short_text>
+      <long_text>liiklustakistus sõidutee alt ärauhtumise tõttu, tuleb arvestada ajakaoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="1029">
+      <short_text>üleujutusoht</short_text>
+      <long_text>liiklustakistus sõidutee alt ärauhtumise tõttu, suur ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1030">
+      <short_text>liiklustakistus</short_text>
+      <long_text>oht sõidutee alt ärauhtumise tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1031">
+      <short_text>üleujutusoht</short_text>
+      <long_text>oht lõhkenud veetoru tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1032">
+      <short_text>liiklustakistus</short_text>
+      <long_text>oht väljavoolava gaasi tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1033">
+      <short_text>suurpõleng</short_text>
+      <long_text>oht suurpõlengu tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1034">
+      <short_text>koristustööd</short_text>
+      <long_text>oht koristustööde tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1035">
+      <short_text>pole läbitav</short_text>
+      <long_text>pole läbitav</long_text>
+    </tmc_event>
+    <tmc_event event_code="1036">
+      <short_text>pole peaaegu läbitav</short_text>
+      <long_text>pole peaaegu läbitav</long_text>
+    </tmc_event>
+    <tmc_event event_code="1037">
+      <short_text>ohtlikud teeolud</short_text>
+      <long_text>väga ohtlikud teeolud</long_text>
+    </tmc_event>
+    <tmc_event event_code="1038">
+      <short_text>ohtlikud teeolud</short_text>
+      <long_text>rasked sõidutingimused</long_text>
+    </tmc_event>
+    <tmc_event event_code="1041">
+      <short_text>üleujutusoht</short_text>
+      <long_text>vesi sõiduteel</long_text>
+    </tmc_event>
+    <tmc_event event_code="1042">
+      <short_text>liiv sõiduteel</short_text>
+      <long_text>liiklustakistus liiva tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1044">
+      <short_text>õlirada</short_text>
+      <long_text>liiklustakistus õliraja tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1045">
+      <short_text>väljavoolanud bensiin</short_text>
+      <long_text>liiklustakistus väljavoolava bensiini tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1047">
+      <short_text>jäide</short_text>
+      <long_text>osaliselt jäätunud sõidutee</long_text>
+    </tmc_event>
+    <tmc_event event_code="1048">
+      <short_text>jäide</short_text>
+      <long_text>oht jäite tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1050">
+      <short_text>jäide</short_text>
+      <long_text>külmunud niiskus, oht</long_text>
+    </tmc_event>
+    <tmc_event event_code="1054">
+      <short_text>liiv sõiduteel</short_text>
+      <long_text>libisemisoht liiva tõttu sõiduteel</long_text>
+    </tmc_event>
+    <tmc_event event_code="1055">
+      <short_text>sõidutee määrdumine</short_text>
+      <long_text>oht sõidutee määrdumise tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1056">
+      <short_text>killustik</short_text>
+      <long_text>oht killustiku tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1057">
+      <short_text>õlirada</short_text>
+      <long_text>oht õliraja tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1058">
+      <short_text>väljavoolav bensiin</short_text>
+      <long_text>oht väljavoolava bensiini tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1059">
+      <short_text>teekahjustused</short_text>
+      <long_text>oht teekahjustuste tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1060">
+      <short_text>kiilasjää sillal</short_text>
+      <long_text>osaliselt jäätunud sõidutee sildadel</long_text>
+    </tmc_event>
+    <tmc_event event_code="1061">
+      <short_text>kiilasjää sillal</short_text>
+      <long_text>oht jäite tõttu sildadel</long_text>
+    </tmc_event>
+    <tmc_event event_code="1062">
+      <short_text>kiilasjääoht</short_text>
+      <long_text>osaliselt jäätunud sõidutee sildadel, metsaaladel ja varjulistes tsoonides ning kiirteede ühenduskohtades</long_text>
+    </tmc_event>
+    <tmc_event event_code="1064">
+      <short_text>haagised keelatud</short_text>
+      <long_text>pole haagisega sõidukitele läbitav</long_text>
+    </tmc_event>
+    <tmc_event event_code="1066">
+      <short_text>päästetööd</short_text>
+      <long_text>oht päästetööde tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1067">
+      <short_text>loomad sõiduteel</short_text>
+      <long_text>liiklustakistus suuremate loomade tõttu sõiduteel</long_text>
+    </tmc_event>
+    <tmc_event event_code="1068">
+      <short_text>loomad sõiduteel</short_text>
+      <long_text>liiklustakistus loomakarjade tõttu sõiduteel</long_text>
+    </tmc_event>
+    <tmc_event event_code="1073">
+      <short_text>ohtlikud teeolud</short_text>
+      <long_text>tuleb arvestada väga ohtlike teeoludega</long_text>
+    </tmc_event>
+    <tmc_event event_code="1074">
+      <short_text>jäide</short_text>
+      <long_text>tuleb arvestada külmuva vihmaga</long_text>
+    </tmc_event>
+    <tmc_event event_code="1075">
+      <short_text>lumevaalud</short_text>
+      <long_text>tuleb arvestada lumevaaludega</long_text>
+    </tmc_event>
+    <tmc_event event_code="1079">
+      <short_text>ekstreemne külm</short_text>
+      <long_text>kiiresti langevad temperatuurid</long_text>
+    </tmc_event>
+    <tmc_event event_code="1080">
+      <short_text>ekstreemne kuumus</short_text>
+      <long_text>ekstreemne kuumus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1081">
+      <short_text>ekstreemne külm</short_text>
+      <long_text>ekstreemne külm</long_text>
+    </tmc_event>
+    <tmc_event event_code="1083">
+      <short_text>ekstreemne kuumus</short_text>
+      <long_text>(temperatuur)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1084">
+      <short_text>tulekahju</short_text>
+      <long_text>tulekahju</long_text>
+    </tmc_event>
+    <tmc_event event_code="1086">
+      <short_text>õnnetus</short_text>
+      <long_text>sõiduk silla alla kinni jäänud</long_text>
+    </tmc_event>
+    <tmc_event event_code="1101">
+      <short_text>tugev lumesadu</short_text>
+      <long_text>tugev lumesadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1102">
+      <short_text>tugev lumesadu</short_text>
+      <long_text>tugev lumesadu, nähtavus alla 30 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1103">
+      <short_text>tugev lumesadu</short_text>
+      <long_text>tugev lumesadu, nähtavus alla 50 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1104">
+      <short_text>lumesadu</short_text>
+      <long_text>lumesadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1105">
+      <short_text>lumesadu</short_text>
+      <long_text>halb nähtavus lumesaju tõttu, nähtavus alla 100 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1106">
+      <short_text>rahe</short_text>
+      <long_text>rahe</long_text>
+    </tmc_event>
+    <tmc_event event_code="1107">
+      <short_text>lörts</short_text>
+      <long_text>halb nähtavus lörtsi tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1108">
+      <short_text>äike</short_text>
+      <long_text>äike</long_text>
+    </tmc_event>
+    <tmc_event event_code="1109">
+      <short_text>tugev vihm</short_text>
+      <long_text>tugev vihm</long_text>
+    </tmc_event>
+    <tmc_event event_code="1110">
+      <short_text>tugev vihm</short_text>
+      <long_text>halb nähtavus tugeva vihma tõttu, nähtavus alla 30 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1111">
+      <short_text>tugev vihm</short_text>
+      <long_text>halb nähtavus tugeva vihma tõttu, nähtavus alla 50 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1112">
+      <short_text>vihm</short_text>
+      <long_text>vihm</long_text>
+    </tmc_event>
+    <tmc_event event_code="1113">
+      <short_text>tugev vihm</short_text>
+      <long_text>halb nähtavus vihma tõttu, nähtavus alla 100 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1114">
+      <short_text>vihmahoog</short_text>
+      <long_text>vihmahoog</long_text>
+    </tmc_event>
+    <tmc_event event_code="1115">
+      <short_text>tugev pakane</short_text>
+      <long_text>tugev pakane</long_text>
+    </tmc_event>
+    <tmc_event event_code="1116">
+      <short_text>härmatis</short_text>
+      <long_text>härmatis</long_text>
+    </tmc_event>
+    <tmc_event event_code="1118">
+      <short_text>peamiselt pilves</short_text>
+      <long_text>peamiselt pilves</long_text>
+    </tmc_event>
+    <tmc_event event_code="1119">
+      <short_text>osaliselt pilves</short_text>
+      <long_text>osaliselt pilves</long_text>
+    </tmc_event>
+    <tmc_event event_code="1128">
+      <short_text>lumetorm</short_text>
+      <long_text>lumetorm</long_text>
+    </tmc_event>
+    <tmc_event event_code="1130">
+      <short_text>raske lumetorm</short_text>
+      <long_text>raske lumetorm</long_text>
+    </tmc_event>
+    <tmc_event event_code="1131">
+      <short_text>raske lumetorm</short_text>
+      <long_text>raske lumetorm</long_text>
+    </tmc_event>
+    <tmc_event event_code="1132">
+      <short_text>tugev rahe</short_text>
+      <long_text>tugev rahe</long_text>
+    </tmc_event>
+    <tmc_event event_code="1133">
+      <short_text>tugev rahe</short_text>
+      <long_text>tugev rahe</long_text>
+    </tmc_event>
+    <tmc_event event_code="1134">
+      <short_text>tugev lumesadu</short_text>
+      <long_text>tugev lumesadu, halb nähtavus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1135">
+      <short_text>lumesadu</short_text>
+      <long_text>halb nähtavus lumesaju tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1136">
+      <short_text>tugev vihm</short_text>
+      <long_text>halb nähtavus tugeva vihma tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1137">
+      <short_text>vihm</short_text>
+      <long_text>halb nähtavus vihma tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1153">
+      <short_text>rahe</short_text>
+      <long_text>rahe</long_text>
+    </tmc_event>
+    <tmc_event event_code="1154">
+      <short_text>lörts</short_text>
+      <long_text>lörts</long_text>
+    </tmc_event>
+    <tmc_event event_code="1155">
+      <short_text>äike</short_text>
+      <long_text>äike</long_text>
+    </tmc_event>
+    <tmc_event event_code="1156">
+      <short_text>tugev vihm</short_text>
+      <long_text>tugev vihm</long_text>
+    </tmc_event>
+    <tmc_event event_code="1157">
+      <short_text>vihm</short_text>
+      <long_text>vihm</long_text>
+    </tmc_event>
+    <tmc_event event_code="1158">
+      <short_text>vihmahoog</short_text>
+      <long_text>vihmahoog</long_text>
+    </tmc_event>
+    <tmc_event event_code="1170">
+      <short_text>tugev lumesadu</short_text>
+      <long_text>oodatav tugev lumesadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1171">
+      <short_text>tugev vihm</short_text>
+      <long_text>oodatav tugev vihm</long_text>
+    </tmc_event>
+    <tmc_event event_code="1173">
+      <short_text>raske lumetorm</short_text>
+      <long_text>oodatav raske lumetorm</long_text>
+    </tmc_event>
+    <tmc_event event_code="1174">
+      <short_text>tugev rahe</short_text>
+      <long_text>oodatav tugev rahe</long_text>
+    </tmc_event>
+    <tmc_event event_code="1175">
+      <short_text>halb nähtavus</short_text>
+      <long_text>oodatav halb nähtavus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1176">
+      <short_text>libisemisoht</short_text>
+      <long_text>oodatav halb nähtavus külmuva udu tõttu libisemisoht</long_text>
+    </tmc_event>
+    <tmc_event event_code="1177">
+      <short_text>udu</short_text>
+      <long_text>oodatav halb nähtavus tiheda udu tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1178">
+      <short_text>udu</short_text>
+      <long_text>oodatav halb nähtavus udulaamade tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1190">
+      <short_text>suduhäire</short_text>
+      <long_text>tugev sudu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1191">
+      <short_text>suduhäire</short_text>
+      <long_text>tugev õhusaaste</long_text>
+    </tmc_event>
+    <tmc_event event_code="1201">
+      <short_text>keeristorm</short_text>
+      <long_text>keeristorm</long_text>
+    </tmc_event>
+    <tmc_event event_code="1202">
+      <short_text>orkaan</short_text>
+      <long_text>orkaan</long_text>
+    </tmc_event>
+    <tmc_event event_code="1203">
+      <short_text>orkaan</short_text>
+      <long_text>orkaanilaadsed tormid</long_text>
+    </tmc_event>
+    <tmc_event event_code="1204">
+      <short_text>torm</short_text>
+      <long_text>torm</long_text>
+    </tmc_event>
+    <tmc_event event_code="1205">
+      <short_text>tugev tuul</short_text>
+      <long_text>tugev tuul</long_text>
+    </tmc_event>
+    <tmc_event event_code="1209">
+      <short_text>tuuleiilid</short_text>
+      <long_text>tuuleiilid</long_text>
+    </tmc_event>
+    <tmc_event event_code="1210">
+      <short_text>külgtuul</short_text>
+      <long_text>külgtuul</long_text>
+    </tmc_event>
+    <tmc_event event_code="1211">
+      <short_text>tugev tuul</short_text>
+      <long_text>tugev tuul, takistus kõrgete keredega sõidukitele</long_text>
+    </tmc_event>
+    <tmc_event event_code="1300">
+      <short_text>lumesadu ja vihm</short_text>
+      <long_text>tuleb arvestada lumesaju ja uduga</long_text>
+    </tmc_event>
+    <tmc_event event_code="1301">
+      <short_text>udu</short_text>
+      <long_text>halb nähtavus tiheda udu tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1302">
+      <short_text>udu</short_text>
+      <long_text>halb nähtavus tiheda udu tõttu, nähtavus alla 30 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1303">
+      <short_text>udu</short_text>
+      <long_text>halb nähtavus tiheda udu tõttu, nähtavus alla 50 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1304">
+      <short_text>udu</short_text>
+      <long_text>halb nähtavus udu tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1305">
+      <short_text>udu</short_text>
+      <long_text>halb nähtavus udu tõttu, nähtavus alla 100 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1307">
+      <short_text>udu</short_text>
+      <long_text>halb nähtavus udulaamade tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1308">
+      <short_text>udu</short_text>
+      <long_text>halb nähtavus külmuva udu tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1309">
+      <short_text>suits</short_text>
+      <long_text>halb nähtavus suitsu tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1310">
+      <short_text>tolm</short_text>
+      <long_text>Halb nähtavus tolmu tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1312">
+      <short_text>udu ja lumesadu</short_text>
+      <long_text>halb nähtavus udu ja lumesaju tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1318">
+      <short_text>halb nähtavus</short_text>
+      <long_text>halb nähtavus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1319">
+      <short_text>halb nähtavus</short_text>
+      <long_text>nähtavus alla 30 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1320">
+      <short_text>halb nähtavus</short_text>
+      <long_text>nähtavus alla 50 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1321">
+      <short_text>halb nähtavus</short_text>
+      <long_text>nähtavus alla 100 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1322">
+      <short_text>udu</short_text>
+      <long_text>udu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1323">
+      <short_text>lumesadu</short_text>
+      <long_text>lumesadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1324">
+      <short_text>veepritsmed</short_text>
+      <long_text>oht veepritsmete tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1325">
+      <short_text>madal päike</short_text>
+      <long_text>halb nähtavus madala päikese tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1326">
+      <short_text>liivatorm</short_text>
+      <long_text>liivatorm</long_text>
+    </tmc_event>
+    <tmc_event event_code="1327">
+      <short_text>liivatorm</short_text>
+      <long_text>liivatorm</long_text>
+    </tmc_event>
+    <tmc_event event_code="1332">
+      <short_text>suduhäire</short_text>
+      <long_text>suduhäire</long_text>
+    </tmc_event>
+    <tmc_event event_code="1337">
+      <short_text>udu, jäide</short_text>
+      <long_text>halb nähtavus udu tõttu, jäide</long_text>
+    </tmc_event>
+    <tmc_event event_code="1338">
+      <short_text>suduhäire</short_text>
+      <long_text>suduhäire, sõidukeeld</long_text>
+    </tmc_event>
+    <tmc_event event_code="1340">
+      <short_text>putukapilved</short_text>
+      <long_text>halb nähtavus putukapilvede tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1450">
+      <short_text>spordiüritus</short_text>
+      <long_text>rahvusvaheline spordiüritus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1451">
+      <short_text>mäng</short_text>
+      <long_text>mäng</long_text>
+    </tmc_event>
+    <tmc_event event_code="1452">
+      <short_text>turniir</short_text>
+      <long_text>turniir</long_text>
+    </tmc_event>
+    <tmc_event event_code="1453">
+      <short_text>spordiüritus</short_text>
+      <long_text>kergejõustikuvõistlus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1454">
+      <short_text>pallimäng</short_text>
+      <long_text>pallimäng</long_text>
+    </tmc_event>
+    <tmc_event event_code="1455">
+      <short_text>poksiturniir</short_text>
+      <long_text>poksiturniir</long_text>
+    </tmc_event>
+    <tmc_event event_code="1456">
+      <short_text>härjavõitlus</short_text>
+      <long_text>härjavõitlus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1457">
+      <short_text>kriketimäng</short_text>
+      <long_text>kriketimäng</long_text>
+    </tmc_event>
+    <tmc_event event_code="1458">
+      <short_text>jalgrattavõidusõit</short_text>
+      <long_text>jalgrattavõidusõit</long_text>
+    </tmc_event>
+    <tmc_event event_code="1459">
+      <short_text>jalgpallimäng</short_text>
+      <long_text>jalgpallimäng</long_text>
+    </tmc_event>
+    <tmc_event event_code="1460">
+      <short_text>golfiturniir</short_text>
+      <long_text>golfiturniir</long_text>
+    </tmc_event>
+    <tmc_event event_code="1461">
+      <short_text>maraton</short_text>
+      <long_text>maraton</long_text>
+    </tmc_event>
+    <tmc_event event_code="1462">
+      <short_text>hobuste võidusõit</short_text>
+      <long_text>hobuste võidusõit</long_text>
+    </tmc_event>
+    <tmc_event event_code="1463">
+      <short_text>ragbimäng</short_text>
+      <long_text>ragbimäng</long_text>
+    </tmc_event>
+    <tmc_event event_code="1464">
+      <short_text>demonstratsioonhüpped</short_text>
+      <long_text>demonstratsioonhüpped</long_text>
+    </tmc_event>
+    <tmc_event event_code="1465">
+      <short_text>tenniseturniir</short_text>
+      <long_text>tenniseturniir</long_text>
+    </tmc_event>
+    <tmc_event event_code="1466">
+      <short_text>spordiüritus</short_text>
+      <long_text>veespordiüritus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1467">
+      <short_text>spordiüritus</short_text>
+      <long_text>talispordiüritus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1468">
+      <short_text>kirmes</short_text>
+      <long_text>kirmes</long_text>
+    </tmc_event>
+    <tmc_event event_code="1469">
+      <short_text>aastalaat</short_text>
+      <long_text>aastalaat</long_text>
+    </tmc_event>
+    <tmc_event event_code="1470">
+      <short_text>protsessioon</short_text>
+      <long_text>protsessioon</long_text>
+    </tmc_event>
+    <tmc_event event_code="1471">
+      <short_text>uudishimulikud</short_text>
+      <long_text>uudishimulikud</long_text>
+    </tmc_event>
+    <tmc_event event_code="1472">
+      <short_text>isikud sõiduteel</short_text>
+      <long_text>liiklustakistus isikute tõttu sõiduteel</long_text>
+    </tmc_event>
+    <tmc_event event_code="1473">
+      <short_text>lapsed sõiduteel</short_text>
+      <long_text>liiklustakistus laste tõttu sõiduteel</long_text>
+    </tmc_event>
+    <tmc_event event_code="1474">
+      <short_text>jalgratturid</short_text>
+      <long_text>Liiklustakistus jalgratturite tõttu sõiduteel</long_text>
+    </tmc_event>
+    <tmc_event event_code="1475">
+      <short_text>streik</short_text>
+      <long_text>streik</long_text>
+    </tmc_event>
+    <tmc_event event_code="1476">
+      <short_text>turvaintsident</short_text>
+      <long_text>turvaintsident</long_text>
+    </tmc_event>
+    <tmc_event event_code="1477">
+      <short_text>politseikontroll</short_text>
+      <long_text>politseikontroll</long_text>
+    </tmc_event>
+    <tmc_event event_code="1478">
+      <short_text>terrorirünnak</short_text>
+      <long_text>terrorirünnak</long_text>
+    </tmc_event>
+    <tmc_event event_code="1479">
+      <short_text>tulevahetus</short_text>
+      <long_text>tulevahetus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1480">
+      <short_text>katastroofihäire</short_text>
+      <long_text>katastroofihäire</long_text>
+    </tmc_event>
+    <tmc_event event_code="1481">
+      <short_text>õhuhäire</short_text>
+      <long_text>õhuhäire</long_text>
+    </tmc_event>
+    <tmc_event event_code="1482">
+      <short_text>isikud sõiduteel</short_text>
+      <long_text>oht isikute tõttu sõiduteel</long_text>
+    </tmc_event>
+    <tmc_event event_code="1483">
+      <short_text>lapsed sõiduteel</short_text>
+      <long_text>oht laste tõttu sõiduteel</long_text>
+    </tmc_event>
+    <tmc_event event_code="1484">
+      <short_text>jalgratturid</short_text>
+      <long_text>oht jalgratturite tõttu sõiduteel</long_text>
+    </tmc_event>
+    <tmc_event event_code="1485">
+      <short_text>sulgemine</short_text>
+      <long_text>turvaintsident, tee suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="1486">
+      <short_text>turvaintsident</short_text>
+      <long_text>turvaintsident, ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1487">
+      <short_text>turvaintsident</short_text>
+      <long_text>turvaintsident, tuleb arvestada ajakaoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="1488">
+      <short_text>turvaintsident</short_text>
+      <long_text>turvaintsident, suur ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1489">
+      <short_text>politseikontroll</short_text>
+      <long_text>politseikontroll, ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1490">
+      <short_text>politseikontroll</short_text>
+      <long_text>politseikontroll, tuleb arvestada ajakaoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="1491">
+      <short_text>politseikontroll</short_text>
+      <long_text>politseikontroll, suur ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1494">
+      <short_text>evakueerimine</short_text>
+      <long_text>evakueerimine</long_text>
+    </tmc_event>
+    <tmc_event event_code="1495">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>evakueerimine, intensiivne liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1501">
+      <short_text>üritus</short_text>
+      <long_text>üritus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1502">
+      <short_text>spordiüritus</short_text>
+      <long_text>spordiüritus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1503">
+      <short_text>etendus</short_text>
+      <long_text>etendus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1504">
+      <short_text>festival</short_text>
+      <long_text>festival</long_text>
+    </tmc_event>
+    <tmc_event event_code="1505">
+      <short_text>näitus</short_text>
+      <long_text>näitus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1506">
+      <short_text>mess</short_text>
+      <long_text>mess</long_text>
+    </tmc_event>
+    <tmc_event event_code="1507">
+      <short_text>turg</short_text>
+      <long_text>turg</long_text>
+    </tmc_event>
+    <tmc_event event_code="1508">
+      <short_text>pidu</short_text>
+      <long_text>pidulik üritus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1509">
+      <short_text>riigivisiit</short_text>
+      <long_text>riigivisiit</long_text>
+    </tmc_event>
+    <tmc_event event_code="1510">
+      <short_text>paraad</short_text>
+      <long_text>paraad</long_text>
+    </tmc_event>
+    <tmc_event event_code="1511">
+      <short_text>inimeste kogunemine</short_text>
+      <long_text>inimeste kogunemine</long_text>
+    </tmc_event>
+    <tmc_event event_code="1512">
+      <short_text>rongkäik</short_text>
+      <long_text>rongkäik</long_text>
+    </tmc_event>
+    <tmc_event event_code="1513">
+      <short_text>demonstratsioon</short_text>
+      <long_text>demonstratsioon</long_text>
+    </tmc_event>
+    <tmc_event event_code="1514">
+      <short_text>üritus</short_text>
+      <long_text>avaliku julgeoleku rikkumine</long_text>
+    </tmc_event>
+    <tmc_event event_code="1515">
+      <short_text>turvaintsident</short_text>
+      <long_text>piirang julgeolekumeetmete tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1516">
+      <short_text>pommihäire</short_text>
+      <long_text>pommihäire</long_text>
+    </tmc_event>
+    <tmc_event event_code="1517">
+      <short_text>%lummik</short_text>
+      <long_text>üritus, %lummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="1519">
+      <short_text>%lhäiritud liiklus</short_text>
+      <long_text>üritus, %lhäiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1521">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>üritus, %ltihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1523">
+      <short_text>%elav liiklus</short_text>
+      <long_text>üritus, %elav liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1525">
+      <short_text>üritus</short_text>
+      <long_text>üritus, häireteta liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1526">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>üritus, %lsuureneva tendentsiga tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1527">
+      <short_text>sulgemine</short_text>
+      <long_text>üritus, tee suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="1528">
+      <short_text>üritus</short_text>
+      <long_text>üritus, ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1529">
+      <short_text>üritus</short_text>
+      <long_text>üritus, tuleb arvestada ajakaoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="1530">
+      <short_text>üritus</short_text>
+      <long_text>üritus, suur ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1531">
+      <short_text>%lummik</short_text>
+      <long_text>spordiüritus, %lummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="1533">
+      <short_text>%lhäiritud liiklus</short_text>
+      <long_text>spordiüritus, %lhäiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1535">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>spordiüritus, %ltihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1537">
+      <short_text>%elav liiklus</short_text>
+      <long_text>spordiüritus, %elav liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1539">
+      <short_text>spordiüritus</short_text>
+      <long_text>spordiüritus, häireteta liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1540">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>spordiüritus, %lsuureneva tendentsiga tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1541">
+      <short_text>sulgemine</short_text>
+      <long_text>spordiüritus, tee suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="1542">
+      <short_text>spordiüritus</short_text>
+      <long_text>spordiüritus, ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1543">
+      <short_text>spordiüritus</short_text>
+      <long_text>spordiüritus, tuleb arvestada ajakaoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="1544">
+      <short_text>spordiüritus</short_text>
+      <long_text>spordiüritus, suur ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1545">
+      <short_text>%lummik</short_text>
+      <long_text>mess, %lummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="1547">
+      <short_text>%lhäiritud liiklus</short_text>
+      <long_text>mess, %lhäiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1549">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>mess, %ltihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1551">
+      <short_text>%elav liiklus</short_text>
+      <long_text>mess, %elav liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1553">
+      <short_text>mess</short_text>
+      <long_text>mess, häireteta liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1554">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>mess, %lsuureneva tendentsiga tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1555">
+      <short_text>mess</short_text>
+      <long_text>mess, tee suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="1556">
+      <short_text>mess</short_text>
+      <long_text>mess, ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1557">
+      <short_text>mess</short_text>
+      <long_text>mess, tuleb arvestada ajakaoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="1558">
+      <short_text>mess</short_text>
+      <long_text>mess, suur ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1559">
+      <short_text>sulgemine</short_text>
+      <long_text>paraad, tee suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="1560">
+      <short_text>paraad</short_text>
+      <long_text>paraad, ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1561">
+      <short_text>paraad</short_text>
+      <long_text>paraad, tuleb arvestada ajakaoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="1562">
+      <short_text>paraad</short_text>
+      <long_text>paraad, suur ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1563">
+      <short_text>sulgemine</short_text>
+      <long_text>rongkäik, tee suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="1564">
+      <short_text>rongkäik</short_text>
+      <long_text>rongkäik, ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1565">
+      <short_text>rongkäik</short_text>
+      <long_text>rongkäik, tuleb arvestada ajakaoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="1566">
+      <short_text>rongkäik</short_text>
+      <long_text>rongkäik, suur ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1567">
+      <short_text>sulgemine</short_text>
+      <long_text>demonstratsioon, tee suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="1568">
+      <short_text>demonstratsioon</short_text>
+      <long_text>demonstratsioon, ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1569">
+      <short_text>demonstratsioon</short_text>
+      <long_text>demonstratsioon, tuleb arvestada ajakaoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="1570">
+      <short_text>demonstratsioon</short_text>
+      <long_text>demonstratsioon, suur ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1571">
+      <short_text>%lummik</short_text>
+      <long_text>piirang julgeolekumeetmete tõttu, %lummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="1573">
+      <short_text>%lhäiritud liiklus</short_text>
+      <long_text>Piirang julgeolekumeetmete tõttu, %lhäiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1575">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>Piirang julgeolekumeetmete tõttu, %ltihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1577">
+      <short_text>%elav liiklus</short_text>
+      <long_text>Piirang julgeolekumeetmete tõttu, %lelav liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1579">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>piirang julgeolekumeetmete tõttu, %lsuureneva tendentsiga tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1580">
+      <short_text>sulgemine</short_text>
+      <long_text>piirang julgeolekumeetmete tõttu, tee suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="1581">
+      <short_text>julgeolekumeetmed</short_text>
+      <long_text>piirang julgeolekumeetmete tõttu, ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1582">
+      <short_text>julgeolekumeetmed</short_text>
+      <long_text>piirang julgeolekumeetmete tõttu, tuleb arvestada ajakaoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="1583">
+      <short_text>julgeolekumeetmed</short_text>
+      <long_text>piirang julgeolekumeetmete tõttu, suur ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1586">
+      <short_text>julgeolekumeetmed</short_text>
+      <long_text>piirang julgeolekumeetmete tõttu, häireteta liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1590">
+      <short_text>üritus</short_text>
+      <long_text>mitu üritust</long_text>
+    </tmc_event>
+    <tmc_event event_code="1591">
+      <short_text>üritus</short_text>
+      <long_text>teave ürituse kohta tühistatud</long_text>
+    </tmc_event>
+    <tmc_event event_code="1592">
+      <short_text>üritus</short_text>
+      <long_text>mootorispordiüritus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1593">
+      <short_text>pesapallimäng</short_text>
+      <long_text>pesapallimäng</long_text>
+    </tmc_event>
+    <tmc_event event_code="1594">
+      <short_text>korvpallimäng</short_text>
+      <long_text>korvpallimäng</long_text>
+    </tmc_event>
+    <tmc_event event_code="1595">
+      <short_text>paadispordiüritus</short_text>
+      <long_text>paadispordiüritus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1596">
+      <short_text>kontsert</short_text>
+      <long_text>kontserdiüritus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1597">
+      <short_text>hokimäng</short_text>
+      <long_text>hokimäng</long_text>
+    </tmc_event>
+    <tmc_event event_code="1601">
+      <short_text>ajakadu</short_text>
+      <long_text>ajakadu %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1602">
+      <short_text>ajakadu</short_text>
+      <long_text>ajakadu kuni 15 minutit</long_text>
+    </tmc_event>
+    <tmc_event event_code="1603">
+      <short_text>ajakadu</short_text>
+      <long_text>ajakadu kuni 30 minutit</long_text>
+    </tmc_event>
+    <tmc_event event_code="1604">
+      <short_text>ajakadu</short_text>
+      <long_text>ajakadu kuni üks tund</long_text>
+    </tmc_event>
+    <tmc_event event_code="1605">
+      <short_text>ajakadu</short_text>
+      <long_text>ajakadu kuni 2 tundi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1606">
+      <short_text>ajakadu</short_text>
+      <long_text>ajakadu mitu tundi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1607">
+      <short_text>ajakadu</short_text>
+      <long_text>tuleb arvestada ajakaoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="1608">
+      <short_text>pikk ooteaeg</short_text>
+      <long_text>suur ajakadu %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1615">
+      <short_text>teenindamine peatatud</short_text>
+      <long_text>teenindamine peatatud</long_text>
+    </tmc_event>
+    <tmc_event event_code="1616">
+      <short_text>teenindamine puudub</short_text>
+      <long_text>teenindamine puudub</long_text>
+    </tmc_event>
+    <tmc_event event_code="1617">
+      <short_text>reserveeritud</short_text>
+      <long_text>reserveeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="1621">
+      <short_text>ajakadu</short_text>
+      <long_text>ajakadu kuni 5 minutit</long_text>
+    </tmc_event>
+    <tmc_event event_code="1622">
+      <short_text>ajakadu</short_text>
+      <long_text>ajakadu kuni 10 minutit</long_text>
+    </tmc_event>
+    <tmc_event event_code="1623">
+      <short_text>ajakadu</short_text>
+      <long_text>ajakadu kuni 20 minutit</long_text>
+    </tmc_event>
+    <tmc_event event_code="1624">
+      <short_text>ajakadu</short_text>
+      <long_text>ajakadu kuni 25 minutit</long_text>
+    </tmc_event>
+    <tmc_event event_code="1625">
+      <short_text>ajakadu</short_text>
+      <long_text>ajakadu kuni 40 minutit</long_text>
+    </tmc_event>
+    <tmc_event event_code="1626">
+      <short_text>ajakadu</short_text>
+      <long_text>ajakadu kuni 50 minutit</long_text>
+    </tmc_event>
+    <tmc_event event_code="1627">
+      <short_text>ajakadu</short_text>
+      <long_text>ajakadu kuni 90 minutit</long_text>
+    </tmc_event>
+    <tmc_event event_code="1628">
+      <short_text>ajakadu</short_text>
+      <long_text>ajakadu kuni 3 tundi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1629">
+      <short_text>ajakadu</short_text>
+      <long_text>ajakadu kuni 4 tundi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1630">
+      <short_text>ajakadu</short_text>
+      <long_text>ajakadu kuni 5 tundi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1631">
+      <short_text>pikk ooteaeg</short_text>
+      <long_text>suurem ajakadu %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1632">
+      <short_text>pikk ooteaeg</short_text>
+      <long_text>määramatu suurusega ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1633">
+      <short_text>parvlaevaliiklus puudub</short_text>
+      <long_text>parvlaevaliiklus ajutiselt peatatud</long_text>
+    </tmc_event>
+    <tmc_event event_code="1634">
+      <short_text>käigust ärajäämised</short_text>
+      <long_text>käigust ärajäämised</long_text>
+    </tmc_event>
+    <tmc_event event_code="1635">
+      <short_text>Park&amp;Ride ei tööta</short_text>
+      <long_text>Park ja Ride ei tööta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1636">
+      <short_text>eriliin</short_text>
+      <long_text>sisse on seatud eriliin</long_text>
+    </tmc_event>
+    <tmc_event event_code="1637">
+      <short_text>avalik reisilähiliiklus puudub</short_text>
+      <long_text>avalik reisilähiliiklus on peatatud</long_text>
+    </tmc_event>
+    <tmc_event event_code="1638">
+      <short_text>rööbasliiklus puudub</short_text>
+      <long_text>rööbasliiklus ei sõida</long_text>
+    </tmc_event>
+    <tmc_event event_code="1639">
+      <short_text>bussiliiklus puudub</short_text>
+      <long_text>bussiliiklus ei sõida</long_text>
+    </tmc_event>
+    <tmc_event event_code="1640">
+      <short_text>pendelliiklus</short_text>
+      <long_text>sisse on seatud pendelliiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1641">
+      <short_text>pendelliiklus</short_text>
+      <long_text>tasuta pendelliiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1649">
+      <short_text>tramm puudub</short_text>
+      <long_text>tramm ei sõida</long_text>
+    </tmc_event>
+    <tmc_event event_code="1650">
+      <short_text>ajakaod</short_text>
+      <long_text>võib esineda viivitusi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1651">
+      <short_text>metroo puudub</short_text>
+      <long_text>metroo ei sõida</long_text>
+    </tmc_event>
+    <tmc_event event_code="1652">
+      <short_text>käigust ärajäämised</short_text>
+      <long_text>tuleb arvestada käigust ärajäämistega</long_text>
+    </tmc_event>
+    <tmc_event event_code="1653">
+      <short_text>pikk ooteaeg</short_text>
+      <long_text>tuleb arvestada suure ajakaoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="1654">
+      <short_text>pikk ooteaeg</short_text>
+      <long_text>tuleb arvestada oluliste hilinemistega</long_text>
+    </tmc_event>
+    <tmc_event event_code="1655">
+      <short_text>mahasõidud reserveeritud</short_text>
+      <long_text>kõik mahasõidud reserveeritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="1656">
+      <short_text>järgmine saabumine</short_text>
+      <long_text>järgmine saabumine</long_text>
+    </tmc_event>
+    <tmc_event event_code="1657">
+      <short_text>rööbasliiklus</short_text>
+      <long_text>häired rööbasliikluses ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1658">
+      <short_text>bussiliiklus</short_text>
+      <long_text>häired bussiliikluses ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1659">
+      <short_text>metroo</short_text>
+      <long_text>häired metrooliikluses</long_text>
+    </tmc_event>
+    <tmc_event event_code="1660">
+      <short_text>avalik reisilähiliiklus</short_text>
+      <long_text>avalik reisilähiliiklus sõidab jälle</long_text>
+    </tmc_event>
+    <tmc_event event_code="1661">
+      <short_text>parvlaev puudub</short_text>
+      <long_text>parvlaev ei sõida</long_text>
+    </tmc_event>
+    <tmc_event event_code="1662">
+      <short_text>sõiduaeg</short_text>
+      <long_text>sõiduaeg</long_text>
+    </tmc_event>
+    <tmc_event event_code="1680">
+      <short_text>ajakaod</short_text>
+      <long_text>tuleb arvestada ajakaoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="1681">
+      <short_text>pikad ooteajad</short_text>
+      <long_text>tuleb arvestada mitmetunnilise ajakaoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="1683">
+      <short_text>teetööd</short_text>
+      <long_text>teetööd, tuleb arvestada suure ajakaoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="1684">
+      <short_text>tulvavesi</short_text>
+      <long_text>tulvavesi, tuleb arvestada ajakaoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="1685">
+      <short_text>üritus</short_text>
+      <long_text>üritus, tuleb arvestada ajakaoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="1687">
+      <short_text>raskeveoliiklus</short_text>
+      <long_text>tuleb arvestada mitmetunnilise raskeveoliikluse ajakaoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="1688">
+      <short_text>ajakaod</short_text>
+      <long_text>tuleb arvestada suure ajakaoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="1689">
+      <short_text>ajakaod</short_text>
+      <long_text>tuleb arvestada väga suure ajakaoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="1695">
+      <short_text>sõidu kestus</short_text>
+      <long_text>praegune sõidu kestus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1696">
+      <short_text>sõidu kestus</short_text>
+      <long_text>oodatav sõidu kestus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1700">
+      <short_text>aeglane sõiduk</short_text>
+      <long_text>oht aeglaselt sõitva sõiduki tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1701">
+      <short_text>vales sõidusuunas sõitja</short_text>
+      <long_text>Tähelepanu teile sõidab vastu vales sõidusuunas sõitja! Ärge sõitke mööda! ettevaatust mõlemas sõidusuunavööndis</long_text>
+    </tmc_event>
+    <tmc_event event_code="1704">
+      <short_text>ohtlik olukord</short_text>
+      <long_text>oht tähelepanematute juhtide tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1705">
+      <short_text>aeglane sõiduk</short_text>
+      <long_text>oht aeglaselt sõitva sõiduki tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1706">
+      <short_text>päästesõidukid</short_text>
+      <long_text>päästesõidukid töös</long_text>
+    </tmc_event>
+    <tmc_event event_code="1707">
+      <short_text>päästesõidukid</short_text>
+      <long_text>tähelepanu, kiirelt sõitvad päästesõidukid töös</long_text>
+    </tmc_event>
+    <tmc_event event_code="1708">
+      <short_text>tagaajamine</short_text>
+      <long_text>tähelepanu, oht tagaajamise tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1709">
+      <short_text>mustus sõiduteel</short_text>
+      <long_text>oht sõitva sõiduki poolt määrimise tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1710">
+      <short_text>kaotatud koorem</short_text>
+      <long_text>sõiduk kaotab koormat, oht</long_text>
+    </tmc_event>
+    <tmc_event event_code="1720">
+      <short_text>rööbasliiklus</short_text>
+      <long_text>häired rööbasliikluses</long_text>
+    </tmc_event>
+    <tmc_event event_code="1721">
+      <short_text>avaliku reisilähiliikluse töö puudub</short_text>
+      <long_text>avalik reisilähiliiklus ei sõida</long_text>
+    </tmc_event>
+    <tmc_event event_code="1731">
+      <short_text>raskeveos</short_text>
+      <long_text>oht raskeveose tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1732">
+      <short_text>ülegabariitse laiusega sõiduk</short_text>
+      <long_text>oht ülegabariitse laiusega veose tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1733">
+      <short_text>ülegabariitse pikkusega sõiduk</short_text>
+      <long_text>oht ülegabariitse pikkusega veose tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1734">
+      <short_text>aeglane sõiduk</short_text>
+      <long_text>oht aeglase sõiduki tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1735">
+      <short_text>roomiksõidukid</short_text>
+      <long_text>oht roomiksõidukite tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1736">
+      <short_text>ohtlikud veosed</short_text>
+      <long_text>ohustamine ohtlikke veoseid vedavate sõidukite tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1737">
+      <short_text>liikluskolonn</short_text>
+      <long_text>oht liikluskolonni tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1738">
+      <short_text>sõjaväekolonnid</short_text>
+      <long_text>oht sõjaväekolonnide tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1739">
+      <short_text>ülegabariitse kõrgusega veos</short_text>
+      <long_text>oht ülegabariitse kõrgusega veose tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1740">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>tihe liiklus raskeveose tõttu ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1741">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>tihe liiklus liikluskolonni tõttu ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1751">
+      <short_text>raskeveos</short_text>
+      <long_text>raskeveos</long_text>
+    </tmc_event>
+    <tmc_event event_code="1752">
+      <short_text>ülegabariitse laiusega veos</short_text>
+      <long_text>ülegabariitse laiusega veos</long_text>
+    </tmc_event>
+    <tmc_event event_code="1753">
+      <short_text>ülegabariitse pikkusega veos</short_text>
+      <long_text>ülegabariitse pikkusega veos</long_text>
+    </tmc_event>
+    <tmc_event event_code="1754">
+      <short_text>aeglane sõiduk</short_text>
+      <long_text>aeglane sõiduk</long_text>
+    </tmc_event>
+    <tmc_event event_code="1755">
+      <short_text>liikluskolonn</short_text>
+      <long_text>liikluskolonn</long_text>
+    </tmc_event>
+    <tmc_event event_code="1756">
+      <short_text>raskeveos</short_text>
+      <long_text>raskeveos, ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1757">
+      <short_text>raskeveos</short_text>
+      <long_text>raskeveos, tuleb arvestada ajakaoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="1758">
+      <short_text>pikk ooteaeg</short_text>
+      <long_text>raskekaaluline veos, suur ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1759">
+      <short_text>liikluskolonn</short_text>
+      <long_text>liikluskolonn, ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1760">
+      <short_text>raskeveos</short_text>
+      <long_text>raskeveos, tuleb arvestada ajakaoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="1761">
+      <short_text>pikk ooteaeg</short_text>
+      <long_text>liikluskolonn, suur ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1764">
+      <short_text>roomiksõidukid</short_text>
+      <long_text>roomiksõidukid</long_text>
+    </tmc_event>
+    <tmc_event event_code="1765">
+      <short_text>ohtlikud veosed</short_text>
+      <long_text>ohtlikud veosed</long_text>
+    </tmc_event>
+    <tmc_event event_code="1766">
+      <short_text>sõjaväekolonnid</short_text>
+      <long_text>sõjaväekolonnid</long_text>
+    </tmc_event>
+    <tmc_event event_code="1767">
+      <short_text>raskeveosed</short_text>
+      <long_text>raskeveos, möödasõit pole võimalik</long_text>
+    </tmc_event>
+    <tmc_event event_code="1768">
+      <short_text>ohtlikud veosed</short_text>
+      <long_text>ohtlike veoste veokitel sõita järgmisele parkimisplatsile</long_text>
+    </tmc_event>
+    <tmc_event event_code="1801">
+      <short_text>rajavahetussüsteemid rikkis</short_text>
+      <long_text>rajavahetussüsteemid rikkis</long_text>
+    </tmc_event>
+    <tmc_event event_code="1802">
+      <short_text>hädaabikutsepostid rikkis</short_text>
+      <long_text>hädaabikutsepostid rikkis</long_text>
+    </tmc_event>
+    <tmc_event event_code="1803">
+      <short_text>hädaabikõnesüsteem rikkis</short_text>
+      <long_text>hädaabikõnesüsteem rikkis</long_text>
+    </tmc_event>
+    <tmc_event event_code="1804">
+      <short_text>foorid rikkis</short_text>
+      <long_text>foorid rikkis</long_text>
+    </tmc_event>
+    <tmc_event event_code="1805">
+      <short_text>foorisüsteemide tõrge</short_text>
+      <long_text>foorisüsteemide tõrge</long_text>
+    </tmc_event>
+    <tmc_event event_code="1806">
+      <short_text>raudteeülesõidukoht</short_text>
+      <long_text>tõrge raudteeülesõidukohal</long_text>
+    </tmc_event>
+    <tmc_event event_code="1807">
+      <short_text>%lummik</short_text>
+      <long_text>foorid rikkis, %lummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="1809">
+      <short_text>%lhäiritud liiklus</short_text>
+      <long_text>foorid rikkis, %lhäiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1811">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>foorid rikkis, %ltihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1812">
+      <short_text>foorid rikkis</short_text>
+      <long_text>foorid rikkis, oodatav tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1813">
+      <short_text>%elav liiklus</short_text>
+      <long_text>foorid rikkis, %lelav liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1814">
+      <short_text>foorid rikkis</short_text>
+      <long_text>foorid rikkis, oodatav elav liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1815">
+      <short_text>foorid rikkis</short_text>
+      <long_text>foorid rikkis, häireteta liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1816">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>foorid rikkis, %lsuureneva tendentsiga tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1817">
+      <short_text>foorid rikkis</short_text>
+      <long_text>foorid rikkis, ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1818">
+      <short_text>foorid rikkis</short_text>
+      <long_text>foorid rikkis, tuleb arvestada ajakaoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="1819">
+      <short_text>foorid rikkis</short_text>
+      <long_text>foorid rikkis, suur ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1820">
+      <short_text>%lummik</short_text>
+      <long_text>tõrge raudteeülesõidukohal, &amp;lummik</long_text>
+    </tmc_event>
+    <tmc_event event_code="1822">
+      <short_text>%lhäiritud liiklus</short_text>
+      <long_text>tõrge raudteeülesõidukohal, %lhäiritud liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1824">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>tõrge raudteeülesõidukohal, %ltihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1825">
+      <short_text>tõrge raudteeülesõidukohal</short_text>
+      <long_text>tõrge raudteeülesõidukohal, oodatav tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1826">
+      <short_text>%elav liiklus</short_text>
+      <long_text>tõrge raudteeülesõidukohal, %lelav liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1827">
+      <short_text>tõrge raudteeülesõidukohal</short_text>
+      <long_text>tõrge raudteeülesõidukohal, oodatav elav liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1828">
+      <short_text>tõrge raudteeülesõidukohal</short_text>
+      <long_text>tõrge raudteeülesõidukohal, häireteta liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1829">
+      <short_text>%ltihe liiklus</short_text>
+      <long_text>tõrge raudteeülesõidukohal, %lsuureneva tendentsiga tihe liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="1830">
+      <short_text>tõrge raudteeülesõidukohal</short_text>
+      <long_text>tõrge raudteeülesõidukohal, ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1831">
+      <short_text>tõrge raudteeülesõidukohal</short_text>
+      <long_text>tõrge raudteeülesõidukohal, tuleb arvestada ajakaoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="1832">
+      <short_text>pikk ooteaeg</short_text>
+      <long_text>tõrge raudteeülesõidukohal, suur ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1838">
+      <short_text>rajavahetussüsteemid defektsed</short_text>
+      <long_text>rajavahetussüsteemid defektsed</long_text>
+    </tmc_event>
+    <tmc_event event_code="1840">
+      <short_text>muudetava teabega liiklusmärgid</short_text>
+      <long_text>muudetava teabega liiklusmärgid rikkis</long_text>
+    </tmc_event>
+    <tmc_event event_code="1841">
+      <short_text>muudetava teabega liiklusmärgid</short_text>
+      <long_text>muudetava teabega liiklusmärgid töötavad vigaselt</long_text>
+    </tmc_event>
+    <tmc_event event_code="1842">
+      <short_text>muudetava teabega liiklusmärgid</short_text>
+      <long_text>muudetava teabega liiklusmärgid jälle kasutusel</long_text>
+    </tmc_event>
+    <tmc_event event_code="1843">
+      <short_text>juurdesõiduregulaator</short_text>
+      <long_text>juurdesõiduregulaator rikkis</long_text>
+    </tmc_event>
+    <tmc_event event_code="1844">
+      <short_text>juurdesõiduregulaator</short_text>
+      <long_text>juurdesõiduregulaator töötab vigaselt</long_text>
+    </tmc_event>
+    <tmc_event event_code="1845">
+      <short_text>foorisüsteem defektne</short_text>
+      <long_text>ajutine foorisüsteem defektne</long_text>
+    </tmc_event>
+    <tmc_event event_code="1846">
+      <short_text>foorisüsteem vigane</short_text>
+      <long_text>ajutine foorisüsteem töötab vigaselt</long_text>
+    </tmc_event>
+    <tmc_event event_code="1847">
+      <short_text>liiklushäired</short_text>
+      <long_text>liiklusarvuti rikke tõttu on liikluskorraldus häiritud</long_text>
+    </tmc_event>
+    <tmc_event event_code="1848">
+      <short_text>fooride juhtimine muudetud</short_text>
+      <long_text>foorisüsteemide juhtimine muudetud</long_text>
+    </tmc_event>
+    <tmc_event event_code="1849">
+      <short_text>tunneli ventilatsioon rikkis</short_text>
+      <long_text>tunneli ventilatsioon rikkis</long_text>
+    </tmc_event>
+    <tmc_event event_code="1850">
+      <short_text>rajavahetussüsteemid rikkis</short_text>
+      <long_text>rajavahetussüsteemid rikkis, oht</long_text>
+    </tmc_event>
+    <tmc_event event_code="1853">
+      <short_text>ohukoht</short_text>
+      <long_text>takistus sõiduteel</long_text>
+    </tmc_event>
+    <tmc_event event_code="1864">
+      <short_text>rajavahetussüsteemid defektsed</short_text>
+      <long_text>rajavahetussüsteemid defektsed, oht</long_text>
+    </tmc_event>
+    <tmc_event event_code="1865">
+      <short_text>hädaabikutsepostid rikkis</short_text>
+      <long_text>hädaabikutsepostid rikkis, politsei patrullib rohkem</long_text>
+    </tmc_event>
+    <tmc_event event_code="1866">
+      <short_text>hädaabikutsepostid rikkis</short_text>
+      <long_text>hädaabikutsepostid rikkis, hädaolukorras oodake politseid</long_text>
+    </tmc_event>
+    <tmc_event event_code="1867">
+      <short_text>foorid rikkis</short_text>
+      <long_text>foorid rikkis, oht</long_text>
+    </tmc_event>
+    <tmc_event event_code="1868">
+      <short_text>foorisüsteemide tõrge</short_text>
+      <long_text>foorisüsteemide tõrge, ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1869">
+      <short_text>foorisüsteemide tõrge</short_text>
+      <long_text>foorisüsteemide tõrge, tuleb arvestada ajakaoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="1870">
+      <short_text>foorisüsteemide tõrge</short_text>
+      <long_text>foorisüsteemide tõrge, suur ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1875">
+      <short_text>foorisüsteemide tõrge</short_text>
+      <long_text>oht vigaselt töötavate foorisüsteemide tõttu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1876">
+      <short_text>foorisüsteemide tõrge</short_text>
+      <long_text>ajutine foorisüsteem defektne, ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1877">
+      <short_text>foorisüsteemide tõrge</short_text>
+      <long_text>ajutine foorisüsteem defektne, tuleb arvestada ajakaoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="1878">
+      <short_text>foorisüsteemide tõrge</short_text>
+      <long_text>ajutine foorisüsteem defektne, suur ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1879">
+      <short_text>foorisüsteemide tõrge</short_text>
+      <long_text>ajutine foorisüsteem defektne, oht</long_text>
+    </tmc_event>
+    <tmc_event event_code="1880">
+      <short_text>liiklushäired</short_text>
+      <long_text>liiklusarvuti rikke tõttu on liikluskorraldus häiritud, ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1884">
+      <short_text>liiklushäired</short_text>
+      <long_text>liiklusarvuti rikke tõttu on liikluskorraldus häiritud, tuleb arvestada ajakaoga</long_text>
+    </tmc_event>
+    <tmc_event event_code="1885">
+      <short_text>pikk ooteaeg</short_text>
+      <long_text>liiklusarvuti rikke tõttu on liikluskorraldus häiritud, suur ajakadu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1886">
+      <short_text>parkimiskeelud tühistatud</short_text>
+      <long_text>tavalised parkimiskeelud tühistatud</long_text>
+    </tmc_event>
+    <tmc_event event_code="1887">
+      <short_text>parkimiskeelud</short_text>
+      <long_text>erilised parkimiskeelud kehtivad</long_text>
+    </tmc_event>
+    <tmc_event event_code="1888">
+      <short_text>veel piisavalt ruumi olemas</short_text>
+      <long_text>10% hõivatud</long_text>
+    </tmc_event>
+    <tmc_event event_code="1889">
+      <short_text>veel piisavalt ruumi olemas</short_text>
+      <long_text>20% hõivatud</long_text>
+    </tmc_event>
+    <tmc_event event_code="1890">
+      <short_text>veel piisavalt ruumi olemas</short_text>
+      <long_text>30% hõivatud</long_text>
+    </tmc_event>
+    <tmc_event event_code="1891">
+      <short_text>veel piisavalt ruumi olemas</short_text>
+      <long_text>40% hõivatud</long_text>
+    </tmc_event>
+    <tmc_event event_code="1892">
+      <short_text>veel ainult üksikud kohad olemas</short_text>
+      <long_text>50% hõivatud</long_text>
+    </tmc_event>
+    <tmc_event event_code="1893">
+      <short_text>veel ainult üksikud kohad olemas</short_text>
+      <long_text>60% hõivatud</long_text>
+    </tmc_event>
+    <tmc_event event_code="1894">
+      <short_text>veel ainult üksikud kohad olemas</short_text>
+      <long_text>70% hõivatud</long_text>
+    </tmc_event>
+    <tmc_event event_code="1895">
+      <short_text>parkimisplats hõivatud</short_text>
+      <long_text>80% hõivatud</long_text>
+    </tmc_event>
+    <tmc_event event_code="1896">
+      <short_text>parkimisplats hõivatud</short_text>
+      <long_text>90% hõivatud</long_text>
+    </tmc_event>
+    <tmc_event event_code="1897">
+      <short_text>veel ainult üksikud kohad olemas</short_text>
+      <long_text>veel kuni 10 parkimiskohta vaba</long_text>
+    </tmc_event>
+    <tmc_event event_code="1898">
+      <short_text>veel ainult üksikud kohad olemas</short_text>
+      <long_text>veel kuni 20 parkimiskohta vaba</long_text>
+    </tmc_event>
+    <tmc_event event_code="1899">
+      <short_text>veel ainult üksikud kohad olemas</short_text>
+      <long_text>veel kuni 30 parkimiskohta vaba</long_text>
+    </tmc_event>
+    <tmc_event event_code="1900">
+      <short_text>veel ainult üksikud kohad olemas</short_text>
+      <long_text>veel kuni 40 parkimiskohta vaba</long_text>
+    </tmc_event>
+    <tmc_event event_code="1901">
+      <short_text>reisiteave</short_text>
+      <long_text>järgmine mahasõit</long_text>
+    </tmc_event>
+    <tmc_event event_code="1903">
+      <short_text>parkimisplats hõivatud</short_text>
+      <long_text>parkimisplats hõivatud</long_text>
+    </tmc_event>
+    <tmc_event event_code="1904">
+      <short_text>parkimiskohti napilt</short_text>
+      <long_text>kõik parkimisplatsid ümbruskonnas hõivatud</long_text>
+    </tmc_event>
+    <tmc_event event_code="1905">
+      <short_text>vabad parkimiskohad</short_text>
+      <long_text>veel vabad parkimiskohad</long_text>
+    </tmc_event>
+    <tmc_event event_code="1906">
+      <short_text>Park and Ride</short_text>
+      <long_text>Park ja Ride töötab</long_text>
+    </tmc_event>
+    <tmc_event event_code="1908">
+      <short_text>teenuseteated</short_text>
+      <long_text>palun lülitage raadioprogramm sisse</long_text>
+    </tmc_event>
+    <tmc_event event_code="1909">
+      <short_text>teenuseteated</short_text>
+      <long_text>häireteade sellel sagedusel</long_text>
+    </tmc_event>
+    <tmc_event event_code="1910">
+      <short_text>teenuseteated</short_text>
+      <long_text>uus häireteade kindlaksmääratud aegade jooksul</long_text>
+    </tmc_event>
+    <tmc_event event_code="1913">
+      <short_text>teenuseteated</short_text>
+      <long_text>palun lülitage raadioprogramm sisse</long_text>
+    </tmc_event>
+    <tmc_event event_code="1918">
+      <short_text>parkimisplats hõivatud</short_text>
+      <long_text>hõivatud</long_text>
+    </tmc_event>
+    <tmc_event event_code="1920">
+      <short_text>parkimiskohti napilt</short_text>
+      <long_text>veel ainult üksikud vabad kohad</long_text>
+    </tmc_event>
+    <tmc_event event_code="1921">
+      <short_text>vabad parkimisplatsid</short_text>
+      <long_text>veel piisavalt ruumi olemas</long_text>
+    </tmc_event>
+    <tmc_event event_code="1922">
+      <short_text>parkimisplats hõivatud</short_text>
+      <long_text>parkimisplats tõenäoliselt hõivatud</long_text>
+    </tmc_event>
+    <tmc_event event_code="1923">
+      <short_text>parkimisplats hõivatud</short_text>
+      <long_text>tõenäoliselt vabu parkimiskohti enam pole</long_text>
+    </tmc_event>
+    <tmc_event event_code="1924">
+      <short_text>parkimismaja hõivatud</short_text>
+      <long_text>parkimismaja hõivatud</long_text>
+    </tmc_event>
+    <tmc_event event_code="1926">
+      <short_text>parkimisplats hõivatud</short_text>
+      <long_text>vabu parkimiskohti pole enam</long_text>
+    </tmc_event>
+    <tmc_event event_code="1927">
+      <short_text>parkimiskeeld</short_text>
+      <long_text>parkimiskeeld</long_text>
+    </tmc_event>
+    <tmc_event event_code="1928">
+      <short_text>parkimisruumi piirang puudub</short_text>
+      <long_text>parkimisruumi piirangud tühistatud</long_text>
+    </tmc_event>
+    <tmc_event event_code="1930">
+      <short_text>teenuseteated</short_text>
+      <long_text>hetkel TMC teenus puudub</long_text>
+    </tmc_event>
+    <tmc_event event_code="1961">
+      <short_text>päästesõidukid</short_text>
+      <long_text>laske päästesõidukitel ühissõidukirajal mööda sõita</long_text>
+    </tmc_event>
+    <tmc_event event_code="1962">
+      <short_text>ühissõidukirada</short_text>
+      <long_text>ühissõidukirada avatud kõigile sõidukitele</long_text>
+    </tmc_event>
+    <tmc_event event_code="1963">
+      <short_text>ühissõidukirada</short_text>
+      <long_text>politsei juhib liiklust ühissõidukiraja kaudu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1974">
+      <short_text>päästesõidukid</short_text>
+      <long_text>moodustage rada päästesõidukitele</long_text>
+    </tmc_event>
+    <tmc_event event_code="1977">
+      <short_text>päästesõidukid</short_text>
+      <long_text>laske päästesõidukitel veoautode rajal mööda sõita</long_text>
+    </tmc_event>
+    <tmc_event event_code="2000">
+      <short_text>sulgemine</short_text>
+      <long_text>suduhäire tõttu piirkond kogu liiklusele suletud</long_text>
+    </tmc_event>
+    <tmc_event event_code="2013">
+      <short_text>puhkeplats täis</short_text>
+      <long_text>tankla- ja puhkekompleks koormatud</long_text>
+    </tmc_event>
+    <tmc_event event_code="2021">
+      <short_text>asendusbusside liiklus</short_text>
+      <long_text>ei sõida, asendusbusside liiklus</long_text>
+    </tmc_event>
+    <tmc_event event_code="2022">
+      <short_text>käigust ärajäämine streigi tõttu</short_text>
+      <long_text>käigust ärajäämine streigi tõttu</long_text>
+    </tmc_event>
+  </locale>
+</TmcConfig>

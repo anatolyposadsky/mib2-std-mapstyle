@@ -1,0 +1,1281 @@
+<LanguagePoiConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xsd/locale/LanguagePoiConfiguration.xsd" version="1">
+<!--Alphabetically sorted setup category definitions for each fuel type, will be reloaded after language change-->
+	<SetupCategoryDefinition>
+		<PoiCategoryMapping fueltype="default">
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW Service -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Αεροδρόμια -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Άθλημα γκολφ -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Αθλητικά κέντρα -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Αξιοθέατα -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Αστυνομία -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Είδη ένδυσης -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Εικαστικές τέχνες -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Εκπαιδευτικά ιδρύματα -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Εμπορικά κέντρα -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- Έμποροι VW -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Ενοικιάσεις αυτοκινήτων -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Έξοδοι/είσοδοι αυτοκινητοδρόμου -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Εστιατόρια -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Εταιρείες -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Ηλεκτρονικά είδη -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Ιατρικές υπηρεσίες -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Καζίνο -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Καφετέριες -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Κινηματογράφοι -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Κοιμητήρια -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Κρασιά και οινοπνευματώδη ποτά -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Κυβέρνηση και διοίκηση -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Λούνα παρκ -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Μηχανήματα ATM -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Μνημεία -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Μουσεία -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Ναοί -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Ναυτικός αθλητισμός -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Νοσοκομεία -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Νυχτερινή ζωή -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Ξενοδοχεία και μοτέλ -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Πάρκα -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Πρατήρια καυσίμων -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- Πρατήρια υγραερίου -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Πρατήρια φυσικού αερίου -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Πρεσβείες -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Σιδηροδρομικοί σταθμοί -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Σταθμοί εξυπηρέτησης αυτοκινητιστών -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Σταθμοί λεωφορείων -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Σταθμοί φόρτισης -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Συνεδριακά κέντρα -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Συνοριακές διαβάσεις -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Ταχυδρομείο -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Τουριστικές πληροφορίες -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Τράπεζες -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Φαρμακεία -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Φέρι μποτ και τρένα μεταφοράς οχημάτων -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Χειμερινά σπορ -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Χώρος στάθμευσης -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="gasoline">
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW Service -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Αεροδρόμια -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Άθλημα γκολφ -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Αθλητικά κέντρα -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Αξιοθέατα -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Αστυνομία -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Είδη ένδυσης -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Εικαστικές τέχνες -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Εκπαιδευτικά ιδρύματα -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Εμπορικά κέντρα -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- Έμποροι VW -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Ενοικιάσεις αυτοκινήτων -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Έξοδοι/είσοδοι αυτοκινητοδρόμου -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Εστιατόρια -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Εταιρείες -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Ηλεκτρονικά είδη -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Ιατρικές υπηρεσίες -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Καζίνο -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Καφετέριες -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Κινηματογράφοι -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Κοιμητήρια -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Κρασιά και οινοπνευματώδη ποτά -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Κυβέρνηση και διοίκηση -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Λούνα παρκ -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Μηχανήματα ATM -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Μνημεία -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Μουσεία -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Ναοί -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Ναυτικός αθλητισμός -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Νοσοκομεία -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Νυχτερινή ζωή -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Ξενοδοχεία και μοτέλ -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Πάρκα -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Πρατήρια καυσίμων -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- Πρατήρια υγραερίου -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Πρατήρια φυσικού αερίου -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Πρεσβείες -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Σιδηροδρομικοί σταθμοί -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Σταθμοί εξυπηρέτησης αυτοκινητιστών -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Σταθμοί λεωφορείων -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Σταθμοί φόρτισης -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Συνεδριακά κέντρα -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Συνοριακές διαβάσεις -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Ταχυδρομείο -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Τουριστικές πληροφορίες -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Τράπεζες -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Φαρμακεία -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Φέρι μποτ και τρένα μεταφοράς οχημάτων -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Χειμερινά σπορ -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Χώρος στάθμευσης -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="diesel">
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW Service -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Αεροδρόμια -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Άθλημα γκολφ -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Αθλητικά κέντρα -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Αξιοθέατα -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Αστυνομία -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Είδη ένδυσης -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Εικαστικές τέχνες -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Εκπαιδευτικά ιδρύματα -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Εμπορικά κέντρα -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- Έμποροι VW -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Ενοικιάσεις αυτοκινήτων -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Έξοδοι/είσοδοι αυτοκινητοδρόμου -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Εστιατόρια -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Εταιρείες -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Ηλεκτρονικά είδη -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Ιατρικές υπηρεσίες -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Καζίνο -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Καφετέριες -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Κινηματογράφοι -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Κοιμητήρια -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Κρασιά και οινοπνευματώδη ποτά -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Κυβέρνηση και διοίκηση -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Λούνα παρκ -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Μηχανήματα ATM -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Μνημεία -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Μουσεία -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Ναοί -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Ναυτικός αθλητισμός -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Νοσοκομεία -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Νυχτερινή ζωή -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Ξενοδοχεία και μοτέλ -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Πάρκα -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Πρατήρια καυσίμων -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- Πρατήρια υγραερίου -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Πρατήρια φυσικού αερίου -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Πρεσβείες -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Σιδηροδρομικοί σταθμοί -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Σταθμοί εξυπηρέτησης αυτοκινητιστών -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Σταθμοί λεωφορείων -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Σταθμοί φόρτισης -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Συνεδριακά κέντρα -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Συνοριακές διαβάσεις -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Ταχυδρομείο -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Τουριστικές πληροφορίες -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Τράπεζες -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Φαρμακεία -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Φέρι μποτ και τρένα μεταφοράς οχημάτων -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Χειμερινά σπορ -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Χώρος στάθμευσης -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="cng">
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW Service -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Αεροδρόμια -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Άθλημα γκολφ -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Αθλητικά κέντρα -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Αξιοθέατα -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Αστυνομία -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Είδη ένδυσης -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Εικαστικές τέχνες -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Εκπαιδευτικά ιδρύματα -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Εμπορικά κέντρα -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- Έμποροι VW -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Ενοικιάσεις αυτοκινήτων -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Έξοδοι/είσοδοι αυτοκινητοδρόμου -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Εστιατόρια -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Εταιρείες -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Ηλεκτρονικά είδη -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Ιατρικές υπηρεσίες -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Καζίνο -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Καφετέριες -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Κινηματογράφοι -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Κοιμητήρια -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Κρασιά και οινοπνευματώδη ποτά -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Κυβέρνηση και διοίκηση -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Λούνα παρκ -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Μηχανήματα ATM -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Μνημεία -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Μουσεία -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Ναοί -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Ναυτικός αθλητισμός -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Νοσοκομεία -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Νυχτερινή ζωή -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Ξενοδοχεία και μοτέλ -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Πάρκα -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Πρατήρια καυσίμων -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- Πρατήρια υγραερίου -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Πρατήρια φυσικού αερίου -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Πρεσβείες -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Σιδηροδρομικοί σταθμοί -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Σταθμοί εξυπηρέτησης αυτοκινητιστών -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Σταθμοί λεωφορείων -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Σταθμοί φόρτισης -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Συνεδριακά κέντρα -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Συνοριακές διαβάσεις -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Ταχυδρομείο -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Τουριστικές πληροφορίες -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Τράπεζες -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Φαρμακεία -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Φέρι μποτ και τρένα μεταφοράς οχημάτων -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Χειμερινά σπορ -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Χώρος στάθμευσης -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="lpg">
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW Service -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Αεροδρόμια -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Άθλημα γκολφ -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Αθλητικά κέντρα -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Αξιοθέατα -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Αστυνομία -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Είδη ένδυσης -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Εικαστικές τέχνες -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Εκπαιδευτικά ιδρύματα -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Εμπορικά κέντρα -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- Έμποροι VW -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Ενοικιάσεις αυτοκινήτων -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Έξοδοι/είσοδοι αυτοκινητοδρόμου -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Εστιατόρια -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Εταιρείες -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Ηλεκτρονικά είδη -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Ιατρικές υπηρεσίες -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Καζίνο -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Καφετέριες -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Κινηματογράφοι -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Κοιμητήρια -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Κρασιά και οινοπνευματώδη ποτά -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Κυβέρνηση και διοίκηση -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Λούνα παρκ -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Μηχανήματα ATM -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Μνημεία -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Μουσεία -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Ναοί -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Ναυτικός αθλητισμός -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Νοσοκομεία -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Νυχτερινή ζωή -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Ξενοδοχεία και μοτέλ -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Πάρκα -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Πρατήρια καυσίμων -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- Πρατήρια υγραερίου -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Πρατήρια φυσικού αερίου -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Πρεσβείες -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Σιδηροδρομικοί σταθμοί -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Σταθμοί εξυπηρέτησης αυτοκινητιστών -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Σταθμοί λεωφορείων -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Σταθμοί φόρτισης -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Συνεδριακά κέντρα -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Συνοριακές διαβάσεις -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Ταχυδρομείο -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Τουριστικές πληροφορίες -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Τράπεζες -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Φαρμακεία -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Φέρι μποτ και τρένα μεταφοράς οχημάτων -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Χειμερινά σπορ -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Χώρος στάθμευσης -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="bev">
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW Service -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Αεροδρόμια -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Άθλημα γκολφ -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Αθλητικά κέντρα -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Αξιοθέατα -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Αστυνομία -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Είδη ένδυσης -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Εικαστικές τέχνες -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Εκπαιδευτικά ιδρύματα -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Εμπορικά κέντρα -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- Έμποροι VW -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Ενοικιάσεις αυτοκινήτων -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Έξοδοι/είσοδοι αυτοκινητοδρόμου -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Εστιατόρια -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Εταιρείες -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Ηλεκτρονικά είδη -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Ιατρικές υπηρεσίες -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Καζίνο -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Καφετέριες -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Κινηματογράφοι -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Κοιμητήρια -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Κρασιά και οινοπνευματώδη ποτά -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Κυβέρνηση και διοίκηση -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Λούνα παρκ -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Μηχανήματα ATM -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Μνημεία -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Μουσεία -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Ναοί -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Ναυτικός αθλητισμός -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Νοσοκομεία -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Νυχτερινή ζωή -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Ξενοδοχεία και μοτέλ -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Πάρκα -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Πρατήρια καυσίμων -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- Πρατήρια υγραερίου -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Πρατήρια φυσικού αερίου -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Πρεσβείες -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Σιδηροδρομικοί σταθμοί -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Σταθμοί εξυπηρέτησης αυτοκινητιστών -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Σταθμοί λεωφορείων -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Σταθμοί φόρτισης -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Συνεδριακά κέντρα -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Συνοριακές διαβάσεις -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Ταχυδρομείο -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Τουριστικές πληροφορίες -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Τράπεζες -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Φαρμακεία -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Φέρι μποτ και τρένα μεταφοράς οχημάτων -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Χειμερινά σπορ -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Χώρος στάθμευσης -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="phev">
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW Service -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Αεροδρόμια -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Άθλημα γκολφ -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Αθλητικά κέντρα -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Αξιοθέατα -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Αστυνομία -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Είδη ένδυσης -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Εικαστικές τέχνες -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Εκπαιδευτικά ιδρύματα -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Εμπορικά κέντρα -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- Έμποροι VW -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Ενοικιάσεις αυτοκινήτων -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Έξοδοι/είσοδοι αυτοκινητοδρόμου -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Εστιατόρια -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Εταιρείες -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Ηλεκτρονικά είδη -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Ιατρικές υπηρεσίες -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Καζίνο -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Καφετέριες -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Κινηματογράφοι -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Κοιμητήρια -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Κρασιά και οινοπνευματώδη ποτά -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Κυβέρνηση και διοίκηση -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Λούνα παρκ -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Μηχανήματα ATM -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Μνημεία -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Μουσεία -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Ναοί -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Ναυτικός αθλητισμός -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Νοσοκομεία -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Νυχτερινή ζωή -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Ξενοδοχεία και μοτέλ -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Πάρκα -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Πρατήρια καυσίμων -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- Πρατήρια υγραερίου -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Πρατήρια φυσικού αερίου -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Πρεσβείες -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Σιδηροδρομικοί σταθμοί -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Σταθμοί εξυπηρέτησης αυτοκινητιστών -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Σταθμοί λεωφορείων -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Σταθμοί φόρτισης -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Συνεδριακά κέντρα -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Συνοριακές διαβάσεις -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Ταχυδρομείο -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Τουριστικές πληροφορίες -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Τράπεζες -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Φαρμακεία -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Φέρι μποτ και τρένα μεταφοράς οχημάτων -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Χειμερινά σπορ -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Χώρος στάθμευσης -->
+		</PoiCategoryMapping>
+	</SetupCategoryDefinition>
+  <PoiCategoryGroupDefinition>
+    <PoiCategoryGroup id="10" type="dynamic">
+      <Priority>1</Priority>
+      <PoiCategoryMapping />
+    </PoiCategoryGroup>
+    <PoiCategoryGroup id="11" type="local">
+      <Priority>2</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>1</PoiCategoryRef>
+        <PoiCategoryRef>12</PoiCategoryRef>
+        <PoiCategoryRef>2</PoiCategoryRef>
+        <PoiCategoryRef>39</PoiCategoryRef>
+        <PoiCategoryRef>20</PoiCategoryRef>
+        <PoiCategoryRef>14</PoiCategoryRef>
+        <PoiCategoryRef>41</PoiCategoryRef>
+        <PoiCategoryRef>28</PoiCategoryRef>
+        <PoiCategoryRef>36</PoiCategoryRef>
+        <PoiCategoryRef>52</PoiCategoryRef>
+        <PoiCategoryRef>27</PoiCategoryRef>
+        <PoiCategoryRef>15</PoiCategoryRef>
+        <PoiCategoryRef>11</PoiCategoryRef>
+        <PoiCategoryRef>104</PoiCategoryRef>
+        <PoiCategoryRef>47</PoiCategoryRef>
+        <PoiCategoryRef>29</PoiCategoryRef>
+        <PoiCategoryRef>22</PoiCategoryRef>
+        <PoiCategoryRef>35</PoiCategoryRef>
+        <PoiCategoryRef>26</PoiCategoryRef>
+        <PoiCategoryRef>34</PoiCategoryRef>
+        <PoiCategoryRef>30</PoiCategoryRef>
+        <PoiCategoryRef>49</PoiCategoryRef>
+        <PoiCategoryRef>44</PoiCategoryRef>
+        <PoiCategoryRef>25</PoiCategoryRef>
+        <PoiCategoryRef>38</PoiCategoryRef>
+        <PoiCategoryRef>37</PoiCategoryRef>
+        <PoiCategoryRef>53</PoiCategoryRef>
+        <PoiCategoryRef>42</PoiCategoryRef>
+        <PoiCategoryRef>54</PoiCategoryRef>
+        <PoiCategoryRef>21</PoiCategoryRef>
+        <PoiCategoryRef>31</PoiCategoryRef>
+        <PoiCategoryRef>8</PoiCategoryRef>
+        <PoiCategoryRef>32</PoiCategoryRef>
+        <PoiCategoryRef>101</PoiCategoryRef>
+        <PoiCategoryRef>136</PoiCategoryRef>
+        <PoiCategoryRef>135</PoiCategoryRef>
+        <PoiCategoryRef>50</PoiCategoryRef>
+        <PoiCategoryRef>16</PoiCategoryRef>
+        <PoiCategoryRef>43</PoiCategoryRef>
+        <PoiCategoryRef>7</PoiCategoryRef>
+        <PoiCategoryRef>18</PoiCategoryRef>
+        <PoiCategoryRef>134</PoiCategoryRef>
+        <PoiCategoryRef>48</PoiCategoryRef>
+        <PoiCategoryRef>10</PoiCategoryRef>
+        <PoiCategoryRef>46</PoiCategoryRef>
+        <PoiCategoryRef>33</PoiCategoryRef>
+        <PoiCategoryRef>19</PoiCategoryRef>
+        <PoiCategoryRef>45</PoiCategoryRef>
+        <PoiCategoryRef>23</PoiCategoryRef>
+        <PoiCategoryRef>9</PoiCategoryRef>
+        <PoiCategoryRef>102</PoiCategoryRef>
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+    <PoiCategoryGroup id="12" type="local">
+      <Priority>7</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>1</PoiCategoryRef>
+        <PoiCategoryRef>39</PoiCategoryRef>
+        <PoiCategoryRef>41</PoiCategoryRef>
+        <PoiCategoryRef>36</PoiCategoryRef>
+        <PoiCategoryRef>35</PoiCategoryRef>
+        <PoiCategoryRef>34</PoiCategoryRef>
+        <PoiCategoryRef>44</PoiCategoryRef>
+        <PoiCategoryRef>38</PoiCategoryRef>
+        <PoiCategoryRef>37</PoiCategoryRef>
+        <PoiCategoryRef>42</PoiCategoryRef>
+        <PoiCategoryRef>32</PoiCategoryRef>
+        <PoiCategoryRef>43</PoiCategoryRef>
+        <PoiCategoryRef>33</PoiCategoryRef>
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+    <PoiCategoryGroup id="13" type="local">
+      <Priority>3</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>12</PoiCategoryRef>
+        <PoiCategoryRef>2</PoiCategoryRef>
+        <PoiCategoryRef>14</PoiCategoryRef>
+        <PoiCategoryRef>15</PoiCategoryRef>
+        <PoiCategoryRef>11</PoiCategoryRef>
+        <PoiCategoryRef>8</PoiCategoryRef>
+        <PoiCategoryRef>101</PoiCategoryRef>
+        <PoiCategoryRef>136</PoiCategoryRef>
+        <PoiCategoryRef>135</PoiCategoryRef>
+        <PoiCategoryRef>16</PoiCategoryRef>
+        <PoiCategoryRef>7</PoiCategoryRef>
+        <PoiCategoryRef>18</PoiCategoryRef>
+        <PoiCategoryRef>134</PoiCategoryRef>
+        <PoiCategoryRef>10</PoiCategoryRef>
+        <PoiCategoryRef>19</PoiCategoryRef>
+        <PoiCategoryRef>9</PoiCategoryRef>
+        <PoiCategoryRef>102</PoiCategoryRef>
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+    <PoiCategoryGroup id="14" type="local">
+      <Priority>6</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>20</PoiCategoryRef>
+        <PoiCategoryRef>22</PoiCategoryRef>
+        <PoiCategoryRef>21</PoiCategoryRef>
+        <PoiCategoryRef>23</PoiCategoryRef>
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+    <PoiCategoryGroup id="15" type="local">
+      <Priority>5</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>52</PoiCategoryRef>
+        <PoiCategoryRef>47</PoiCategoryRef>
+        <PoiCategoryRef>49</PoiCategoryRef>
+        <PoiCategoryRef>53</PoiCategoryRef>
+        <PoiCategoryRef>54</PoiCategoryRef>
+        <PoiCategoryRef>50</PoiCategoryRef>
+        <PoiCategoryRef>48</PoiCategoryRef>
+        <PoiCategoryRef>46</PoiCategoryRef>
+        <PoiCategoryRef>45</PoiCategoryRef>
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+    <PoiCategoryGroup id="16" type="local">
+      <Priority>4</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>28</PoiCategoryRef>
+        <PoiCategoryRef>27</PoiCategoryRef>
+        <PoiCategoryRef>104</PoiCategoryRef>
+        <PoiCategoryRef>29</PoiCategoryRef>
+        <PoiCategoryRef>26</PoiCategoryRef>
+        <PoiCategoryRef>30</PoiCategoryRef>
+        <PoiCategoryRef>25</PoiCategoryRef>
+        <PoiCategoryRef>31</PoiCategoryRef>
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+  </PoiCategoryGroupDefinition>
+  <PoiCategoryGroupNameDefinition>
+    <Name category_group_ref="10">Οι προσωπικοί μου ειδικοί προορισμοί (Personal POI)</Name>
+    <Name category_group_ref="11">Κατηγορίες (αλφαβητικά)</Name>
+    <Name category_group_ref="12">Αξιοθέατα και ελεύθερος χρόνος</Name>
+    <Name category_group_ref="13">Αυτοκίνητο και ταξίδια</Name>
+    <Name category_group_ref="14">Έκτακτες ανάγκες</Name>
+    <Name category_group_ref="15">Εταιρείες και δημόσιες υπηρεσίες</Name>
+    <Name category_group_ref="16">Φαγητό και αγορές</Name>
+  </PoiCategoryGroupNameDefinition>
+
+	<PoiCategoryThesaurusDefinition>
+		<Thesaurus category_ref="1">
+			<Value>Autostadt</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="2">
+			<Value>Αεροδρόμια</Value>
+			<Value>Αεροδρόμιο</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="136">
+			<Value>Πρατήρια υγραερίου</Value>
+			<Value>LPG</Value>
+			<Value>Αέριο</Value>
+			<Value>Ανεφοδιασμός καυσίμων</Value>
+			<Value>Πρατήριο καυσίμων</Value>
+			<Value>Πρατήρια καυσίμων</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="135">
+			<Value>Πρατήρια φυσικού αερίου</Value>
+			<Value>Πρατήριο φυσικού αερίου</Value>
+			<Value>Φυσικό αέριο</Value>
+			<Value>Αέριο</Value>
+			<Value>CNG</Value>
+			<Value>Ανεφοδιασμός καυσίμων</Value>
+			<Value>Πρατήριο καυσίμων</Value>
+			<Value>Πρατήρια καυσίμων</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="101">
+			<Value>Πρατήρια καυσίμων</Value>
+			<Value>Πρατήριο καυσίμων</Value>
+			<Value>Ανεφοδιασμός καυσίμων</Value>
+			<Value>Βενζίνη</Value>
+			<Value>Diesel</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="102">
+			<Value>Χώρος στάθμευσης</Value>
+			<Value>Πάρκινγκ</Value>
+			<Value>Στάθμευση</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="7">
+			<Value>Σταθμοί εξυπηρέτησης αυτοκινητιστών</Value>
+			<Value>Σταθμός εξυπηρέτησης αυτοκινητιστών</Value>
+			<Value>Σταθμός εξυπηρέτησης</Value>
+			<Value>Αποχωρητήριο</Value>
+			<Value>WC</Value>
+			<Value>Τουαλέτα</Value>
+			<Value>Τουαλέτες</Value>
+			<Value>Διάλειμμα ανάπαυσης</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="8">
+			<Value>Ξενοδοχεία και μοτέλ</Value>
+			<Value>Ξενοδοχείο</Value>
+			<Value>Ξενοδοχεία</Value>
+			<Value>Μοτέλ</Value>
+			<Value>Μοτέλ</Value>
+			<Value>Πανδοχείο</Value>
+			<Value>Πανδοχεία</Value>
+			<Value>Ύπνος</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="9">
+			<Value>Φέρι μποτ και τρένα μεταφοράς οχημάτων</Value>
+			<Value>Τρένο μεταφοράς οχημάτων</Value>
+			<Value>Τρένα μεταφοράς οχημάτων</Value>
+			<Value>Φέρι μποτ</Value>
+			<Value>Φέρι μποτ</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="10">
+			<Value>Συνοριακές διαβάσεις</Value>
+			<Value>Συνοριακή διάβαση</Value>
+			<Value>Σύνορα</Value>
+			<Value>Σύνορα</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="11">
+			<Value>Έμποροι VW</Value>
+			<Value>Έμπορος</Value>
+			<Value>Έμποροι</Value>
+			<Value>VW</Value>
+			<Value>Volkswagen</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="12">
+			<Value>VW Service</Value>
+			<Value>Volkswagen</Value>
+			<Value>Συνεργείο</Value>
+			<Value>Συνεργεία</Value>
+			<Value>Service</Value>
+			<Value>Υπηρεσίες Service</Value>
+			<Value>Επιθεώρηση</Value>
+			<Value>Επιθεωρήσεις</Value>
+			<Value>Συντήρηση</Value>
+			<Value>Συντηρήσεις</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="14">
+			<Value>Έξοδοι/είσοδοι αυτοκινητοδρόμου</Value>
+			<Value>Έξοδος</Value>
+			<Value>Έξοδοι</Value>
+			<Value>Είσοδος</Value>
+			<Value>Είσοδοι</Value>
+			<Value>Έξοδος</Value>
+			<Value>Έξοδοι</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="15">
+			<Value>Ενοικιάσεις αυτοκινήτων</Value>
+			<Value>Ενοικίαση αυτοκινήτων</Value>
+			<Value>Ενοικίαση</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="16">
+			<Value>Σιδηροδρομικοί σταθμοί</Value>
+			<Value>Σιδηροδρομικός σταθμός</Value>
+			<Value>Συρμός</Value>
+			<Value>Συρμοί</Value>
+			<Value>Τρένο</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="18">
+			<Value>Σταθμοί λεωφορείων</Value>
+			<Value>Σταθμός Λεωφορείων</Value>
+			<Value>Λεωφορείο</Value>
+			<Value>Λεωφορεία</Value>
+			<Value>Στάση λεωφορείων</Value>
+			<Value>Στάσεις λεωφορείων</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="19">
+			<Value>Τουριστικές πληροφορίες</Value>
+			<Value>Τουριστικές πληροφορίες</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="20">
+			<Value>Αστυνομία</Value>
+			<Value>Αστυνομία</Value>
+			<Value>100</Value>
+			<Value>112</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="21">
+			<Value>Νοσοκομεία</Value>
+			<Value>Νοσοκομείο</Value>
+			<Value>Νοσοκομείο</Value>
+			<Value>Νοσοκομεία</Value>
+			<Value>Κλινική</Value>
+			<Value>Κλινικές</Value>
+			<Value>Έκτακτη ανάγκη</Value>
+			<Value>Επείγοντα</Value>
+			<Value>Ιατρός</Value>
+			<Value>Ιατροί</Value>
+			<Value>100</Value>
+			<Value>112</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="22">
+			<Value>Ιατρικές υπηρεσίες</Value>
+			<Value>Ιατρική υπηρεσία</Value>
+			<Value>Ιατρείο</Value>
+			<Value>Ιατρεία</Value>
+			<Value>Ιατρός</Value>
+			<Value>Ιατροί</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="23">
+			<Value>Φαρμακεία</Value>
+			<Value>Φαρμακείο</Value>
+			<Value>Φάρμακο</Value>
+			<Value>Φάρμακα</Value>
+			<Value>Φάρμακο</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="104">
+			<Value>Εστιατόρια</Value>
+			<Value>Εστιατόριο</Value>
+			<Value>Φαγητό</Value>
+			<Value>Ποτά</Value>
+			<Value>Εστιατόριο</Value>
+			<Value>Εστιατόρια</Value>
+			<Value>Πείνα</Value>
+			<Value>Δίψα</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="25">
+			<Value>Μηχανήματα ATM</Value>
+			<Value>Μηχάνημα ATM</Value>
+			<Value>Χρήματα</Value>
+			<Value>Μετρητά</Value>
+			<Value>ATM</Value>
+			<Value>EC</Value>
+			<Value>Αυτόματο μηχάνημα ανάληψης μετρητών</Value>
+			<Value>Αυτόματα μηχανήματα ανάληψης μετρητών</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="26">
+			<Value>Καφετέριες</Value>
+			<Value>Καφετέρια</Value>
+			<Value>Καφές</Value>
+			<Value>Καφέδες</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="27">
+			<Value>Εμπορικά κέντρα</Value>
+			<Value>Εμπορικό κέντρο</Value>
+			<Value>Ψώνια</Value>
+			<Value>Ψωνίζω</Value>
+			<Value>Αγορές</Value>
+			<Value>Αγοράζω</Value>
+			<Value>Πολυκατάστημα</Value>
+			<Value>Πολυκαταστήματα</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="28">
+			<Value>Είδη ένδυσης</Value>
+			<Value>Ρούχα</Value>
+			<Value>Παπούτσι</Value>
+			<Value>Παπούτσια</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="29">
+			<Value>Ηλεκτρονικά είδη</Value>
+			<Value>Τεχνολογία</Value>
+			<Value>Υπολογιστές</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="30">
+			<Value>Κρασιά και οινοπνευματώδη ποτά</Value>
+			<Value>Ταβέρνα</Value>
+			<Value>Κρασί</Value>
+			<Value>Κρασιά</Value>
+			<Value>Οινοπνευματώδες ποτό</Value>
+			<Value>Οινοπνευματώδη ποτά</Value>
+			<Value>Οινόπνευμα</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="31">
+			<Value>Νυχτερινή ζωή</Value>
+			<Value>Μπαρ</Value>
+			<Value>Ταβέρνα</Value>
+			<Value>Ταβέρνες</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="32">
+			<Value>Πάρκα</Value>
+			<Value>Πάρκο</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="33">
+			<Value>Αξιοθέατα</Value>
+			<Value>Αξιοθέατο</Value>
+			<Value>Ατραξιόν</Value>
+			<Value>Εκδηλώσεις</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="34">
+			<Value>Κινηματογράφοι</Value>
+			<Value>Κινηματογράφος</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="35">
+			<Value>Καζίνο</Value>
+			<Value>Καζίνο</Value>
+			<Value>Χαρτοπαικτική λέσχη</Value>
+			<Value>Χαρτοπαικτικές λέσχες</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="36">
+			<Value>Εικαστικές τέχνες</Value>
+			<Value>Όπερα</Value>
+			<Value>Θέατρο</Value>
+			<Value>Συναυλία</Value>
+			<Value>Μιούζικαλ</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="37">
+			<Value>Μουσεία</Value>
+			<Value>Μουσείο</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="38">
+			<Value>Μνημεία</Value>
+			<Value>Μνημείο</Value>
+			<Value>Μνημείο</Value>
+			<Value>Μνημεία</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="39">
+			<Value>Αθλητικά κέντρα</Value>
+			<Value>Αθλητικό κέντρο</Value>
+			<Value>Στάδιο</Value>
+			<Value>Στάδια</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="41">
+			<Value>Άθλημα γκολφ</Value>
+			<Value>Γκολφ</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="42">
+			<Value>Ναυτικός αθλητισμός</Value>
+			<Value>Σκάφος</Value>
+			<Value>Σκάφη</Value>
+			<Value>Ιστιοπλοΐα</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="43">
+			<Value>Χειμερινά σπορ</Value>
+			<Value>Σκι</Value>
+			<Value>Αθλητισμός</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="44">
+			<Value>Λούνα παρκ</Value>
+			<Value>Λούνα παρκ</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="45">
+			<Value>Τράπεζες</Value>
+			<Value>Τράπεζα</Value>
+			<Value>Χρήματα</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="46">
+			<Value>Ταχυδρομείο</Value>
+			<Value>Γράμμα</Value>
+			<Value>Γράμματα</Value>
+			<Value>Δέμα</Value>
+			<Value>Δέματα</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="47">
+			<Value>Εταιρείες</Value>
+			<Value>Εταιρεία</Value>
+			<Value>Επιχείρηση</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="48">
+			<Value>Συνεδριακά κέντρα</Value>
+			<Value>Συνεδριακό κέντρο</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="49">
+			<Value>Κυβέρνηση και διοίκηση</Value>
+			<Value>Δημαρχείο</Value>
+			<Value>Κυβέρνηση</Value>
+			<Value>Διοίκηση</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="50">
+			<Value>Πρεσβείες</Value>
+			<Value>Πρεσβεία</Value>
+			<Value>Προξενείο</Value>
+			<Value>Προξενεία</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="52">
+			<Value>Εκπαιδευτικά ιδρύματα</Value>
+			<Value>Σχολείο</Value>
+			<Value>Σχολεία</Value>
+			<Value>Πανεπιστήμιο</Value>
+			<Value>Πανεπιστήμια</Value>
+			<Value>Εκπαιδευτικό ίδρυμα</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="53">
+			<Value>Ναοί</Value>
+			<Value>Ναός</Value>
+			<Value>Τζαμί</Value>
+			<Value>Τζαμιά</Value>
+			<Value>Εκκλησία</Value>
+			<Value>Εκκλησίες</Value>
+			<Value>Συναγωγή</Value>
+			<Value>Συναγωγές</Value>
+			<Value>Μονή</Value>
+			<Value>Μονές</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="54">
+			<Value>Κοιμητήρια</Value>
+			<Value>Κοιμητήριο</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="134">
+			<Value>Σταθμοί φόρτισης</Value>
+			<Value>Σταθμός φόρτισης</Value>
+			<Value>Φόρτιση</Value>
+			<Value>Επαναφόρτιση</Value>
+		</Thesaurus>
+	</PoiCategoryThesaurusDefinition>
+
+	<PoiCategoryNameDefinition>
+		<Name category_ref="1">Autostadt</Name>
+		<Name category_ref="2">Αεροδρόμια</Name>
+		<Name category_ref="136">Πρατήρια υγραερίου</Name>
+		<Name category_ref="135">Πρατήρια φυσικού αερίου</Name>
+		<Name category_ref="101">Πρατήρια καυσίμων</Name>
+		<Name category_ref="102">Χώρος στάθμευσης</Name>
+		<Name category_ref="7">Σταθμοί εξυπηρέτησης αυτοκινητιστών</Name>
+		<Name category_ref="8">Ξενοδοχεία και μοτέλ</Name>
+		<Name category_ref="9">Φέρι μποτ και τρένα μεταφοράς οχημάτων</Name>
+		<Name category_ref="10">Συνοριακές διαβάσεις</Name>
+		<Name category_ref="11">Έμποροι VW</Name>
+		<Name category_ref="12">VW Service</Name>
+		<Name category_ref="14">Έξοδοι/είσοδοι αυτοκινητοδρόμου</Name>
+		<Name category_ref="15">Ενοικιάσεις αυτοκινήτων</Name>
+		<Name category_ref="16">Σιδηροδρομικοί σταθμοί</Name>
+		<Name category_ref="18">Σταθμοί λεωφορείων</Name>
+		<Name category_ref="19">Τουριστικές πληροφορίες</Name>
+		<Name category_ref="20">Αστυνομία</Name>
+		<Name category_ref="21">Νοσοκομεία</Name>
+		<Name category_ref="22">Ιατρικές υπηρεσίες</Name>
+		<Name category_ref="23">Φαρμακεία</Name>
+		<Name category_ref="104">Εστιατόρια</Name>
+		<Name category_ref="25">Μηχανήματα ATM</Name>
+		<Name category_ref="26">Καφετέριες</Name>
+		<Name category_ref="27">Εμπορικά κέντρα</Name>
+		<Name category_ref="28">Είδη ένδυσης</Name>
+		<Name category_ref="29">Ηλεκτρονικά είδη</Name>
+		<Name category_ref="30">Κρασιά και οινοπνευματώδη ποτά</Name>
+		<Name category_ref="31">Νυχτερινή ζωή</Name>
+		<Name category_ref="32">Πάρκα</Name>
+		<Name category_ref="33">Αξιοθέατα</Name>
+		<Name category_ref="34">Κινηματογράφοι</Name>
+		<Name category_ref="35">Καζίνο</Name>
+		<Name category_ref="36">Εικαστικές τέχνες</Name>
+		<Name category_ref="37">Μουσεία</Name>
+		<Name category_ref="38">Μνημεία</Name>
+		<Name category_ref="39">Αθλητικά κέντρα</Name>
+		<Name category_ref="41">Άθλημα γκολφ</Name>
+		<Name category_ref="42">Ναυτικός αθλητισμός</Name>
+		<Name category_ref="43">Χειμερινά σπορ</Name>
+		<Name category_ref="44">Λούνα παρκ</Name>
+		<Name category_ref="45">Τράπεζες</Name>
+		<Name category_ref="46">Ταχυδρομείο</Name>
+		<Name category_ref="47">Εταιρείες</Name>
+		<Name category_ref="48">Συνεδριακά κέντρα</Name>
+		<Name category_ref="49">Κυβέρνηση και διοίκηση</Name>
+		<Name category_ref="50">Πρεσβείες</Name>
+		<Name category_ref="52">Εκπαιδευτικά ιδρύματα</Name>
+		<Name category_ref="53">Ναοί</Name>
+		<Name category_ref="54">Κοιμητήρια</Name>
+		<Name category_ref="134">Σταθμοί φόρτισης</Name>
+	</PoiCategoryNameDefinition>
+</LanguagePoiConfiguration>

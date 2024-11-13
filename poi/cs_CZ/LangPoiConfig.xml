@@ -1,0 +1,1363 @@
+<LanguagePoiConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xsd/locale/LanguagePoiConfiguration.xsd" version="1">
+<!--Alphabetically sorted setup category definitions for each fuel type, will be reloaded after language change-->
+	<SetupCategoryDefinition>
+		<PoiCategoryMapping fueltype="default">
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Autobusová nádraží -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Banky -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Čerpací stanice -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- Čerpací stanice LPG -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Čerpací stanice na zemní plyn -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Dálniční nájezdy/výjezdy -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektronika -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Firmy -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golf -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hotely a motely -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Hraniční přechody -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Hřbitovy -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kasina -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Kavárna -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Kino -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongresová centra -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Lékárny -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Lékařská služba -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Letiště -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Lodní sport -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Lyžování -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Modlitebny -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Motoresty -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Muzea -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Nabíjecí stanice -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Nádraží -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Nákupní centra -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Nemocnice -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Noční život -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Oděvy -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Památníky -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Pamětihodnosti -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parkoviště -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parky -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Peněžní automaty -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Policie -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Pošta -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- Prodejce VW -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Půjčovna aut -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restaurace -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- Servis VW -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Sportovní centra -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Trajekty a autovlaky -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Turistické informace -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Velvyslanectví -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Vláda a úřady -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Vzdělávání -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Víno a likéry -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Výtvarné umění -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Zábavní parky -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="gasoline">
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Autobusová nádraží -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Banky -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Čerpací stanice -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- Čerpací stanice LPG -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Čerpací stanice na zemní plyn -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Dálniční nájezdy/výjezdy -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektronika -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Firmy -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golf -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hotely a motely -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Hraniční přechody -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Hřbitovy -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kasina -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Kavárna -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Kino -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongresová centra -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Lékárny -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Lékařská služba -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Letiště -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Lodní sport -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Lyžování -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Modlitebny -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Motoresty -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Muzea -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Nabíjecí stanice -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Nádraží -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Nákupní centra -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Nemocnice -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Noční život -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Oděvy -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Památníky -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Pamětihodnosti -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parkoviště -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parky -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Peněžní automaty -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Policie -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Pošta -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- Prodejce VW -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Půjčovna aut -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restaurace -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- Servis VW -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Sportovní centra -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Trajekty a autovlaky -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Turistické informace -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Velvyslanectví -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Vláda a úřady -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Vzdělávání -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Víno a likéry -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Výtvarné umění -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Zábavní parky -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="diesel">
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Autobusová nádraží -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Banky -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Čerpací stanice -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- Čerpací stanice LPG -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Čerpací stanice na zemní plyn -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Dálniční nájezdy/výjezdy -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektronika -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Firmy -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golf -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hotely a motely -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Hraniční přechody -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Hřbitovy -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kasina -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Kavárna -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Kino -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongresová centra -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Lékárny -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Lékařská služba -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Letiště -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Lodní sport -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Lyžování -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Modlitebny -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Motoresty -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Muzea -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Nabíjecí stanice -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Nádraží -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Nákupní centra -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Nemocnice -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Noční život -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Oděvy -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Památníky -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Pamětihodnosti -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parkoviště -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parky -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Peněžní automaty -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Policie -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Pošta -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- Prodejce VW -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Půjčovna aut -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restaurace -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- Servis VW -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Sportovní centra -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Trajekty a autovlaky -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Turistické informace -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Velvyslanectví -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Vláda a úřady -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Vzdělávání -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Víno a likéry -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Výtvarné umění -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Zábavní parky -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="cng">
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Autobusová nádraží -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Banky -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Čerpací stanice -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- Čerpací stanice LPG -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Čerpací stanice na zemní plyn -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Dálniční nájezdy/výjezdy -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektronika -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Firmy -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golf -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hotely a motely -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Hraniční přechody -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Hřbitovy -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kasina -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Kavárna -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Kino -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongresová centra -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Lékárny -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Lékařská služba -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Letiště -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Lodní sport -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Lyžování -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Modlitebny -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Motoresty -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Muzea -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Nabíjecí stanice -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Nádraží -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Nákupní centra -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Nemocnice -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Noční život -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Oděvy -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Památníky -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Pamětihodnosti -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parkoviště -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parky -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Peněžní automaty -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Policie -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Pošta -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- Prodejce VW -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Půjčovna aut -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restaurace -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- Servis VW -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Sportovní centra -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Trajekty a autovlaky -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Turistické informace -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Velvyslanectví -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Vláda a úřady -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Vzdělávání -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Víno a likéry -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Výtvarné umění -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Zábavní parky -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="lpg">
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Autobusová nádraží -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Banky -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Čerpací stanice -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- Čerpací stanice LPG -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Čerpací stanice na zemní plyn -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Dálniční nájezdy/výjezdy -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektronika -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Firmy -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golf -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hotely a motely -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Hraniční přechody -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Hřbitovy -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kasina -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Kavárna -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Kino -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongresová centra -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Lékárny -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Lékařská služba -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Letiště -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Lodní sport -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Lyžování -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Modlitebny -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Motoresty -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Muzea -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Nabíjecí stanice -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Nádraží -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Nákupní centra -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Nemocnice -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Noční život -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Oděvy -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Památníky -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Pamětihodnosti -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parkoviště -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parky -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Peněžní automaty -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Policie -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Pošta -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- Prodejce VW -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Půjčovna aut -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restaurace -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- Servis VW -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Sportovní centra -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Trajekty a autovlaky -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Turistické informace -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Velvyslanectví -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Vláda a úřady -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Vzdělávání -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Víno a likéry -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Výtvarné umění -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Zábavní parky -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="bev">
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Autobusová nádraží -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Banky -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Čerpací stanice -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- Čerpací stanice LPG -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Čerpací stanice na zemní plyn -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Dálniční nájezdy/výjezdy -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektronika -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Firmy -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golf -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hotely a motely -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Hraniční přechody -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Hřbitovy -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kasina -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Kavárna -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Kino -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongresová centra -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Lékárny -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Lékařská služba -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Letiště -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Lodní sport -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Lyžování -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Modlitebny -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Motoresty -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Muzea -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Nabíjecí stanice -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Nádraží -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Nákupní centra -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Nemocnice -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Noční život -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Oděvy -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Památníky -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Pamětihodnosti -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parkoviště -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parky -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Peněžní automaty -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Policie -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Pošta -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- Prodejce VW -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Půjčovna aut -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restaurace -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- Servis VW -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Sportovní centra -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Trajekty a autovlaky -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Turistické informace -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Velvyslanectví -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Vláda a úřady -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Vzdělávání -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Víno a likéry -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Výtvarné umění -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Zábavní parky -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="phev">
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Autobusová nádraží -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Banky -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Čerpací stanice -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- Čerpací stanice LPG -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Čerpací stanice na zemní plyn -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Dálniční nájezdy/výjezdy -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektronika -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Firmy -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golf -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hotely a motely -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Hraniční přechody -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Hřbitovy -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kasina -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Kavárna -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Kino -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongresová centra -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Lékárny -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Lékařská služba -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Letiště -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Lodní sport -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Lyžování -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Modlitebny -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Motoresty -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Muzea -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Nabíjecí stanice -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Nádraží -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Nákupní centra -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Nemocnice -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Noční život -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Oděvy -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Památníky -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Pamětihodnosti -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parkoviště -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parky -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Peněžní automaty -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Policie -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Pošta -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- Prodejce VW -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Půjčovna aut -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restaurace -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- Servis VW -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Sportovní centra -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Trajekty a autovlaky -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Turistické informace -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Velvyslanectví -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Vláda a úřady -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Vzdělávání -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Víno a likéry -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Výtvarné umění -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Zábavní parky -->
+		</PoiCategoryMapping>
+	</SetupCategoryDefinition>
+  <PoiCategoryGroupDefinition>
+    <PoiCategoryGroup id="10" type="dynamic">
+      <Priority>1</Priority>
+      <PoiCategoryMapping>
+        <!-- MUSS LEER BLEIBEN Ueber XSD checken !! -->
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+
+    <PoiCategoryGroup id="11" type="local">
+      <Priority>2</Priority>
+      <PoiCategoryMapping>
+        <!-- mapping for category tree in target -->
+        <PoiCategoryRef>18</PoiCategoryRef>
+        <!-- Autobusové zastávky -->
+        <PoiCategoryRef>1</PoiCategoryRef>
+        <!-- Autostadt -->
+        <PoiCategoryRef>45</PoiCategoryRef>
+        <!-- Banky -->
+        <PoiCategoryRef>135</PoiCategoryRef>
+        <!-- Cerp.stanice na zem.plyn -->
+        <PoiCategoryRef>101</PoiCategoryRef>
+        <!-- Cerpací stanice -->
+        <PoiCategoryRef>136</PoiCategoryRef>
+        <!-- Cerpací stanice na LPG -->
+        <PoiCategoryRef>53</PoiCategoryRef>
+        <!-- Církevní stavby -->
+        <PoiCategoryRef>14</PoiCategoryRef>
+        <!-- Dálnicní výjezdy/nájezdy -->
+        <PoiCategoryRef>29</PoiCategoryRef>
+        <!-- Elektronika -->
+        <PoiCategoryRef>47</PoiCategoryRef>
+        <!-- Firmy -->
+        <PoiCategoryRef>41</PoiCategoryRef>
+        <!-- Golf -->
+        <PoiCategoryRef>8</PoiCategoryRef>
+        <!-- Hotely a motely -->
+        <PoiCategoryRef>10</PoiCategoryRef>
+        <!-- Hranicní prechody -->
+        <PoiCategoryRef>54</PoiCategoryRef>
+        <!-- Hrbitovy -->
+        <PoiCategoryRef>35</PoiCategoryRef>
+        <!-- Kasina -->
+        <PoiCategoryRef>26</PoiCategoryRef>
+        <!-- Kavárny -->
+        <PoiCategoryRef>34</PoiCategoryRef>
+        <!-- Kina -->
+        <PoiCategoryRef>48</PoiCategoryRef>
+        <!-- Kongresová strediska -->
+        <PoiCategoryRef>23</PoiCategoryRef>
+        <!-- Lékárny -->
+        <PoiCategoryRef>22</PoiCategoryRef>
+        <!-- Lékarské služby -->
+        <PoiCategoryRef>2</PoiCategoryRef>
+        <!-- Letište -->
+        <PoiCategoryRef>37</PoiCategoryRef>
+        <!-- Muzea -->
+        <PoiCategoryRef>134</PoiCategoryRef>
+        <!-- Nabíjecí stanice -->
+        <PoiCategoryRef>16</PoiCategoryRef>
+        <!-- Nádraží -->
+        <PoiCategoryRef>27</PoiCategoryRef>
+        <!-- Nákupní strediska -->
+        <PoiCategoryRef>21</PoiCategoryRef>
+        <!-- Nemocnice -->
+        <PoiCategoryRef>31</PoiCategoryRef>
+        <!-- Nocní život -->
+        <PoiCategoryRef>28</PoiCategoryRef>
+        <!-- Odevy -->
+        <PoiCategoryRef>7</PoiCategoryRef>
+        <!-- Odpocívadla -->
+        <PoiCategoryRef>38</PoiCategoryRef>
+        <!-- Pametihodnosti -->
+        <PoiCategoryRef>102</PoiCategoryRef>
+        <!-- Parkovište -->
+        <PoiCategoryRef>32</PoiCategoryRef>
+        <!-- Parky -->
+        <PoiCategoryRef>25</PoiCategoryRef>
+        <!-- Penežní automaty -->
+        <PoiCategoryRef>20</PoiCategoryRef>
+        <!-- Policie -->
+        <PoiCategoryRef>46</PoiCategoryRef>
+        <!-- Pošta -->
+        <PoiCategoryRef>11</PoiCategoryRef>
+        <!-- Prodejci VW -->
+        <PoiCategoryRef>15</PoiCategoryRef>
+        <!-- Pujcovny aut -->
+        <PoiCategoryRef>104</PoiCategoryRef>
+        <!-- Restaurace -->
+        <PoiCategoryRef>12</PoiCategoryRef>
+        <!-- Servisy VW -->
+        <PoiCategoryRef>39</PoiCategoryRef>
+        <!-- Sportovní centra -->
+        <PoiCategoryRef>49</PoiCategoryRef>
+        <!-- Správní úrady -->
+        <PoiCategoryRef>9</PoiCategoryRef>
+        <!-- Trajekty -->
+        <PoiCategoryRef>33</PoiCategoryRef>
+        <!-- Turist. pametihodnosti -->
+        <PoiCategoryRef>19</PoiCategoryRef>
+        <!-- Turistické informace -->
+        <PoiCategoryRef>30</PoiCategoryRef>
+        <!-- Vína a likéry -->
+        <PoiCategoryRef>42</PoiCategoryRef>
+        <!-- Vodní sporty -->
+        <PoiCategoryRef>36</PoiCategoryRef>
+        <!-- Výtvarné umení -->
+        <PoiCategoryRef>52</PoiCategoryRef>
+        <!-- Vzdelávání -->
+        <PoiCategoryRef>44</PoiCategoryRef>
+        <!-- Zábavní parky -->
+        <PoiCategoryRef>50</PoiCategoryRef>
+        <!-- Zastupitelské úrady -->
+        <PoiCategoryRef>43</PoiCategoryRef>
+        <!-- Zimní sporty -->
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+
+    <PoiCategoryGroup id="12" type="local">
+      <Priority>3</Priority>
+      <PoiCategoryMapping>
+        <!-- mapping for category tree in target -->
+        <PoiCategoryRef>18</PoiCategoryRef>
+        <!-- Autobusové zastávky -->
+        <PoiCategoryRef>135</PoiCategoryRef>
+        <!-- Cerp.stanice na zem.plyn -->
+        <PoiCategoryRef>101</PoiCategoryRef>
+        <!-- Cerpací stanice -->
+        <PoiCategoryRef>136</PoiCategoryRef>
+        <!-- Cerpací stanice na LPG -->
+        <PoiCategoryRef>14</PoiCategoryRef>
+        <!-- Dálnicní výjezdy/nájezdy -->
+        <PoiCategoryRef>8</PoiCategoryRef>
+        <!-- Hotely a motely -->
+        <PoiCategoryRef>10</PoiCategoryRef>
+        <!-- Hranicní prechody -->
+        <PoiCategoryRef>2</PoiCategoryRef>
+        <!-- Letište -->
+        <PoiCategoryRef>134</PoiCategoryRef>
+        <!-- Nabíjecí stanice -->
+        <PoiCategoryRef>16</PoiCategoryRef>
+        <!-- Nádraží -->
+        <PoiCategoryRef>7</PoiCategoryRef>
+        <!-- Odpocívadla -->
+        <PoiCategoryRef>102</PoiCategoryRef>
+        <!-- Parkovište -->
+        <PoiCategoryRef>11</PoiCategoryRef>
+        <!-- Prodejci VW -->
+        <PoiCategoryRef>15</PoiCategoryRef>
+        <!-- Pujcovny aut -->
+        <PoiCategoryRef>12</PoiCategoryRef>
+        <!-- Servisy VW -->
+        <PoiCategoryRef>9</PoiCategoryRef>
+        <!-- Trajekty -->
+        <PoiCategoryRef>19</PoiCategoryRef>
+        <!-- Turistické informace -->
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+
+    <PoiCategoryGroup id="13" type="local">
+      <Priority>4</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>45</PoiCategoryRef>
+        <!-- Banky -->
+        <PoiCategoryRef>53</PoiCategoryRef>
+        <!-- Církevní stavby -->
+        <PoiCategoryRef>47</PoiCategoryRef>
+        <!-- Firmy -->
+        <PoiCategoryRef>54</PoiCategoryRef>
+        <!-- Hrbitovy -->
+        <PoiCategoryRef>48</PoiCategoryRef>
+        <!-- Kongresová strediska -->
+        <PoiCategoryRef>46</PoiCategoryRef>
+        <!-- Pošta -->
+        <PoiCategoryRef>49</PoiCategoryRef>
+        <!-- Správní úrady -->
+        <PoiCategoryRef>52</PoiCategoryRef>
+        <!-- Vzdelávání -->
+        <PoiCategoryRef>50</PoiCategoryRef>
+        <!-- Zastupitelské úrady -->
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+
+    <PoiCategoryGroup id="14" type="local">
+      <Priority>5</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>29</PoiCategoryRef>
+        <!-- Elektronika -->
+        <PoiCategoryRef>26</PoiCategoryRef>
+        <!-- Kavárny -->
+        <PoiCategoryRef>27</PoiCategoryRef>
+        <!-- Nákupní strediska -->
+        <PoiCategoryRef>31</PoiCategoryRef>
+        <!-- Nocní život -->
+        <PoiCategoryRef>28</PoiCategoryRef>
+        <!-- Odevy -->
+        <PoiCategoryRef>25</PoiCategoryRef>
+        <!-- Penežní automaty -->
+        <PoiCategoryRef>104</PoiCategoryRef>
+        <!-- Restaurace -->
+        <PoiCategoryRef>30</PoiCategoryRef>
+        <!-- Vína a likéry -->
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+
+    <PoiCategoryGroup id="15" type="local">
+      <Priority>6</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>23</PoiCategoryRef>
+        <!-- Lékárny -->
+        <PoiCategoryRef>22</PoiCategoryRef>
+        <!-- Lékarské služby -->
+        <PoiCategoryRef>21</PoiCategoryRef>
+        <!-- Nemocnice -->
+        <PoiCategoryRef>20</PoiCategoryRef>
+        <!-- Policie -->
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+
+    <PoiCategoryGroup id="16" type="local">
+      <Priority>7</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>1</PoiCategoryRef>
+        <!-- Autostadt -->
+        <PoiCategoryRef>41</PoiCategoryRef>
+        <!-- Golf -->
+        <PoiCategoryRef>35</PoiCategoryRef>
+        <!-- Kasina -->
+        <PoiCategoryRef>34</PoiCategoryRef>
+        <!-- Kina -->
+        <PoiCategoryRef>37</PoiCategoryRef>
+        <!-- Muzea -->
+        <PoiCategoryRef>38</PoiCategoryRef>
+        <!-- Pametihodnosti -->
+        <PoiCategoryRef>32</PoiCategoryRef>
+        <!-- Parky -->
+        <PoiCategoryRef>39</PoiCategoryRef>
+        <!-- Sportovní centra -->
+        <PoiCategoryRef>33</PoiCategoryRef>
+        <!-- Turist. pametihodnosti -->
+        <PoiCategoryRef>42</PoiCategoryRef>
+        <!-- Vodní sporty -->
+        <PoiCategoryRef>36</PoiCategoryRef>
+        <!-- Výtvarné umení -->
+        <PoiCategoryRef>44</PoiCategoryRef>
+        <!-- Zábavní parky -->
+        <PoiCategoryRef>43</PoiCategoryRef>
+        <!-- Zimní sporty -->
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+  </PoiCategoryGroupDefinition>
+
+  <PoiCategoryGroupNameDefinition>
+    <Name category_group_ref="10">Moje zvláštní cíle (Personal POI)</Name><!--1 zu 10-->
+    <Name category_group_ref="11">Kategorie (abecedně)</Name><!--2 zu 1-->
+    <Name category_group_ref="12">Auto a cestování</Name><!--3 zu 2-->
+    <Name category_group_ref="13">Firmy a veřejné instituce</Name><!--4 zu 4-->
+    <Name category_group_ref="14">Jídlo a nákupy</Name><!--5 zu 3-->
+    <Name category_group_ref="15">Nouzové případy</Name><!--6 zu 5-->
+    <Name category_group_ref="16">Pamětihodn. a volný čas</Name><!--7 zu 6-->
+  </PoiCategoryGroupNameDefinition>
+
+	<PoiCategoryThesaurusDefinition>
+		<Thesaurus category_ref="1">
+			<Value>Autostadt</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="2">
+			<Value>Letiště</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="136">
+			<Value>Čerpací stanice LPG</Value>
+			<Value>LPG</Value>
+			<Value>Plyn</Value>
+			<Value>Tankování</Value>
+			<Value>Čerpací stanice</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="135">
+			<Value>Čerpací stanice na zemní plyn</Value>
+			<Value>Zemní plyn</Value>
+			<Value>Plyn</Value>
+			<Value>Tankování</Value>
+			<Value>Čerpací stanice</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="101">
+			<Value>Čerpací stanice</Value>
+			<Value>Tankování</Value>
+			<Value>Benzín</Value>
+			<Value>Nafta</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="102">
+			<Value>Parkoviště</Value>
+			<Value>Parkování</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="7">
+			<Value>Motoresty</Value>
+			<Value>Motorest</Value>
+			<Value>Záchod</Value>
+			<Value>WC</Value>
+			<Value>Toaleta</Value>
+			<Value>Toalety</Value>
+			<Value>Odpočinek</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="8">
+			<Value>Hotely a motely</Value>
+			<Value>Hotel</Value>
+			<Value>Hotely</Value>
+			<Value>Motel</Value>
+			<Value>Motely</Value>
+			<Value>Ubytování</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="9">
+			<Value>Trajekty a autovlaky</Value>
+			<Value>Autovlak</Value>
+			<Value>Autovlaky</Value>
+			<Value>Trajekty</Value>
+			<Value>Trajekt</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="10">
+			<Value>Hraniční přechody</Value>
+			<Value>Hraniční přechod</Value>
+			<Value>Hranice</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="11">
+			<Value>Prodejce VW</Value>
+			<Value>Prodejce</Value>
+			<Value>Prodejci</Value>
+			<Value>VW</Value>
+			<Value>Volkswagen</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="12">
+			<Value>Servis VW</Value>
+			<Value>Volkswagen</Value>
+			<Value>Dílna</Value>
+			<Value>Dílny</Value>
+			<Value>Servis</Value>
+			<Value>Servisy</Value>
+			<Value>Prohlídka</Value>
+			<Value>Prohlídky</Value>
+			<Value>Údržba</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="14">
+			<Value>Dálniční nájezdy/výjezdy</Value>
+			<Value>Výjezd</Value>
+			<Value>Výjezdy</Value>
+			<Value>Nájezd</Value>
+			<Value>Nájezdy</Value>
+			<Value>Sjezd</Value>
+			<Value>Sjezdy</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="15">
+			<Value>Půjčovna aut</Value>
+			<Value>Půjčovny aut</Value>
+			<Value>Pronájem</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="16">
+			<Value>Nádraží</Value>
+			<Value>Vlak</Value>
+			<Value>Vlaky</Value>
+			<Value>Dráha</Value>
+			<Value>Železnice</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="18">
+			<Value>Autobusová nádraží</Value>
+			<Value>Autobusové nádraží</Value>
+			<Value>Autobus</Value>
+			<Value>Autobusy</Value>
+			<Value>Autobusová zastávka</Value>
+			<Value>Autobusové zastávky</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="19">
+			<Value>Turistické informace</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="20">
+			<Value>Policie</Value>
+			<Value>155</Value>
+			<Value>112</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="21">
+			<Value>Nemocnice</Value>
+			<Value>Klinika</Value>
+			<Value>Kliniky</Value>
+			<Value>Nouze</Value>
+			<Value>Lékař</Value>
+			<Value>Lékaři</Value>
+			<Value>158</Value>
+			<Value>112</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="22">
+			<Value>Lékařská služba</Value>
+			<Value>Praxe</Value>
+			<Value>Lékař</Value>
+			<Value>Lékaři</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="23">
+			<Value>Lékárny</Value>
+			<Value>Lékárna</Value>
+			<Value>Léky</Value>
+			<Value>Medicína</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="104">
+			<Value>Restaurace</Value>
+			<Value>Jídlo</Value>
+			<Value>Pití</Value>
+			<Value>Hostinec</Value>
+			<Value>Hostince</Value>
+			<Value>Hlad</Value>
+			<Value>Žízeň</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="25">
+			<Value>Peněžní automaty</Value>
+			<Value>Peněžní automat</Value>
+			<Value>Peníze</Value>
+			<Value>Hotovost</Value>
+			<Value>ATM</Value>
+			<Value>EC</Value>
+			<Value>Bankomat</Value>
+			<Value>Bankomaty</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="26">
+			<Value>Kavárna</Value>
+			<Value>Kavárny</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="27">
+			<Value>Nákupní centra</Value>
+			<Value>Nákupní centrum</Value>
+			<Value>Shopping</Value>
+			<Value>Nakupování</Value>
+			<Value>Nákupy</Value>
+			<Value>Obchodní dům</Value>
+			<Value>Obchodní domy</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="28">
+			<Value>Oděvy</Value>
+			<Value>Obuv</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="29">
+			<Value>Elektronika</Value>
+			<Value>Technika</Value>
+			<Value>Počítače</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="30">
+			<Value>Víno a likéry</Value>
+			<Value>Vinotéka</Value>
+			<Value>Víno</Value>
+			<Value>Vína</Value>
+			<Value>Likéry</Value>
+			<Value>Alkohol</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="31">
+			<Value>Noční život</Value>
+			<Value>Bar</Value>
+			<Value>Hospoda</Value>
+			<Value>Hospody</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="32">
+			<Value>Parky</Value>
+			<Value>Park</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="33">
+			<Value>Pamětihodnosti</Value>
+			<Value>Pamětihodnost</Value>
+			<Value>Atrakce</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="34">
+			<Value>Kino</Value>
+			<Value>Kina</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="35">
+			<Value>Kasina</Value>
+			<Value>Kasino</Value>
+			<Value>Herna</Value>
+			<Value>Herny</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="36">
+			<Value>Výtvarné umění</Value>
+			<Value>Opera</Value>
+			<Value>Divadlo</Value>
+			<Value>Koncert</Value>
+			<Value>Hudba</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="37">
+			<Value>Muzea</Value>
+			<Value>Muzeum</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="38">
+			<Value>Památníky</Value>
+			<Value>Památník</Value>
+			<Value>Monument</Value>
+			<Value>Monumenty</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="39">
+			<Value>Sportovní centra</Value>
+			<Value>Sportovní centrum</Value>
+			<Value>Stadion</Value>
+			<Value>Stadiony</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="41">
+			<Value>Golf</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="42">
+			<Value>Lodní sport</Value>
+			<Value>Loď</Value>
+			<Value>Lodě</Value>
+			<Value>Plachtění</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="43">
+			<Value>Lyžování</Value>
+			<Value>Lyže</Value>
+			<Value>Sport</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="44">
+			<Value>Zábavní parky</Value>
+			<Value>Zábavní park</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="45">
+			<Value>Banky</Value>
+			<Value>Banka</Value>
+			<Value>Peníze</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="46">
+			<Value>Pošta</Value>
+			<Value>Dopis</Value>
+			<Value>Dopisy</Value>
+			<Value>Balík</Value>
+			<Value>Balíky</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="47">
+			<Value>Firmy</Value>
+			<Value>Firma</Value>
+			<Value>Podnik</Value>
+			<Value>Podniky</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="48">
+			<Value>Kongresová centra</Value>
+			<Value>Kongresové centrum</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="49">
+			<Value>Vláda a úřady</Value>
+			<Value>Radnice</Value>
+			<Value>Vláda</Value>
+			<Value>Správa</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="50">
+			<Value>Velvyslanectví</Value>
+			<Value>Vyslanectví</Value>
+			<Value>Konzulát</Value>
+			<Value>Konzuláty</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="52">
+			<Value>Vzdělávání</Value>
+			<Value>Škola</Value>
+			<Value>Školy</Value>
+			<Value>Univerzita</Value>
+			<Value>Univerzity</Value>
+			<Value>Vzdělávací instituce</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="53">
+			<Value>Modlitebny</Value>
+			<Value>Modlitebna</Value>
+			<Value>Mešita</Value>
+			<Value>Mešity</Value>
+			<Value>Kostel</Value>
+			<Value>Kostely</Value>
+			<Value>Synagoga</Value>
+			<Value>Synagogy</Value>
+			<Value>Klášter</Value>
+			<Value>Kláštery</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="54">
+			<Value>Hřbitovy</Value>
+			<Value>Hřbitov</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="134">
+			<Value>Nabíjecí stanice</Value>
+			<Value>Nabíjení</Value>
+		</Thesaurus>
+	</PoiCategoryThesaurusDefinition>
+
+	<PoiCategoryNameDefinition>
+		<Name category_ref="1">Autostadt</Name>
+		<Name category_ref="2">Letiště</Name>
+		<Name category_ref="136">Čerpací stanice LPG</Name>
+		<Name category_ref="135">Čerpací stanice na zemní plyn</Name>
+		<Name category_ref="101">Čerpací stanice</Name>
+		<Name category_ref="102">Parkoviště</Name>
+		<Name category_ref="7">Motoresty</Name>
+		<Name category_ref="8">Hotely a motely</Name>
+		<Name category_ref="9">Trajekty a autovlaky</Name>
+		<Name category_ref="10">Hraniční přechody</Name>
+		<Name category_ref="11">Prodejce VW</Name>
+		<Name category_ref="12">Servis VW</Name>
+		<Name category_ref="14">Dálniční nájezdy/výjezdy</Name>
+		<Name category_ref="15">Půjčovna aut</Name>
+		<Name category_ref="16">Nádraží</Name>
+		<Name category_ref="18">Autobusová nádraží</Name>
+		<Name category_ref="19">Turistické informace</Name>
+		<Name category_ref="20">Policie</Name>
+		<Name category_ref="21">Nemocnice</Name>
+		<Name category_ref="22">Lékařská služba</Name>
+		<Name category_ref="23">Lékárny</Name>
+		<Name category_ref="104">Restaurace</Name>
+		<Name category_ref="25">Peněžní automaty</Name>
+		<Name category_ref="26">Kavárna</Name>
+		<Name category_ref="27">Nákupní centra</Name>
+		<Name category_ref="28">Oděvy</Name>
+		<Name category_ref="29">Elektronika</Name>
+		<Name category_ref="30">Víno a likéry</Name>
+		<Name category_ref="31">Noční život</Name>
+		<Name category_ref="32">Parky</Name>
+		<Name category_ref="33">Pamětihodnosti</Name>
+		<Name category_ref="34">Kino</Name>
+		<Name category_ref="35">Kasina</Name>
+		<Name category_ref="36">Výtvarné umění</Name>
+		<Name category_ref="37">Muzea</Name>
+		<Name category_ref="38">Památníky</Name>
+		<Name category_ref="39">Sportovní centra</Name>
+		<Name category_ref="41">Golf</Name>
+		<Name category_ref="42">Lodní sport</Name>
+		<Name category_ref="43">Lyžování</Name>
+		<Name category_ref="44">Zábavní parky</Name>
+		<Name category_ref="45">Banky</Name>
+		<Name category_ref="46">Pošta</Name>
+		<Name category_ref="47">Firmy</Name>
+		<Name category_ref="48">Kongresová centra</Name>
+		<Name category_ref="49">Vláda a úřady</Name>
+		<Name category_ref="50">Velvyslanectví</Name>
+		<Name category_ref="52">Vzdělávání</Name>
+		<Name category_ref="53">Modlitebny</Name>
+		<Name category_ref="54">Hřbitovy</Name>
+		<Name category_ref="134">Nabíjecí stanice</Name>
+	</PoiCategoryNameDefinition>
+</LanguagePoiConfiguration>

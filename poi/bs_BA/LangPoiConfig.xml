@@ -1,0 +1,1281 @@
+<LanguagePoiConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xsd/locale/LanguagePoiConfiguration.xsd" version="1">
+<!--Alphabetically sorted setup category definitions for each fuel type, will be reloaded after language change-->
+	<SetupCategoryDefinition>
+		<PoiCategoryMapping fueltype="default">
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Aerodromi -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Ambasade -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Apoteke -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Autobusni kolodvori -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Bankomati -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Banke -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Benzinske pumpe -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- Benzinske pumpe za LPG -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Benzinske pumpe za zemni gas -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Bogomolje -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Bolnice -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektronika -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Firme -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Granični prijelazi -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Groblja -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hoteli i moteli -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Informacije za turiste -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Izlazi s autoputa/ulazi na autoput -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Iznajmljivanja automobila -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Kafići -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kazina -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Kina -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongresni centri -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Ljekarske službe -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Muzeji -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Noćni život -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Obrazovne ustanove -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Odjeća -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parkirna mjesta -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parkovi -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Policije -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Pošta -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restorani -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Scenske umjetnosti -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Spomenici -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Sport-čamac -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Sport-golf -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Sport-skijanje -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Sportski centri -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Stajališta -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Stanice za punjenje -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Trajekti i vozovi za prijevoz automobila -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Tržni centri -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Vina i žestoka pića -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Vlada i uprava -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW servis -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW trgovac -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Zabavni parkovi -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Znamenitosti -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Željezničke stanice -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="gasoline">
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Aerodromi -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Ambasade -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Apoteke -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Autobusni kolodvori -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Bankomati -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Banke -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Benzinske pumpe -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- Benzinske pumpe za LPG -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Benzinske pumpe za zemni gas -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Bogomolje -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Bolnice -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektronika -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Firme -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Granični prijelazi -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Groblja -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hoteli i moteli -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Informacije za turiste -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Izlazi s autoputa/ulazi na autoput -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Iznajmljivanja automobila -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Kafići -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kazina -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Kina -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongresni centri -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Ljekarske službe -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Muzeji -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Noćni život -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Obrazovne ustanove -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Odjeća -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parkirna mjesta -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parkovi -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Policije -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Pošta -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restorani -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Scenske umjetnosti -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Spomenici -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Sport-čamac -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Sport-golf -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Sport-skijanje -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Sportski centri -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Stajališta -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Stanice za punjenje -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Trajekti i vozovi za prijevoz automobila -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Tržni centri -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Vina i žestoka pića -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Vlada i uprava -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW servis -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW trgovac -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Zabavni parkovi -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Znamenitosti -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Željezničke stanice -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="diesel">
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Aerodromi -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Ambasade -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Apoteke -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Autobusni kolodvori -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Bankomati -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Banke -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Benzinske pumpe -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- Benzinske pumpe za LPG -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Benzinske pumpe za zemni gas -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Bogomolje -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Bolnice -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektronika -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Firme -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Granični prijelazi -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Groblja -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hoteli i moteli -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Informacije za turiste -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Izlazi s autoputa/ulazi na autoput -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Iznajmljivanja automobila -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Kafići -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kazina -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Kina -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongresni centri -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Ljekarske službe -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Muzeji -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Noćni život -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Obrazovne ustanove -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Odjeća -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parkirna mjesta -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parkovi -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Policije -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Pošta -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restorani -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Scenske umjetnosti -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Spomenici -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Sport-čamac -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Sport-golf -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Sport-skijanje -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Sportski centri -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Stajališta -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Stanice za punjenje -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Trajekti i vozovi za prijevoz automobila -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Tržni centri -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Vina i žestoka pića -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Vlada i uprava -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW servis -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW trgovac -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Zabavni parkovi -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Znamenitosti -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Željezničke stanice -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="cng">
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Aerodromi -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Ambasade -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Apoteke -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Autobusni kolodvori -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Bankomati -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Banke -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Benzinske pumpe -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- Benzinske pumpe za LPG -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Benzinske pumpe za zemni gas -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Bogomolje -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Bolnice -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektronika -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Firme -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Granični prijelazi -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Groblja -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hoteli i moteli -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Informacije za turiste -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Izlazi s autoputa/ulazi na autoput -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Iznajmljivanja automobila -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Kafići -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kazina -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Kina -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongresni centri -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Ljekarske službe -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Muzeji -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Noćni život -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Obrazovne ustanove -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Odjeća -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parkirna mjesta -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parkovi -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Policije -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Pošta -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restorani -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Scenske umjetnosti -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Spomenici -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Sport-čamac -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Sport-golf -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Sport-skijanje -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Sportski centri -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Stajališta -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Stanice za punjenje -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Trajekti i vozovi za prijevoz automobila -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Tržni centri -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Vina i žestoka pića -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Vlada i uprava -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW servis -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW trgovac -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Zabavni parkovi -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Znamenitosti -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Željezničke stanice -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="lpg">
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Aerodromi -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Ambasade -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Apoteke -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Autobusni kolodvori -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Bankomati -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Banke -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Benzinske pumpe -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- Benzinske pumpe za LPG -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Benzinske pumpe za zemni gas -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Bogomolje -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Bolnice -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektronika -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Firme -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Granični prijelazi -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Groblja -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hoteli i moteli -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Informacije za turiste -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Izlazi s autoputa/ulazi na autoput -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Iznajmljivanja automobila -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Kafići -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kazina -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Kina -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongresni centri -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Ljekarske službe -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Muzeji -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Noćni život -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Obrazovne ustanove -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Odjeća -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parkirna mjesta -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parkovi -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Policije -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Pošta -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restorani -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Scenske umjetnosti -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Spomenici -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Sport-čamac -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Sport-golf -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Sport-skijanje -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Sportski centri -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Stajališta -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Stanice za punjenje -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Trajekti i vozovi za prijevoz automobila -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Tržni centri -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Vina i žestoka pića -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Vlada i uprava -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW servis -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW trgovac -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Zabavni parkovi -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Znamenitosti -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Željezničke stanice -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="bev">
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Aerodromi -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Ambasade -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Apoteke -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Autobusni kolodvori -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Bankomati -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Banke -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Benzinske pumpe -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- Benzinske pumpe za LPG -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Benzinske pumpe za zemni gas -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Bogomolje -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Bolnice -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektronika -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Firme -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Granični prijelazi -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Groblja -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hoteli i moteli -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Informacije za turiste -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Izlazi s autoputa/ulazi na autoput -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Iznajmljivanja automobila -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Kafići -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kazina -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Kina -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongresni centri -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Ljekarske službe -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Muzeji -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Noćni život -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Obrazovne ustanove -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Odjeća -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parkirna mjesta -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parkovi -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Policije -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Pošta -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restorani -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Scenske umjetnosti -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Spomenici -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Sport-čamac -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Sport-golf -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Sport-skijanje -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Sportski centri -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Stajališta -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Stanice za punjenje -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Trajekti i vozovi za prijevoz automobila -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Tržni centri -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Vina i žestoka pića -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Vlada i uprava -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW servis -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW trgovac -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Zabavni parkovi -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Znamenitosti -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Željezničke stanice -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="phev">
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Aerodromi -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Ambasade -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Apoteke -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Autobusni kolodvori -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Bankomati -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Banke -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Benzinske pumpe -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- Benzinske pumpe za LPG -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Benzinske pumpe za zemni gas -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Bogomolje -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Bolnice -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektronika -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Firme -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Granični prijelazi -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Groblja -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hoteli i moteli -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Informacije za turiste -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Izlazi s autoputa/ulazi na autoput -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Iznajmljivanja automobila -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Kafići -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kazina -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Kina -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongresni centri -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Ljekarske službe -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Muzeji -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Noćni život -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Obrazovne ustanove -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Odjeća -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parkirna mjesta -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parkovi -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Policije -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Pošta -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restorani -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Scenske umjetnosti -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Spomenici -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Sport-čamac -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Sport-golf -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Sport-skijanje -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Sportski centri -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Stajališta -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Stanice za punjenje -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Trajekti i vozovi za prijevoz automobila -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Tržni centri -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Vina i žestoka pića -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Vlada i uprava -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW servis -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW trgovac -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Zabavni parkovi -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Znamenitosti -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Željezničke stanice -->
+		</PoiCategoryMapping>
+	</SetupCategoryDefinition>
+  <PoiCategoryGroupDefinition>
+    <PoiCategoryGroup id="10" type="dynamic">
+      <Priority>1</Priority>
+      <PoiCategoryMapping />
+    </PoiCategoryGroup>
+    <PoiCategoryGroup id="11" type="local">
+      <Priority>2</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>2</PoiCategoryRef>
+        <PoiCategoryRef>50</PoiCategoryRef>
+        <PoiCategoryRef>23</PoiCategoryRef>
+        <PoiCategoryRef>18</PoiCategoryRef>
+        <PoiCategoryRef>1</PoiCategoryRef>
+        <PoiCategoryRef>25</PoiCategoryRef>
+        <PoiCategoryRef>45</PoiCategoryRef>
+        <PoiCategoryRef>101</PoiCategoryRef>
+        <PoiCategoryRef>53</PoiCategoryRef>
+        <PoiCategoryRef>21</PoiCategoryRef>
+        <PoiCategoryRef>42</PoiCategoryRef>
+        <PoiCategoryRef>135</PoiCategoryRef>
+        <PoiCategoryRef>29</PoiCategoryRef>
+        <PoiCategoryRef>41</PoiCategoryRef>
+        <PoiCategoryRef>10</PoiCategoryRef>
+        <PoiCategoryRef>54</PoiCategoryRef>
+        <PoiCategoryRef>8</PoiCategoryRef>
+        <PoiCategoryRef>15</PoiCategoryRef>
+        <PoiCategoryRef>26</PoiCategoryRef>
+        <PoiCategoryRef>35</PoiCategoryRef>
+        <PoiCategoryRef>34</PoiCategoryRef>
+        <PoiCategoryRef>48</PoiCategoryRef>
+        <PoiCategoryRef>22</PoiCategoryRef>
+        <PoiCategoryRef>136</PoiCategoryRef>
+        <PoiCategoryRef>37</PoiCategoryRef>
+        <PoiCategoryRef>31</PoiCategoryRef>
+        <PoiCategoryRef>52</PoiCategoryRef>
+        <PoiCategoryRef>28</PoiCategoryRef>
+        <PoiCategoryRef>7</PoiCategoryRef>
+        <PoiCategoryRef>102</PoiCategoryRef>
+        <PoiCategoryRef>32</PoiCategoryRef>
+        <PoiCategoryRef>44</PoiCategoryRef>
+        <PoiCategoryRef>20</PoiCategoryRef>
+        <PoiCategoryRef>46</PoiCategoryRef>
+        <PoiCategoryRef>47</PoiCategoryRef>
+        <PoiCategoryRef>27</PoiCategoryRef>
+        <PoiCategoryRef>104</PoiCategoryRef>
+        <PoiCategoryRef>36</PoiCategoryRef>
+        <PoiCategoryRef>43</PoiCategoryRef>
+        <PoiCategoryRef>38</PoiCategoryRef>
+        <PoiCategoryRef>39</PoiCategoryRef>
+        <PoiCategoryRef>16</PoiCategoryRef>
+        <PoiCategoryRef>134</PoiCategoryRef>
+        <PoiCategoryRef>9</PoiCategoryRef>
+        <PoiCategoryRef>19</PoiCategoryRef>
+        <PoiCategoryRef>33</PoiCategoryRef>
+        <PoiCategoryRef>14</PoiCategoryRef>
+        <PoiCategoryRef>30</PoiCategoryRef>
+        <PoiCategoryRef>49</PoiCategoryRef>
+        <PoiCategoryRef>11</PoiCategoryRef>
+        <PoiCategoryRef>12</PoiCategoryRef>
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+    <PoiCategoryGroup id="12" type="local">
+      <Priority>3</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>2</PoiCategoryRef>
+        <PoiCategoryRef>18</PoiCategoryRef>
+        <PoiCategoryRef>101</PoiCategoryRef>
+        <PoiCategoryRef>135</PoiCategoryRef>
+        <PoiCategoryRef>10</PoiCategoryRef>
+        <PoiCategoryRef>8</PoiCategoryRef>
+        <PoiCategoryRef>15</PoiCategoryRef>
+        <PoiCategoryRef>136</PoiCategoryRef>
+        <PoiCategoryRef>7</PoiCategoryRef>
+        <PoiCategoryRef>102</PoiCategoryRef>
+        <PoiCategoryRef>16</PoiCategoryRef>
+        <PoiCategoryRef>134</PoiCategoryRef>
+        <PoiCategoryRef>9</PoiCategoryRef>
+        <PoiCategoryRef>19</PoiCategoryRef>
+        <PoiCategoryRef>14</PoiCategoryRef>
+        <PoiCategoryRef>11</PoiCategoryRef>
+        <PoiCategoryRef>12</PoiCategoryRef>
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+    <PoiCategoryGroup id="13" type="local">
+      <Priority>6</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>23</PoiCategoryRef>
+        <PoiCategoryRef>21</PoiCategoryRef>
+        <PoiCategoryRef>22</PoiCategoryRef>
+        <PoiCategoryRef>20</PoiCategoryRef>
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+    <PoiCategoryGroup id="14" type="local">
+      <Priority>4</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>25</PoiCategoryRef>
+        <PoiCategoryRef>29</PoiCategoryRef>
+        <PoiCategoryRef>26</PoiCategoryRef>
+        <PoiCategoryRef>31</PoiCategoryRef>
+        <PoiCategoryRef>28</PoiCategoryRef>
+        <PoiCategoryRef>27</PoiCategoryRef>
+        <PoiCategoryRef>104</PoiCategoryRef>
+        <PoiCategoryRef>30</PoiCategoryRef>
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+    <PoiCategoryGroup id="15" type="local">
+      <Priority>5</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>50</PoiCategoryRef>
+        <PoiCategoryRef>45</PoiCategoryRef>
+        <PoiCategoryRef>53</PoiCategoryRef>
+        <PoiCategoryRef>54</PoiCategoryRef>
+        <PoiCategoryRef>48</PoiCategoryRef>
+        <PoiCategoryRef>52</PoiCategoryRef>
+        <PoiCategoryRef>46</PoiCategoryRef>
+        <PoiCategoryRef>47</PoiCategoryRef>
+        <PoiCategoryRef>49</PoiCategoryRef>
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+    <PoiCategoryGroup id="16" type="local">
+      <Priority>7</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>1</PoiCategoryRef>
+        <PoiCategoryRef>42</PoiCategoryRef>
+        <PoiCategoryRef>41</PoiCategoryRef>
+        <PoiCategoryRef>35</PoiCategoryRef>
+        <PoiCategoryRef>34</PoiCategoryRef>
+        <PoiCategoryRef>37</PoiCategoryRef>
+        <PoiCategoryRef>32</PoiCategoryRef>
+        <PoiCategoryRef>44</PoiCategoryRef>
+        <PoiCategoryRef>36</PoiCategoryRef>
+        <PoiCategoryRef>43</PoiCategoryRef>
+        <PoiCategoryRef>38</PoiCategoryRef>
+        <PoiCategoryRef>39</PoiCategoryRef>
+        <PoiCategoryRef>33</PoiCategoryRef>
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+  </PoiCategoryGroupDefinition>
+  <PoiCategoryGroupNameDefinition>
+    <Name category_group_ref="10">Moji posebni ciljevi (Personal POI)</Name>
+    <Name category_group_ref="11">Kategorije (abecednim redom)</Name>
+    <Name category_group_ref="12">Automobil i putovanja</Name>
+    <Name category_group_ref="13">Hitni slučajevi</Name>
+    <Name category_group_ref="14">Jela i kupovine</Name>
+    <Name category_group_ref="15">Preduzeća i javne institucije</Name>
+    <Name category_group_ref="16">Znamenitosti i slobodno vrijeme</Name>
+  </PoiCategoryGroupNameDefinition>
+
+	<PoiCategoryThesaurusDefinition>
+		<Thesaurus category_ref="1">
+			<Value>Autostadt</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="2">
+			<Value>Aerodromi</Value>
+			<Value>Aerodrom</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="136">
+			<Value>Benzinske pumpe za LPG</Value>
+			<Value>LPG</Value>
+			<Value>Gas</Value>
+			<Value>Sipanje goriva</Value>
+			<Value>Benzinska pumpa</Value>
+			<Value>Benzinske pumpe</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="135">
+			<Value>Benzinske pumpe za zemni gas</Value>
+			<Value>Benzinska pumpa za zemni gas</Value>
+			<Value>Zemni gas</Value>
+			<Value>Gas</Value>
+			<Value>CNG</Value>
+			<Value>Sipanje goriva</Value>
+			<Value>Benzinska pumpa</Value>
+			<Value>Benzinske pumpe</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="101">
+			<Value>Benzinske pumpe</Value>
+			<Value>Benzinska pumpa</Value>
+			<Value>Sipanje goriva</Value>
+			<Value>Benzin</Value>
+			<Value>Dizel</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="102">
+			<Value>Parkirna mjesta</Value>
+			<Value>Parkirno mjesto</Value>
+			<Value>Parkiranje</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="7">
+			<Value>Stajališta</Value>
+			<Value>Stajalište</Value>
+			<Value>Parkiralište pored autoputa</Value>
+			<Value>Klozet</Value>
+			<Value>WC</Value>
+			<Value>Toalet</Value>
+			<Value>Toaleti</Value>
+			<Value>Odmaranje</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="8">
+			<Value>Hoteli i moteli</Value>
+			<Value>Hotel</Value>
+			<Value>Hoteli</Value>
+			<Value>Motel</Value>
+			<Value>Moteli</Value>
+			<Value>Gostionica</Value>
+			<Value>Gostionice</Value>
+			<Value>Spavanje</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="9">
+			<Value>Trajekti i vozovi za prijevoz automobila</Value>
+			<Value>Voz za prijevoz automobila</Value>
+			<Value>Vozovi za prijevoz automobila</Value>
+			<Value>Trajekt</Value>
+			<Value>Trajekti</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="10">
+			<Value>Granični prijelazi</Value>
+			<Value>Granični prijelaz</Value>
+			<Value>Granica</Value>
+			<Value>Granice</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="11">
+			<Value>VW trgovac</Value>
+			<Value>Trgovac</Value>
+			<Value>Trgovci</Value>
+			<Value>VW</Value>
+			<Value>Volkswagen</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="12">
+			<Value>VW servis</Value>
+			<Value>Volkswagen</Value>
+			<Value>Radionica</Value>
+			<Value>Radionice</Value>
+			<Value>Servis</Value>
+			<Value>Servisi</Value>
+			<Value>Pregled</Value>
+			<Value>Pregledi</Value>
+			<Value>Održavanje</Value>
+			<Value>Održavanja</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="14">
+			<Value>Izlazi s autoputa/ulazi na autoput</Value>
+			<Value>Isključenje s autoputa</Value>
+			<Value>Isključenja s autoputa</Value>
+			<Value>Ulaz na autoput</Value>
+			<Value>Ulazi na autoput</Value>
+			<Value>Izlaz s autoputa</Value>
+			<Value>Izlazi s autoputa</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="15">
+			<Value>Iznajmljivanja automobila</Value>
+			<Value>Iznajmljivanje automobila</Value>
+			<Value>Iznajmljivanje</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="16">
+			<Value>Željezničke stanice</Value>
+			<Value>Željeznička stanica</Value>
+			<Value>Voz</Value>
+			<Value>Vozovi</Value>
+			<Value>Željeznica</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="18">
+			<Value>Autobusni kolodvori</Value>
+			<Value>Autobusni kolodvor</Value>
+			<Value>Autobus</Value>
+			<Value>Autobusi</Value>
+			<Value>Autobusna stanica</Value>
+			<Value>Autobusne stanice</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="19">
+			<Value>Informacije za turiste</Value>
+			<Value>Informacija za turiste</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="20">
+			<Value>Policije</Value>
+			<Value>Policija</Value>
+			<Value>122</Value>
+			<Value>122</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="21">
+			<Value>Bolnice</Value>
+			<Value>Bolnica</Value>
+			<Value>Bolnica</Value>
+			<Value>Bolnice</Value>
+			<Value>Klinika</Value>
+			<Value>Klinike</Value>
+			<Value>Hitni slučaj</Value>
+			<Value>Hitni slučajevi</Value>
+			<Value>Ljekar</Value>
+			<Value>Ljekari</Value>
+			<Value>124</Value>
+			<Value>124</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="22">
+			<Value>Ljekarske službe</Value>
+			<Value>Ljekarska služba</Value>
+			<Value>Ordinacija</Value>
+			<Value>Ordinacije</Value>
+			<Value>Ljekar</Value>
+			<Value>Ljekari</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="23">
+			<Value>Apoteke</Value>
+			<Value>Apoteka</Value>
+			<Value>Lijek</Value>
+			<Value>Lijekovi</Value>
+			<Value>Medicina</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="104">
+			<Value>Restorani</Value>
+			<Value>Restoran</Value>
+			<Value>Jesti</Value>
+			<Value>Piti</Value>
+			<Value>Gostionica</Value>
+			<Value>Gostionice</Value>
+			<Value>Glad</Value>
+			<Value>Žeđ</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="25">
+			<Value>Bankomati</Value>
+			<Value>Bankomat</Value>
+			<Value>Novac</Value>
+			<Value>Gotovina</Value>
+			<Value>ATM</Value>
+			<Value>EC</Value>
+			<Value>Automat</Value>
+			<Value>Automati</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="26">
+			<Value>Kafići</Value>
+			<Value>Kafić</Value>
+			<Value>Kafa</Value>
+			<Value>Kafe</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="27">
+			<Value>Tržni centri</Value>
+			<Value>Tržni centar</Value>
+			<Value>Kupovina</Value>
+			<Value>Kupovanje</Value>
+			<Value>Kupovina</Value>
+			<Value>Kupovanje</Value>
+			<Value>Robna kuća</Value>
+			<Value>Robne kuće</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="28">
+			<Value>Odjeća</Value>
+			<Value>Haljine</Value>
+			<Value>Cipela</Value>
+			<Value>Cipele</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="29">
+			<Value>Elektronika</Value>
+			<Value>Tehnika</Value>
+			<Value>Kompjuter</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="30">
+			<Value>Vina i žestoka pića</Value>
+			<Value>Vinski podrum</Value>
+			<Value>Vino</Value>
+			<Value>Vina</Value>
+			<Value>Žestoko piće</Value>
+			<Value>Žestoka pića</Value>
+			<Value>Alkohol</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="31">
+			<Value>Noćni život</Value>
+			<Value>Bar</Value>
+			<Value>Kafana</Value>
+			<Value>Kafane</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="32">
+			<Value>Parkovi</Value>
+			<Value>Park</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="33">
+			<Value>Znamenitosti</Value>
+			<Value>Znamenitost</Value>
+			<Value>Atrakcija</Value>
+			<Value>Atrakcije</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="34">
+			<Value>Kina</Value>
+			<Value>Kino</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="35">
+			<Value>Kazina</Value>
+			<Value>Kazino</Value>
+			<Value>Igraći sto</Value>
+			<Value>Igraći stolovi</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="36">
+			<Value>Scenske umjetnosti</Value>
+			<Value>Opera</Value>
+			<Value>Pozorište</Value>
+			<Value>Koncert</Value>
+			<Value>Mjuzikl</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="37">
+			<Value>Muzeji</Value>
+			<Value>Muzej</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="38">
+			<Value>Spomenici</Value>
+			<Value>Spomenik</Value>
+			<Value>Spomenik</Value>
+			<Value>Spomenici</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="39">
+			<Value>Sportski centri</Value>
+			<Value>Sportski centar</Value>
+			<Value>Stadion</Value>
+			<Value>Stadioni</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="41">
+			<Value>Sport-golf</Value>
+			<Value>Golf</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="42">
+			<Value>Sport-čamac</Value>
+			<Value>Čamac</Value>
+			<Value>Čamci</Value>
+			<Value>Jedrenje</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="43">
+			<Value>Sport-skijanje</Value>
+			<Value>Skijanje</Value>
+			<Value>Sport</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="44">
+			<Value>Zabavni parkovi</Value>
+			<Value>Zabavni park</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="45">
+			<Value>Banke</Value>
+			<Value>Banka</Value>
+			<Value>Novac</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="46">
+			<Value>Pošta</Value>
+			<Value>Pismo</Value>
+			<Value>Pisma</Value>
+			<Value>Paket</Value>
+			<Value>Paketi</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="47">
+			<Value>Firme</Value>
+			<Value>Firma</Value>
+			<Value>Preduzeće</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="48">
+			<Value>Kongresni centri</Value>
+			<Value>Kongresni centar</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="49">
+			<Value>Vlada i uprava</Value>
+			<Value>Vijećnica</Value>
+			<Value>Vlada</Value>
+			<Value>Uprava</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="50">
+			<Value>Ambasade</Value>
+			<Value>Ambasada</Value>
+			<Value>Konzulat</Value>
+			<Value>Konzulati</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="52">
+			<Value>Obrazovne ustanove</Value>
+			<Value>Škola</Value>
+			<Value>Škole</Value>
+			<Value>Univerzitet</Value>
+			<Value>Univerziteti</Value>
+			<Value>Obrazovna ustanova</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="53">
+			<Value>Bogomolje</Value>
+			<Value>Bogomolja</Value>
+			<Value>Džamija</Value>
+			<Value>Džamije</Value>
+			<Value>Crkva</Value>
+			<Value>Crkve</Value>
+			<Value>Sinagoga</Value>
+			<Value>Sinagoge</Value>
+			<Value>Manastir</Value>
+			<Value>Manastiri</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="54">
+			<Value>Groblja</Value>
+			<Value>Groblje</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="134">
+			<Value>Stanice za punjenje</Value>
+			<Value>Stanica za punjenje</Value>
+			<Value>Punjenje</Value>
+			<Value>Punjenje</Value>
+		</Thesaurus>
+	</PoiCategoryThesaurusDefinition>
+
+	<PoiCategoryNameDefinition>
+		<Name category_ref="1">Autostadt</Name>
+		<Name category_ref="2">Aerodromi</Name>
+		<Name category_ref="136">Benzinske pumpe za LPG</Name>
+		<Name category_ref="135">Benzinske pumpe za zemni gas</Name>
+		<Name category_ref="101">Benzinske pumpe</Name>
+		<Name category_ref="102">Parkirna mjesta</Name>
+		<Name category_ref="7">Stajališta</Name>
+		<Name category_ref="8">Hoteli i moteli</Name>
+		<Name category_ref="9">Trajekti i vozovi za prijevoz automobila</Name>
+		<Name category_ref="10">Granični prijelazi</Name>
+		<Name category_ref="11">VW trgovac</Name>
+		<Name category_ref="12">VW servis</Name>
+		<Name category_ref="14">Izlazi s autoputa/ulazi na autoput</Name>
+		<Name category_ref="15">Iznajmljivanja automobila</Name>
+		<Name category_ref="16">Željezničke stanice</Name>
+		<Name category_ref="18">Autobusni kolodvori</Name>
+		<Name category_ref="19">Informacije za turiste</Name>
+		<Name category_ref="20">Policije</Name>
+		<Name category_ref="21">Bolnice</Name>
+		<Name category_ref="22">Ljekarske službe</Name>
+		<Name category_ref="23">Apoteke</Name>
+		<Name category_ref="104">Restorani</Name>
+		<Name category_ref="25">Bankomati</Name>
+		<Name category_ref="26">Kafići</Name>
+		<Name category_ref="27">Tržni centri</Name>
+		<Name category_ref="28">Odjeća</Name>
+		<Name category_ref="29">Elektronika</Name>
+		<Name category_ref="30">Vina i žestoka pića</Name>
+		<Name category_ref="31">Noćni život</Name>
+		<Name category_ref="32">Parkovi</Name>
+		<Name category_ref="33">Znamenitosti</Name>
+		<Name category_ref="34">Kina</Name>
+		<Name category_ref="35">Kazina</Name>
+		<Name category_ref="36">Scenske umjetnosti</Name>
+		<Name category_ref="37">Muzeji</Name>
+		<Name category_ref="38">Spomenici</Name>
+		<Name category_ref="39">Sportski centri</Name>
+		<Name category_ref="41">Sport-golf</Name>
+		<Name category_ref="42">Sport-čamac</Name>
+		<Name category_ref="43">Sport-skijanje</Name>
+		<Name category_ref="44">Zabavni parkovi</Name>
+		<Name category_ref="45">Banke</Name>
+		<Name category_ref="46">Pošta</Name>
+		<Name category_ref="47">Firme</Name>
+		<Name category_ref="48">Kongresni centri</Name>
+		<Name category_ref="49">Vlada i uprava</Name>
+		<Name category_ref="50">Ambasade</Name>
+		<Name category_ref="52">Obrazovne ustanove</Name>
+		<Name category_ref="53">Bogomolje</Name>
+		<Name category_ref="54">Groblja</Name>
+		<Name category_ref="134">Stanice za punjenje</Name>
+	</PoiCategoryNameDefinition>
+</LanguagePoiConfiguration>

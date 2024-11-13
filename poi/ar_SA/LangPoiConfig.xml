@@ -1,0 +1,1281 @@
+<LanguagePoiConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xsd/locale/LanguagePoiConfiguration.xsd" version="1">
+<!--Alphabetically sorted setup category definitions for each fuel type, will be reloaded after language change-->
+	<SetupCategoryDefinition>
+		<PoiCategoryMapping fueltype="default">
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- أماكن انتظار -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- إرشادات للسائحين -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- إلكترونيات -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- استراحات -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- الحكومة والإدارة -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- الشرطة -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- بريد -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- بنوك -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- حدائق ألعاب -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- حياة الليل -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- خدمات طبية -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- خدمة VW -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- خمور ومشروبات روحية -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- دور عبادة -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- رياضة التزلج -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- رياضة الجولف -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- رياضة القوارب -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- سفارات -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- سينمات -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- شركات -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- صيدليات -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- عبارات وقطارات نقل السيارات -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- عمليات تأجير السيارات -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- فنادق وموتيلات -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- فنون العرض -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- كازينوهات -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- مؤسسات تعليمية -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- ماكينات الصرف الآلي -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- متاحف -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- متنزهات -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- محطات الغاز الطبيعي -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- محطات شحن -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- محطات قطار -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- محطات وقود -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- محطات وقود الغاز المسال LPG -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- مخارج الطريق السريع/مداخل الطريق السريع -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- مدافن -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- مدينة تصنيع سيارات -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- مراكز تسوق -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- مراكز رياضية -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- مراكز مؤتمرات -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- مستشفيات -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- مطارات -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- مطاعم -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- معابر حدودية -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- معالم سياحية -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- مقاهي -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- ملابس -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- مواقف حافلات -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- موزع VW -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- نصب تذكارية -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="gasoline">
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- أماكن انتظار -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- إرشادات للسائحين -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- إلكترونيات -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- استراحات -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- الحكومة والإدارة -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- الشرطة -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- بريد -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- بنوك -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- حدائق ألعاب -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- حياة الليل -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- خدمات طبية -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- خدمة VW -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- خمور ومشروبات روحية -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- دور عبادة -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- رياضة التزلج -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- رياضة الجولف -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- رياضة القوارب -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- سفارات -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- سينمات -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- شركات -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- صيدليات -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- عبارات وقطارات نقل السيارات -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- عمليات تأجير السيارات -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- فنادق وموتيلات -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- فنون العرض -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- كازينوهات -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- مؤسسات تعليمية -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- ماكينات الصرف الآلي -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- متاحف -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- متنزهات -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- محطات الغاز الطبيعي -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- محطات شحن -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- محطات قطار -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- محطات وقود -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- محطات وقود الغاز المسال LPG -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- مخارج الطريق السريع/مداخل الطريق السريع -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- مدافن -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- مدينة تصنيع سيارات -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- مراكز تسوق -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- مراكز رياضية -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- مراكز مؤتمرات -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- مستشفيات -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- مطارات -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- مطاعم -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- معابر حدودية -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- معالم سياحية -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- مقاهي -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- ملابس -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- مواقف حافلات -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- موزع VW -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- نصب تذكارية -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="diesel">
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- أماكن انتظار -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- إرشادات للسائحين -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- إلكترونيات -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- استراحات -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- الحكومة والإدارة -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- الشرطة -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- بريد -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- بنوك -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- حدائق ألعاب -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- حياة الليل -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- خدمات طبية -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- خدمة VW -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- خمور ومشروبات روحية -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- دور عبادة -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- رياضة التزلج -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- رياضة الجولف -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- رياضة القوارب -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- سفارات -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- سينمات -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- شركات -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- صيدليات -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- عبارات وقطارات نقل السيارات -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- عمليات تأجير السيارات -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- فنادق وموتيلات -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- فنون العرض -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- كازينوهات -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- مؤسسات تعليمية -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- ماكينات الصرف الآلي -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- متاحف -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- متنزهات -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- محطات الغاز الطبيعي -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- محطات شحن -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- محطات قطار -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- محطات وقود -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- محطات وقود الغاز المسال LPG -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- مخارج الطريق السريع/مداخل الطريق السريع -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- مدافن -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- مدينة تصنيع سيارات -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- مراكز تسوق -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- مراكز رياضية -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- مراكز مؤتمرات -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- مستشفيات -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- مطارات -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- مطاعم -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- معابر حدودية -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- معالم سياحية -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- مقاهي -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- ملابس -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- مواقف حافلات -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- موزع VW -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- نصب تذكارية -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="cng">
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- أماكن انتظار -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- إرشادات للسائحين -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- إلكترونيات -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- استراحات -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- الحكومة والإدارة -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- الشرطة -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- بريد -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- بنوك -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- حدائق ألعاب -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- حياة الليل -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- خدمات طبية -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- خدمة VW -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- خمور ومشروبات روحية -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- دور عبادة -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- رياضة التزلج -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- رياضة الجولف -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- رياضة القوارب -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- سفارات -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- سينمات -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- شركات -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- صيدليات -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- عبارات وقطارات نقل السيارات -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- عمليات تأجير السيارات -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- فنادق وموتيلات -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- فنون العرض -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- كازينوهات -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- مؤسسات تعليمية -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- ماكينات الصرف الآلي -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- متاحف -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- متنزهات -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- محطات الغاز الطبيعي -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- محطات شحن -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- محطات قطار -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- محطات وقود -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- محطات وقود الغاز المسال LPG -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- مخارج الطريق السريع/مداخل الطريق السريع -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- مدافن -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- مدينة تصنيع سيارات -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- مراكز تسوق -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- مراكز رياضية -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- مراكز مؤتمرات -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- مستشفيات -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- مطارات -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- مطاعم -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- معابر حدودية -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- معالم سياحية -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- مقاهي -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- ملابس -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- مواقف حافلات -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- موزع VW -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- نصب تذكارية -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="lpg">
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- أماكن انتظار -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- إرشادات للسائحين -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- إلكترونيات -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- استراحات -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- الحكومة والإدارة -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- الشرطة -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- بريد -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- بنوك -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- حدائق ألعاب -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- حياة الليل -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- خدمات طبية -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- خدمة VW -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- خمور ومشروبات روحية -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- دور عبادة -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- رياضة التزلج -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- رياضة الجولف -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- رياضة القوارب -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- سفارات -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- سينمات -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- شركات -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- صيدليات -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- عبارات وقطارات نقل السيارات -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- عمليات تأجير السيارات -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- فنادق وموتيلات -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- فنون العرض -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- كازينوهات -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- مؤسسات تعليمية -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- ماكينات الصرف الآلي -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- متاحف -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- متنزهات -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- محطات الغاز الطبيعي -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- محطات شحن -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- محطات قطار -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- محطات وقود -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- محطات وقود الغاز المسال LPG -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- مخارج الطريق السريع/مداخل الطريق السريع -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- مدافن -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- مدينة تصنيع سيارات -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- مراكز تسوق -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- مراكز رياضية -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- مراكز مؤتمرات -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- مستشفيات -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- مطارات -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- مطاعم -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- معابر حدودية -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- معالم سياحية -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- مقاهي -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- ملابس -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- مواقف حافلات -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- موزع VW -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- نصب تذكارية -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="bev">
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- أماكن انتظار -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- إرشادات للسائحين -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- إلكترونيات -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- استراحات -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- الحكومة والإدارة -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- الشرطة -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- بريد -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- بنوك -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- حدائق ألعاب -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- حياة الليل -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- خدمات طبية -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- خدمة VW -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- خمور ومشروبات روحية -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- دور عبادة -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- رياضة التزلج -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- رياضة الجولف -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- رياضة القوارب -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- سفارات -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- سينمات -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- شركات -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- صيدليات -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- عبارات وقطارات نقل السيارات -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- عمليات تأجير السيارات -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- فنادق وموتيلات -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- فنون العرض -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- كازينوهات -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- مؤسسات تعليمية -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- ماكينات الصرف الآلي -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- متاحف -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- متنزهات -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- محطات الغاز الطبيعي -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- محطات شحن -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- محطات قطار -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- محطات وقود -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- محطات وقود الغاز المسال LPG -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- مخارج الطريق السريع/مداخل الطريق السريع -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- مدافن -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- مدينة تصنيع سيارات -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- مراكز تسوق -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- مراكز رياضية -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- مراكز مؤتمرات -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- مستشفيات -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- مطارات -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- مطاعم -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- معابر حدودية -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- معالم سياحية -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- مقاهي -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- ملابس -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- مواقف حافلات -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- موزع VW -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- نصب تذكارية -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="phev">
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- أماكن انتظار -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- إرشادات للسائحين -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- إلكترونيات -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- استراحات -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- الحكومة والإدارة -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- الشرطة -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- بريد -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- بنوك -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- حدائق ألعاب -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- حياة الليل -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- خدمات طبية -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- خدمة VW -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- خمور ومشروبات روحية -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- دور عبادة -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- رياضة التزلج -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- رياضة الجولف -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- رياضة القوارب -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- سفارات -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- سينمات -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- شركات -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- صيدليات -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- عبارات وقطارات نقل السيارات -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- عمليات تأجير السيارات -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- فنادق وموتيلات -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- فنون العرض -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- كازينوهات -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- مؤسسات تعليمية -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- ماكينات الصرف الآلي -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- متاحف -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- متنزهات -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- محطات الغاز الطبيعي -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- محطات شحن -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- محطات قطار -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- محطات وقود -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- محطات وقود الغاز المسال LPG -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- مخارج الطريق السريع/مداخل الطريق السريع -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- مدافن -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- مدينة تصنيع سيارات -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- مراكز تسوق -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- مراكز رياضية -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- مراكز مؤتمرات -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- مستشفيات -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- مطارات -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- مطاعم -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- معابر حدودية -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- معالم سياحية -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- مقاهي -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- ملابس -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- مواقف حافلات -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- موزع VW -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- نصب تذكارية -->
+		</PoiCategoryMapping>
+	</SetupCategoryDefinition>
+  <PoiCategoryGroupDefinition>
+    <PoiCategoryGroup id="10" type="dynamic">
+      <Priority>1</Priority>
+      <PoiCategoryMapping />
+    </PoiCategoryGroup>
+    <PoiCategoryGroup id="11" type="local">
+      <Priority>2</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>7</PoiCategoryRef>
+        <PoiCategoryRef>49</PoiCategoryRef>
+        <PoiCategoryRef>22</PoiCategoryRef>
+        <PoiCategoryRef>36</PoiCategoryRef>
+        <PoiCategoryRef>29</PoiCategoryRef>
+        <PoiCategoryRef>134</PoiCategoryRef>
+        <PoiCategoryRef>46</PoiCategoryRef>
+        <PoiCategoryRef>45</PoiCategoryRef>
+        <PoiCategoryRef>15</PoiCategoryRef>
+        <PoiCategoryRef>31</PoiCategoryRef>
+        <PoiCategoryRef>12</PoiCategoryRef>
+        <PoiCategoryRef>30</PoiCategoryRef>
+        <PoiCategoryRef>53</PoiCategoryRef>
+        <PoiCategoryRef>43</PoiCategoryRef>
+        <PoiCategoryRef>41</PoiCategoryRef>
+        <PoiCategoryRef>42</PoiCategoryRef>
+        <PoiCategoryRef>50</PoiCategoryRef>
+        <PoiCategoryRef>34</PoiCategoryRef>
+        <PoiCategoryRef>20</PoiCategoryRef>
+        <PoiCategoryRef>47</PoiCategoryRef>
+        <PoiCategoryRef>23</PoiCategoryRef>
+        <PoiCategoryRef>9</PoiCategoryRef>
+        <PoiCategoryRef>8</PoiCategoryRef>
+        <PoiCategoryRef>35</PoiCategoryRef>
+        <PoiCategoryRef>25</PoiCategoryRef>
+        <PoiCategoryRef>37</PoiCategoryRef>
+        <PoiCategoryRef>135</PoiCategoryRef>
+        <PoiCategoryRef>101</PoiCategoryRef>
+        <PoiCategoryRef>136</PoiCategoryRef>
+        <PoiCategoryRef>18</PoiCategoryRef>
+        <PoiCategoryRef>16</PoiCategoryRef>
+        <PoiCategoryRef>14</PoiCategoryRef>
+        <PoiCategoryRef>44</PoiCategoryRef>
+        <PoiCategoryRef>1</PoiCategoryRef>
+        <PoiCategoryRef>27</PoiCategoryRef>
+        <PoiCategoryRef>39</PoiCategoryRef>
+        <PoiCategoryRef>48</PoiCategoryRef>
+        <PoiCategoryRef>33</PoiCategoryRef>
+        <PoiCategoryRef>21</PoiCategoryRef>
+        <PoiCategoryRef>2</PoiCategoryRef>
+        <PoiCategoryRef>104</PoiCategoryRef>
+        <PoiCategoryRef>10</PoiCategoryRef>
+        <PoiCategoryRef>19</PoiCategoryRef>
+        <PoiCategoryRef>54</PoiCategoryRef>
+        <PoiCategoryRef>26</PoiCategoryRef>
+        <PoiCategoryRef>28</PoiCategoryRef>
+        <PoiCategoryRef>32</PoiCategoryRef>
+        <PoiCategoryRef>52</PoiCategoryRef>
+        <PoiCategoryRef>102</PoiCategoryRef>
+        <PoiCategoryRef>11</PoiCategoryRef>
+        <PoiCategoryRef>38</PoiCategoryRef>
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+    <PoiCategoryGroup id="12" type="local">
+      <Priority>6</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>22</PoiCategoryRef>
+        <PoiCategoryRef>20</PoiCategoryRef>
+        <PoiCategoryRef>23</PoiCategoryRef>
+        <PoiCategoryRef>20</PoiCategoryRef>
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+    <PoiCategoryGroup id="13" type="local">
+      <Priority>3</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>7</PoiCategoryRef>
+        <PoiCategoryRef>134</PoiCategoryRef>
+        <PoiCategoryRef>15</PoiCategoryRef>
+        <PoiCategoryRef>12</PoiCategoryRef>
+        <PoiCategoryRef>9</PoiCategoryRef>
+        <PoiCategoryRef>8</PoiCategoryRef>
+        <PoiCategoryRef>135</PoiCategoryRef>
+        <PoiCategoryRef>101</PoiCategoryRef>
+        <PoiCategoryRef>136</PoiCategoryRef>
+        <PoiCategoryRef>18</PoiCategoryRef>
+        <PoiCategoryRef>16</PoiCategoryRef>
+        <PoiCategoryRef>14</PoiCategoryRef>
+        <PoiCategoryRef>2</PoiCategoryRef>
+        <PoiCategoryRef>10</PoiCategoryRef>
+        <PoiCategoryRef>19</PoiCategoryRef>
+        <PoiCategoryRef>102</PoiCategoryRef>
+        <PoiCategoryRef>11</PoiCategoryRef>
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+    <PoiCategoryGroup id="14" type="local">
+      <Priority>5</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>49</PoiCategoryRef>
+        <PoiCategoryRef>46</PoiCategoryRef>
+        <PoiCategoryRef>45</PoiCategoryRef>
+        <PoiCategoryRef>53</PoiCategoryRef>
+        <PoiCategoryRef>50</PoiCategoryRef>
+        <PoiCategoryRef>47</PoiCategoryRef>
+        <PoiCategoryRef>48</PoiCategoryRef>
+        <PoiCategoryRef>54</PoiCategoryRef>
+        <PoiCategoryRef>52</PoiCategoryRef>
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+    <PoiCategoryGroup id="15" type="local">
+      <Priority>4</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>29</PoiCategoryRef>
+        <PoiCategoryRef>31</PoiCategoryRef>
+        <PoiCategoryRef>30</PoiCategoryRef>
+        <PoiCategoryRef>25</PoiCategoryRef>
+        <PoiCategoryRef>27</PoiCategoryRef>
+        <PoiCategoryRef>104</PoiCategoryRef>
+        <PoiCategoryRef>26</PoiCategoryRef>
+        <PoiCategoryRef>28</PoiCategoryRef>
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+    <PoiCategoryGroup id="16" type="local">
+      <Priority>7</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>36</PoiCategoryRef>
+        <PoiCategoryRef>43</PoiCategoryRef>
+        <PoiCategoryRef>41</PoiCategoryRef>
+        <PoiCategoryRef>42</PoiCategoryRef>
+        <PoiCategoryRef>34</PoiCategoryRef>
+        <PoiCategoryRef>35</PoiCategoryRef>
+        <PoiCategoryRef>37</PoiCategoryRef>
+        <PoiCategoryRef>44</PoiCategoryRef>
+        <PoiCategoryRef>1</PoiCategoryRef>
+        <PoiCategoryRef>39</PoiCategoryRef>
+        <PoiCategoryRef>33</PoiCategoryRef>
+        <PoiCategoryRef>32</PoiCategoryRef>
+        <PoiCategoryRef>38</PoiCategoryRef>
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+  </PoiCategoryGroupDefinition>
+  <PoiCategoryGroupNameDefinition>
+    <Name category_group_ref="10">أهدافي الخاصة (الأهداف الخاصة الشخصية)</Name>
+    <Name category_group_ref="11">الفئات (أبجدي)</Name>
+    <Name category_group_ref="12">حالات الطوارئ</Name>
+    <Name category_group_ref="13">سيارات وسفر</Name>
+    <Name category_group_ref="14">شركات ومرافق عامة</Name>
+    <Name category_group_ref="15">مأكولات وتسوق</Name>
+    <Name category_group_ref="16">معالم سياحية وأوقات الفراغ</Name>
+  </PoiCategoryGroupNameDefinition>
+
+	<PoiCategoryThesaurusDefinition>
+		<Thesaurus category_ref="1">
+			<Value>مدينة تصنيع سيارات</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="2">
+			<Value>مطارات</Value>
+			<Value>مطار</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="136">
+			<Value>محطات وقود الغاز المسال LPG</Value>
+			<Value>الغاز المسال LPG</Value>
+			<Value>غاز</Value>
+			<Value>تزود بالوقود</Value>
+			<Value>محطة وقود</Value>
+			<Value>محطات وقود</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="135">
+			<Value>محطات الغاز الطبيعي</Value>
+			<Value>محطة الغاز الطبيعي</Value>
+			<Value>الغاز الطبيعي</Value>
+			<Value>غاز</Value>
+			<Value>الغاز الطبيعي المضغوط CNG</Value>
+			<Value>التزود بالوقود</Value>
+			<Value>محطة التزود بالوقود</Value>
+			<Value>محطات التزود بالوقود</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="101">
+			<Value>محطات وقود</Value>
+			<Value>محطة وقود</Value>
+			<Value>التزود بالوقود</Value>
+			<Value>بنزين</Value>
+			<Value>ديزل</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="102">
+			<Value>أماكن انتظار</Value>
+			<Value>مكان انتظار</Value>
+			<Value>انتظار</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="7">
+			<Value>استراحات</Value>
+			<Value>استراحة</Value>
+			<Value>استراحة سيارات</Value>
+			<Value>مرحاض</Value>
+			<Value>WC</Value>
+			<Value>حمام</Value>
+			<Value>حمامات</Value>
+			<Value>راحة</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="8">
+			<Value>فنادق وموتيلات</Value>
+			<Value>فندق</Value>
+			<Value>فنادق</Value>
+			<Value>موتيل</Value>
+			<Value>موتيلات</Value>
+			<Value>دار ضيافة</Value>
+			<Value>دور ضيافة</Value>
+			<Value>نوم</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="9">
+			<Value>عبارات وقطارات نقل السيارات</Value>
+			<Value>قطار نقل السيارات</Value>
+			<Value>قطارات نقل السيارات</Value>
+			<Value>عبارة</Value>
+			<Value>عبارات</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="10">
+			<Value>معابر حدودية</Value>
+			<Value>معبر حدودي</Value>
+			<Value>حد</Value>
+			<Value>حدود</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="11">
+			<Value>موزع VW</Value>
+			<Value>موزع</Value>
+			<Value>موزعون</Value>
+			<Value>شركة VW</Value>
+			<Value>فولكس فاجن</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="12">
+			<Value>خدمة VW</Value>
+			<Value>فولكس فاجن</Value>
+			<Value>ورشة فنية</Value>
+			<Value>ورش فنية</Value>
+			<Value>الخدمة</Value>
+			<Value>الخدمات</Value>
+			<Value>الفحص</Value>
+			<Value>أعمال الفحص</Value>
+			<Value>الصيانة</Value>
+			<Value>أعمال الصيانة</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="14">
+			<Value>مخارج الطريق السريع/مداخل الطريق السريع</Value>
+			<Value>مخرج</Value>
+			<Value>مخارج</Value>
+			<Value>مدخل</Value>
+			<Value>مداخل</Value>
+			<Value>خروج</Value>
+			<Value>طرق خروج</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="15">
+			<Value>عمليات تأجير السيارات</Value>
+			<Value>تأجير سيارات</Value>
+			<Value>تأجير</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="16">
+			<Value>محطات قطار</Value>
+			<Value>محطة قطار</Value>
+			<Value>قطار</Value>
+			<Value>قطارات</Value>
+			<Value>سكة حديدية</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="18">
+			<Value>مواقف حافلات</Value>
+			<Value>موقف حافلات</Value>
+			<Value>حافلة</Value>
+			<Value>حافلات</Value>
+			<Value>محطة حافلات</Value>
+			<Value>محطات حافلات</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="19">
+			<Value>إرشادات للسائحين</Value>
+			<Value>معلومات سياحية</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="20">
+			<Value>الشرطة</Value>
+			<Value>أجهزة الشرطة</Value>
+			<Value>999</Value>
+			<Value>122</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="21">
+			<Value>مستشفيات</Value>
+			<Value>مستشفى</Value>
+			<Value>مشفى</Value>
+			<Value>مشافي</Value>
+			<Value>عيادة</Value>
+			<Value>عيادات</Value>
+			<Value>طوارئ</Value>
+			<Value>حالات طارئة</Value>
+			<Value>طبيب</Value>
+			<Value>أطباء</Value>
+			<Value>997</Value>
+			<Value>123</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="22">
+			<Value>خدمات طبية</Value>
+			<Value>خدمات علاجية</Value>
+			<Value>عيادة</Value>
+			<Value>عيادات</Value>
+			<Value>طبيب</Value>
+			<Value>أطباء</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="23">
+			<Value>صيدليات</Value>
+			<Value>صيدلية</Value>
+			<Value>دواء</Value>
+			<Value>أدوية</Value>
+			<Value>علاج</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="104">
+			<Value>مطاعم</Value>
+			<Value>مطعم</Value>
+			<Value>أكل</Value>
+			<Value>شرب</Value>
+			<Value>كافيتريا</Value>
+			<Value>كافيتريات</Value>
+			<Value>جوع</Value>
+			<Value>عطش</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="25">
+			<Value>ماكينات الصرف الآلي</Value>
+			<Value>ماكينة الصرف الآلي</Value>
+			<Value>نقود</Value>
+			<Value>نقد</Value>
+			<Value>ماكينة ATM</Value>
+			<Value>بطاقة EC</Value>
+			<Value>ماكينة آلية</Value>
+			<Value>ماكينات آلية</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="26">
+			<Value>مقاهي</Value>
+			<Value>مقهى</Value>
+			<Value>قهوة</Value>
+			<Value>كافيتريات</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="27">
+			<Value>مراكز تسوق</Value>
+			<Value>مركز تسوق</Value>
+			<Value>شراء</Value>
+			<Value>تبضع</Value>
+			<Value>تسوق</Value>
+			<Value>مشتريات</Value>
+			<Value>متجر</Value>
+			<Value>متاجر</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="28">
+			<Value>ملابس</Value>
+			<Value>ثياب</Value>
+			<Value>حذاء</Value>
+			<Value>أحذية</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="29">
+			<Value>إلكترونيات</Value>
+			<Value>تكنولوجيا</Value>
+			<Value>كمبيوتر</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="30">
+			<Value>خمور ومشروبات روحية</Value>
+			<Value>مخزن نبيذ</Value>
+			<Value>نبيذ</Value>
+			<Value>خمور</Value>
+			<Value>مشروب روحي</Value>
+			<Value>مشروبات روحية</Value>
+			<Value>كحول</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="31">
+			<Value>حياة الليل</Value>
+			<Value>بار</Value>
+			<Value>حانة</Value>
+			<Value>حانات</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="32">
+			<Value>متنزهات</Value>
+			<Value>متنزه</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="33">
+			<Value>معالم سياحية</Value>
+			<Value>معلم سياحي</Value>
+			<Value>مركز جذب</Value>
+			<Value>مراكز جذب</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="34">
+			<Value>سينمات</Value>
+			<Value>سينما</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="35">
+			<Value>كازينوهات</Value>
+			<Value>كازينو</Value>
+			<Value>نادي قمار</Value>
+			<Value>أندية قمار</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="36">
+			<Value>فنون العرض</Value>
+			<Value>أوبرا</Value>
+			<Value>مسرح</Value>
+			<Value>حفلة موسيقية</Value>
+			<Value>موسيقى</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="37">
+			<Value>متاحف</Value>
+			<Value>متحف</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="38">
+			<Value>نصب تذكارية</Value>
+			<Value>نصب تذكاري</Value>
+			<Value>أثر</Value>
+			<Value>آثار</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="39">
+			<Value>مراكز رياضية</Value>
+			<Value>مركز رياضي</Value>
+			<Value>استاد</Value>
+			<Value>استادات</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="41">
+			<Value>رياضة الجولف</Value>
+			<Value>الجولف</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="42">
+			<Value>رياضة القوارب</Value>
+			<Value>قارب</Value>
+			<Value>قوارب</Value>
+			<Value>إبحار بالمراكب الشراعية</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="43">
+			<Value>رياضة التزلج</Value>
+			<Value>تزلج</Value>
+			<Value>رياضة</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="44">
+			<Value>حدائق ألعاب</Value>
+			<Value>ملاهي</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="45">
+			<Value>بنوك</Value>
+			<Value>بنك</Value>
+			<Value>مال</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="46">
+			<Value>بريد</Value>
+			<Value>خطاب</Value>
+			<Value>خطابات</Value>
+			<Value>طرد</Value>
+			<Value>طرود</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="47">
+			<Value>شركات</Value>
+			<Value>شركة</Value>
+			<Value>مؤسسة</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="48">
+			<Value>مراكز مؤتمرات</Value>
+			<Value>مركز مؤتمرات</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="49">
+			<Value>الحكومة والإدارة</Value>
+			<Value>بلدية</Value>
+			<Value>حكومة</Value>
+			<Value>إدارة</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="50">
+			<Value>سفارات</Value>
+			<Value>سفارة</Value>
+			<Value>قنصلية</Value>
+			<Value>قنصليات</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="52">
+			<Value>مؤسسات تعليمية</Value>
+			<Value>مدرسة</Value>
+			<Value>مدارس</Value>
+			<Value>جامعة</Value>
+			<Value>جامعات</Value>
+			<Value>مؤسسة تعليمية</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="53">
+			<Value>دور عبادة</Value>
+			<Value>دار عبادة</Value>
+			<Value>مسجد</Value>
+			<Value>مساجد</Value>
+			<Value>كنيسة</Value>
+			<Value>كنائس</Value>
+			<Value>معبد يهودي</Value>
+			<Value>معابد يهودية</Value>
+			<Value>دير</Value>
+			<Value>أديرة</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="54">
+			<Value>مدافن</Value>
+			<Value>مدفن</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="134">
+			<Value>محطات شحن</Value>
+			<Value>محطة شحن</Value>
+			<Value>شحن</Value>
+			<Value>شحن كهربائي</Value>
+		</Thesaurus>
+	</PoiCategoryThesaurusDefinition>
+
+	<PoiCategoryNameDefinition>
+		<Name category_ref="1">مدينة تصنيع سيارات</Name>
+		<Name category_ref="2">مطارات</Name>
+		<Name category_ref="136">محطات وقود الغاز المسال LPG</Name>
+		<Name category_ref="135">محطات الغاز الطبيعي</Name>
+		<Name category_ref="101">محطات وقود</Name>
+		<Name category_ref="102">أماكن انتظار</Name>
+		<Name category_ref="7">استراحات</Name>
+		<Name category_ref="8">فنادق وموتيلات</Name>
+		<Name category_ref="9">عبارات وقطارات نقل السيارات</Name>
+		<Name category_ref="10">معابر حدودية</Name>
+		<Name category_ref="11">موزع VW</Name>
+		<Name category_ref="12">خدمة VW</Name>
+		<Name category_ref="14">مخارج الطريق السريع/مداخل الطريق السريع</Name>
+		<Name category_ref="15">عمليات تأجير السيارات</Name>
+		<Name category_ref="16">محطات قطار</Name>
+		<Name category_ref="18">مواقف حافلات</Name>
+		<Name category_ref="19">إرشادات للسائحين</Name>
+		<Name category_ref="20">الشرطة</Name>
+		<Name category_ref="21">مستشفيات</Name>
+		<Name category_ref="22">خدمات طبية</Name>
+		<Name category_ref="23">صيدليات</Name>
+		<Name category_ref="104">مطاعم</Name>
+		<Name category_ref="25">ماكينات الصرف الآلي</Name>
+		<Name category_ref="26">مقاهي</Name>
+		<Name category_ref="27">مراكز تسوق</Name>
+		<Name category_ref="28">ملابس</Name>
+		<Name category_ref="29">إلكترونيات</Name>
+		<Name category_ref="30">خمور ومشروبات روحية</Name>
+		<Name category_ref="31">حياة الليل</Name>
+		<Name category_ref="32">متنزهات</Name>
+		<Name category_ref="33">معالم سياحية</Name>
+		<Name category_ref="34">سينمات</Name>
+		<Name category_ref="35">كازينوهات</Name>
+		<Name category_ref="36">فنون العرض</Name>
+		<Name category_ref="37">متاحف</Name>
+		<Name category_ref="38">نصب تذكارية</Name>
+		<Name category_ref="39">مراكز رياضية</Name>
+		<Name category_ref="41">رياضة الجولف</Name>
+		<Name category_ref="42">رياضة القوارب</Name>
+		<Name category_ref="43">رياضة التزلج</Name>
+		<Name category_ref="44">حدائق ألعاب</Name>
+		<Name category_ref="45">بنوك</Name>
+		<Name category_ref="46">بريد</Name>
+		<Name category_ref="47">شركات</Name>
+		<Name category_ref="48">مراكز مؤتمرات</Name>
+		<Name category_ref="49">الحكومة والإدارة</Name>
+		<Name category_ref="50">سفارات</Name>
+		<Name category_ref="52">مؤسسات تعليمية</Name>
+		<Name category_ref="53">دور عبادة</Name>
+		<Name category_ref="54">مدافن</Name>
+		<Name category_ref="134">محطات شحن</Name>
+	</PoiCategoryNameDefinition>
+</LanguagePoiConfiguration>

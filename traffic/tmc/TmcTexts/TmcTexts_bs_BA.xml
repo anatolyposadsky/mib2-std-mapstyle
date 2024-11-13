@@ -1,0 +1,4781 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TmcConfig>
+  <locale code="bs_BA" unit_system="UNITS_METRIC">
+    <tmc_event event_code="1">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Ograničena prohodnost</long_text>
+    </tmc_event>
+    <tmc_event event_code="2">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>%l zastoj u saobraćaju, mogućnost zastoja</long_text>
+    </tmc_event>
+    <tmc_event event_code="11">
+      <short_text>Ograničena prohodnost</short_text>
+      <long_text>Aktivirana je kontrola visine</long_text>
+    </tmc_event>
+    <tmc_event event_code="12">
+      <short_text>Udes</short_text>
+      <long_text>Udes, saobraćaj se preusmjerava na mjestu nesreće</long_text>
+    </tmc_event>
+    <tmc_event event_code="16">
+      <short_text>Zatvaranje</short_text>
+      <long_text>zatvoreno zbog akcija spašavanja</long_text>
+    </tmc_event>
+    <tmc_event event_code="20">
+      <short_text>Parkiralište potpuno zauzeto</short_text>
+      <long_text>Odmorište i benzinska pumpa pretrpani, odvezite se do sljedećeg odmorišta i benzinske pumpe</long_text>
+    </tmc_event>
+    <tmc_event event_code="22">
+      <short_text>informacije</short_text>
+      <long_text>Odmorište i benzinska pumpa, benzinska pumpa zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="23">
+      <short_text>Informacije o parkiranju</short_text>
+      <long_text>Odmorište i benzinska pumpa, odmorište zatvoreno</long_text>
+    </tmc_event>
+    <tmc_event event_code="24">
+      <short_text>Zatvaranje</short_text>
+      <long_text>Most zatvoren</long_text>
+    </tmc_event>
+    <tmc_event event_code="25">
+      <short_text>Zatvaranje</short_text>
+      <long_text>Tunel zatvoren</long_text>
+    </tmc_event>
+    <tmc_event event_code="26">
+      <short_text>Zatvaranje</short_text>
+      <long_text>Most blokiran</long_text>
+    </tmc_event>
+    <tmc_event event_code="27">
+      <short_text>Zatvaranje</short_text>
+      <long_text>Tunel blokiran</long_text>
+    </tmc_event>
+    <tmc_event event_code="28">
+      <short_text>Zatvaranje</short_text>
+      <long_text>Cesta se višestruko zatvara</long_text>
+    </tmc_event>
+    <tmc_event event_code="41">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Traka za preticanje zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="42">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Traka za preticanje blokirana</long_text>
+    </tmc_event>
+    <tmc_event event_code="51">
+      <short_text>Gradilište</short_text>
+      <long_text>Radovi na traci za preticanje</long_text>
+    </tmc_event>
+    <tmc_event event_code="52">
+      <short_text>Gradilište</short_text>
+      <long_text>Radovi na zaustavnoj traci</long_text>
+    </tmc_event>
+    <tmc_event event_code="53">
+      <short_text>Gradilište</short_text>
+      <long_text>Radovi na zaustavnoj traci</long_text>
+    </tmc_event>
+    <tmc_event event_code="55">
+      <short_text>Ograničena prohodnost</short_text>
+      <long_text>Očekuje se ograničena prohodnost</long_text>
+    </tmc_event>
+    <tmc_event event_code="56">
+      <short_text>Ograničena prohodnost</short_text>
+      <long_text>Očekuje se smetnja u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="61">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Ograničena prohodnost zbog predmeta na cesti</long_text>
+    </tmc_event>
+    <tmc_event event_code="62">
+      <short_text>Poplava</short_text>
+      <long_text>Ograničena prohodnost zbog puknuća cijevi</long_text>
+    </tmc_event>
+    <tmc_event event_code="63">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Opasnost od predmeta na cesti</long_text>
+    </tmc_event>
+    <tmc_event event_code="64">
+      <short_text>Poplava</short_text>
+      <long_text>Opasnost zbog puknuća cijevi</long_text>
+    </tmc_event>
+    <tmc_event event_code="70">
+      <short_text>Zastoj</short_text>
+      <long_text>Smetnja u saobraćaju, srednja brzina 10 km/h</long_text>
+    </tmc_event>
+    <tmc_event event_code="71">
+      <short_text>Zastoj</short_text>
+      <long_text>Smetnja u saobraćaju, srednja brzina 20 km/h</long_text>
+    </tmc_event>
+    <tmc_event event_code="72">
+      <short_text>Zastoj</short_text>
+      <long_text>Smetnja u saobraćaju, srednja brzina 30 km/h</long_text>
+    </tmc_event>
+    <tmc_event event_code="73">
+      <short_text>Zastoj</short_text>
+      <long_text>Smetnja u saobraćaju, srednja brzina 40 km/h</long_text>
+    </tmc_event>
+    <tmc_event event_code="74">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Smetnja u saobraćaju, srednja brzina 50 km/h</long_text>
+    </tmc_event>
+    <tmc_event event_code="75">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Smetnja u saobraćaju, srednja brzina 60 km/h</long_text>
+    </tmc_event>
+    <tmc_event event_code="76">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Smetnja u saobraćaju, srednja brzina 70 km/h</long_text>
+    </tmc_event>
+    <tmc_event event_code="82">
+      <short_text>Gradilište</short_text>
+      <long_text>Gradilište</long_text>
+    </tmc_event>
+    <tmc_event event_code="83">
+      <short_text>Zatvaranje</short_text>
+      <long_text>Zatvaranje</long_text>
+    </tmc_event>
+    <tmc_event event_code="84">
+      <short_text>Događaji</short_text>
+      <long_text>Događaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="85">
+      <short_text>Događaji</short_text>
+      <long_text>Sportski događaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="86">
+      <short_text>Događaji</short_text>
+      <long_text>Sajam, očekuju se gužve u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="91">
+      <short_text>Kašnjenja</short_text>
+      <long_text>Gubitak vremena za osobna vozila</long_text>
+    </tmc_event>
+    <tmc_event event_code="101">
+      <short_text>Zastoj</short_text>
+      <long_text>%lzastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="102">
+      <short_text>Zastoj</short_text>
+      <long_text>Zastoj 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="103">
+      <short_text>Zastoj</short_text>
+      <long_text>Zastoj 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="104">
+      <short_text>Zastoj</short_text>
+      <long_text>Zastoj 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="105">
+      <short_text>Zastoj</short_text>
+      <long_text>Zastoj 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="106">
+      <short_text>Zastoj</short_text>
+      <long_text>Zastoj 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="107">
+      <short_text>Ograničena prohodnost</short_text>
+      <long_text>Vjerovatan zastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="108">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>%lzastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="109">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Zastoj u saobraćaju 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="110">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Zastoj u saobraćaju 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="111">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Zastoj u saobraćaju 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="112">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Zastoj u saobraćaju 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="113">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Zastoj u saobraćaju 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="114">
+      <short_text>Ograničena prohodnost</short_text>
+      <long_text>očekuje se zastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="115">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>%lgust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="116">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Gust saobraćaj, 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="117">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Gust saobraćaj, 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="118">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Gust saobraćaj, 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="119">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Gust saobraćaj, 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="120">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Gust saobraćaj, 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="121">
+      <short_text>Ograničena prohodnost</short_text>
+      <long_text>očekuje se gust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="122">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>%lgužva u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="123">
+      <short_text>Ograničena prohodnost</short_text>
+      <long_text>očekuje se gužva u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="124">
+      <short_text>nema smetnji u saobraćaju</short_text>
+      <long_text>nema smetnji u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="125">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>%lgust saobraćaj s tendencijom pogoršavanja</long_text>
+    </tmc_event>
+    <tmc_event event_code="129">
+      <short_text>Zastoj</short_text>
+      <long_text>Zastoj 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="130">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Moguć zastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="131">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Zastoj u saobraćaju 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="132">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Moguć zastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="133">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>dugi zastoji</long_text>
+    </tmc_event>
+    <tmc_event event_code="134">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Gust saobraćaj, 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="136">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Smetnja u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="138">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>%lzastoj, pažljivo se približite kraju kolone</long_text>
+    </tmc_event>
+    <tmc_event event_code="139">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>%lkraj zastoja iza krivine</long_text>
+    </tmc_event>
+    <tmc_event event_code="140">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>%lkraj zastoja iza brežuljka</long_text>
+    </tmc_event>
+    <tmc_event event_code="142">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>puno gušći saobraćaj nego obično</long_text>
+    </tmc_event>
+    <tmc_event event_code="143">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>gušći saobraćaj nego obično</long_text>
+    </tmc_event>
+    <tmc_event event_code="200">
+      <short_text>Udes</short_text>
+      <long_text>Sudar više vozila, gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="201">
+      <short_text>Udes</short_text>
+      <long_text>Udes</long_text>
+    </tmc_event>
+    <tmc_event event_code="202">
+      <short_text>Udes</short_text>
+      <long_text>težak udes</long_text>
+    </tmc_event>
+    <tmc_event event_code="203">
+      <short_text>Udes</short_text>
+      <long_text>Sudar više vozila</long_text>
+    </tmc_event>
+    <tmc_event event_code="204">
+      <short_text>Udes</short_text>
+      <long_text>Sudar s kamionom</long_text>
+    </tmc_event>
+    <tmc_event event_code="205">
+      <short_text>Udes</short_text>
+      <long_text>Sudar s transporterom opasnog tereta</long_text>
+    </tmc_event>
+    <tmc_event event_code="206">
+      <short_text>Udes</short_text>
+      <long_text>Udes, opasnost od istjecanja benzina</long_text>
+    </tmc_event>
+    <tmc_event event_code="207">
+      <short_text>Udes</short_text>
+      <long_text>Udes, opasnost od istjecanja hemikalija</long_text>
+    </tmc_event>
+    <tmc_event event_code="208">
+      <short_text>Ograničena prohodnost</short_text>
+      <long_text>Smetnja zbog radoznale mase ljudi</long_text>
+    </tmc_event>
+    <tmc_event event_code="210">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>prosut teret</long_text>
+    </tmc_event>
+    <tmc_event event_code="211">
+      <short_text>Ograničena prohodnost</short_text>
+      <long_text>Ograničena prohodnost zbog kvara vozila</long_text>
+    </tmc_event>
+    <tmc_event event_code="212">
+      <short_text>Ograničena prohodnost</short_text>
+      <long_text>Ograničena prohodnost zbog kvara kamiona</long_text>
+    </tmc_event>
+    <tmc_event event_code="213">
+      <short_text>Udes</short_text>
+      <long_text>zapaljeno vozilo</long_text>
+    </tmc_event>
+    <tmc_event event_code="214">
+      <short_text>Ograničena prohodnost</short_text>
+      <long_text>Ograničena prohodnost</long_text>
+    </tmc_event>
+    <tmc_event event_code="215">
+      <short_text>Zastoj</short_text>
+      <long_text>Udes, %lzastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="216">
+      <short_text>Zastoj</short_text>
+      <long_text>Udes, zastoj 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="217">
+      <short_text>Zastoj</short_text>
+      <long_text>Udes, zastoj 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="218">
+      <short_text>Zastoj</short_text>
+      <long_text>Udes, zastoj 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="219">
+      <short_text>Zastoj</short_text>
+      <long_text>Udes, zastoj 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="220">
+      <short_text>Zastoj</short_text>
+      <long_text>Udes, zastoj 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="221">
+      <short_text>Udes</short_text>
+      <long_text>Udes, moguć zastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="222">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Udes, %lzastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="223">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Udes, zastoj u saobraćaju 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="224">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Udes, zastoj u saobraćaju 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="225">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Udes, zastoj u saobraćaju 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="226">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Udes, zastoj u saobraćaju 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="227">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Udes, zastoj u saobraćaju 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="228">
+      <short_text>Udes</short_text>
+      <long_text>Udes, moguć zastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="229">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Udes, %lgust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="230">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Udes, 1 km gust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="231">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Udes, 2 km gust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="232">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Udes, 4 km gust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="233">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Udes, 6 km gust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="234">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Udes, 10 km gust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="235">
+      <short_text>Udes</short_text>
+      <long_text>Udes, očekuje se gust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="236">
+      <short_text>Udes</short_text>
+      <long_text>Udes, %lgužva u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="237">
+      <short_text>Udes</short_text>
+      <long_text>Udes, očekuje se gužva u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="238">
+      <short_text>Udes</short_text>
+      <long_text>Udes, nema smetnji u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="239">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Udes, %lgust saobraćaj s tendencijom pogoršavanja</long_text>
+    </tmc_event>
+    <tmc_event event_code="240">
+      <short_text>Zatvaranje</short_text>
+      <long_text>Udes, zatvorena cesta</long_text>
+    </tmc_event>
+    <tmc_event event_code="241">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Udes, desna vozna traka blokirana</long_text>
+    </tmc_event>
+    <tmc_event event_code="242">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Udes, srednja vozna traka blokirana</long_text>
+    </tmc_event>
+    <tmc_event event_code="243">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Udes, lijeva vozna traka blokirana</long_text>
+    </tmc_event>
+    <tmc_event event_code="244">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Udes, zaustavna traka blokirana</long_text>
+    </tmc_event>
+    <tmc_event event_code="245">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Udes, 2 vozne trake blokirane</long_text>
+    </tmc_event>
+    <tmc_event event_code="246">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Udes, 3 vozne trake blokirane</long_text>
+    </tmc_event>
+    <tmc_event event_code="247">
+      <short_text>Udes</short_text>
+      <long_text>Udes, gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="248">
+      <short_text>Udes</short_text>
+      <long_text>Udes, treba računati na gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="249">
+      <short_text>Udes</short_text>
+      <long_text>Udes, veliki gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="250">
+      <short_text>Zastoj</short_text>
+      <long_text>Smetnja zbog radoznale mase ljudi, %lzastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="251">
+      <short_text>Zastoj</short_text>
+      <long_text>Smetnja zbog radoznale mase ljudi, zastoj 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="252">
+      <short_text>Zastoj</short_text>
+      <long_text>Smetnja zbog radoznale mase ljudi, zastoj 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="253">
+      <short_text>Zastoj</short_text>
+      <long_text>Smetnja zbog radoznale mase ljudi, zastoj 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="254">
+      <short_text>Zastoj</short_text>
+      <long_text>Smetnja zbog radoznale mase ljudi, zastoj 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="255">
+      <short_text>Zastoj</short_text>
+      <long_text>Smetnja zbog radoznale mase ljudi, zastoj 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="256">
+      <short_text>Ograničena prohodnost</short_text>
+      <long_text>Smetnja zbog radoznale mase ljudi, moguć zastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="257">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Smetnja zbog radoznale mase ljudi, %lzastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="258">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Smetnja zbog radoznale mase ljudi, zastoj u saobraćaju 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="259">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Smetnja zbog radoznale mase ljudi, zastoj u saobraćaju 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="260">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Smetnja zbog radoznale mase ljudi, zastoj u saobraćaju 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="261">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Smetnja zbog radoznale mase ljudi, zastoj u saobraćaju 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="262">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Smetnja zbog radoznale mase ljudi, zastoj u saobraćaju 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="263">
+      <short_text>Ograničena prohodnost</short_text>
+      <long_text>Smetnja zbog radoznale mase ljudi, moguć zastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="264">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Smetnja zbog radoznale mase ljudi, %lgust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="265">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Smetnja zbog radoznale mase ljudi, gust saobraćaj 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="266">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Smetnja zbog radoznale mase ljudi, gust saobraćaj 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="267">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Smetnja zbog radoznale mase ljudi, gust saobraćaj 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="268">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Smetnja zbog radoznale mase ljudi, gust saobraćaj 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="269">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Smetnja zbog radoznale mase ljudi, gust saobraćaj 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="271">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Smetnja zbog radoznale mase ljudi, %lgužva u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="274">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Smetnja zbog radoznale mase ljudi, %lgust saobraćaj s tendencijom pogoršavanja</long_text>
+    </tmc_event>
+    <tmc_event event_code="275">
+      <short_text>Kašnjenja</short_text>
+      <long_text>Smetnja zbog radoznale mase ljudi, gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="276">
+      <short_text>Kašnjenja</short_text>
+      <long_text>Smetnja zbog radoznale mase ljudi, treba računati na gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="277">
+      <short_text>Dugo kašnjenje</short_text>
+      <long_text>Smetnja zbog radoznale mase ljudi, veliki gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="278">
+      <short_text>Zastoj</short_text>
+      <long_text>prosut teret, %lzastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="279">
+      <short_text>Zastoj</short_text>
+      <long_text>prosut teret, zastoj 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="280">
+      <short_text>Zastoj</short_text>
+      <long_text>prosut teret, zastoj 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="281">
+      <short_text>Zastoj</short_text>
+      <long_text>prosut teret, zastoj 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="282">
+      <short_text>Zastoj</short_text>
+      <long_text>prosut teret, zastoj 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="283">
+      <short_text>Zastoj</short_text>
+      <long_text>prosut teret, zastoj 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="284">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>prosut teret, moguć zastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="285">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>prosut teret, %lzastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="286">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>prosut teret, zastoj u saobraćaju 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="287">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>prosut teret, zastoj u saobraćaju 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="288">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>prosut teret, zastoj u saobraćaju 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="289">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>prosut teret, zastoj u saobraćaju 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="290">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>prosut teret, zastoj u saobraćaju 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="291">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>prosut teret, moguć zastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="292">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>prosut teret, %lgust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="293">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>prosut teret, gust saobraćaj 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="294">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>prosut teret, gust saobraćaj 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="295">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>prosut teret, gust saobraćaj 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="296">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>prosut teret, gust saobraćaj 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="297">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>prosut teret, gust saobraćaj 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="298">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>prosut teret, očekuje se gust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="299">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>prosut teret, %lgužva u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="300">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>prosut teret, očekuje se gužva u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="301">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>prosut teret, nema smetnji u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="302">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>prosut teret, %lgust saobraćaj s tendencijom pogoršavanja</long_text>
+    </tmc_event>
+    <tmc_event event_code="303">
+      <short_text>Zatvaranje</short_text>
+      <long_text>blokirano prosutim teretom</long_text>
+    </tmc_event>
+    <tmc_event event_code="304">
+      <short_text>Suženje ceste</short_text>
+      <long_text>prosut teret, desna vozna traka blokirana</long_text>
+    </tmc_event>
+    <tmc_event event_code="305">
+      <short_text>Suženje ceste</short_text>
+      <long_text>prosut teret, srednja vozna traka blokirana</long_text>
+    </tmc_event>
+    <tmc_event event_code="306">
+      <short_text>Suženje ceste</short_text>
+      <long_text>prosut teret, lijeva vozna traka blokirana</long_text>
+    </tmc_event>
+    <tmc_event event_code="307">
+      <short_text>Suženje ceste</short_text>
+      <long_text>prosut teret, zaustavna traka blokirana</long_text>
+    </tmc_event>
+    <tmc_event event_code="308">
+      <short_text>Suženje ceste</short_text>
+      <long_text>prosut teret, 2 vozne trake blokirane</long_text>
+    </tmc_event>
+    <tmc_event event_code="309">
+      <short_text>Suženje ceste</short_text>
+      <long_text>prosut teret, 3 vozne trake blokirane</long_text>
+    </tmc_event>
+    <tmc_event event_code="310">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>prosut teret, gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="311">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>prosut teret, treba računati na gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="312">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>prosut teret, veliki gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="313">
+      <short_text>Zastoj</short_text>
+      <long_text>Ograničena prohodnost zbog kvara vozila, %lzastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="314">
+      <short_text>Ograničena prohodnost</short_text>
+      <long_text>Ograničena prohodnost zbog kvara vozila, moguć zastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="315">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Ograničena prohodnost zbog kvara vozila, zastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="316">
+      <short_text>Ograničena prohodnost</short_text>
+      <long_text>Ograničena prohodnost zbog kvara vozila, moguć zastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="317">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Ograničena prohodnost zbog kvara vozila, %lgust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="318">
+      <short_text>Ograničena prohodnost</short_text>
+      <long_text>Ograničena prohodnost zbog kvara vozila, očekuje se gust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="319">
+      <short_text>Ograničena prohodnost</short_text>
+      <long_text>Ograničena prohodnost zbog kvara vozila, %lgužva u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="320">
+      <short_text>Ograničena prohodnost</short_text>
+      <long_text>Ograničena prohodnost zbog kvara vozila, očekuje se gužva u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="321">
+      <short_text>Ograničena prohodnost</short_text>
+      <long_text>kvar vozila, slobodan protok saobraćaja</long_text>
+    </tmc_event>
+    <tmc_event event_code="322">
+      <short_text>Ograničena prohodnost</short_text>
+      <long_text>Ograničena prohodnost zbog kvara vozila, %lgust saobraćaj s tendencijom pogoršavanja</long_text>
+    </tmc_event>
+    <tmc_event event_code="323">
+      <short_text>Zatvaranje</short_text>
+      <long_text>Ograničena prohodnost zbog kvara vozila, blokirana cesta</long_text>
+    </tmc_event>
+    <tmc_event event_code="324">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Ograničena prohodnost zbog kvara vozila, blokirana desna vozna traka</long_text>
+    </tmc_event>
+    <tmc_event event_code="325">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Ograničena prohodnost zbog kvara vozila, blokirana srednja vozna traka</long_text>
+    </tmc_event>
+    <tmc_event event_code="326">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Ograničena prohodnost zbog kvara vozila, blokirana lijeva vozna traka</long_text>
+    </tmc_event>
+    <tmc_event event_code="327">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Ograničena prohodnost zbog kvara vozila, blokirana zaustavna traka</long_text>
+    </tmc_event>
+    <tmc_event event_code="328">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Ograničena prohodnost zbog kvara vozila, blokirane 2 vozne trake</long_text>
+    </tmc_event>
+    <tmc_event event_code="329">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Ograničena prohodnost zbog kvara vozila, blokirane 3 vozne trake</long_text>
+    </tmc_event>
+    <tmc_event event_code="330">
+      <short_text>Ograničena prohodnost</short_text>
+      <long_text>Ograničena prohodnost zbog kvara vozila, gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="331">
+      <short_text>Ograničena prohodnost</short_text>
+      <long_text>Ograničena prohodnost zbog kvara vozila, treba računati na gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="332">
+      <short_text>Ograničena prohodnost</short_text>
+      <long_text>Ograničena prohodnost zbog kvara vozila, veliki gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="335">
+      <short_text>Udes</short_text>
+      <long_text>Udes s autobusima</long_text>
+    </tmc_event>
+    <tmc_event event_code="336">
+      <short_text>Udes</short_text>
+      <long_text>Udes, opasnost od isticanja ulja</long_text>
+    </tmc_event>
+    <tmc_event event_code="337">
+      <short_text>Udes</short_text>
+      <long_text>prevrnuto vozilo</long_text>
+    </tmc_event>
+    <tmc_event event_code="338">
+      <short_text>Udes</short_text>
+      <long_text>Ograničena prohodnost zbog prevrnutog kamiona</long_text>
+    </tmc_event>
+    <tmc_event event_code="339">
+      <short_text>Udes</short_text>
+      <long_text>popriječena prikolica</long_text>
+    </tmc_event>
+    <tmc_event event_code="340">
+      <short_text>Udes</short_text>
+      <long_text>popriječena kamp-kućica</long_text>
+    </tmc_event>
+    <tmc_event event_code="341">
+      <short_text>Udes</short_text>
+      <long_text>popriječen kamion</long_text>
+    </tmc_event>
+    <tmc_event event_code="342">
+      <short_text>Udes</short_text>
+      <long_text>Saobraćajna nesreća</long_text>
+    </tmc_event>
+    <tmc_event event_code="343">
+      <short_text>Udes</short_text>
+      <long_text>udes u blizini</long_text>
+    </tmc_event>
+    <tmc_event event_code="344">
+      <short_text>Udes</short_text>
+      <long_text>Uviđaj na mjestu udesa</long_text>
+    </tmc_event>
+    <tmc_event event_code="345">
+      <short_text>Udes</short_text>
+      <long_text>Sekundarni udes</long_text>
+    </tmc_event>
+    <tmc_event event_code="346">
+      <short_text>Ograničena prohodnost</short_text>
+      <long_text>pokvaren autobus</long_text>
+    </tmc_event>
+    <tmc_event event_code="348">
+      <short_text>Zastoj</short_text>
+      <long_text>Udes, zastoj 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="349">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Udes, zastoj u saobraćaju 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="350">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Udes, gust saobraćaj 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="351">
+      <short_text>Udes</short_text>
+      <long_text>Udes na području gradilišta</long_text>
+    </tmc_event>
+    <tmc_event event_code="352">
+      <short_text>Zastoj</short_text>
+      <long_text>Smetnja zbog radoznale mase ljudi, zastoj 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="353">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Smetnja zbog radoznale mase ljudi, zastoj u saobraćaju 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="354">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Smetnja zbog radoznale mase ljudi, gust saobraćaj 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="355">
+      <short_text>Udes</short_text>
+      <long_text>Smetnja zbog radoznale mase ljudi, opasnost</long_text>
+    </tmc_event>
+    <tmc_event event_code="356">
+      <short_text>Zastoj</short_text>
+      <long_text>prosut teret, zastoj 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="357">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>prosut teret, zastoj u saobraćaju 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="358">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>prosut teret, gust saobraćaj 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="359">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>prosut teret, opasnost</long_text>
+    </tmc_event>
+    <tmc_event event_code="360">
+      <short_text>Zastoj</short_text>
+      <long_text>prevrnuto vozilo, %lzastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="361">
+      <short_text>Udes</short_text>
+      <long_text>prevrnuto vozilo, moguć zastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="362">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>prevrnuto vozilo, %lzastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="363">
+      <short_text>Udes</short_text>
+      <long_text>prevrnuto vozilo, moguć zastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="364">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>prevrnuto vozilo, %lgust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="365">
+      <short_text>Udes</short_text>
+      <long_text>prevrnuto vozilo, očekuje se gust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="366">
+      <short_text>Udes</short_text>
+      <long_text>prevrnuto vozilo, %lgužva u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="367">
+      <short_text>Udes</short_text>
+      <long_text>prevrnuto vozilo, očekuje se gužva u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="368">
+      <short_text>Udes</short_text>
+      <long_text>prevrnuto vozilo, %lgust saobraćaj s tendencijom pogoršavanja</long_text>
+    </tmc_event>
+    <tmc_event event_code="369">
+      <short_text>Zatvaranje</short_text>
+      <long_text>blokirano zbog prevrnutog vozila</long_text>
+    </tmc_event>
+    <tmc_event event_code="370">
+      <short_text>Suženje ceste</short_text>
+      <long_text>prevrnuto vozilo, desna vozna traka blokirana</long_text>
+    </tmc_event>
+    <tmc_event event_code="371">
+      <short_text>Suženje ceste</short_text>
+      <long_text>prevrnuto vozilo, srednja vozna traka blokirana</long_text>
+    </tmc_event>
+    <tmc_event event_code="372">
+      <short_text>Suženje ceste</short_text>
+      <long_text>prevrnuto vozilo, lijeva vozna traka blokirana</long_text>
+    </tmc_event>
+    <tmc_event event_code="373">
+      <short_text>Suženje ceste</short_text>
+      <long_text>prevrnuto vozilo, 2 vozne trake blokirane</long_text>
+    </tmc_event>
+    <tmc_event event_code="374">
+      <short_text>Suženje ceste</short_text>
+      <long_text>prevrnuto vozilo, 3 vozne trake blokirane</long_text>
+    </tmc_event>
+    <tmc_event event_code="375">
+      <short_text>Udes</short_text>
+      <long_text>prevrnuto vozilo, gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="376">
+      <short_text>Udes</short_text>
+      <long_text>prevrnuto vozilo, treba računati na gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="377">
+      <short_text>Udes</short_text>
+      <long_text>prevrnuto vozilo, veliki gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="378">
+      <short_text>Udes</short_text>
+      <long_text>Opasnost zbog prevrnutog kamiona</long_text>
+    </tmc_event>
+    <tmc_event event_code="379">
+      <short_text>Zastoj</short_text>
+      <long_text>%lzastoj, mjesto udesa počišćeno</long_text>
+    </tmc_event>
+    <tmc_event event_code="381">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>%lzastoj u saobraćaju, mjesto udesa počišćeno</long_text>
+    </tmc_event>
+    <tmc_event event_code="382">
+      <short_text>Ograničena prohodnost</short_text>
+      <long_text>Moguć zastoj u saobraćaju, mjesto udesa počišćeno</long_text>
+    </tmc_event>
+    <tmc_event event_code="383">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>%lgust saobraćaj, mjesto udesa počišćeno</long_text>
+    </tmc_event>
+    <tmc_event event_code="387">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>%lgust saobraćaj s tendencijom pogoršavanja, mjesto udesa počišćeno</long_text>
+    </tmc_event>
+    <tmc_event event_code="388">
+      <short_text>Udes</short_text>
+      <long_text>udes od ranije, gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="390">
+      <short_text>Ograničena prohodnost</short_text>
+      <long_text>udes od ranije, veliki gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="391">
+      <short_text>Udes</short_text>
+      <long_text>Uviđaj na mjestu udesa, opasnost</long_text>
+    </tmc_event>
+    <tmc_event event_code="392">
+      <short_text>Udes</short_text>
+      <long_text>Sekundarni udes, opasnost</long_text>
+    </tmc_event>
+    <tmc_event event_code="393">
+      <short_text>Ograničena prohodnost</short_text>
+      <long_text>Opasnost zbog kvara vozila</long_text>
+    </tmc_event>
+    <tmc_event event_code="394">
+      <short_text>Ograničena prohodnost</short_text>
+      <long_text>Opasnost zbog kvara kamiona</long_text>
+    </tmc_event>
+    <tmc_event event_code="397">
+      <short_text>Ograničena prohodnost</short_text>
+      <long_text>Ograničena prohodnost zbog akcije spašavanja</long_text>
+    </tmc_event>
+    <tmc_event event_code="401">
+      <short_text>Zatvaranje</short_text>
+      <long_text>zatvoreno</long_text>
+    </tmc_event>
+    <tmc_event event_code="402">
+      <short_text>Zatvaranje</short_text>
+      <long_text>blokirano</long_text>
+    </tmc_event>
+    <tmc_event event_code="406">
+      <short_text>Ulaz zatvoren</short_text>
+      <long_text>Ulaz zatvoren</long_text>
+    </tmc_event>
+    <tmc_event event_code="407">
+      <short_text>Izlaz zatvoren</short_text>
+      <long_text>Izlaz zatvoren</long_text>
+    </tmc_event>
+    <tmc_event event_code="408">
+      <short_text>Izlaz zatvoren</short_text>
+      <long_text>Mjesto priključivanja zatvoreno</long_text>
+    </tmc_event>
+    <tmc_event event_code="409">
+      <short_text>Ograničeno prohodna cesta</short_text>
+      <long_text>Ograničenje mjesta priključivanja</long_text>
+    </tmc_event>
+    <tmc_event event_code="410">
+      <short_text>Zatvaranje</short_text>
+      <long_text>zatvoreno, zastoj %l</long_text>
+    </tmc_event>
+    <tmc_event event_code="411">
+      <short_text>Zatvaranje</short_text>
+      <long_text>zatvoreno, zastoj 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="412">
+      <short_text>Zatvaranje</short_text>
+      <long_text>zatvoreno, zastoj 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="413">
+      <short_text>Zatvaranje</short_text>
+      <long_text>zatvoreno, zastoj 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="414">
+      <short_text>Zatvaranje</short_text>
+      <long_text>zatvoreno, zastoj 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="415">
+      <short_text>Zatvaranje</short_text>
+      <long_text>zatvoreno, zastoj 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="416">
+      <short_text>Zatvaranje</short_text>
+      <long_text>zatvoreno, moguć zastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="417">
+      <short_text>Zatvaranje</short_text>
+      <long_text>zatvoreno, %lzastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="418">
+      <short_text>Zatvaranje</short_text>
+      <long_text>zatvoreno, zastoj u saobraćaju 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="419">
+      <short_text>Zatvaranje</short_text>
+      <long_text>zatvoreno, zastoj u saobraćaju 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="420">
+      <short_text>Zatvaranje</short_text>
+      <long_text>zatvoreno, zastoj u saobraćaju 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="421">
+      <short_text>Zatvaranje</short_text>
+      <long_text>zatvoreno, zastoj u saobraćaju 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="422">
+      <short_text>Zatvaranje</short_text>
+      <long_text>zatvoreno, zastoj u saobraćaju 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="423">
+      <short_text>Zatvaranje</short_text>
+      <long_text>zatvoreno, moguć zastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="424">
+      <short_text>Zatvaranje</short_text>
+      <long_text>zatvoreno, %lgust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="425">
+      <short_text>Zatvaranje</short_text>
+      <long_text>zatvoreno, gust saobraćaj 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="426">
+      <short_text>Zatvaranje</short_text>
+      <long_text>zatvoreno, gust saobraćaj 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="427">
+      <short_text>Zatvaranje</short_text>
+      <long_text>zatvoreno, gust saobraćaj 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="428">
+      <short_text>Zatvaranje</short_text>
+      <long_text>zatvoreno, gust saobraćaj 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="429">
+      <short_text>Zatvaranje</short_text>
+      <long_text>zatvoreno, gust saobraćaj 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="430">
+      <short_text>Zatvaranje</short_text>
+      <long_text>zatvoreno, očekuje se gust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="431">
+      <short_text>Zatvaranje</short_text>
+      <long_text>zatvoreno, %lgužva u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="432">
+      <short_text>Zatvaranje</short_text>
+      <long_text>zatvoreno, očekuje se gužva u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="433">
+      <short_text>Zatvaranje</short_text>
+      <long_text>zatvoreno, nema smetnji u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="434">
+      <short_text>Zatvaranje</short_text>
+      <long_text>zatvoreno, %lgust saobraćaj s tendencijom pogoršavanja</long_text>
+    </tmc_event>
+    <tmc_event event_code="435">
+      <short_text>Zatvaranje</short_text>
+      <long_text>zatvoreno, gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="436">
+      <short_text>Zatvaranje</short_text>
+      <long_text>zatvoreno, treba računati na gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="437">
+      <short_text>Zatvaranje</short_text>
+      <long_text>zatvoreno, veliki gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="438">
+      <short_text>Zatvaranje</short_text>
+      <long_text>blokirano, %lzastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="439">
+      <short_text>Zatvaranje</short_text>
+      <long_text>blokirano, zastoj 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="440">
+      <short_text>Zatvaranje</short_text>
+      <long_text>blokirano, zastoj 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="441">
+      <short_text>Zatvaranje</short_text>
+      <long_text>blokirano, zastoj 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="442">
+      <short_text>Zatvaranje</short_text>
+      <long_text>blokirano, zastoj 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="443">
+      <short_text>Zatvaranje</short_text>
+      <long_text>blokirano, zastoj 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="444">
+      <short_text>Zatvaranje</short_text>
+      <long_text>blokirano, moguć zastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="445">
+      <short_text>Zatvaranje</short_text>
+      <long_text>blokirano, %lzastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="446">
+      <short_text>Zatvaranje</short_text>
+      <long_text>blokirano, zastoj u saobraćaju 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="447">
+      <short_text>Zatvaranje</short_text>
+      <long_text>blokirano, zastoj u saobraćaju 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="448">
+      <short_text>Zatvaranje</short_text>
+      <long_text>blokirano, zastoj u saobraćaju 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="449">
+      <short_text>Zatvaranje</short_text>
+      <long_text>blokirano, zastoj u saobraćaju 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="450">
+      <short_text>Zatvaranje</short_text>
+      <long_text>blokirano, zastoj u saobraćaju 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="451">
+      <short_text>Zatvaranje</short_text>
+      <long_text>blokirano, moguć zastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="452">
+      <short_text>Zatvaranje</short_text>
+      <long_text>blokirano, %lgust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="453">
+      <short_text>Zatvaranje</short_text>
+      <long_text>blokirano, 1 km gust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="454">
+      <short_text>Zatvaranje</short_text>
+      <long_text>blokirano, 2 km gust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="455">
+      <short_text>Zatvaranje</short_text>
+      <long_text>blokirano, 4 km gust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="456">
+      <short_text>Zatvaranje</short_text>
+      <long_text>blokirano, 6 km gust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="457">
+      <short_text>Zatvaranje</short_text>
+      <long_text>blokirano, 10 km gust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="458">
+      <short_text>Zatvaranje</short_text>
+      <long_text>blokirano, očekuje se gust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="459">
+      <short_text>Zatvaranje</short_text>
+      <long_text>blokirano, %lgužva u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="460">
+      <short_text>Zatvaranje</short_text>
+      <long_text>blokirano, očekuje se gužva u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="461">
+      <short_text>Zatvaranje</short_text>
+      <long_text>blokirano, nema smetnji u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="462">
+      <short_text>Zatvaranje</short_text>
+      <long_text>blokirano, %lgust saobraćaj s tendencijom pogoršavanja</long_text>
+    </tmc_event>
+    <tmc_event event_code="463">
+      <short_text>Zatvaranje</short_text>
+      <long_text>blokirano, gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="464">
+      <short_text>Zatvaranje</short_text>
+      <long_text>blokirano, treba računati na gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="465">
+      <short_text>Zatvaranje</short_text>
+      <long_text>blokirano, veliki gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="469">
+      <short_text>Zatvaranje</short_text>
+      <long_text>zatvoreno</long_text>
+    </tmc_event>
+    <tmc_event event_code="470">
+      <short_text>Zatvaranje</short_text>
+      <long_text>blokirano</long_text>
+    </tmc_event>
+    <tmc_event event_code="471">
+      <short_text>Ulaz zatvoren</short_text>
+      <long_text>Ulaz zatvoren</long_text>
+    </tmc_event>
+    <tmc_event event_code="472">
+      <short_text>Ulaz zatvoren</short_text>
+      <long_text>Ulaz blokiran</long_text>
+    </tmc_event>
+    <tmc_event event_code="473">
+      <short_text>Ulaz zatvoren</short_text>
+      <long_text>Ulaz blokiran</long_text>
+    </tmc_event>
+    <tmc_event event_code="474">
+      <short_text>Izlaz zatvoren</short_text>
+      <long_text>Izlaz zatvoren</long_text>
+    </tmc_event>
+    <tmc_event event_code="475">
+      <short_text>Izlaz zatvoren</short_text>
+      <long_text>Izlaz blokiran</long_text>
+    </tmc_event>
+    <tmc_event event_code="476">
+      <short_text>Izlaz zatvoren</short_text>
+      <long_text>Izlaz blokiran</long_text>
+    </tmc_event>
+    <tmc_event event_code="477">
+      <short_text>Izlaz zatvoren</short_text>
+      <long_text>Ulazi i izlazi blokirani</long_text>
+    </tmc_event>
+    <tmc_event event_code="478">
+      <short_text>Izlaz zatvoren</short_text>
+      <long_text>Priključna cesta zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="479">
+      <short_text>Ograničeno prohodna cesta</short_text>
+      <long_text>Paralelna vozna traka zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="480">
+      <short_text>Ograničeno prohodna cesta</short_text>
+      <long_text>desna traka zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="481">
+      <short_text>Ograničeno prohodna cesta</short_text>
+      <long_text>lijeva traka zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="482">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Traka za preticanje zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="483">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Traka za saobraćaj na velike udaljenosti zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="484">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Traka za saobraćaj na male udaljenosti zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="485">
+      <short_text>Izlaz zatvoren</short_text>
+      <long_text>Priključna vozna traka blokirana</long_text>
+    </tmc_event>
+    <tmc_event event_code="486">
+      <short_text>Ograničeno prohodna cesta</short_text>
+      <long_text>Paralelna vozna traka blokirana</long_text>
+    </tmc_event>
+    <tmc_event event_code="487">
+      <short_text>Ograničeno prohodna cesta</short_text>
+      <long_text>desna traka blokirana</long_text>
+    </tmc_event>
+    <tmc_event event_code="488">
+      <short_text>Ograničeno prohodna cesta</short_text>
+      <long_text>lijeva traka blokirana</long_text>
+    </tmc_event>
+    <tmc_event event_code="489">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Traka za preticanje blokirana</long_text>
+    </tmc_event>
+    <tmc_event event_code="490">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Traka za saobraćaj na velike udaljenosti blokirana</long_text>
+    </tmc_event>
+    <tmc_event event_code="491">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Traka za saobraćaj na male udaljenosti blokirana</long_text>
+    </tmc_event>
+    <tmc_event event_code="492">
+      <short_text>Zatvaranje</short_text>
+      <long_text>Zabrana vožnje</long_text>
+    </tmc_event>
+    <tmc_event event_code="493">
+      <short_text>Ograničeno prohodna cesta</short_text>
+      <long_text>Ograničenja</long_text>
+    </tmc_event>
+    <tmc_event event_code="495">
+      <short_text>Zatvaranje</short_text>
+      <long_text>zatvoreno, zastoj 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="496">
+      <short_text>Zatvaranje</short_text>
+      <long_text>zatvoreno, zastoj u saobraćaju 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="497">
+      <short_text>Zatvaranje</short_text>
+      <long_text>zatvoreno, gust saobraćaj 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="498">
+      <short_text>Zatvaranje</short_text>
+      <long_text>blokirano, zastoj 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="499">
+      <short_text>Zatvaranje</short_text>
+      <long_text>blokirano, zastoj u saobraćaju 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="500">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Vozna traka zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="501">
+      <short_text>Suženje ceste</short_text>
+      <long_text>desna vozna traka zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="502">
+      <short_text>Suženje ceste</short_text>
+      <long_text>srednja vozna traka zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="503">
+      <short_text>Suženje ceste</short_text>
+      <long_text>lijeva vozna traka zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="504">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Zaustavna traka zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="505">
+      <short_text>Suženje ceste</short_text>
+      <long_text>2 vozne trake zatvorene</long_text>
+    </tmc_event>
+    <tmc_event event_code="506">
+      <short_text>Suženje ceste</short_text>
+      <long_text>3 vozne trake zatvorene</long_text>
+    </tmc_event>
+    <tmc_event event_code="507">
+      <short_text>Suženje ceste</short_text>
+      <long_text>desna vozna traka blokirana</long_text>
+    </tmc_event>
+    <tmc_event event_code="508">
+      <short_text>Suženje ceste</short_text>
+      <long_text>srednja vozna traka blokirana</long_text>
+    </tmc_event>
+    <tmc_event event_code="509">
+      <short_text>Suženje ceste</short_text>
+      <long_text>lijeva vozna traka blokirana</long_text>
+    </tmc_event>
+    <tmc_event event_code="510">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Zaustavna traka blokirana</long_text>
+    </tmc_event>
+    <tmc_event event_code="511">
+      <short_text>Suženje ceste</short_text>
+      <long_text>2 vozne trake blokirane</long_text>
+    </tmc_event>
+    <tmc_event event_code="512">
+      <short_text>Suženje ceste</short_text>
+      <long_text>3 vozne trake blokirane</long_text>
+    </tmc_event>
+    <tmc_event event_code="513">
+      <short_text>Suženje ceste</short_text>
+      <long_text>naizmjeničan saobraćaj u oba pravca u samo jednoj voznoj traci</long_text>
+    </tmc_event>
+    <tmc_event event_code="514">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Cesta sužena na jednu traku</long_text>
+    </tmc_event>
+    <tmc_event event_code="515">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Cesta sužena na dvije trake</long_text>
+    </tmc_event>
+    <tmc_event event_code="516">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Cesta sužena na tri trake</long_text>
+    </tmc_event>
+    <tmc_event event_code="517">
+      <short_text>Ograničeno prohodna cesta</short_text>
+      <long_text>Saobraćaj se preusmjerava preko trake iz suprotnog pravca</long_text>
+    </tmc_event>
+    <tmc_event event_code="518">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Suženje ceste</long_text>
+    </tmc_event>
+    <tmc_event event_code="519">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Suženje ceste, saobraćaj se preusmjerava preko trake iz suprotnog pravca</long_text>
+    </tmc_event>
+    <tmc_event event_code="520">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Vozna traka blokirana</long_text>
+    </tmc_event>
+    <tmc_event event_code="521">
+      <short_text>Zastoj</short_text>
+      <long_text>Vozna traka zatvorena, %lzastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="522">
+      <short_text>Zastoj</short_text>
+      <long_text>Vozna traka zatvorena, zastoj 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="523">
+      <short_text>Zastoj</short_text>
+      <long_text>Vozna traka zatvorena, zastoj 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="524">
+      <short_text>Zastoj</short_text>
+      <long_text>Vozna traka zatvorena, zastoj 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="525">
+      <short_text>Zastoj</short_text>
+      <long_text>Vozna traka zatvorena, zastoj 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="526">
+      <short_text>Zastoj</short_text>
+      <long_text>Vozna traka zatvorena, zastoj 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="527">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Vozna traka zatvorena, moguć zastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="528">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Vozna traka zatvorena, %lzastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="529">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Vozna traka zatvorena, zastoj u saobraćaju 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="530">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Vozna traka zatvorena, zastoj u saobraćaju 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="531">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Vozna traka zatvorena, zastoj u saobraćaju 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="532">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Vozna traka zatvorena, zastoj u saobraćaju 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="533">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Vozna traka zatvorena, zastoj u saobraćaju 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="534">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Vozna traka zatvorena, moguć zastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="535">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Vozna traka zatvorena, %lgust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="536">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Vozna traka zatvorena, gust saobraćaj 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="537">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Vozna traka zatvorena, gust saobraćaj 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="538">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Vozna traka zatvorena, gust saobraćaj 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="539">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Vozna traka zatvorena, gust saobraćaj 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="540">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Vozna traka zatvorena, gust saobraćaj 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="541">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Vozna traka zatvorena, očekuje se gust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="542">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Vozna traka zatvorena, %lgužva u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="543">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Vozna traka zatvorena, očekuje se gužva u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="544">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Vozna traka zatvorena, nema smetnji u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="545">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Vozna traka zatvorena, %lgust saobraćaj s tendencijom pogoršavanja</long_text>
+    </tmc_event>
+    <tmc_event event_code="546">
+      <short_text>Zastoj</short_text>
+      <long_text>Cesta sužena na jednu traku, %lzastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="547">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Cesta sužena na jednu traku, moguć zastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="548">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Cesta sužena na jednu traku, %lzastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="549">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Cesta sužena na jednu traku, moguć zastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="550">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Cesta sužena na jednu traku, %lgust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="551">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Cesta sužena na jednu traku, treba očekivati gust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="552">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Cesta sužena na jednu traku, %lgužva u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="553">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Cesta sužena na jednu traku, treba očekivati gužvu u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="554">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Cesta sužena na jednu traku, nema smetnji u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="555">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Cesta sužena na jednu traku, %lgust saobraćaj s tendencijom pogoršanja</long_text>
+    </tmc_event>
+    <tmc_event event_code="556">
+      <short_text>Zastoj</short_text>
+      <long_text>Cesta sužena na dvije trake, %lzastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="557">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Cesta sužena na dvije trake, moguć zastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="558">
+      <short_text>Zastoj</short_text>
+      <long_text>Cesta sužena na dvije trake, %lzastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="559">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Cesta sužena na dvije trake, moguć zastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="560">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Cesta sužena na dvije trake, %lgust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="561">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Cesta sužena na dvije trake, treba očekivati gust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="562">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Cesta sužena na dvije trake, %lgužva u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="563">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Cesta sužena na dvije trake, treba očekivati gužvu u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="564">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Cesta sužena na dvije trake, nema smetnji u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="565">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Cesta sužena na dvije trake, %lgust saobraćaj s tendencijom pogoršanja</long_text>
+    </tmc_event>
+    <tmc_event event_code="566">
+      <short_text>Zastoj</short_text>
+      <long_text>Cesta sužena na tri trake, %lzastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="567">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Cesta sužena na tri trake, moguć zastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="568">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Cesta sužena na tri trake, %lzastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="569">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Cesta sužena na tri trake, moguć zastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="570">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Cesta sužena na tri trake, %lgust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="571">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Cesta sužena na tri trake, treba očekivati gust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="572">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Cesta sužena na tri trake, %lgužva u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="573">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Cesta sužena na tri trake, treba očekivati gužvu u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="574">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Cesta sužena na tri trake, nema smetnji u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="575">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Cesta sužena na tri trake, %lgust saobraćaj s tendencijom pogoršanja</long_text>
+    </tmc_event>
+    <tmc_event event_code="576">
+      <short_text>Zastoj</short_text>
+      <long_text>Saobraćaj se preusmjerava preko trake iz suprotnog pravca, %lzastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="577">
+      <short_text>Zastoj</short_text>
+      <long_text>Saobraćaj se preusmjerava preko trake iz suprotnog pravca, očekuje se zastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="578">
+      <short_text>Zastoj</short_text>
+      <long_text>Saobraćaj se preusmjerava preko trake iz suprotnog pravca, zastoj 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="579">
+      <short_text>Zastoj</short_text>
+      <long_text>Saobraćaj se preusmjerava preko trake iz suprotnog pravca, zastoj 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="580">
+      <short_text>Zastoj</short_text>
+      <long_text>Saobraćaj se preusmjerava preko trake iz suprotnog pravca, zastoj 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="581">
+      <short_text>Zastoj</short_text>
+      <long_text>Saobraćaj se preusmjerava preko trake iz suprotnog pravca, zastoj 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="583">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Saobraćaj se preusmjerava preko trake iz suprotnog pravca, %lzastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="584">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Saobraćaj se preusmjerava preko trake iz suprotnog pravca, zastoj u saobraćaju 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="585">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Saobraćaj se preusmjerava preko trake iz suprotnog pravca, zastoj u saobraćaju 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="586">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Saobraćaj se preusmjerava preko trake iz suprotnog pravca, zastoj u saobraćaju 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="587">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Saobraćaj se preusmjerava preko trake iz suprotnog pravca, zastoj u saobraćaju 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="588">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Saobraćaj se preusmjerava preko trake iz suprotnog pravca, zastoj u saobraćaju 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="590">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Saobraćaj se preusmjerava preko trake iz suprotnog pravca, %lgust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="591">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Saobraćaj se preusmjerava preko trake iz suprotnog pravca, gust saobraćaj 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="592">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Saobraćaj se preusmjerava preko trake iz suprotnog pravca, gust saobraćaj 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="593">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Saobraćaj se preusmjerava preko trake iz suprotnog pravca, gust saobraćaj 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="594">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Saobraćaj se preusmjerava preko trake iz suprotnog pravca, gust saobraćaj 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="595">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Saobraćaj se preusmjerava preko trake iz suprotnog pravca, gust saobraćaj 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="597">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Saobraćaj se preusmjerava preko trake iz suprotnog pravca, %lgužva u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="600">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Saobraćaj se preusmjerava preko trake iz suprotnog pravca, %lgust saobraćaj s tendencijom pogoršavanja</long_text>
+    </tmc_event>
+    <tmc_event event_code="601">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Cesta sužena na jednu traku, saobraćaj se preusmjerava preko trake iz suprotnog pravca</long_text>
+    </tmc_event>
+    <tmc_event event_code="602">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Cesta sužena na dvije trake, saobraćaj se preusmjerava preko trake iz suprotnog pravca</long_text>
+    </tmc_event>
+    <tmc_event event_code="603">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Cesta sužena na tri trake, saobraćaj se preusmjerava preko trake iz suprotnog pravca</long_text>
+    </tmc_event>
+    <tmc_event event_code="604">
+      <short_text>Zastoj</short_text>
+      <long_text>Suženje ceste, %lzastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="605">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Suženje ceste, moguć zastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="606">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Suženje ceste, %lzastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="607">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Suženje ceste, moguć zastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="608">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Suženje ceste, %lgust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="609">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Suženje ceste, očekuje se gust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="610">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Suženje ceste, %lgužva u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="611">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Suženje ceste, očekuje se gužva u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="612">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Suženje ceste, nema smetnji u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="613">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Suženje ceste, %lgust saobraćaj s tendencijom pogoršavanja</long_text>
+    </tmc_event>
+    <tmc_event event_code="614">
+      <short_text>Zastoj</short_text>
+      <long_text> Suženje ceste, saobraćaj se preusmjerava preko trake iz suprotnog pravca, %lzastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="615">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Suženje ceste, saobraćaj se preusmjerava preko trake iz suprotnog pravca, moguć zastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="616">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Suženje ceste, saobraćaj se preusmjerava preko trake iz suprotnog pravca, %lzastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="617">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Suženje ceste, saobraćaj se preusmjerava preko trake iz suprotnog pravca, moguć zastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="618">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Suženje ceste, saobraćaj se preusmjerava preko trake iz suprotnog pravca, %lgust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="619">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Suženje ceste, saobraćaj se preusmjerava preko trake iz suprotnog pravca, očekuje se gust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="620">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Suženje ceste, saobraćaj se preusmjerava preko trake iz suprotnog pravca, %lgužva u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="621">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Suženje ceste, saobraćaj se preusmjerava preko trake iz suprotnog pravca, očekuje se gužva u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="622">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Suženje ceste, saobraćaj se preusmjerava preko trake iz suprotnog pravca, nema smetnji u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="623">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Suženje ceste, saobraćaj se preusmjerava preko trake iz suprotnog pravca, %lgust saobraćaj s tendencijom pogoršavanja</long_text>
+    </tmc_event>
+    <tmc_event event_code="626">
+      <short_text>Zatvaranje</short_text>
+      <long_text>blokirano, gust saobraćaj 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="628">
+      <short_text>Zatvaranje</short_text>
+      <long_text>zatvoreno za kamione s parnim oznakama</long_text>
+    </tmc_event>
+    <tmc_event event_code="629">
+      <short_text>Zatvaranje</short_text>
+      <long_text>zatvoreno za kamione s neparnim oznakama</long_text>
+    </tmc_event>
+    <tmc_event event_code="637">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Zaustavna traka zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="638">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Zaokretna traka zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="639">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Traka za spora vozila zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="640">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Višenamjenska traka zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="641">
+      <short_text>Suženje ceste</short_text>
+      <long_text>jedna traka zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="642">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Zaustavna traka blokirana</long_text>
+    </tmc_event>
+    <tmc_event event_code="643">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Zaokretna traka blokirana</long_text>
+    </tmc_event>
+    <tmc_event event_code="644">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Traka za spora vozila blokirana</long_text>
+    </tmc_event>
+    <tmc_event event_code="645">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Višenamjenska traka blokirana</long_text>
+    </tmc_event>
+    <tmc_event event_code="646">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Vozna traka blokirana</long_text>
+    </tmc_event>
+    <tmc_event event_code="647">
+      <short_text>Informacije za vozila javnog prevoza putnika</short_text>
+      <long_text>Posebna traka za vozila javnog prevoza putnika otvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="648">
+      <short_text>Informacije za vozila javnog prevoza putnika</short_text>
+      <long_text>Posebna traka za vozila javnog prevoza putnika zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="649">
+      <short_text>Informacije za vozila javnog prevoza putnika</short_text>
+      <long_text>Traka za vozila javnog prevoza putnika blokirana</long_text>
+    </tmc_event>
+    <tmc_event event_code="650">
+      <short_text>Informacije za vozila javnog prevoza putnika</short_text>
+      <long_text>Promijenjeni su uvjeti za vozila javnog prevoza putnika</long_text>
+    </tmc_event>
+    <tmc_event event_code="651">
+      <short_text>Zastoj</short_text>
+      <long_text>Vozna traka zatvorena, zastoj 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="652">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Vozna traka zatvorena, zastoj u saobraćaju 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="653">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Vozna traka zatvorena, gust saobraćaj 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="654">
+      <short_text>Zastoj</short_text>
+      <long_text>Saobraćaj se preusmjerava preko trake iz suprotnog pravca, zastoj 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="655">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Saobraćaj se preusmjerava preko trake iz suprotnog pravca, zastoj u saobraćaju 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="656">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Saobraćaj se preusmjerava preko trake iz suprotnog pravca, gust saobraćaj 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="664">
+      <short_text>Zatvaranje</short_text>
+      <long_text>Traka zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="665">
+      <short_text>Zatvaranje</short_text>
+      <long_text>oba pravca zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="666">
+      <short_text>Zatvaranje</short_text>
+      <long_text>višestruko kratkotrajno zatvaranje</long_text>
+    </tmc_event>
+    <tmc_event event_code="671">
+      <short_text>Informacije za vozila javnog prevoza putnika</short_text>
+      <long_text>Korištenje trake za autobus dopušteno za vozila javnog prevoza putnika</long_text>
+    </tmc_event>
+    <tmc_event event_code="701">
+      <short_text>Gradilište</short_text>
+      <long_text>Gradilište</long_text>
+    </tmc_event>
+    <tmc_event event_code="702">
+      <short_text>Gradilište</short_text>
+      <long_text>Veliko gradilište</long_text>
+    </tmc_event>
+    <tmc_event event_code="703">
+      <short_text>Gradilište</short_text>
+      <long_text>Radovi na održavanju</long_text>
+    </tmc_event>
+    <tmc_event event_code="704">
+      <short_text>Gradilište</short_text>
+      <long_text>Obnova ceste</long_text>
+    </tmc_event>
+    <tmc_event event_code="705">
+      <short_text>Gradilište</short_text>
+      <long_text>Radovi na srednjoj traci</long_text>
+    </tmc_event>
+    <tmc_event event_code="706">
+      <short_text>opasna situacija</short_text>
+      <long_text>Radovi na označavanju</long_text>
+    </tmc_event>
+    <tmc_event event_code="707">
+      <short_text>Gradilište</short_text>
+      <long_text>Radovi na mostu</long_text>
+    </tmc_event>
+    <tmc_event event_code="708">
+      <short_text>Gradilište</short_text>
+      <long_text>privremena regulacija s provizornim semaforima</long_text>
+    </tmc_event>
+    <tmc_event event_code="709">
+      <short_text>Gradilište</short_text>
+      <long_text>Miniranje</long_text>
+    </tmc_event>
+    <tmc_event event_code="710">
+      <short_text>Zastoj</short_text>
+      <long_text>Gradilište, %lzastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="711">
+      <short_text>Zastoj</short_text>
+      <long_text>Gradilište, zastoj 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="712">
+      <short_text>Zastoj</short_text>
+      <long_text>Gradilište, zastoj 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="713">
+      <short_text>Zastoj</short_text>
+      <long_text>Gradilište, zastoj 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="714">
+      <short_text>Zastoj</short_text>
+      <long_text>Gradilište, zastoj 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="715">
+      <short_text>Zastoj</short_text>
+      <long_text>Gradilište, zastoj 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="716">
+      <short_text>Gradilište</short_text>
+      <long_text>Gradilište, moguć zastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="717">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Gradilište, %lzastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="718">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Gradilište, zastoj u saobraćaju 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="719">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Gradilište, zastoj u saobraćaju 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="720">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Gradilište, zastoj u saobraćaju 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="721">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Gradilište, zastoj u saobraćaju 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="722">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Gradilište, zastoj u saobraćaju 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="723">
+      <short_text>Gradilište</short_text>
+      <long_text>Gradilište, moguć zastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="724">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Gradilište, %lgust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="725">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Gradilište, gust saobraćaj 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="726">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Gradilište, gust saobraćaj 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="727">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Gradilište, gust saobraćaj 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="728">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Gradilište, gust saobraćaj 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="729">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Gradilište, gust saobraćaj 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="730">
+      <short_text>Gradilište</short_text>
+      <long_text>Gradilište, očekuje se gust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="731">
+      <short_text>Gradilište</short_text>
+      <long_text>Gradilište, %lgužva u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="732">
+      <short_text>Gradilište</short_text>
+      <long_text>Gradilište, očekuje se gužva u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="733">
+      <short_text>Gradilište</short_text>
+      <long_text>Gradilište, nema smetnji u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="734">
+      <short_text>Gradilište</short_text>
+      <long_text>Gradilište, %lgust saobraćaj s tendencijom pogoršavanja</long_text>
+    </tmc_event>
+    <tmc_event event_code="735">
+      <short_text>Zatvaranje</short_text>
+      <long_text>zatvoreno zbog građevinskih radova</long_text>
+    </tmc_event>
+    <tmc_event event_code="736">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Gradilište, desna vozna traka zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="737">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Gradilište, srednja vozna traka zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="738">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Gradilište, lijeva vozna traka zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="739">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Gradilište, zaustavna traka zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="740">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Gradilište, 2 vozne trake zatvorene</long_text>
+    </tmc_event>
+    <tmc_event event_code="741">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Gradilište, 3 vozne trake zatvorene</long_text>
+    </tmc_event>
+    <tmc_event event_code="742">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Gradilište, naizmjeničan saobraćaj u oba pravca u samo jednoj voznoj traci</long_text>
+    </tmc_event>
+    <tmc_event event_code="743">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Gradilište, cesta sužena na jednu traku</long_text>
+    </tmc_event>
+    <tmc_event event_code="744">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Gradilište, cesta sužena na dvije trake</long_text>
+    </tmc_event>
+    <tmc_event event_code="745">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Gradilište, cesta sužena na tri trake</long_text>
+    </tmc_event>
+    <tmc_event event_code="746">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Gradilište, saobraćaj se preusmjerava preko trake iz suprotnog pravca</long_text>
+    </tmc_event>
+    <tmc_event event_code="747">
+      <short_text>Gradilište</short_text>
+      <long_text>Gradilište, gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="748">
+      <short_text>Gradilište</short_text>
+      <long_text>Gradilište, treba računati na gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="749">
+      <short_text>Gradilište</short_text>
+      <long_text>Gradilište, veliki gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="750">
+      <short_text>Zastoj</short_text>
+      <long_text>Obnova ceste, %lzastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="751">
+      <short_text>Zastoj</short_text>
+      <long_text>Obnova ceste, zastoj 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="752">
+      <short_text>Zastoj</short_text>
+      <long_text>Obnova ceste, zastoj 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="753">
+      <short_text>Zastoj</short_text>
+      <long_text>Obnova ceste, zastoj 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="754">
+      <short_text>Zastoj</short_text>
+      <long_text>Obnova ceste, zastoj 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="755">
+      <short_text>Zastoj</short_text>
+      <long_text>Obnova ceste, zastoj 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="756">
+      <short_text>Gradilište</short_text>
+      <long_text>Obnova ceste, moguć zastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="757">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Obnova ceste, %lzastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="758">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Obnova ceste, zastoj u saobraćaju 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="759">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Obnova ceste, zastoj u saobraćaju 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="760">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Obnova ceste, zastoj u saobraćaju 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="761">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Obnova ceste, zastoj u saobraćaju 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="762">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Obnova ceste, zastoj u saobraćaju 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="763">
+      <short_text>Gradilište</short_text>
+      <long_text>Obnova ceste, moguć zastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="764">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Obnova ceste, %lgust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="765">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Obnova ceste, gust saobraćaj 1 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="766">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Obnova ceste, gust saobraćaj 2 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="767">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Obnova ceste, gust saobraćaj 4 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="768">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Obnova ceste, gust saobraćaj 6 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="769">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Obnova ceste, gust saobraćaj 10 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="770">
+      <short_text>Gradilište</short_text>
+      <long_text>Obnova ceste, očekuje se gust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="771">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Obnova ceste, %lgužva u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="772">
+      <short_text>Gradilište</short_text>
+      <long_text>Obnova ceste, očekuje se gužva u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="773">
+      <short_text>Gradilište</short_text>
+      <long_text>Obnova ceste, nema smetnji u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="774">
+      <short_text>Gradilište</short_text>
+      <long_text>Obnova ceste, %lgust saobraćaj s tendencijom pogoršavanja</long_text>
+    </tmc_event>
+    <tmc_event event_code="775">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Obnova ceste, naizmjeničan saobraćaj u oba pravca u samo jednoj voznoj traci</long_text>
+    </tmc_event>
+    <tmc_event event_code="776">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Obnova ceste, cesta sužena na jednu traku</long_text>
+    </tmc_event>
+    <tmc_event event_code="777">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Obnova ceste, cesta sužena na dvije trake</long_text>
+    </tmc_event>
+    <tmc_event event_code="780">
+      <short_text>Gradilište</short_text>
+      <long_text>Obnova ceste, gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="781">
+      <short_text>Gradilište</short_text>
+      <long_text>Obnova ceste, treba računati na gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="782">
+      <short_text>Gradilište</short_text>
+      <long_text>Obnova ceste, veliki gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="783">
+      <short_text>Zastoj</short_text>
+      <long_text>Radovi na označavanju, %lzastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="785">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Radovi na označavanju, %lzastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="786">
+      <short_text>Ograničena prohodnost</short_text>
+      <long_text>Radovi na označavanju, moguć zastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="787">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Radovi na označavanju, %lgust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="789">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Radovi na označavanju, %lgužva u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="791">
+      <short_text>Gradilište</short_text>
+      <long_text>Radovi na označavanju, nema smetnji u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="792">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Radovi na označavanju, %lgust saobraćaj s tendencijom pogoršavanja</long_text>
+    </tmc_event>
+    <tmc_event event_code="793">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Radovi na označavanju, desna vozna traka zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="794">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Radovi na označavanju, srednja vozna traka zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="795">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Radovi na označavanju, lijeva vozna traka zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="796">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Radovi na označavanju, zaustavna traka zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="797">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Radovi na označavanju, 2 vozne trake zatvorene</long_text>
+    </tmc_event>
+    <tmc_event event_code="798">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Radovi na označavanju, 3 vozne trake zatvorene</long_text>
+    </tmc_event>
+    <tmc_event event_code="799">
+      <short_text>Zatvaranje</short_text>
+      <long_text>Puknuće mosta, zatvorena cesta</long_text>
+    </tmc_event>
+    <tmc_event event_code="802">
+      <short_text>Gradilište</short_text>
+      <long_text>Trajno gradilište</long_text>
+    </tmc_event>
+    <tmc_event event_code="803">
+      <short_text>Gradilište</short_text>
+      <long_text>Radovi</long_text>
+    </tmc_event>
+    <tmc_event event_code="804">
+      <short_text>Gradilište</short_text>
+      <long_text>Privremeno gradilište</long_text>
+    </tmc_event>
+    <tmc_event event_code="805">
+      <short_text>Gradilište</short_text>
+      <long_text>Puknuće mosta</long_text>
+    </tmc_event>
+    <tmc_event event_code="806">
+      <short_text>Gradilište</short_text>
+      <long_text>Radovi na vodovodu</long_text>
+    </tmc_event>
+    <tmc_event event_code="807">
+      <short_text>Gradilište</short_text>
+      <long_text>Radovi na plinovodu</long_text>
+    </tmc_event>
+    <tmc_event event_code="808">
+      <short_text>Gradilište</short_text>
+      <long_text>Radovi na podzemnim kablovima</long_text>
+    </tmc_event>
+    <tmc_event event_code="809">
+      <short_text>Gradilište</short_text>
+      <long_text>Dubinski radovi</long_text>
+    </tmc_event>
+    <tmc_event event_code="810">
+      <short_text>Gradilište</short_text>
+      <long_text>Promijenjen tok saobraćaja na području gradilišta</long_text>
+    </tmc_event>
+    <tmc_event event_code="812">
+      <short_text>Zastoj</short_text>
+      <long_text>Gradilište, zastoj 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="813">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Gradilište, zastoj u saobraćaju 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="814">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Gradilište, gust saobraćaj 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="815">
+      <short_text>Gradilište</short_text>
+      <long_text>Dnevno gradilište</long_text>
+    </tmc_event>
+    <tmc_event event_code="816">
+      <short_text>Gradilište</short_text>
+      <long_text>Gradilište u vrijeme slabijeg saobraćaja</long_text>
+    </tmc_event>
+    <tmc_event event_code="817">
+      <short_text>Gradilište</short_text>
+      <long_text>Noćno gradilište</long_text>
+    </tmc_event>
+    <tmc_event event_code="818">
+      <short_text>Zastoj</short_text>
+      <long_text>Obnova ceste, zastoj 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="819">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Obnova ceste, zastoj u saobraćaju 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="820">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Obnova ceste, gust saobraćaj 3 km</long_text>
+    </tmc_event>
+    <tmc_event event_code="821">
+      <short_text>Gradilište</short_text>
+      <long_text>Obnova ceste preko dana</long_text>
+    </tmc_event>
+    <tmc_event event_code="822">
+      <short_text>Gradilište</short_text>
+      <long_text>Obnova ceste u vrijeme slabijeg saobraćaja</long_text>
+    </tmc_event>
+    <tmc_event event_code="823">
+      <short_text>Gradilište</short_text>
+      <long_text>Obnova ceste preko noći</long_text>
+    </tmc_event>
+    <tmc_event event_code="824">
+      <short_text>opasna situacija</short_text>
+      <long_text>Radovi na označavanju, opasnost</long_text>
+    </tmc_event>
+    <tmc_event event_code="825">
+      <short_text>Zastoj</short_text>
+      <long_text>Privremeno gradilište, %lzastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="826">
+      <short_text>Gradilište</short_text>
+      <long_text>Privremeno gradilište, moguć zastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="827">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Privremeno gradilište, %lzastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="828">
+      <short_text>Gradilište</short_text>
+      <long_text>Privremeno gradilište, moguć zastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="829">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Privremeno gradilište, %lgust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="830">
+      <short_text>Gradilište</short_text>
+      <long_text>Privremeno gradilište, očekuje se gust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="831">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Privremeno gradilište, %lgužva u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="832">
+      <short_text>Gradilište</short_text>
+      <long_text>Privremeno gradilište, očekuje se gužva u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="833">
+      <short_text>Gradilište</short_text>
+      <long_text>Privremeno gradilište, nema smetnji u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="834">
+      <short_text>Gradilište</short_text>
+      <long_text>Privremeno gradilište, %lgust saobraćaj s tendencijom pogoršavanja</long_text>
+    </tmc_event>
+    <tmc_event event_code="835">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Privremeno gradilište, desna vozna traka zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="836">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Privremeno gradilište, srednja vozna traka zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="837">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Privremeno gradilište, lijeva vozna traka zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="838">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Privremeno gradilište, 2 vozne trake zatvorene</long_text>
+    </tmc_event>
+    <tmc_event event_code="839">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Privremeno gradilište, 3 vozne trake zatvorene</long_text>
+    </tmc_event>
+    <tmc_event event_code="840">
+      <short_text>Gradilište</short_text>
+      <long_text>Radovi na vodovodu, gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="841">
+      <short_text>Gradilište</short_text>
+      <long_text>Radovi na vodovodu, treba računati na gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="842">
+      <short_text>Gradilište</short_text>
+      <long_text>Radovi na vodovodu, veliki gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="843">
+      <short_text>Gradilište</short_text>
+      <long_text>Radovi na plinovodu, gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="844">
+      <short_text>Gradilište</short_text>
+      <long_text>Radovi na plinovodu, treba računati na gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="845">
+      <short_text>Gradilište</short_text>
+      <long_text>Radovi na plinovodu, veliki gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="846">
+      <short_text>Gradilište</short_text>
+      <long_text>Radovi na podzemnim kablovima, gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="847">
+      <short_text>Gradilište</short_text>
+      <long_text>Radovi na podzemnim kablovima, treba računati na gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="848">
+      <short_text>Gradilište</short_text>
+      <long_text>Radovi na podzemnim kablovima, veliki gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="849">
+      <short_text>Gradilište</short_text>
+      <long_text>Dubinski radovi, gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="850">
+      <short_text>Gradilište</short_text>
+      <long_text>Dubinski radovi, treba računati na gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="851">
+      <short_text>Gradilište</short_text>
+      <long_text>Dubinski radovi, veliki gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="852">
+      <short_text>opasna situacija</short_text>
+      <long_text>Smetnja u saobraćaju zbog građevinskih vozila</long_text>
+    </tmc_event>
+    <tmc_event event_code="853">
+      <short_text>Gradilište</short_text>
+      <long_text>Smetnja u saobraćaju zbog rastavljanja gradilišta</long_text>
+    </tmc_event>
+    <tmc_event event_code="856">
+      <short_text>opasna situacija</short_text>
+      <long_text>Opasnost od građevinskih vozila</long_text>
+    </tmc_event>
+    <tmc_event event_code="857">
+      <short_text>Udes</short_text>
+      <long_text>neosigurano mjesto nesreće</long_text>
+    </tmc_event>
+    <tmc_event event_code="858">
+      <short_text>Udes</short_text>
+      <long_text>Opasnost zbog neosiguranog mjesta nesreće</long_text>
+    </tmc_event>
+    <tmc_event event_code="900">
+      <short_text>Poplava</short_text>
+      <long_text>treba očekivati poplave</long_text>
+    </tmc_event>
+    <tmc_event event_code="901">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Ograničena prohodnost zbog prepreka</long_text>
+    </tmc_event>
+    <tmc_event event_code="902">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Opasnost od prepreka na voznoj traci</long_text>
+    </tmc_event>
+    <tmc_event event_code="903">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Ograničena prohodnost zbog prosutog tereta</long_text>
+    </tmc_event>
+    <tmc_event event_code="904">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Ograničena prohodnost zbog šteta od oluje</long_text>
+    </tmc_event>
+    <tmc_event event_code="905">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Ograničena prohodnost zbog oborenog drveća</long_text>
+    </tmc_event>
+    <tmc_event event_code="906">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Opasnost zbog oborenog drveća</long_text>
+    </tmc_event>
+    <tmc_event event_code="907">
+      <short_text>Poplava</short_text>
+      <long_text>Ograničena prohodnost zbog visokog vodostaja vode</long_text>
+    </tmc_event>
+    <tmc_event event_code="908">
+      <short_text>Poplava</short_text>
+      <long_text>Opasnost zbog visokog vodostaja vode</long_text>
+    </tmc_event>
+    <tmc_event event_code="909">
+      <short_text>Poplava</short_text>
+      <long_text>Ograničena prohodnost zbog poplava</long_text>
+    </tmc_event>
+    <tmc_event event_code="910">
+      <short_text>Poplava</short_text>
+      <long_text>Opasnost od poplava</long_text>
+    </tmc_event>
+    <tmc_event event_code="911">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Ograničena prohodnost zbog lavina</long_text>
+    </tmc_event>
+    <tmc_event event_code="912">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Ograničena prohodnost zbog mogućih lavina</long_text>
+    </tmc_event>
+    <tmc_event event_code="913">
+      <short_text>opasna situacija</short_text>
+      <long_text>Ograničena prohodnost zbog odrona kamenja</long_text>
+    </tmc_event>
+    <tmc_event event_code="914">
+      <short_text>opasna situacija</short_text>
+      <long_text>Ograničena prohodnost zbog klizišta</long_text>
+    </tmc_event>
+    <tmc_event event_code="915">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Ograničena prohodnost zbog oštećenja od zemljotresa</long_text>
+    </tmc_event>
+    <tmc_event event_code="916">
+      <short_text>Opasni uvjeti na cesti</short_text>
+      <long_text>Ograničena prohodnost zbog oštećenja na cesti</long_text>
+    </tmc_event>
+    <tmc_event event_code="917">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Ograničena prohodnost zbog ulegnuća ceste</long_text>
+    </tmc_event>
+    <tmc_event event_code="918">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Ograničena prohodnost zbog nadiranja vode ispod ceste</long_text>
+    </tmc_event>
+    <tmc_event event_code="919">
+      <short_text>Poplava</short_text>
+      <long_text>Ograničena prohodnost zbog puknuća vodovodne cijevi</long_text>
+    </tmc_event>
+    <tmc_event event_code="920">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Ograničena prohodnost zbog curenja gasa</long_text>
+    </tmc_event>
+    <tmc_event event_code="921">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Ograničena prohodnost zbog velikog požara</long_text>
+    </tmc_event>
+    <tmc_event event_code="922">
+      <short_text>opasna situacija</short_text>
+      <long_text>Ograničena prohodnost zbog životinja na cesti</long_text>
+    </tmc_event>
+    <tmc_event event_code="923">
+      <short_text>opasna situacija</short_text>
+      <long_text>Opasnost zbog životinja na cesti</long_text>
+    </tmc_event>
+    <tmc_event event_code="924">
+      <short_text>Ograničena prohodnost</short_text>
+      <long_text>Ograničena prohodnost zbog čišćenja</long_text>
+    </tmc_event>
+    <tmc_event event_code="925">
+      <short_text>Zatvaranje</short_text>
+      <long_text>Ograničena prohodnost zbog šteta od oluje, cesta blokirana</long_text>
+    </tmc_event>
+    <tmc_event event_code="926">
+      <short_text>Zatvaranje</short_text>
+      <long_text>Ograničena prohodnost zbog oborenog drveća, cesta blokirana</long_text>
+    </tmc_event>
+    <tmc_event event_code="927">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Ograničena prohodnost zbog oborenog drveća, ograničeno korištenje ceste</long_text>
+    </tmc_event>
+    <tmc_event event_code="928">
+      <short_text>Zastoj</short_text>
+      <long_text>Ograničena prohodnost zbog visokog vodostaja vode, %lzastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="929">
+      <short_text>Poplava</short_text>
+      <long_text>Ograničena prohodnost zbog visokog vodostaja vode, moguć zastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="930">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Ograničena prohodnost zbog visokog vodostaja vode, %lzastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="931">
+      <short_text>Ograničena prohodnost</short_text>
+      <long_text>Ograničena prohodnost zbog visokog vodostaja vode, moguć zastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="932">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Ograničena prohodnost zbog visokog vodostaja vode, %lgust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="934">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Ograničena prohodnost zbog visokog vodostaja vode, %lgužva u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="936">
+      <short_text>Poplava</short_text>
+      <long_text>Visok vodostaj vode, nema smetnji u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="937">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Ograničena prohodnost zbog visokog vodostaja vode, %lgust saobraćaj s tendencijom pogoršavanja</long_text>
+    </tmc_event>
+    <tmc_event event_code="938">
+      <short_text>Zatvaranje</short_text>
+      <long_text>Ograničena prohodnost zbog visokog vodostaja vode, cesta zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="939">
+      <short_text>Poplava</short_text>
+      <long_text>Ograničena prohodnost zbog visokog vodostaja vode, gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="940">
+      <short_text>Poplava</short_text>
+      <long_text>Ograničena prohodnost zbog visokog vodostaja vode, treba računati na gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="941">
+      <short_text>Poplava</short_text>
+      <long_text>Ograničena prohodnost zbog visokog vodostaja vode, veliki gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="942">
+      <short_text>Poplava</short_text>
+      <long_text>Ograničena prohodnost zbog visokog vodostaja vode, ograničeno korištenje ceste</long_text>
+    </tmc_event>
+    <tmc_event event_code="943">
+      <short_text>Zatvaranje</short_text>
+      <long_text>Ograničena prohodnost zbog lavina, cesta zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="944">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Ograničena prohodnost zbog lavina, ograničeno korištenje ceste</long_text>
+    </tmc_event>
+    <tmc_event event_code="945">
+      <short_text>Zatvaranje</short_text>
+      <long_text>Ograničena prohodnost zbog odrona kamenja, cesta zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="946">
+      <short_text>opasna situacija</short_text>
+      <long_text>Ograničena prohodnost zbog odrona kamenja, ograničeno korištenje ceste</long_text>
+    </tmc_event>
+    <tmc_event event_code="947">
+      <short_text>Zatvaranje</short_text>
+      <long_text>Ograničena prohodnost zbog klizišta, cesta zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="948">
+      <short_text>opasna situacija</short_text>
+      <long_text>Ograničena prohodnost zbog klizišta, ograničeno korištenje ceste</long_text>
+    </tmc_event>
+    <tmc_event event_code="949">
+      <short_text>Zatvaranje</short_text>
+      <long_text>Ograničena prohodnost zbog ulegnuća ceste, cesta zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="950">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Ograničena prohodnost zbog ulegnuća ceste, zaustavna traka zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="951">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Ograničena prohodnost zbog ulegnuća ceste, cesta sužena na jednu traku</long_text>
+    </tmc_event>
+    <tmc_event event_code="952">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Ograničena prohodnost zbog ulegnuća ceste, cesta sužena na dvije trake</long_text>
+    </tmc_event>
+    <tmc_event event_code="953">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Ograničena prohodnost zbog ulegnuća ceste, cesta sužena na tri trake</long_text>
+    </tmc_event>
+    <tmc_event event_code="955">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Ograničena prohodnost zbog ulegnuća ceste, ograničeno korištenje ceste</long_text>
+    </tmc_event>
+    <tmc_event event_code="956">
+      <short_text>Zatvaranje</short_text>
+      <long_text>Ograničena prohodnost zbog nadiranja vode ispod ceste, cesta zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="957">
+      <short_text>Zatvaranje</short_text>
+      <long_text>Ograničena prohodnost zbog puknuća vodovodne cijevi, cesta zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="958">
+      <short_text>Poplava</short_text>
+      <long_text>Ograničena prohodnost zbog puknuća vodovodne cijevi, gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="959">
+      <short_text>Poplava</short_text>
+      <long_text>Ograničena prohodnost zbog puknuća vodovodne cijevi, treba računati na gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="960">
+      <short_text>Poplava</short_text>
+      <long_text>Ograničena prohodnost zbog puknuća vodovodne cijevi, veliki gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="961">
+      <short_text>Zatvaranje</short_text>
+      <long_text>Ograničena prohodnost zbog curenja gasa, cesta zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="962">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Ograničena prohodnost zbog curenja gasa, gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="963">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Ograničena prohodnost zbog curenja gasa, treba računati na gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="964">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Ograničena prohodnost zbog curenja gasa, veliki gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="965">
+      <short_text>Zatvaranje</short_text>
+      <long_text>Ograničena prohodnost zbog požara, cesta zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="966">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Ograničena prohodnost zbog požara, gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="967">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Ograničena prohodnost zbog požara, treba računati na gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="968">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Ograničena prohodnost zbog požara, veliki gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="969">
+      <short_text>Zatvaranje</short_text>
+      <long_text>Ograničena prohodnost zbog čišćenja, cesta zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="972">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>treba očekivati štete od oluje</long_text>
+    </tmc_event>
+    <tmc_event event_code="973">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Ograničena prohodnost zbog visećih strujnih kablova</long_text>
+    </tmc_event>
+    <tmc_event event_code="974">
+      <short_text>Poplava</short_text>
+      <long_text>Ograničena prohodnost zbog preopterećenih odvodnih kanala</long_text>
+    </tmc_event>
+    <tmc_event event_code="975">
+      <short_text>Klizava cesta</short_text>
+      <long_text>Poledica</long_text>
+    </tmc_event>
+    <tmc_event event_code="976">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Ograničena prohodnost zbog blatne lavine</long_text>
+    </tmc_event>
+    <tmc_event event_code="977">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Ograničena prohodnost zbog požara</long_text>
+    </tmc_event>
+    <tmc_event event_code="978">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Pad aviona</long_text>
+    </tmc_event>
+    <tmc_event event_code="979">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Nesreća voza</long_text>
+    </tmc_event>
+    <tmc_event event_code="980">
+      <short_text>Zatvaranje</short_text>
+      <long_text>Ograničena prohodnost zbog prepreka, cesta blokirana</long_text>
+    </tmc_event>
+    <tmc_event event_code="981">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Ograničena prohodnost zbog prepreka, ograničeno korištenje ceste</long_text>
+    </tmc_event>
+    <tmc_event event_code="982">
+      <short_text>Zatvaranje</short_text>
+      <long_text>Ograničena prohodnost zbog prosutog tereta, cesta blokirana</long_text>
+    </tmc_event>
+    <tmc_event event_code="983">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Ograničena prohodnost zbog prosutog tereta, ograničeno korištenje ceste</long_text>
+    </tmc_event>
+    <tmc_event event_code="984">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Opasnost zbog prosutog tereta</long_text>
+    </tmc_event>
+    <tmc_event event_code="985">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Ograničena prohodnost zbog šteta od oluje, ograničeno korištenje ceste</long_text>
+    </tmc_event>
+    <tmc_event event_code="986">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Opasnost zbog šteta od oluje</long_text>
+    </tmc_event>
+    <tmc_event event_code="987">
+      <short_text>Zatvaranje</short_text>
+      <long_text>Ograničena prohodnost zbog visećih strujnih kablova, cesta blokirana</long_text>
+    </tmc_event>
+    <tmc_event event_code="988">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Ograničena prohodnost zbog visećih strujnih kablova, ograničeno korištenje ceste</long_text>
+    </tmc_event>
+    <tmc_event event_code="989">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Opasnost zbog visećih strujnih kablova</long_text>
+    </tmc_event>
+    <tmc_event event_code="990">
+      <short_text>Poplava</short_text>
+      <long_text>Opasnost zbog preopterećenih odvodnih kanala</long_text>
+    </tmc_event>
+    <tmc_event event_code="991">
+      <short_text>Poplava</short_text>
+      <long_text>Opasnost od poplave</long_text>
+    </tmc_event>
+    <tmc_event event_code="992">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Opasnost od lavine</long_text>
+    </tmc_event>
+    <tmc_event event_code="993">
+      <short_text>Zatvaranje</short_text>
+      <long_text>Opasnost od lavine, cesta zatvorena</long_text>
+    </tmc_event>
+    <tmc_event event_code="994">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Opasnost od moguće lavine</long_text>
+    </tmc_event>
+    <tmc_event event_code="995">
+      <short_text>Zatvaranje</short_text>
+      <long_text>Poledica, zatvorena cesta</long_text>
+    </tmc_event>
+    <tmc_event event_code="996">
+      <short_text>Klizava cesta</short_text>
+      <long_text>Opasnost od poledice, ograničeno korištenje ceste</long_text>
+    </tmc_event>
+    <tmc_event event_code="997">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Stvaranje leda. Naizmjeničan saobraćaj u oba pravca u samo jednoj voznoj traci</long_text>
+    </tmc_event>
+    <tmc_event event_code="998">
+      <short_text>opasna situacija</short_text>
+      <long_text>Opasnost od odrona kamenja</long_text>
+    </tmc_event>
+    <tmc_event event_code="999">
+      <short_text>opasna situacija</short_text>
+      <long_text>Opasnost od klizišta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1000">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Opasnost zbog oštećenja od zemljotresa</long_text>
+    </tmc_event>
+    <tmc_event event_code="1001">
+      <short_text>Opasni uvjeti na cesti</short_text>
+      <long_text>opasni uvjeti na cesti</long_text>
+    </tmc_event>
+    <tmc_event event_code="1002">
+      <short_text>Klizava cesta</short_text>
+      <long_text>Opasnost od akvaplaninga</long_text>
+    </tmc_event>
+    <tmc_event event_code="1003">
+      <short_text>Klizava cesta</short_text>
+      <long_text>Klizava cesta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1004">
+      <short_text>Klizava cesta</short_text>
+      <long_text>Ograničena prohodnost zbog prljavštine na cesti</long_text>
+    </tmc_event>
+    <tmc_event event_code="1005">
+      <short_text>Klizava cesta</short_text>
+      <long_text>Moguće proklizavanje zbog lišća</long_text>
+    </tmc_event>
+    <tmc_event event_code="1006">
+      <short_text>Klizava cesta</short_text>
+      <long_text>Opasnost od poledice</long_text>
+    </tmc_event>
+    <tmc_event event_code="1007">
+      <short_text>Klizava cesta</short_text>
+      <long_text>Poledica</long_text>
+    </tmc_event>
+    <tmc_event event_code="1008">
+      <short_text>Klizava cesta</short_text>
+      <long_text>poledica</long_text>
+    </tmc_event>
+    <tmc_event event_code="1009">
+      <short_text>Klizava cesta</short_text>
+      <long_text>kiša koja se smrzava na tlu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1010">
+      <short_text>Klizava cesta</short_text>
+      <long_text>djelimično zaleđena cesta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1011">
+      <short_text>Klizava cesta</short_text>
+      <long_text>Snježna bljuzgavica</long_text>
+    </tmc_event>
+    <tmc_event event_code="1012">
+      <short_text>Klizava cesta</short_text>
+      <long_text>Ledeni snijeg</long_text>
+    </tmc_event>
+    <tmc_event event_code="1013">
+      <short_text>Snijeg</short_text>
+      <long_text>utabani snježni pokrivač</long_text>
+    </tmc_event>
+    <tmc_event event_code="1014">
+      <short_text>Snijeg</short_text>
+      <long_text>Novi snijeg</long_text>
+    </tmc_event>
+    <tmc_event event_code="1015">
+      <short_text>Snijeg</short_text>
+      <long_text>duboki snijeg</long_text>
+    </tmc_event>
+    <tmc_event event_code="1016">
+      <short_text>Snijeg</short_text>
+      <long_text>Snježni nanosi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1017">
+      <short_text>Klizava cesta</short_text>
+      <long_text>Opasnost od proklizavanja zbog prosutog tereta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1018">
+      <short_text>Klizava cesta</short_text>
+      <long_text>Opasnost od proklizavanja zbog ledenog snijega</long_text>
+    </tmc_event>
+    <tmc_event event_code="1019">
+      <short_text>Klizava cesta</short_text>
+      <long_text>Poledica</long_text>
+    </tmc_event>
+    <tmc_event event_code="1020">
+      <short_text>Klizava cesta</short_text>
+      <long_text>Ledeni snijeg, cesta blokirana</long_text>
+    </tmc_event>
+    <tmc_event event_code="1021">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Ledeni snijeg, cesta sužena na jednu traku</long_text>
+    </tmc_event>
+    <tmc_event event_code="1022">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Ledeni snijeg, cesta sužena na dvije trake</long_text>
+    </tmc_event>
+    <tmc_event event_code="1023">
+      <short_text>Suženje ceste</short_text>
+      <long_text>Ledeni snijeg, cesta sužena na tri trake</long_text>
+    </tmc_event>
+    <tmc_event event_code="1026">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Opasnost zbog ulegnuća ceste</long_text>
+    </tmc_event>
+    <tmc_event event_code="1027">
+      <short_text>Poplava</short_text>
+      <long_text>Ograničena prohodnost zbog nadiranja vode ispod ceste, gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1028">
+      <short_text>Poplava</short_text>
+      <long_text>Ograničena prohodnost zbog nadiranja vode ispod ceste, treba računati na gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1029">
+      <short_text>Poplava</short_text>
+      <long_text>Ograničena prohodnost zbog nadiranja vode ispod ceste, veliki gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1030">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Opasnost zbog nadiranja vode ispod ceste</long_text>
+    </tmc_event>
+    <tmc_event event_code="1031">
+      <short_text>Poplava</short_text>
+      <long_text>Opasnost zbog puknuća vodovodne cijevi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1032">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Opasnost zbog curenja gasa</long_text>
+    </tmc_event>
+    <tmc_event event_code="1033">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Opasnost od velikog požara</long_text>
+    </tmc_event>
+    <tmc_event event_code="1034">
+      <short_text>Ograničena prohodnost</short_text>
+      <long_text>Opasnost zbog radova čišćenja</long_text>
+    </tmc_event>
+    <tmc_event event_code="1035">
+      <short_text>Neprohodna cesta</short_text>
+      <long_text>nije prohodno</long_text>
+    </tmc_event>
+    <tmc_event event_code="1036">
+      <short_text>Opasni uvjeti na cesti</short_text>
+      <long_text>gotovo nije prohodno</long_text>
+    </tmc_event>
+    <tmc_event event_code="1037">
+      <short_text>Opasni uvjeti na cesti</short_text>
+      <long_text>vrlo opasni uvjeti na cesti</long_text>
+    </tmc_event>
+    <tmc_event event_code="1038">
+      <short_text>Opasni uvjeti na cesti</short_text>
+      <long_text>teški uvjeti na cesti</long_text>
+    </tmc_event>
+    <tmc_event event_code="1041">
+      <short_text>Poplava</short_text>
+      <long_text>Voda na cesti</long_text>
+    </tmc_event>
+    <tmc_event event_code="1042">
+      <short_text>Klizava cesta</short_text>
+      <long_text>Ograničena prohodnost zbog pijeska</long_text>
+    </tmc_event>
+    <tmc_event event_code="1044">
+      <short_text>Klizava cesta</short_text>
+      <long_text>Ograničena prohodnost zbog prolivenog ulja</long_text>
+    </tmc_event>
+    <tmc_event event_code="1045">
+      <short_text>opasna situacija</short_text>
+      <long_text>Ograničena prohodnost zbog curenja benzina</long_text>
+    </tmc_event>
+    <tmc_event event_code="1047">
+      <short_text>Klizava cesta</short_text>
+      <long_text>djelimično zaleđena cesta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1048">
+      <short_text>Klizava cesta</short_text>
+      <long_text>Opasnost zbog klizave ceste</long_text>
+    </tmc_event>
+    <tmc_event event_code="1050">
+      <short_text>Klizava cesta</short_text>
+      <long_text>poledica, opasnost</long_text>
+    </tmc_event>
+    <tmc_event event_code="1054">
+      <short_text>Klizava cesta</short_text>
+      <long_text>Opasnost od proklizavanja zbog pijeska na cesti</long_text>
+    </tmc_event>
+    <tmc_event event_code="1055">
+      <short_text>Klizava cesta</short_text>
+      <long_text>Opasnost zbog prljavštine na cesti</long_text>
+    </tmc_event>
+    <tmc_event event_code="1056">
+      <short_text>Klizava cesta</short_text>
+      <long_text>Opasnost zbog tucanika</long_text>
+    </tmc_event>
+    <tmc_event event_code="1057">
+      <short_text>Klizava cesta</short_text>
+      <long_text>Opasnost zbog prolivenog ulja</long_text>
+    </tmc_event>
+    <tmc_event event_code="1058">
+      <short_text>opasna situacija</short_text>
+      <long_text>Opasnost zbog curenja benzina</long_text>
+    </tmc_event>
+    <tmc_event event_code="1059">
+      <short_text>Opasni uvjeti na cesti</short_text>
+      <long_text>Opasnost zbog oštećenja na cesti</long_text>
+    </tmc_event>
+    <tmc_event event_code="1060">
+      <short_text>Klizava cesta</short_text>
+      <long_text>djelimično zaleđena cesta na mostovima</long_text>
+    </tmc_event>
+    <tmc_event event_code="1061">
+      <short_text>Klizava cesta</short_text>
+      <long_text>Opasnost zbog poledice na mostovima</long_text>
+    </tmc_event>
+    <tmc_event event_code="1062">
+      <short_text>Klizava cesta</short_text>
+      <long_text>djelimično zaleđena cesta na mostovima, u šumskim područjima i sjenovitim zonama te priključnim mjestima za autoputeve</long_text>
+    </tmc_event>
+    <tmc_event event_code="1064">
+      <short_text>Opasni uvjeti na cesti</short_text>
+      <long_text>nije prohodno za vozila s prikolicom</long_text>
+    </tmc_event>
+    <tmc_event event_code="1066">
+      <short_text>Ograničena prohodnost</short_text>
+      <long_text>Opasnost zbog akcija spašavanja</long_text>
+    </tmc_event>
+    <tmc_event event_code="1067">
+      <short_text>opasna situacija</short_text>
+      <long_text>Ograničena prohodnost zbog većih životinja na cesti</long_text>
+    </tmc_event>
+    <tmc_event event_code="1068">
+      <short_text>opasna situacija</short_text>
+      <long_text>Ograničena prohodnost zbog krda životinja na cesti</long_text>
+    </tmc_event>
+    <tmc_event event_code="1073">
+      <short_text>Opasni uvjeti na cesti</short_text>
+      <long_text>treba računati s vrlo opasnim uvjetima na cesti</long_text>
+    </tmc_event>
+    <tmc_event event_code="1074">
+      <short_text>Klizava cesta</short_text>
+      <long_text>treba očekivati kišu koja se ledi na tlu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1075">
+      <short_text>Snijeg</short_text>
+      <long_text>treba računati na snježne nanose</long_text>
+    </tmc_event>
+    <tmc_event event_code="1079">
+      <short_text>Ekstremna temperatura</short_text>
+      <long_text>brz pad temperature</long_text>
+    </tmc_event>
+    <tmc_event event_code="1080">
+      <short_text>Informacije o temperaturi</short_text>
+      <long_text>ekstremna vrućina</long_text>
+    </tmc_event>
+    <tmc_event event_code="1081">
+      <short_text>Ekstremna temperatura</short_text>
+      <long_text>ekstremna hladnoća</long_text>
+    </tmc_event>
+    <tmc_event event_code="1083">
+      <short_text>Informacije o temperaturi</short_text>
+      <long_text>(temperatura)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1084">
+      <short_text>opasna situacija</short_text>
+      <long_text>Požar</long_text>
+    </tmc_event>
+    <tmc_event event_code="1086">
+      <short_text>Udes</short_text>
+      <long_text>Vozilo zaglavljeno pod mostom</long_text>
+    </tmc_event>
+    <tmc_event event_code="1101">
+      <short_text>Snijeg</short_text>
+      <long_text>obilan snijeg</long_text>
+    </tmc_event>
+    <tmc_event event_code="1102">
+      <short_text>Snijeg</short_text>
+      <long_text>obilan snijeg, vidljivost ispod 30 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1103">
+      <short_text>Snijeg</short_text>
+      <long_text>obilan snijeg, vidljivost ispod 50 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1104">
+      <short_text>Snijeg</short_text>
+      <long_text>Snijeg</long_text>
+    </tmc_event>
+    <tmc_event event_code="1105">
+      <short_text>Snijeg</short_text>
+      <long_text>Smanjena vidljivost zbog snijega, vidljivost ispod 100 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1106">
+      <short_text>ograničena vidljivost</short_text>
+      <long_text>Tuča</long_text>
+    </tmc_event>
+    <tmc_event event_code="1107">
+      <short_text>Snijeg</short_text>
+      <long_text>Smanjena vidljivost zbog susnježice</long_text>
+    </tmc_event>
+    <tmc_event event_code="1108">
+      <short_text>ograničena vidljivost</short_text>
+      <long_text>Nevrijeme</long_text>
+    </tmc_event>
+    <tmc_event event_code="1109">
+      <short_text>jaka kiša</short_text>
+      <long_text>jaka kiša</long_text>
+    </tmc_event>
+    <tmc_event event_code="1110">
+      <short_text>jaka kiša</short_text>
+      <long_text>Smanjena vidljivost zbog jake kiše, vidljivost ispod 30 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1111">
+      <short_text>jaka kiša</short_text>
+      <long_text>Smanjena vidljivost zbog jake kiše, vidljivost ispod 50 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1112">
+      <short_text>jaka kiša</short_text>
+      <long_text>Kiša</long_text>
+    </tmc_event>
+    <tmc_event event_code="1113">
+      <short_text>jaka kiša</short_text>
+      <long_text>Smanjena vidljivost zbog kiše, vidljivost ispod 100 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1114">
+      <short_text>jaka kiša</short_text>
+      <long_text>Pljusak</long_text>
+    </tmc_event>
+    <tmc_event event_code="1115">
+      <short_text>Ekstremna temperatura</short_text>
+      <long_text>obilan mraz</long_text>
+    </tmc_event>
+    <tmc_event event_code="1116">
+      <short_text>Ekstremna temperatura</short_text>
+      <long_text>Inje</long_text>
+    </tmc_event>
+    <tmc_event event_code="1118">
+      <short_text>jaka kiša</short_text>
+      <long_text>većinom oblačno</long_text>
+    </tmc_event>
+    <tmc_event event_code="1119">
+      <short_text>jaka kiša</short_text>
+      <long_text>djelimično oblačno</long_text>
+    </tmc_event>
+    <tmc_event event_code="1128">
+      <short_text>Snijeg</short_text>
+      <long_text>Snježna oluja</long_text>
+    </tmc_event>
+    <tmc_event event_code="1130">
+      <short_text>ograničena vidljivost</short_text>
+      <long_text>Snježna oluja</long_text>
+    </tmc_event>
+    <tmc_event event_code="1131">
+      <short_text>ograničena vidljivost</short_text>
+      <long_text>Snježna oluja</long_text>
+    </tmc_event>
+    <tmc_event event_code="1132">
+      <short_text>ograničena vidljivost</short_text>
+      <long_text>obilna tuča</long_text>
+    </tmc_event>
+    <tmc_event event_code="1133">
+      <short_text>ograničena vidljivost</short_text>
+      <long_text>obilna tuča</long_text>
+    </tmc_event>
+    <tmc_event event_code="1134">
+      <short_text>Snijeg</short_text>
+      <long_text>obilan snijeg, smanjena vidljivost</long_text>
+    </tmc_event>
+    <tmc_event event_code="1135">
+      <short_text>Snijeg</short_text>
+      <long_text>Smanjena vidljivost zbog snijega</long_text>
+    </tmc_event>
+    <tmc_event event_code="1136">
+      <short_text>jaka kiša</short_text>
+      <long_text>Smanjena vidljivost zbog jake kiše</long_text>
+    </tmc_event>
+    <tmc_event event_code="1137">
+      <short_text>jaka kiša</short_text>
+      <long_text>Smanjena vidljivost zbog kiše</long_text>
+    </tmc_event>
+    <tmc_event event_code="1153">
+      <short_text>ograničena vidljivost</short_text>
+      <long_text>Tuča</long_text>
+    </tmc_event>
+    <tmc_event event_code="1154">
+      <short_text>ograničena vidljivost</short_text>
+      <long_text>Susnježica</long_text>
+    </tmc_event>
+    <tmc_event event_code="1155">
+      <short_text>ograničena vidljivost</short_text>
+      <long_text>Nevrijeme</long_text>
+    </tmc_event>
+    <tmc_event event_code="1156">
+      <short_text>jaka kiša</short_text>
+      <long_text>jaka kiša</long_text>
+    </tmc_event>
+    <tmc_event event_code="1157">
+      <short_text>jaka kiša</short_text>
+      <long_text>Kiša</long_text>
+    </tmc_event>
+    <tmc_event event_code="1158">
+      <short_text>jaka kiša</short_text>
+      <long_text>Pljusak</long_text>
+    </tmc_event>
+    <tmc_event event_code="1170">
+      <short_text>Snijeg</short_text>
+      <long_text>treba očekivati obilan snijeg</long_text>
+    </tmc_event>
+    <tmc_event event_code="1171">
+      <short_text>jaka kiša</short_text>
+      <long_text>treba očekivati jaku kišu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1173">
+      <short_text>ograničena vidljivost</short_text>
+      <long_text>treba očekivati snježnu oluju</long_text>
+    </tmc_event>
+    <tmc_event event_code="1174">
+      <short_text>ograničena vidljivost</short_text>
+      <long_text>treba očekivati obilnu tuču</long_text>
+    </tmc_event>
+    <tmc_event event_code="1175">
+      <short_text>ograničena vidljivost</short_text>
+      <long_text>treba očekivati smanjenu vidljivost</long_text>
+    </tmc_event>
+    <tmc_event event_code="1176">
+      <short_text>Klizava cesta</short_text>
+      <long_text>treba očekivati smanjenu vidljivost zbog ledene magle Opasnost od proklizavanja</long_text>
+    </tmc_event>
+    <tmc_event event_code="1177">
+      <short_text>Magla</short_text>
+      <long_text>treba očekivati smanjenu vidljivost zbog guste magle</long_text>
+    </tmc_event>
+    <tmc_event event_code="1178">
+      <short_text>Magla</short_text>
+      <long_text>treba očekivati smanjenu vidljivost zbog mjestimične magle</long_text>
+    </tmc_event>
+    <tmc_event event_code="1190">
+      <short_text>Smog</short_text>
+      <long_text>gust smog</long_text>
+    </tmc_event>
+    <tmc_event event_code="1191">
+      <short_text>Smog</short_text>
+      <long_text>jako onečišćenje zraka</long_text>
+    </tmc_event>
+    <tmc_event event_code="1201">
+      <short_text>jak vjetar</short_text>
+      <long_text>Ciklon</long_text>
+    </tmc_event>
+    <tmc_event event_code="1202">
+      <short_text>jak vjetar</short_text>
+      <long_text>Orkan</long_text>
+    </tmc_event>
+    <tmc_event event_code="1203">
+      <short_text>jak vjetar</short_text>
+      <long_text>orkanski vjetrovi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1204">
+      <short_text>jak vjetar</short_text>
+      <long_text>Oluja</long_text>
+    </tmc_event>
+    <tmc_event event_code="1205">
+      <short_text>jak vjetar</short_text>
+      <long_text>jak vjetar</long_text>
+    </tmc_event>
+    <tmc_event event_code="1209">
+      <short_text>jak vjetar</short_text>
+      <long_text>Udari vjetra</long_text>
+    </tmc_event>
+    <tmc_event event_code="1210">
+      <short_text>jak vjetar</short_text>
+      <long_text>Bočni vjetar</long_text>
+    </tmc_event>
+    <tmc_event event_code="1211">
+      <short_text>jak vjetar</short_text>
+      <long_text>jak vjetar, smetnja za vozila s visokim konstrukcijama</long_text>
+    </tmc_event>
+    <tmc_event event_code="1300">
+      <short_text>ograničena vidljivost</short_text>
+      <long_text>treba računati na snijeg i maglu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1301">
+      <short_text>Magla</short_text>
+      <long_text>Smanjena vidljivost zbog guste magle</long_text>
+    </tmc_event>
+    <tmc_event event_code="1302">
+      <short_text>Magla</short_text>
+      <long_text>Smanjena vidljivost zbog guste magle, vidljivost ispod 30 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1303">
+      <short_text>Magla</short_text>
+      <long_text>Smanjena vidljivost zbog guste magle, vidljivost ispod 50 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1304">
+      <short_text>Magla</short_text>
+      <long_text>Smanjena vidljivost zbog magle</long_text>
+    </tmc_event>
+    <tmc_event event_code="1305">
+      <short_text>Magla</short_text>
+      <long_text>Smanjena vidljivost zbog magle, vidljivost ispod 100 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1307">
+      <short_text>Magla</short_text>
+      <long_text>Smanjena vidljivost zbog mjestimične magle</long_text>
+    </tmc_event>
+    <tmc_event event_code="1308">
+      <short_text>Magla</short_text>
+      <long_text>Smanjena vidljivost zbog ledene magle</long_text>
+    </tmc_event>
+    <tmc_event event_code="1309">
+      <short_text>ograničena vidljivost</short_text>
+      <long_text>Smanjena vidljivost zbog dima</long_text>
+    </tmc_event>
+    <tmc_event event_code="1310">
+      <short_text>ograničena vidljivost</short_text>
+      <long_text>Smanjena vidljivost zbog prašine</long_text>
+    </tmc_event>
+    <tmc_event event_code="1312">
+      <short_text>Snijeg</short_text>
+      <long_text>Smanjena vidljivost zbog magle i snijega</long_text>
+    </tmc_event>
+    <tmc_event event_code="1318">
+      <short_text>ograničena vidljivost</short_text>
+      <long_text>Smanjena vidljivost</long_text>
+    </tmc_event>
+    <tmc_event event_code="1319">
+      <short_text>ograničena vidljivost</short_text>
+      <long_text>Vidljivost ispod 30 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1320">
+      <short_text>ograničena vidljivost</short_text>
+      <long_text>Vidljivost ispod 50 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1321">
+      <short_text>ograničena vidljivost</short_text>
+      <long_text>Vidljivost ispod 100 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1322">
+      <short_text>ograničena vidljivost</short_text>
+      <long_text>Magla</long_text>
+    </tmc_event>
+    <tmc_event event_code="1323">
+      <short_text>Snijeg</short_text>
+      <long_text>Snježna vijavica</long_text>
+    </tmc_event>
+    <tmc_event event_code="1324">
+      <short_text>ograničena vidljivost</short_text>
+      <long_text>Opasnost od prskanja</long_text>
+    </tmc_event>
+    <tmc_event event_code="1325">
+      <short_text>ograničena vidljivost</short_text>
+      <long_text>Smanjena vidljivost zbog sunca</long_text>
+    </tmc_event>
+    <tmc_event event_code="1326">
+      <short_text>ograničena vidljivost</short_text>
+      <long_text>Pješčana oluja</long_text>
+    </tmc_event>
+    <tmc_event event_code="1327">
+      <short_text>ograničena vidljivost</short_text>
+      <long_text>Pješčana oluja</long_text>
+    </tmc_event>
+    <tmc_event event_code="1332">
+      <short_text>Smog</short_text>
+      <long_text>Alarm za smog</long_text>
+    </tmc_event>
+    <tmc_event event_code="1337">
+      <short_text>Klizava cesta</short_text>
+      <long_text>Smanjena vidljivost zbog magle, klizava cesta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1338">
+      <short_text>Smog</short_text>
+      <long_text>Alarm za smog, zabrana vožnje</long_text>
+    </tmc_event>
+    <tmc_event event_code="1340">
+      <short_text>ograničena vidljivost</short_text>
+      <long_text>Smanjena vidljivost zbog roja insekata</long_text>
+    </tmc_event>
+    <tmc_event event_code="1450">
+      <short_text>Događaji</short_text>
+      <long_text>međunarodni sportski događaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="1451">
+      <short_text>Događaji</short_text>
+      <long_text>Igra</long_text>
+    </tmc_event>
+    <tmc_event event_code="1452">
+      <short_text>Događaji</short_text>
+      <long_text>Turnir</long_text>
+    </tmc_event>
+    <tmc_event event_code="1453">
+      <short_text>Događaji</short_text>
+      <long_text>Natjecanje u lakoj atletici</long_text>
+    </tmc_event>
+    <tmc_event event_code="1454">
+      <short_text>Događaji</short_text>
+      <long_text>Igra s loptom</long_text>
+    </tmc_event>
+    <tmc_event event_code="1455">
+      <short_text>Događaji</short_text>
+      <long_text>Boksaški turnir</long_text>
+    </tmc_event>
+    <tmc_event event_code="1456">
+      <short_text>Događaji</short_text>
+      <long_text>Borba bikova</long_text>
+    </tmc_event>
+    <tmc_event event_code="1457">
+      <short_text>Događaji</short_text>
+      <long_text>Kriket</long_text>
+    </tmc_event>
+    <tmc_event event_code="1458">
+      <short_text>Događaji</short_text>
+      <long_text>Biciklistička utrka</long_text>
+    </tmc_event>
+    <tmc_event event_code="1459">
+      <short_text>Događaji</short_text>
+      <long_text>Fudbalska utakmica</long_text>
+    </tmc_event>
+    <tmc_event event_code="1460">
+      <short_text>Događaji</short_text>
+      <long_text>Turnir u golfu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1461">
+      <short_text>Događaji</short_text>
+      <long_text>Maraton</long_text>
+    </tmc_event>
+    <tmc_event event_code="1462">
+      <short_text>Događaji</short_text>
+      <long_text>Konjska utrka</long_text>
+    </tmc_event>
+    <tmc_event event_code="1463">
+      <short_text>Događaji</short_text>
+      <long_text>Ragbi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1464">
+      <short_text>Događaji</short_text>
+      <long_text>Preponsko jahanje</long_text>
+    </tmc_event>
+    <tmc_event event_code="1465">
+      <short_text>Događaji</short_text>
+      <long_text>Teniski turnir</long_text>
+    </tmc_event>
+    <tmc_event event_code="1466">
+      <short_text>Događaji</short_text>
+      <long_text>Sportsko događanje na vodi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1467">
+      <short_text>Događaji</short_text>
+      <long_text>Zimski sportovi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1468">
+      <short_text>Događaji</short_text>
+      <long_text>Vašar</long_text>
+    </tmc_event>
+    <tmc_event event_code="1469">
+      <short_text>Događaji</short_text>
+      <long_text>Godišnji sajam</long_text>
+    </tmc_event>
+    <tmc_event event_code="1470">
+      <short_text>Događaji</short_text>
+      <long_text>Procesija</long_text>
+    </tmc_event>
+    <tmc_event event_code="1471">
+      <short_text>opasna situacija</short_text>
+      <long_text>Radoznala masa</long_text>
+    </tmc_event>
+    <tmc_event event_code="1472">
+      <short_text>opasna situacija</short_text>
+      <long_text>Ograničena prohodnost zbog ljudi na cesti</long_text>
+    </tmc_event>
+    <tmc_event event_code="1473">
+      <short_text>opasna situacija</short_text>
+      <long_text>Ograničena prohodnost zbog djece na cesti</long_text>
+    </tmc_event>
+    <tmc_event event_code="1474">
+      <short_text>opasna situacija</short_text>
+      <long_text>Ograničena prohodnost zbog biciklista na cesti</long_text>
+    </tmc_event>
+    <tmc_event event_code="1475">
+      <short_text>Događaji</short_text>
+      <long_text>Štrajk</long_text>
+    </tmc_event>
+    <tmc_event event_code="1476">
+      <short_text>Sigurnosni problem</short_text>
+      <long_text>Sigurnosni problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="1477">
+      <short_text>Sigurnosni problem</short_text>
+      <long_text>Policijska kontrola</long_text>
+    </tmc_event>
+    <tmc_event event_code="1478">
+      <short_text>Sigurnosni problem</short_text>
+      <long_text>Teroristički napad</long_text>
+    </tmc_event>
+    <tmc_event event_code="1479">
+      <short_text>Sigurnosni problem</short_text>
+      <long_text>Razmjena vatre</long_text>
+    </tmc_event>
+    <tmc_event event_code="1480">
+      <short_text>Sigurnosni problem</short_text>
+      <long_text>Alarm za katastrofe</long_text>
+    </tmc_event>
+    <tmc_event event_code="1481">
+      <short_text>Sigurnosni problem</short_text>
+      <long_text>Zračni alarm</long_text>
+    </tmc_event>
+    <tmc_event event_code="1482">
+      <short_text>opasna situacija</short_text>
+      <long_text>Opasnost zbog osoba na cesti</long_text>
+    </tmc_event>
+    <tmc_event event_code="1483">
+      <short_text>opasna situacija</short_text>
+      <long_text>Opasnost zbog djece na cesti</long_text>
+    </tmc_event>
+    <tmc_event event_code="1484">
+      <short_text>opasna situacija</short_text>
+      <long_text>Opasnost zbog biciklista na cesti</long_text>
+    </tmc_event>
+    <tmc_event event_code="1485">
+      <short_text>Zatvaranje</short_text>
+      <long_text>Sigurnosni problem, zatvorena cesta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1486">
+      <short_text>Sigurnosni problem</short_text>
+      <long_text>Sigurnosni problem, gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1487">
+      <short_text>Sigurnosni problem</short_text>
+      <long_text>Sigurnosni problem, treba računati na gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1488">
+      <short_text>Sigurnosni problem</short_text>
+      <long_text>Sigurnosni problem, veliki gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1489">
+      <short_text>Sigurnosni problem</short_text>
+      <long_text>Policijska kontrola, gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1490">
+      <short_text>Sigurnosni problem</short_text>
+      <long_text>Policijska kontrola, treba računati na gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1491">
+      <short_text>Sigurnosni problem</short_text>
+      <long_text>Policijska kontrola, veliki gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1494">
+      <short_text>Sigurnosni problem</short_text>
+      <long_text>Evakuacija</long_text>
+    </tmc_event>
+    <tmc_event event_code="1495">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Evakuacija, gust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="1501">
+      <short_text>Događaji</short_text>
+      <long_text>Događaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="1502">
+      <short_text>Događaji</short_text>
+      <long_text>Sportski događaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="1503">
+      <short_text>Događaji</short_text>
+      <long_text>Predstava</long_text>
+    </tmc_event>
+    <tmc_event event_code="1504">
+      <short_text>Događaji</short_text>
+      <long_text>Festival</long_text>
+    </tmc_event>
+    <tmc_event event_code="1505">
+      <short_text>Događaji</short_text>
+      <long_text>Izložba</long_text>
+    </tmc_event>
+    <tmc_event event_code="1506">
+      <short_text>Događaji</short_text>
+      <long_text>Sajam</long_text>
+    </tmc_event>
+    <tmc_event event_code="1507">
+      <short_text>Događaji</short_text>
+      <long_text>Pijaca</long_text>
+    </tmc_event>
+    <tmc_event event_code="1508">
+      <short_text>Događaji</short_text>
+      <long_text>praznični događaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="1509">
+      <short_text>Događaji</short_text>
+      <long_text>Državnička posjeta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1510">
+      <short_text>Događaji</short_text>
+      <long_text>Parada</long_text>
+    </tmc_event>
+    <tmc_event event_code="1511">
+      <short_text>Događaji</short_text>
+      <long_text>Okupljanje ljudi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1512">
+      <short_text>Događaji</short_text>
+      <long_text>Selidba</long_text>
+    </tmc_event>
+    <tmc_event event_code="1513">
+      <short_text>Događaji</short_text>
+      <long_text>Demonstracije</long_text>
+    </tmc_event>
+    <tmc_event event_code="1514">
+      <short_text>Događaji</short_text>
+      <long_text>Ometanje javne sigurnosti</long_text>
+    </tmc_event>
+    <tmc_event event_code="1515">
+      <short_text>Sigurnosni problem</short_text>
+      <long_text>Problemi zbog sigurnosnih mjera</long_text>
+    </tmc_event>
+    <tmc_event event_code="1516">
+      <short_text>Sigurnosni problem</short_text>
+      <long_text>Alarm za bombu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1517">
+      <short_text>Zastoj</short_text>
+      <long_text>Događaj, %lzastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="1519">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Događaj, %lzastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="1521">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Događaj, %lgust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="1523">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Događaj, %lgužva u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="1525">
+      <short_text>Događaji</short_text>
+      <long_text>Događaj, nema smetnji u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="1526">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Događaj, %lgust saobraćaj s tendencijom pogoršavanja</long_text>
+    </tmc_event>
+    <tmc_event event_code="1527">
+      <short_text>Zatvaranje</short_text>
+      <long_text>Događaj, zatvorena cesta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1528">
+      <short_text>Kašnjenja</short_text>
+      <long_text>Događaj, gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1529">
+      <short_text>Kašnjenja</short_text>
+      <long_text>Događaj, treba računati na gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1530">
+      <short_text>Dugo kašnjenje</short_text>
+      <long_text>Događaj, veliki gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1531">
+      <short_text>Zastoj</short_text>
+      <long_text>Sportski događaj, %lzastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="1533">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Sportsko događaj, %lzastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="1535">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Sportski događaj, %gust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="1537">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Sportski događaj, %lgužva u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="1539">
+      <short_text>Događaji</short_text>
+      <long_text>Sportski događaj, nema smetnji u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="1540">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Sportski događaj, %lgust saobraćaj s tendencijom pogoršavanja</long_text>
+    </tmc_event>
+    <tmc_event event_code="1541">
+      <short_text>Zatvaranje</short_text>
+      <long_text>Sportski događaj, zatvorena cesta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1542">
+      <short_text>Kašnjenja</short_text>
+      <long_text>Sportski događaj, gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1543">
+      <short_text>Kašnjenja</short_text>
+      <long_text>Sportski događaj, treba računati na gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1544">
+      <short_text>Dugo kašnjenje</short_text>
+      <long_text>Sportski događaj, veliki gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1545">
+      <short_text>Zastoj</short_text>
+      <long_text>Sajam, %lzastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="1547">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Sajam, %lzastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="1549">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Sajam, %lgust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="1551">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Sajam, %lgužva u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="1553">
+      <short_text>Događaji</short_text>
+      <long_text>Sajam, nema smetnji u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="1554">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Sajam, %lgust saobraćaj s tendencijom pogoršavanja</long_text>
+    </tmc_event>
+    <tmc_event event_code="1555">
+      <short_text>Zatvaranje</short_text>
+      <long_text>Sajam, zatvorena cesta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1556">
+      <short_text>Kašnjenja</short_text>
+      <long_text>Sajam, gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1557">
+      <short_text>Kašnjenja</short_text>
+      <long_text>Sajam, treba računati na gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1558">
+      <short_text>Dugo kašnjenje</short_text>
+      <long_text>Sajam, veliki gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1559">
+      <short_text>Zatvaranje</short_text>
+      <long_text>Parada, zatvorena cesta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1560">
+      <short_text>Kašnjenja</short_text>
+      <long_text>Parada, gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1561">
+      <short_text>Kašnjenja</short_text>
+      <long_text>Parada, treba računati na gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1562">
+      <short_text>Dugo kašnjenje</short_text>
+      <long_text>Parada, veliki gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1563">
+      <short_text>Zatvaranje</short_text>
+      <long_text>Selidba, zatvorena cesta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1564">
+      <short_text>Dugo kašnjenje</short_text>
+      <long_text>Selidba, gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1565">
+      <short_text>Kašnjenja</short_text>
+      <long_text>Selidba, treba računati na gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1566">
+      <short_text>Dugo kašnjenje</short_text>
+      <long_text>Selidba, veliki gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1567">
+      <short_text>Zatvaranje</short_text>
+      <long_text>Demonstracije, zatvorena cesta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1568">
+      <short_text>Kašnjenja</short_text>
+      <long_text>Demonstracije, gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1569">
+      <short_text>Kašnjenja</short_text>
+      <long_text>Demonstracije, treba računati na gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1570">
+      <short_text>Dugo kašnjenje</short_text>
+      <long_text>Demonstracije, veliki gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1571">
+      <short_text>Zastoj</short_text>
+      <long_text>Problemi zbog sigurnosnih mjera, %lzastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="1573">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Problemi zbog sigurnosnih mjera, %lzastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="1575">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Problemi zbog sigurnosnih mjera, %lgust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="1577">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Problemi zbog sigurnosnih mjera, %lgužva u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="1579">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Problemi zbog sigurnosnih mjera, %lgust saobraćaj s tendencijom pogoršavanja</long_text>
+    </tmc_event>
+    <tmc_event event_code="1580">
+      <short_text>Zatvaranje</short_text>
+      <long_text>Problemi zbog sigurnosnih mjera, zatvorena cesta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1581">
+      <short_text>Kašnjenja</short_text>
+      <long_text>Problemi zbog sigurnosnih mjera, gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1582">
+      <short_text>Kašnjenja</short_text>
+      <long_text>Problemi zbog sigurnosnih mjera, treba računati na gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1583">
+      <short_text>Dugo kašnjenje</short_text>
+      <long_text>Problemi zbog sigurnosnih mjera, veliki gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1586">
+      <short_text>Sigurnosni problem</short_text>
+      <long_text>Problemi zbog sigurnosnih mjera, nema smetnji u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="1590">
+      <short_text>Događaji</short_text>
+      <long_text>više događaja</long_text>
+    </tmc_event>
+    <tmc_event event_code="1591">
+      <short_text>Događaji</short_text>
+      <long_text>Nema informacija o događaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="1592">
+      <short_text>Događaji</short_text>
+      <long_text>Motociklistička utrka</long_text>
+    </tmc_event>
+    <tmc_event event_code="1593">
+      <short_text>Događaji</short_text>
+      <long_text>Bejzbol</long_text>
+    </tmc_event>
+    <tmc_event event_code="1594">
+      <short_text>Događaji</short_text>
+      <long_text>Košarkaška utakmica</long_text>
+    </tmc_event>
+    <tmc_event event_code="1595">
+      <short_text>Događaji</short_text>
+      <long_text>Utrka čamcima</long_text>
+    </tmc_event>
+    <tmc_event event_code="1596">
+      <short_text>Događaji</short_text>
+      <long_text>Koncert</long_text>
+    </tmc_event>
+    <tmc_event event_code="1597">
+      <short_text>Događaji</short_text>
+      <long_text>Hokejaška igra</long_text>
+    </tmc_event>
+    <tmc_event event_code="1601">
+      <short_text>Kašnjenja</short_text>
+      <long_text>Gubitak vremena %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1602">
+      <short_text>Kašnjenja</short_text>
+      <long_text>Gubitak vremena do 15 minuta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1603">
+      <short_text>Kašnjenja</short_text>
+      <long_text>Gubitak vremena do 30 minuta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1604">
+      <short_text>Dugo kašnjenje</short_text>
+      <long_text>Gubitak vremena do 1 sat</long_text>
+    </tmc_event>
+    <tmc_event event_code="1605">
+      <short_text>Dugo kašnjenje</short_text>
+      <long_text>Gubitak vremena do 2 sata</long_text>
+    </tmc_event>
+    <tmc_event event_code="1606">
+      <short_text>Dugo kašnjenje</short_text>
+      <long_text>Gubitak više sati</long_text>
+    </tmc_event>
+    <tmc_event event_code="1607">
+      <short_text>Kašnjenja</short_text>
+      <long_text>treba računati na gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1608">
+      <short_text>Dugo kašnjenje</short_text>
+      <long_text>velik gubitak vremena %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1615">
+      <short_text>informacije</short_text>
+      <long_text>Otprema zaustavljena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1616">
+      <short_text>informacije</short_text>
+      <long_text>nema otpreme</long_text>
+    </tmc_event>
+    <tmc_event event_code="1617">
+      <short_text>informacije</short_text>
+      <long_text>popunjeno</long_text>
+    </tmc_event>
+    <tmc_event event_code="1621">
+      <short_text>Kašnjenja</short_text>
+      <long_text>Gubitak vremena do 5 minuta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1622">
+      <short_text>Kašnjenja</short_text>
+      <long_text>Gubitak vremena do 10 minuta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1623">
+      <short_text>Kašnjenja</short_text>
+      <long_text>Gubitak vremena do 20 minuta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1624">
+      <short_text>Kašnjenja</short_text>
+      <long_text>Gubitak vremena do 25 minuta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1625">
+      <short_text>Kašnjenja</short_text>
+      <long_text>Gubitak vremena do 40 minuta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1626">
+      <short_text>Dugo kašnjenje</short_text>
+      <long_text>Gubitak vremena do 50 minuta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1627">
+      <short_text>Dugo kašnjenje</short_text>
+      <long_text>Gubitak vremena do 90 minuta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1628">
+      <short_text>Dugo kašnjenje</short_text>
+      <long_text>Gubitak vremena do 3 sata</long_text>
+    </tmc_event>
+    <tmc_event event_code="1629">
+      <short_text>Dugo kašnjenje</short_text>
+      <long_text>Gubitak vremena do 4 sata</long_text>
+    </tmc_event>
+    <tmc_event event_code="1630">
+      <short_text>Dugo kašnjenje</short_text>
+      <long_text>Gubitak vremena do 5 sata</long_text>
+    </tmc_event>
+    <tmc_event event_code="1631">
+      <short_text>Dugo kašnjenje</short_text>
+      <long_text>veći gubitak vremena %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1632">
+      <short_text>Dugo kašnjenje</short_text>
+      <long_text>Gubitak vremena, nepoznato</long_text>
+    </tmc_event>
+    <tmc_event event_code="1633">
+      <short_text>informacije</short_text>
+      <long_text>Saobraćaj obustavljen do daljnjeg</long_text>
+    </tmc_event>
+    <tmc_event event_code="1634">
+      <short_text>informacije</short_text>
+      <long_text>Prekidi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1635">
+      <short_text>Informacije o parkiranju</short_text>
+      <long_text>Park i Ride nisu u funkciji</long_text>
+    </tmc_event>
+    <tmc_event event_code="1636">
+      <short_text>informacije</short_text>
+      <long_text>Uspostavljena je posebna linija</long_text>
+    </tmc_event>
+    <tmc_event event_code="1637">
+      <short_text>informacije</short_text>
+      <long_text>Javni prevoz osoba obustavljen</long_text>
+    </tmc_event>
+    <tmc_event event_code="1638">
+      <short_text>informacije</short_text>
+      <long_text>Željeznica ne radi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1639">
+      <short_text>informacije</short_text>
+      <long_text>Autobusni saobraćaj ne radi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1640">
+      <short_text>informacije</short_text>
+      <long_text>Uspostavljen je javni prevoz</long_text>
+    </tmc_event>
+    <tmc_event event_code="1641">
+      <short_text>informacije</short_text>
+      <long_text>besplatan javni prevoz</long_text>
+    </tmc_event>
+    <tmc_event event_code="1649">
+      <short_text>informacije</short_text>
+      <long_text>Tramvaj ne radi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1650">
+      <short_text>Kašnjenja</short_text>
+      <long_text>može doći do kašnjenja</long_text>
+    </tmc_event>
+    <tmc_event event_code="1651">
+      <short_text>informacije</short_text>
+      <long_text>Podzemna željeznica ne radi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1652">
+      <short_text>informacije</short_text>
+      <long_text>treba računati na prekide</long_text>
+    </tmc_event>
+    <tmc_event event_code="1653">
+      <short_text>Dugo kašnjenje</short_text>
+      <long_text>treba računati na veliki gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1654">
+      <short_text>Dugo kašnjenje</short_text>
+      <long_text>treba računati na značajna kašnjenja</long_text>
+    </tmc_event>
+    <tmc_event event_code="1655">
+      <short_text>informacije</short_text>
+      <long_text>svi polasci popunjeni</long_text>
+    </tmc_event>
+    <tmc_event event_code="1656">
+      <short_text>Putne informacije</short_text>
+      <long_text>sljedeća stanica</long_text>
+    </tmc_event>
+    <tmc_event event_code="1657">
+      <short_text>informacije</short_text>
+      <long_text>Smetnje u željezničkom saobraćaju. Gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1658">
+      <short_text>informacije</short_text>
+      <long_text>Smetnje u autobusnom saobraćaju. Gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1659">
+      <short_text>informacije</short_text>
+      <long_text>Smetnje u podzemnoj željeznici</long_text>
+    </tmc_event>
+    <tmc_event event_code="1660">
+      <short_text>informacije</short_text>
+      <long_text>Javni prevoz ponovo radi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1661">
+      <short_text>informacije</short_text>
+      <long_text>Trajekti ne voze</long_text>
+    </tmc_event>
+    <tmc_event event_code="1662">
+      <short_text>Informacije o parkiranju</short_text>
+      <long_text>Vrijeme vožnje</long_text>
+    </tmc_event>
+    <tmc_event event_code="1680">
+      <short_text>Kašnjenja</short_text>
+      <long_text>treba računati na gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1681">
+      <short_text>Kašnjenja</short_text>
+      <long_text>treba računati na gubitak više sati</long_text>
+    </tmc_event>
+    <tmc_event event_code="1683">
+      <short_text>Gradilište</short_text>
+      <long_text>Gradilište, treba računati na gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1684">
+      <short_text>Poplava</short_text>
+      <long_text>Poplava, treba računati na gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1685">
+      <short_text>Kašnjenja</short_text>
+      <long_text>Događaj, treba računati na gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1687">
+      <short_text>Kašnjenja</short_text>
+      <long_text>treba računati na gubitak više sati za prevoznike teškog tereta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1688">
+      <short_text>Kašnjenja</short_text>
+      <long_text>treba računati na veliki gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1689">
+      <short_text>Kašnjenja</short_text>
+      <long_text>treba računati na vrlo veliki gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1695">
+      <short_text>Putne informacije</short_text>
+      <long_text>trenutno trajanje vožnje</long_text>
+    </tmc_event>
+    <tmc_event event_code="1696">
+      <short_text>Putne informacije</short_text>
+      <long_text>očekivano trajanje vožnje</long_text>
+    </tmc_event>
+    <tmc_event event_code="1700">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Opasnost zbog vozila koje vozi presporo</long_text>
+    </tmc_event>
+    <tmc_event event_code="1701">
+      <short_text>Vozač u suprotnom pravcu</short_text>
+      <long_text>Pažnja, ususret vam dolazi vozač iz suprotnog pravca! Nemojte preticati! Pažnja u oba pravca.</long_text>
+    </tmc_event>
+    <tmc_event event_code="1704">
+      <short_text>opasna situacija</short_text>
+      <long_text>Opasnost zbog bezobzirnih vozača</long_text>
+    </tmc_event>
+    <tmc_event event_code="1705">
+      <short_text>opasna situacija</short_text>
+      <long_text>Opasnost zbog vozila koje vozi presporo</long_text>
+    </tmc_event>
+    <tmc_event event_code="1706">
+      <short_text>opasna situacija</short_text>
+      <long_text>Vozila hitnih službi u akciji</long_text>
+    </tmc_event>
+    <tmc_event event_code="1707">
+      <short_text>opasna situacija</short_text>
+      <long_text>Pažnja, vozila hitne službe dolaze velikom brzinom</long_text>
+    </tmc_event>
+    <tmc_event event_code="1708">
+      <short_text>opasna situacija</short_text>
+      <long_text>Pažnja, opasnost zbog potjere</long_text>
+    </tmc_event>
+    <tmc_event event_code="1709">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Opasnost zbog onečišćenja koje uzrokuje vozilo</long_text>
+    </tmc_event>
+    <tmc_event event_code="1710">
+      <short_text>opasna situacija</short_text>
+      <long_text>Prosut teret iz vozila, opasnost</long_text>
+    </tmc_event>
+    <tmc_event event_code="1720">
+      <short_text>informacije</short_text>
+      <long_text>Smetnje u željezničkom saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="1721">
+      <short_text>informacije</short_text>
+      <long_text>Javni prevoz ne radi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1731">
+      <short_text>Prepreka za vozila/izvanredni tereti i vozila</short_text>
+      <long_text>Opasnost zbog prevoza teškog tereta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1732">
+      <short_text>Prepreka za vozila/izvanredni tereti i vozila</short_text>
+      <long_text>Opasnost zbog transporta preširokog tereta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1733">
+      <short_text>Prepreka za vozila/izvanredni tereti i vozila</short_text>
+      <long_text>Opasnost zbog transporta predugačkog tereta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1734">
+      <short_text>Prepreka za vozila/izvanredni tereti i vozila</short_text>
+      <long_text>Opasnost zbog vozila koje vozi presporo</long_text>
+    </tmc_event>
+    <tmc_event event_code="1735">
+      <short_text>Prepreka za vozila/izvanredni tereti i vozila</short_text>
+      <long_text>Opasnost zbog lančanih vozila</long_text>
+    </tmc_event>
+    <tmc_event event_code="1736">
+      <short_text>Transport opasnog tereta</short_text>
+      <long_text>Opasnost zbog vozila koja prevoze opasan teret</long_text>
+    </tmc_event>
+    <tmc_event event_code="1737">
+      <short_text>Prepreka za vozila/izvanredni tereti i vozila</short_text>
+      <long_text>Opasnost zbog vožnje u kolonama</long_text>
+    </tmc_event>
+    <tmc_event event_code="1738">
+      <short_text>Prepreka za vozila/izvanredni tereti i vozila</short_text>
+      <long_text>Opasnost zbog vojnih kolona</long_text>
+    </tmc_event>
+    <tmc_event event_code="1739">
+      <short_text>Prepreka za vozila/izvanredni tereti i vozila</short_text>
+      <long_text>Opasnost zbog transporta previsokog tereta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1740">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Gust saobraćaj zbog prevoza teškog tereta. Gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1741">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>gust saobraćaj zbog vožnje u kolonama. Gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1751">
+      <short_text>Prepreka za vozila/izvanredni tereti i vozila</short_text>
+      <long_text>Prevoz teškog tereta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1752">
+      <short_text>Prepreka za vozila/izvanredni tereti i vozila</short_text>
+      <long_text>Transport preširokog tereta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1753">
+      <short_text>Prepreka za vozila/izvanredni tereti i vozila</short_text>
+      <long_text>Transport predugačkog tereta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1754">
+      <short_text>Prepreka za vozila/izvanredni tereti i vozila</short_text>
+      <long_text>vozilo koje vozi presporo</long_text>
+    </tmc_event>
+    <tmc_event event_code="1755">
+      <short_text>Prepreka za vozila/izvanredni tereti i vozila</short_text>
+      <long_text>Vožnja u kolonama</long_text>
+    </tmc_event>
+    <tmc_event event_code="1756">
+      <short_text>Kašnjenja</short_text>
+      <long_text>Prevoz teškog tereta, gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1757">
+      <short_text>Kašnjenja</short_text>
+      <long_text>Prevoz teškog tereta, treba računati na gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1758">
+      <short_text>Dugo kašnjenje</short_text>
+      <long_text>Prevoz teškog tereta, veliki gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1759">
+      <short_text>Kašnjenja</short_text>
+      <long_text>Vožnja u kolonama, gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1760">
+      <short_text>Kašnjenja</short_text>
+      <long_text>Prevoz teškog tereta, treba računati na gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1761">
+      <short_text>Dugo kašnjenje</short_text>
+      <long_text>Vožnja u kolonama, veliki gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1764">
+      <short_text>Prepreka za vozila/izvanredni tereti i vozila</short_text>
+      <long_text>Lančana vozila</long_text>
+    </tmc_event>
+    <tmc_event event_code="1765">
+      <short_text>Transport opasnog tereta</short_text>
+      <long_text>Transport opasnog tereta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1766">
+      <short_text>Prepreka za vozila/izvanredni tereti i vozila</short_text>
+      <long_text>Vojne kolone</long_text>
+    </tmc_event>
+    <tmc_event event_code="1767">
+      <short_text>Prepreka za vozila/izvanredni tereti i vozila</short_text>
+      <long_text>Prevoz teškog tereta, preticanje nije moguće.</long_text>
+    </tmc_event>
+    <tmc_event event_code="1768">
+      <short_text>Transport opasnog tereta</short_text>
+      <long_text>Prevoz opasnog tereta, idite na sljedeće parkiralište</long_text>
+    </tmc_event>
+    <tmc_event event_code="1801">
+      <short_text>Smetnje na uređajima za svjetlosno signaliziranje i ostaloj cestovnoj opremi</short_text>
+      <long_text>Uređaji za promjenu trake u kvaru</long_text>
+    </tmc_event>
+    <tmc_event event_code="1802">
+      <short_text>Smetnje na uređajima za svjetlosno signaliziranje i ostaloj cestovnoj opremi</short_text>
+      <long_text>Stanice za poziv u pomoć ne rade</long_text>
+    </tmc_event>
+    <tmc_event event_code="1803">
+      <short_text>Smetnje na uređajima za svjetlosno signaliziranje i ostaloj cestovnoj opremi</short_text>
+      <long_text>Nije moguće uputiti poziv u pomoć</long_text>
+    </tmc_event>
+    <tmc_event event_code="1804">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Semafori ne rade</long_text>
+    </tmc_event>
+    <tmc_event event_code="1805">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Semafori u kvaru</long_text>
+    </tmc_event>
+    <tmc_event event_code="1806">
+      <short_text>Smetnje na uređajima za svjetlosno signaliziranje i ostaloj cestovnoj opremi</short_text>
+      <long_text>Smetnja na pružnom prelazu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1807">
+      <short_text>Zastoj</short_text>
+      <long_text>Semafori ne rade, %lzastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="1809">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Semafori ne rade, %lzastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="1811">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Semafori ne rade, %lgust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="1812">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Semafori ne rade, očekuje se gust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="1813">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Semafori ne rade, %lgužva u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="1814">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Semafori ne rade, očekuje se gužva u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="1815">
+      <short_text>Smetnje na uređajima za svjetlosno signaliziranje i ostaloj cestovnoj opremi</short_text>
+      <long_text>Semafori ne rade, nema smetnji u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="1816">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Semafori ne rade, %lgust saobraćaj s tendencijom pogoršavanja</long_text>
+    </tmc_event>
+    <tmc_event event_code="1817">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Semafori ne rade, gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1818">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Semafori ne rade, treba računati na gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1819">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Semafori ne rade, veliki gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1820">
+      <short_text>Zastoj</short_text>
+      <long_text>Smetnja na pružnom prelazu, %lzastoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="1822">
+      <short_text>Zastoj u saobraćaju</short_text>
+      <long_text>Smetnja na pružnom prelazu, %lzastoj u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="1824">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Smetnja na pružnom prelazu, %lgust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="1825">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Smetnja na pružnom prelazu, očekuje se gust saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="1826">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Smetnja na pružnom prelazu, %lgužva u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="1827">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Smetnja na pružnom prelazu, očekuje se gužva u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="1828">
+      <short_text>Smetnje na uređajima za svjetlosno signaliziranje i ostaloj cestovnoj opremi</short_text>
+      <long_text>Smetnja na pružnom prelazu, nema smetnji u saobraćaju</long_text>
+    </tmc_event>
+    <tmc_event event_code="1829">
+      <short_text>Gust saobraćaj</short_text>
+      <long_text>Smetnja na pružnom prelazu, %lgust saobraćaj s tendencijom pogoršavanja</long_text>
+    </tmc_event>
+    <tmc_event event_code="1830">
+      <short_text>Kašnjenja</short_text>
+      <long_text>Smetnja na pružnom prelazu, gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1831">
+      <short_text>Kašnjenja</short_text>
+      <long_text>Smetnja na pružnom prelazu, treba računati na gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1832">
+      <short_text>Dugo kašnjenje</short_text>
+      <long_text>Smetnja na pružnom prelazu, veliki gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1838">
+      <short_text>Smetnje na uređajima za svjetlosno signaliziranje i ostaloj cestovnoj opremi</short_text>
+      <long_text>Uređaji za promjenu trake u kvaru</long_text>
+    </tmc_event>
+    <tmc_event event_code="1840">
+      <short_text>Smetnje na uređajima za svjetlosno signaliziranje i ostaloj cestovnoj opremi</short_text>
+      <long_text>Znakovi za izmjenu saobraćaja ne rade</long_text>
+    </tmc_event>
+    <tmc_event event_code="1841">
+      <short_text>Smetnje na uređajima za svjetlosno signaliziranje i ostaloj cestovnoj opremi</short_text>
+      <long_text>Znakovi za izmjenu saobraćaja rade besprijekorno</long_text>
+    </tmc_event>
+    <tmc_event event_code="1842">
+      <short_text>Smetnje na uređajima za svjetlosno signaliziranje i ostaloj cestovnoj opremi</short_text>
+      <long_text>Znakovi za izmjenu saobraćaja ponovo rade</long_text>
+    </tmc_event>
+    <tmc_event event_code="1843">
+      <short_text>Smetnje na uređajima za svjetlosno signaliziranje i ostaloj cestovnoj opremi</short_text>
+      <long_text>Regulacija prilaza ne radi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1844">
+      <short_text>Smetnje na uređajima za svjetlosno signaliziranje i ostaloj cestovnoj opremi</short_text>
+      <long_text>Regulacija prilaza radi besprijekorno</long_text>
+    </tmc_event>
+    <tmc_event event_code="1845">
+      <short_text>Smetnje na uređajima za svjetlosno signaliziranje i ostaloj cestovnoj opremi</short_text>
+      <long_text>provizorni semafor u kvaru</long_text>
+    </tmc_event>
+    <tmc_event event_code="1846">
+      <short_text>Smetnje na uređajima za svjetlosno signaliziranje i ostaloj cestovnoj opremi</short_text>
+      <long_text>provizorni semafor radi besprijekorno</long_text>
+    </tmc_event>
+    <tmc_event event_code="1847">
+      <short_text>Smetnje na uređajima za svjetlosno signaliziranje i ostaloj cestovnoj opremi</short_text>
+      <long_text>Tok saobraćaja ometen zbog ispada računara za saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="1848">
+      <short_text>Smetnje na uređajima za svjetlosno signaliziranje i ostaloj cestovnoj opremi</short_text>
+      <long_text>Regulacija semafora promijenjena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1849">
+      <short_text>Smetnje na uređajima za svjetlosno signaliziranje i ostaloj cestovnoj opremi</short_text>
+      <long_text>Ventilacija tunela ne radi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1850">
+      <short_text>Smetnje na uređajima za svjetlosno signaliziranje i ostaloj cestovnoj opremi</short_text>
+      <long_text>Uređaji za promjenu trake ne rade, opasnost</long_text>
+    </tmc_event>
+    <tmc_event event_code="1853">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Prepreka na cesti</long_text>
+    </tmc_event>
+    <tmc_event event_code="1864">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Uređaji za promjenu trake u kvaru, opasnost</long_text>
+    </tmc_event>
+    <tmc_event event_code="1865">
+      <short_text>Smetnje na uređajima za svjetlosno signaliziranje i ostaloj cestovnoj opremi</short_text>
+      <long_text>Stanice za poziv u pomoć ne rade, pojačane policijske kontrole</long_text>
+    </tmc_event>
+    <tmc_event event_code="1866">
+      <short_text>Smetnje na uređajima za svjetlosno signaliziranje i ostaloj cestovnoj opremi</short_text>
+      <long_text>Stanice za poziv u pomoć ne rade, u hitnom slučaju sačekajte policiju</long_text>
+    </tmc_event>
+    <tmc_event event_code="1867">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Semafori ne rade, opasnost</long_text>
+    </tmc_event>
+    <tmc_event event_code="1868">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Semafori u kvaru, gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1869">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Semafori u kvaru, treba računati na gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1870">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Semafori u kvaru, veliki gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1875">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>Opasnost zbog neispravnih semafora</long_text>
+    </tmc_event>
+    <tmc_event event_code="1876">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>provizorni semafor u kvaru, gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1877">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>provizorni semafor u kvaru, treba računati na gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1878">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>provizorni semafor u kvaru, veliki gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1879">
+      <short_text>Prepreka na cesti</short_text>
+      <long_text>provizorni semafor u kvaru, opasnost</long_text>
+    </tmc_event>
+    <tmc_event event_code="1880">
+      <short_text>Kašnjenja</short_text>
+      <long_text>Tok saobraćaja ometen zbog ispada računara za saobraćaj, gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1884">
+      <short_text>Kašnjenja</short_text>
+      <long_text>Tok saobraćaja ometen zbog ispada računara za saobraćaj, treba računati na gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1885">
+      <short_text>Dugo kašnjenje</short_text>
+      <long_text>Tok saobraćaja ometen zbog ispada računara za saobraćaj, veliki gubitak vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1886">
+      <short_text>Informacije o parkiranju</short_text>
+      <long_text>normalne zabrane parkiranja ukinute</long_text>
+    </tmc_event>
+    <tmc_event event_code="1887">
+      <short_text>Informacije o parkiranju</short_text>
+      <long_text>posebne zabrane parkiranja na snazi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1888">
+      <short_text>Slobodna parkirna mjesta</short_text>
+      <long_text>zauzeto 10%</long_text>
+    </tmc_event>
+    <tmc_event event_code="1889">
+      <short_text>Slobodna parkirna mjesta</short_text>
+      <long_text>zauzeto 20%</long_text>
+    </tmc_event>
+    <tmc_event event_code="1890">
+      <short_text>Slobodna parkirna mjesta</short_text>
+      <long_text>zauzeto 30%</long_text>
+    </tmc_event>
+    <tmc_event event_code="1891">
+      <short_text>Slobodna parkirna mjesta</short_text>
+      <long_text>zauzeto 40%</long_text>
+    </tmc_event>
+    <tmc_event event_code="1892">
+      <short_text>Parkiralište skoro potpuno zauzeto</short_text>
+      <long_text>zauzeto 50%</long_text>
+    </tmc_event>
+    <tmc_event event_code="1893">
+      <short_text>Parkiralište skoro potpuno zauzeto</short_text>
+      <long_text>zauzeto 60%</long_text>
+    </tmc_event>
+    <tmc_event event_code="1894">
+      <short_text>Parkiralište skoro potpuno zauzeto</short_text>
+      <long_text>zauzeto 70%</long_text>
+    </tmc_event>
+    <tmc_event event_code="1895">
+      <short_text>Parkiralište potpuno zauzeto</short_text>
+      <long_text>zauzeto 80%</long_text>
+    </tmc_event>
+    <tmc_event event_code="1896">
+      <short_text>Parkiralište potpuno zauzeto</short_text>
+      <long_text>zauzeto 90%</long_text>
+    </tmc_event>
+    <tmc_event event_code="1897">
+      <short_text>Parkiralište skoro potpuno zauzeto</short_text>
+      <long_text>slobodno još do 10 mjesta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1898">
+      <short_text>Parkiralište skoro potpuno zauzeto</short_text>
+      <long_text>slobodno još do 20 mjesta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1899">
+      <short_text>Parkiralište skoro potpuno zauzeto</short_text>
+      <long_text>slobodno još do 30 mjesta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1900">
+      <short_text>Parkiralište skoro potpuno zauzeto</short_text>
+      <long_text>slobodno još do 40 mjesta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1901">
+      <short_text>Putne informacije</short_text>
+      <long_text>sljedeći polazak</long_text>
+    </tmc_event>
+    <tmc_event event_code="1903">
+      <short_text>Parkiralište potpuno zauzeto</short_text>
+      <long_text>Parkiralište potpuno zauzeto</long_text>
+    </tmc_event>
+    <tmc_event event_code="1904">
+      <short_text>Parkiralište skoro potpuno zauzeto</short_text>
+      <long_text>sva parkirališna mjesta do daljnjeg zauzeta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1905">
+      <short_text>Informacije o parkiranju</short_text>
+      <long_text>ima još slobodnih mjesta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1906">
+      <short_text>Informacije o parkiranju</short_text>
+      <long_text>Park i Ride rade</long_text>
+    </tmc_event>
+    <tmc_event event_code="1908">
+      <short_text>Servisne dojave</short_text>
+      <long_text>uključite radioprogram</long_text>
+    </tmc_event>
+    <tmc_event event_code="1909">
+      <short_text>Servisne dojave</short_text>
+      <long_text>Upozorenje na ovoj frekvenciji</long_text>
+    </tmc_event>
+    <tmc_event event_code="1910">
+      <short_text>Servisne dojave</short_text>
+      <long_text>novo upozorenje unutar određenog vremena</long_text>
+    </tmc_event>
+    <tmc_event event_code="1913">
+      <short_text>Servisne dojave</short_text>
+      <long_text>uključite radioprogram</long_text>
+    </tmc_event>
+    <tmc_event event_code="1918">
+      <short_text>Parkiralište potpuno zauzeto</short_text>
+      <long_text>zauzeto</long_text>
+    </tmc_event>
+    <tmc_event event_code="1920">
+      <short_text>Parkiralište skoro potpuno zauzeto</short_text>
+      <long_text>Samo još nekoliko mjesta slobodno</long_text>
+    </tmc_event>
+    <tmc_event event_code="1921">
+      <short_text>Slobodna parkirna mjesta</short_text>
+      <long_text>Na raspolaganju je dovoljan broj mjesta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1922">
+      <short_text>Parkiralište potpuno zauzeto</short_text>
+      <long_text>Parkiralište vjerovatno zauzeto</long_text>
+    </tmc_event>
+    <tmc_event event_code="1923">
+      <short_text>Parkiralište potpuno zauzeto</short_text>
+      <long_text>vjerovatno nema više slobodnih mjesta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1924">
+      <short_text>Parkiralište potpuno zauzeto</short_text>
+      <long_text>Garaža zauzeta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1926">
+      <short_text>Parkiralište potpuno zauzeto</short_text>
+      <long_text>nema više parkirališnih mjesta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1927">
+      <short_text>Informacije o parkiranju</short_text>
+      <long_text>Zabrana parkiranja</long_text>
+    </tmc_event>
+    <tmc_event event_code="1928">
+      <short_text>Informacije o parkiranju</short_text>
+      <long_text>Ukinuta ograničenja za parkiralište</long_text>
+    </tmc_event>
+    <tmc_event event_code="1930">
+      <short_text>Servisne dojave</short_text>
+      <long_text>trenutno nema TMC usluge</long_text>
+    </tmc_event>
+    <tmc_event event_code="1961">
+      <short_text>opasna situacija</short_text>
+      <long_text>Vozilima hitne pomoći dati prednost pri preticanju na traci za vozila javnog prevoza putnika</long_text>
+    </tmc_event>
+    <tmc_event event_code="1962">
+      <short_text>Informacije za vozila javnog prevoza putnika</short_text>
+      <long_text>Traka za vozila javnog prevoza putnika otvorena za sva vozila</long_text>
+    </tmc_event>
+    <tmc_event event_code="1963">
+      <short_text>Informacije za vozila javnog prevoza putnika</short_text>
+      <long_text>Policija preusmjerava saobraćaj preko trake za vozila javnog prevoza putnika</long_text>
+    </tmc_event>
+    <tmc_event event_code="1974">
+      <short_text>informacije</short_text>
+      <long_text>Omogućite prolaz vozilima hitne pomoći</long_text>
+    </tmc_event>
+    <tmc_event event_code="1977">
+      <short_text>informacije</short_text>
+      <long_text>Vozilima hitne pomoći dati prednost pri preticanju na traci za kamione</long_text>
+    </tmc_event>
+    <tmc_event event_code="2000">
+      <short_text>informacije</short_text>
+      <long_text>zbog alarma za smog cijelo područje zatvoreno za saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="2013">
+      <short_text>informacije</short_text>
+      <long_text>Odmorište i benzinska pumpa preopterećeno</long_text>
+    </tmc_event>
+    <tmc_event event_code="2021">
+      <short_text>informacije</short_text>
+      <long_text>ne radi, zamjenski autobusni saobraćaj</long_text>
+    </tmc_event>
+    <tmc_event event_code="2022">
+      <short_text>informacije</short_text>
+      <long_text>Prekid zbog štrajka</long_text>
+    </tmc_event>
+  </locale>
+</TmcConfig>

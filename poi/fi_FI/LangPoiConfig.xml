@@ -1,0 +1,1281 @@
+<LanguagePoiConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xsd/locale/LanguagePoiConfiguration.xsd" version="1">
+<!--Alphabetically sorted setup category definitions for each fuel type, will be reloaded after language change-->
+	<SetupCategoryDefinition>
+		<PoiCategoryMapping fueltype="default">
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Apteekit -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Autonvuokrausliikkeet -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektroniikka -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Elokuvateatterit -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Esittävät taiteet -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golf-urheilu -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Hallitus ja hallinto -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Hautausmaat -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Hiihto -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Hiljentymispaikat -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hotellit ja motellit -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Huvipuistot -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Kahvilat -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kasinot -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongressikeskukset -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Lääkäripalvelut -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Latausasemat -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Lautat ja autojunat -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Lentokentät -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Levähdyspaikka -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Linja-autoasemat -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- LPG-tankkausasemat -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Maakaasun tankkausasemat -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Moottoritien liittymät/erkanemiskaistat -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Muistomerkit -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Museot -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Nähtävyydet -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Oppilaitokset -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Ostoskeskukset -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Pankit -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Pankkiautomaatit -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parkkipaikat -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Poliisiasemat -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Posti -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Puistot -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Rajanylityspaikat -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Rautatieasemat -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Ravintolat -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Sairaala -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Suurlähetystöt -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Tankkausasemat -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Turisti-informaatiot -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Urheilukeskukset -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Vaatetus -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Veneily -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Viinit ja väkijuomat -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW-huolto -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW-jälleenmyyjä -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Yöelämä -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Yritykset -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="gasoline">
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Apteekit -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Autonvuokrausliikkeet -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektroniikka -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Elokuvateatterit -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Esittävät taiteet -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golf-urheilu -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Hallitus ja hallinto -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Hautausmaat -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Hiihto -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Hiljentymispaikat -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hotellit ja motellit -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Huvipuistot -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Kahvilat -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kasinot -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongressikeskukset -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Lääkäripalvelut -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Latausasemat -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Lautat ja autojunat -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Lentokentät -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Levähdyspaikka -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Linja-autoasemat -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- LPG-tankkausasemat -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Maakaasun tankkausasemat -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Moottoritien liittymät/erkanemiskaistat -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Muistomerkit -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Museot -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Nähtävyydet -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Oppilaitokset -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Ostoskeskukset -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Pankit -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Pankkiautomaatit -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parkkipaikat -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Poliisiasemat -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Posti -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Puistot -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Rajanylityspaikat -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Rautatieasemat -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Ravintolat -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Sairaala -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Suurlähetystöt -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Tankkausasemat -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Turisti-informaatiot -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Urheilukeskukset -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Vaatetus -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Veneily -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Viinit ja väkijuomat -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW-huolto -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW-jälleenmyyjä -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Yöelämä -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Yritykset -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="diesel">
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Apteekit -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Autonvuokrausliikkeet -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektroniikka -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Elokuvateatterit -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Esittävät taiteet -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golf-urheilu -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Hallitus ja hallinto -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Hautausmaat -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Hiihto -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Hiljentymispaikat -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hotellit ja motellit -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Huvipuistot -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Kahvilat -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kasinot -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongressikeskukset -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Lääkäripalvelut -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Latausasemat -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Lautat ja autojunat -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Lentokentät -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Levähdyspaikka -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Linja-autoasemat -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- LPG-tankkausasemat -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Maakaasun tankkausasemat -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Moottoritien liittymät/erkanemiskaistat -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Muistomerkit -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Museot -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Nähtävyydet -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Oppilaitokset -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Ostoskeskukset -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Pankit -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Pankkiautomaatit -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parkkipaikat -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Poliisiasemat -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Posti -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Puistot -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Rajanylityspaikat -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Rautatieasemat -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Ravintolat -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Sairaala -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Suurlähetystöt -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Tankkausasemat -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Turisti-informaatiot -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Urheilukeskukset -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Vaatetus -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Veneily -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Viinit ja väkijuomat -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW-huolto -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW-jälleenmyyjä -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Yöelämä -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Yritykset -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="cng">
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Apteekit -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Autonvuokrausliikkeet -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektroniikka -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Elokuvateatterit -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Esittävät taiteet -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golf-urheilu -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Hallitus ja hallinto -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Hautausmaat -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Hiihto -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Hiljentymispaikat -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hotellit ja motellit -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Huvipuistot -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Kahvilat -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kasinot -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongressikeskukset -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Lääkäripalvelut -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Latausasemat -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Lautat ja autojunat -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Lentokentät -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Levähdyspaikka -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Linja-autoasemat -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- LPG-tankkausasemat -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Maakaasun tankkausasemat -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Moottoritien liittymät/erkanemiskaistat -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Muistomerkit -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Museot -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Nähtävyydet -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Oppilaitokset -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Ostoskeskukset -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Pankit -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Pankkiautomaatit -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parkkipaikat -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Poliisiasemat -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Posti -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Puistot -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Rajanylityspaikat -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Rautatieasemat -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Ravintolat -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Sairaala -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Suurlähetystöt -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Tankkausasemat -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Turisti-informaatiot -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Urheilukeskukset -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Vaatetus -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Veneily -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Viinit ja väkijuomat -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW-huolto -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW-jälleenmyyjä -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Yöelämä -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Yritykset -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="lpg">
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Apteekit -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Autonvuokrausliikkeet -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektroniikka -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Elokuvateatterit -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Esittävät taiteet -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golf-urheilu -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Hallitus ja hallinto -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Hautausmaat -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Hiihto -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Hiljentymispaikat -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hotellit ja motellit -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Huvipuistot -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Kahvilat -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kasinot -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongressikeskukset -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Lääkäripalvelut -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Latausasemat -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Lautat ja autojunat -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Lentokentät -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Levähdyspaikka -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Linja-autoasemat -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- LPG-tankkausasemat -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Maakaasun tankkausasemat -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Moottoritien liittymät/erkanemiskaistat -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Muistomerkit -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Museot -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Nähtävyydet -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Oppilaitokset -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Ostoskeskukset -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Pankit -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Pankkiautomaatit -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parkkipaikat -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Poliisiasemat -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Posti -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Puistot -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Rajanylityspaikat -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Rautatieasemat -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Ravintolat -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Sairaala -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Suurlähetystöt -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Tankkausasemat -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Turisti-informaatiot -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Urheilukeskukset -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Vaatetus -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Veneily -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Viinit ja väkijuomat -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW-huolto -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW-jälleenmyyjä -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Yöelämä -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Yritykset -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="bev">
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Apteekit -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Autonvuokrausliikkeet -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektroniikka -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Elokuvateatterit -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Esittävät taiteet -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golf-urheilu -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Hallitus ja hallinto -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Hautausmaat -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Hiihto -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Hiljentymispaikat -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hotellit ja motellit -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Huvipuistot -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Kahvilat -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kasinot -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongressikeskukset -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Lääkäripalvelut -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Latausasemat -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Lautat ja autojunat -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Lentokentät -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Levähdyspaikka -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Linja-autoasemat -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- LPG-tankkausasemat -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Maakaasun tankkausasemat -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Moottoritien liittymät/erkanemiskaistat -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Muistomerkit -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Museot -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Nähtävyydet -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Oppilaitokset -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Ostoskeskukset -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Pankit -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Pankkiautomaatit -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parkkipaikat -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Poliisiasemat -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Posti -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Puistot -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Rajanylityspaikat -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Rautatieasemat -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Ravintolat -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Sairaala -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Suurlähetystöt -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Tankkausasemat -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Turisti-informaatiot -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Urheilukeskukset -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Vaatetus -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Veneily -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Viinit ja väkijuomat -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW-huolto -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW-jälleenmyyjä -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Yöelämä -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Yritykset -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="phev">
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Apteekit -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Autonvuokrausliikkeet -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektroniikka -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Elokuvateatterit -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Esittävät taiteet -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golf-urheilu -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Hallitus ja hallinto -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Hautausmaat -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Hiihto -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Hiljentymispaikat -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hotellit ja motellit -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Huvipuistot -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Kahvilat -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kasinot -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongressikeskukset -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Lääkäripalvelut -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Latausasemat -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Lautat ja autojunat -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Lentokentät -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Levähdyspaikka -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Linja-autoasemat -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- LPG-tankkausasemat -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Maakaasun tankkausasemat -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Moottoritien liittymät/erkanemiskaistat -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Muistomerkit -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Museot -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Nähtävyydet -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Oppilaitokset -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Ostoskeskukset -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Pankit -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Pankkiautomaatit -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parkkipaikat -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Poliisiasemat -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Posti -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Puistot -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Rajanylityspaikat -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Rautatieasemat -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Ravintolat -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Sairaala -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Suurlähetystöt -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Tankkausasemat -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Turisti-informaatiot -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Urheilukeskukset -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Vaatetus -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Veneily -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Viinit ja väkijuomat -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW-huolto -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW-jälleenmyyjä -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Yöelämä -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Yritykset -->
+		</PoiCategoryMapping>
+	</SetupCategoryDefinition>
+  <PoiCategoryGroupDefinition>
+    <PoiCategoryGroup id="10" type="dynamic">
+      <Priority>1</Priority>
+      <PoiCategoryMapping />
+    </PoiCategoryGroup>
+    <PoiCategoryGroup id="11" type="local">
+      <Priority>2</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>23</PoiCategoryRef>
+        <PoiCategoryRef>15</PoiCategoryRef>
+        <PoiCategoryRef>1</PoiCategoryRef>
+        <PoiCategoryRef>29</PoiCategoryRef>
+        <PoiCategoryRef>34</PoiCategoryRef>
+        <PoiCategoryRef>36</PoiCategoryRef>
+        <PoiCategoryRef>41</PoiCategoryRef>
+        <PoiCategoryRef>49</PoiCategoryRef>
+        <PoiCategoryRef>54</PoiCategoryRef>
+        <PoiCategoryRef>43</PoiCategoryRef>
+        <PoiCategoryRef>8</PoiCategoryRef>
+        <PoiCategoryRef>7</PoiCategoryRef>
+        <PoiCategoryRef>44</PoiCategoryRef>
+        <PoiCategoryRef>26</PoiCategoryRef>
+        <PoiCategoryRef>35</PoiCategoryRef>
+        <PoiCategoryRef>48</PoiCategoryRef>
+        <PoiCategoryRef>22</PoiCategoryRef>
+        <PoiCategoryRef>50</PoiCategoryRef>
+        <PoiCategoryRef>134</PoiCategoryRef>
+        <PoiCategoryRef>9</PoiCategoryRef>
+        <PoiCategoryRef>2</PoiCategoryRef>
+        <PoiCategoryRef>18</PoiCategoryRef>
+        <PoiCategoryRef>136</PoiCategoryRef>
+        <PoiCategoryRef>135</PoiCategoryRef>
+        <PoiCategoryRef>33</PoiCategoryRef>
+        <PoiCategoryRef>19</PoiCategoryRef>
+        <PoiCategoryRef>14</PoiCategoryRef>
+        <PoiCategoryRef>38</PoiCategoryRef>
+        <PoiCategoryRef>37</PoiCategoryRef>
+        <PoiCategoryRef>52</PoiCategoryRef>
+        <PoiCategoryRef>27</PoiCategoryRef>
+        <PoiCategoryRef>45</PoiCategoryRef>
+        <PoiCategoryRef>25</PoiCategoryRef>
+        <PoiCategoryRef>20</PoiCategoryRef>
+        <PoiCategoryRef>46</PoiCategoryRef>
+        <PoiCategoryRef>32</PoiCategoryRef>
+        <PoiCategoryRef>102</PoiCategoryRef>
+        <PoiCategoryRef>10</PoiCategoryRef>
+        <PoiCategoryRef>16</PoiCategoryRef>
+        <PoiCategoryRef>104</PoiCategoryRef>
+        <PoiCategoryRef>21</PoiCategoryRef>
+        <PoiCategoryRef>101</PoiCategoryRef>
+        <PoiCategoryRef>39</PoiCategoryRef>
+        <PoiCategoryRef>53</PoiCategoryRef>
+        <PoiCategoryRef>28</PoiCategoryRef>
+        <PoiCategoryRef>42</PoiCategoryRef>
+        <PoiCategoryRef>30</PoiCategoryRef>
+        <PoiCategoryRef>12</PoiCategoryRef>
+        <PoiCategoryRef>11</PoiCategoryRef>
+        <PoiCategoryRef>31</PoiCategoryRef>
+        <PoiCategoryRef>47</PoiCategoryRef>
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+    <PoiCategoryGroup id="12" type="local">
+      <Priority>3</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>15</PoiCategoryRef>
+        <PoiCategoryRef>8</PoiCategoryRef>
+        <PoiCategoryRef>7</PoiCategoryRef>
+        <PoiCategoryRef>134</PoiCategoryRef>
+        <PoiCategoryRef>9</PoiCategoryRef>
+        <PoiCategoryRef>2</PoiCategoryRef>
+        <PoiCategoryRef>18</PoiCategoryRef>
+        <PoiCategoryRef>136</PoiCategoryRef>
+        <PoiCategoryRef>135</PoiCategoryRef>
+        <PoiCategoryRef>19</PoiCategoryRef>
+        <PoiCategoryRef>14</PoiCategoryRef>
+        <PoiCategoryRef>102</PoiCategoryRef>
+        <PoiCategoryRef>10</PoiCategoryRef>
+        <PoiCategoryRef>16</PoiCategoryRef>
+        <PoiCategoryRef>101</PoiCategoryRef>
+        <PoiCategoryRef>12</PoiCategoryRef>
+        <PoiCategoryRef>11</PoiCategoryRef>
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+    <PoiCategoryGroup id="13" type="local">
+      <Priority>6</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>23</PoiCategoryRef>
+        <PoiCategoryRef>22</PoiCategoryRef>
+        <PoiCategoryRef>20</PoiCategoryRef>
+        <PoiCategoryRef>21</PoiCategoryRef>
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+    <PoiCategoryGroup id="14" type="local">
+      <Priority>7</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>1</PoiCategoryRef>
+        <PoiCategoryRef>34</PoiCategoryRef>
+        <PoiCategoryRef>36</PoiCategoryRef>
+        <PoiCategoryRef>41</PoiCategoryRef>
+        <PoiCategoryRef>43</PoiCategoryRef>
+        <PoiCategoryRef>44</PoiCategoryRef>
+        <PoiCategoryRef>35</PoiCategoryRef>
+        <PoiCategoryRef>33</PoiCategoryRef>
+        <PoiCategoryRef>38</PoiCategoryRef>
+        <PoiCategoryRef>37</PoiCategoryRef>
+        <PoiCategoryRef>32</PoiCategoryRef>
+        <PoiCategoryRef>39</PoiCategoryRef>
+        <PoiCategoryRef>42</PoiCategoryRef>
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+    <PoiCategoryGroup id="15" type="local">
+      <Priority>4</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>29</PoiCategoryRef>
+        <PoiCategoryRef>26</PoiCategoryRef>
+        <PoiCategoryRef>27</PoiCategoryRef>
+        <PoiCategoryRef>25</PoiCategoryRef>
+        <PoiCategoryRef>104</PoiCategoryRef>
+        <PoiCategoryRef>28</PoiCategoryRef>
+        <PoiCategoryRef>30</PoiCategoryRef>
+        <PoiCategoryRef>31</PoiCategoryRef>
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+    <PoiCategoryGroup id="16" type="local">
+      <Priority>5</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>49</PoiCategoryRef>
+        <PoiCategoryRef>54</PoiCategoryRef>
+        <PoiCategoryRef>48</PoiCategoryRef>
+        <PoiCategoryRef>50</PoiCategoryRef>
+        <PoiCategoryRef>52</PoiCategoryRef>
+        <PoiCategoryRef>45</PoiCategoryRef>
+        <PoiCategoryRef>46</PoiCategoryRef>
+        <PoiCategoryRef>53</PoiCategoryRef>
+        <PoiCategoryRef>47</PoiCategoryRef>
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+  </PoiCategoryGroupDefinition>
+  <PoiCategoryGroupNameDefinition>
+    <Name category_group_ref="10">Omat erikoiskohteet (Personal POI)</Name>
+    <Name category_group_ref="11">Luokat (aakkosjärjestyksessä)</Name>
+    <Name category_group_ref="12">Auto ja matkailu</Name>
+    <Name category_group_ref="13">Hätätilanteet</Name>
+    <Name category_group_ref="14">Nähtävyydet ja vapaa-aika</Name>
+    <Name category_group_ref="15">Ruoka ja ostokset</Name>
+    <Name category_group_ref="16">Yritykset ja julkiset laitokset</Name>
+  </PoiCategoryGroupNameDefinition>
+
+	<PoiCategoryThesaurusDefinition>
+		<Thesaurus category_ref="1">
+			<Value>Autostadt</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="2">
+			<Value>Lentokentät</Value>
+			<Value>Lentokenttä</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="136">
+			<Value>LPG-tankkausasemat</Value>
+			<Value>LPG</Value>
+			<Value>Kaasu</Value>
+			<Value>Tankkaus</Value>
+			<Value>Tankkausasema</Value>
+			<Value>Tankkausasemat</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="135">
+			<Value>Maakaasun tankkausasemat</Value>
+			<Value>Maakaasun tankkausasema</Value>
+			<Value>Maakaasu</Value>
+			<Value>Kaasu</Value>
+			<Value>CNG</Value>
+			<Value>Tankkaus</Value>
+			<Value>Tankkausasema</Value>
+			<Value>Tankkausasemat</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="101">
+			<Value>Tankkausasemat</Value>
+			<Value>Tankkausasema</Value>
+			<Value>Tankkaus</Value>
+			<Value>Bensiini</Value>
+			<Value>Diesel</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="102">
+			<Value>Parkkipaikat</Value>
+			<Value>Parkkipaikka</Value>
+			<Value>Pysäköinti</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="7">
+			<Value>Levähdyspaikka</Value>
+			<Value>Levähdyspaikat</Value>
+			<Value>Taukopaikka</Value>
+			<Value>Vessa</Value>
+			<Value>WC</Value>
+			<Value>Käymälä</Value>
+			<Value>WC:t</Value>
+			<Value>Levähdys</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="8">
+			<Value>Hotellit ja motellit</Value>
+			<Value>Hotelli</Value>
+			<Value>Hotellit</Value>
+			<Value>Motelli</Value>
+			<Value>Motellit</Value>
+			<Value>Majoituspaikka</Value>
+			<Value>Majoituspaikat</Value>
+			<Value>Nukkuminen</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="9">
+			<Value>Lautat ja autojunat</Value>
+			<Value>Autojuna</Value>
+			<Value>Autojunat</Value>
+			<Value>Lautta</Value>
+			<Value>Lautat</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="10">
+			<Value>Rajanylityspaikat</Value>
+			<Value>Rajanylityspaikka</Value>
+			<Value>Raja</Value>
+			<Value>Rajat</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="11">
+			<Value>VW-jälleenmyyjä</Value>
+			<Value>Jälleenmyyjät</Value>
+			<Value>Jälleenmyyjä</Value>
+			<Value>VW</Value>
+			<Value>Volkswagen</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="12">
+			<Value>VW-huolto</Value>
+			<Value>Volkswagen</Value>
+			<Value>Korjaamo</Value>
+			<Value>Korjaamot</Value>
+			<Value>Huolto</Value>
+			<Value>Huollot</Value>
+			<Value>Tarkastus</Value>
+			<Value>Tarkastukset</Value>
+			<Value>Määräaikaishuolto</Value>
+			<Value>Määräaikaishuollot</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="14">
+			<Value>Moottoritien liittymät/erkanemiskaistat</Value>
+			<Value>Erkanemiskaista</Value>
+			<Value>Erkanemiskaistat</Value>
+			<Value>Liittymä</Value>
+			<Value>Liittymät</Value>
+			<Value>Erkanemiskaista</Value>
+			<Value>Erkanemiskaistat</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="15">
+			<Value>Autonvuokrausliikkeet</Value>
+			<Value>Autonvuokraus</Value>
+			<Value>Vuokraus</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="16">
+			<Value>Rautatieasemat</Value>
+			<Value>Rautatieasema</Value>
+			<Value>Juna</Value>
+			<Value>Junat</Value>
+			<Value>Rautatiet</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="18">
+			<Value>Linja-autoasemat</Value>
+			<Value>Linja-autoasema</Value>
+			<Value>Linja-auto</Value>
+			<Value>Linja-autot</Value>
+			<Value>Bussipysäkki</Value>
+			<Value>Bussipysäkit</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="19">
+			<Value>Turisti-informaatiot</Value>
+			<Value>Turisti-informaatio</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="20">
+			<Value>Poliisiasemat</Value>
+			<Value>Poliisi</Value>
+			<Value>112</Value>
+			<Value>112</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="21">
+			<Value>Sairaala</Value>
+			<Value>Sairaalat</Value>
+			<Value>Hoitolaitos</Value>
+			<Value>Hoitolaitokset</Value>
+			<Value>Klinikka</Value>
+			<Value>Klinikat</Value>
+			<Value>Hätätilanne</Value>
+			<Value>Hätätilanteet</Value>
+			<Value>Lääkäri</Value>
+			<Value>Lääkärit</Value>
+			<Value>112</Value>
+			<Value>112</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="22">
+			<Value>Lääkäripalvelut</Value>
+			<Value>Lääkäripalvelu</Value>
+			<Value>Lääkäriasema</Value>
+			<Value>Lääkäriasemat</Value>
+			<Value>Lääkäri</Value>
+			<Value>Lääkärit</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="23">
+			<Value>Apteekit</Value>
+			<Value>Apteekki</Value>
+			<Value>Lääke</Value>
+			<Value>Lääkkeet</Value>
+			<Value>Lääkeaine</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="104">
+			<Value>Ravintolat</Value>
+			<Value>Ravintola</Value>
+			<Value>Syöminen</Value>
+			<Value>Juominen</Value>
+			<Value>Ruokapaikka</Value>
+			<Value>Ruokapaikat</Value>
+			<Value>Nälkä</Value>
+			<Value>Jano</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="25">
+			<Value>Pankkiautomaatit</Value>
+			<Value>Pankkiautomaatti</Value>
+			<Value>Raha</Value>
+			<Value>Käteinen</Value>
+			<Value>ATM</Value>
+			<Value>EC</Value>
+			<Value>Automaatti</Value>
+			<Value>Automaatit</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="26">
+			<Value>Kahvilat</Value>
+			<Value>Kahvila</Value>
+			<Value>Kahvi</Value>
+			<Value>Kahvit</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="27">
+			<Value>Ostoskeskukset</Value>
+			<Value>Ostoskeskus</Value>
+			<Value>Shopping</Value>
+			<Value>Shoppailu</Value>
+			<Value>Ostokset</Value>
+			<Value>Ostaminen</Value>
+			<Value>Tavaratalo</Value>
+			<Value>Tavaratalot</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="28">
+			<Value>Vaatetus</Value>
+			<Value>Vaatteet</Value>
+			<Value>Kenkä</Value>
+			<Value>Kengät</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="29">
+			<Value>Elektroniikka</Value>
+			<Value>Tekniikka</Value>
+			<Value>Tietokone</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="30">
+			<Value>Viinit ja väkijuomat</Value>
+			<Value>Viinikellari</Value>
+			<Value>Viini</Value>
+			<Value>Viinit</Value>
+			<Value>Väkijuoma</Value>
+			<Value>Väkijuomat</Value>
+			<Value>Alkoholi</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="31">
+			<Value>Yöelämä</Value>
+			<Value>Baari</Value>
+			<Value>Kapakka</Value>
+			<Value>Kapakat</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="32">
+			<Value>Puistot</Value>
+			<Value>Puisto</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="33">
+			<Value>Nähtävyydet</Value>
+			<Value>Nähtävyys</Value>
+			<Value>Attraktio</Value>
+			<Value>Attraktiot</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="34">
+			<Value>Elokuvateatterit</Value>
+			<Value>Elokuvateatteri</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="35">
+			<Value>Kasinot</Value>
+			<Value>Kasino</Value>
+			<Value>Pelikasino</Value>
+			<Value>Pelikasinot</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="36">
+			<Value>Esittävät taiteet</Value>
+			<Value>Ooppera</Value>
+			<Value>Teatteri</Value>
+			<Value>Konsertti</Value>
+			<Value>Musikaali</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="37">
+			<Value>Museot</Value>
+			<Value>Museo</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="38">
+			<Value>Muistomerkit</Value>
+			<Value>Muistomerkki</Value>
+			<Value>Monumentti</Value>
+			<Value>Monumentit</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="39">
+			<Value>Urheilukeskukset</Value>
+			<Value>Urheilukeskus</Value>
+			<Value>Stadion</Value>
+			<Value>Stadionit</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="41">
+			<Value>Golf-urheilu</Value>
+			<Value>Golf</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="42">
+			<Value>Veneily</Value>
+			<Value>Vene</Value>
+			<Value>Veneet</Value>
+			<Value>Purjehdus</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="43">
+			<Value>Hiihto</Value>
+			<Value>Ski</Value>
+			<Value>Urheilu</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="44">
+			<Value>Huvipuistot</Value>
+			<Value>Huvipuisto</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="45">
+			<Value>Pankit</Value>
+			<Value>Pankki</Value>
+			<Value>Raha</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="46">
+			<Value>Posti</Value>
+			<Value>Kirje</Value>
+			<Value>Kirjeet</Value>
+			<Value>Paketti</Value>
+			<Value>Paketit</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="47">
+			<Value>Yritykset</Value>
+			<Value>Yritys</Value>
+			<Value>Firma</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="48">
+			<Value>Kongressikeskukset</Value>
+			<Value>Kongressikeskus</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="49">
+			<Value>Hallitus ja hallinto</Value>
+			<Value>Kaupungintalo</Value>
+			<Value>Hallitus</Value>
+			<Value>Hallinto</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="50">
+			<Value>Suurlähetystöt</Value>
+			<Value>Suurlähetystö</Value>
+			<Value>Konsulaatti</Value>
+			<Value>Konsulaatit</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="52">
+			<Value>Oppilaitokset</Value>
+			<Value>Koulu</Value>
+			<Value>Koulut</Value>
+			<Value>Yliopisto</Value>
+			<Value>Yliopistot</Value>
+			<Value>Oppilaitos</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="53">
+			<Value>Hiljentymispaikat</Value>
+			<Value>Hiljentymispaikka</Value>
+			<Value>Moskeija</Value>
+			<Value>Moskeijat</Value>
+			<Value>Kirkko</Value>
+			<Value>Kirkot</Value>
+			<Value>Synagoga</Value>
+			<Value>Synagogat</Value>
+			<Value>Luostari</Value>
+			<Value>Luostarit</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="54">
+			<Value>Hautausmaat</Value>
+			<Value>Hautausmaa</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="134">
+			<Value>Latausasemat</Value>
+			<Value>Latausasema</Value>
+			<Value>Lataus</Value>
+			<Value>Lataaminen</Value>
+		</Thesaurus>
+	</PoiCategoryThesaurusDefinition>
+
+	<PoiCategoryNameDefinition>
+		<Name category_ref="1">Autostadt</Name>
+		<Name category_ref="2">Lentokentät</Name>
+		<Name category_ref="136">LPG-tankkausasemat</Name>
+		<Name category_ref="135">Maakaasun tankkausasemat</Name>
+		<Name category_ref="101">Tankkausasemat</Name>
+		<Name category_ref="102">Parkkipaikat</Name>
+		<Name category_ref="7">Levähdyspaikka</Name>
+		<Name category_ref="8">Hotellit ja motellit</Name>
+		<Name category_ref="9">Lautat ja autojunat</Name>
+		<Name category_ref="10">Rajanylityspaikat</Name>
+		<Name category_ref="11">VW-jälleenmyyjä</Name>
+		<Name category_ref="12">VW-huolto</Name>
+		<Name category_ref="14">Moottoritien liittymät/erkanemiskaistat</Name>
+		<Name category_ref="15">Autonvuokrausliikkeet</Name>
+		<Name category_ref="16">Rautatieasemat</Name>
+		<Name category_ref="18">Linja-autoasemat</Name>
+		<Name category_ref="19">Turisti-informaatiot</Name>
+		<Name category_ref="20">Poliisiasemat</Name>
+		<Name category_ref="21">Sairaala</Name>
+		<Name category_ref="22">Lääkäripalvelut</Name>
+		<Name category_ref="23">Apteekit</Name>
+		<Name category_ref="104">Ravintolat</Name>
+		<Name category_ref="25">Pankkiautomaatit</Name>
+		<Name category_ref="26">Kahvilat</Name>
+		<Name category_ref="27">Ostoskeskukset</Name>
+		<Name category_ref="28">Vaatetus</Name>
+		<Name category_ref="29">Elektroniikka</Name>
+		<Name category_ref="30">Viinit ja väkijuomat</Name>
+		<Name category_ref="31">Yöelämä</Name>
+		<Name category_ref="32">Puistot</Name>
+		<Name category_ref="33">Nähtävyydet</Name>
+		<Name category_ref="34">Elokuvateatterit</Name>
+		<Name category_ref="35">Kasinot</Name>
+		<Name category_ref="36">Esittävät taiteet</Name>
+		<Name category_ref="37">Museot</Name>
+		<Name category_ref="38">Muistomerkit</Name>
+		<Name category_ref="39">Urheilukeskukset</Name>
+		<Name category_ref="41">Golf-urheilu</Name>
+		<Name category_ref="42">Veneily</Name>
+		<Name category_ref="43">Hiihto</Name>
+		<Name category_ref="44">Huvipuistot</Name>
+		<Name category_ref="45">Pankit</Name>
+		<Name category_ref="46">Posti</Name>
+		<Name category_ref="47">Yritykset</Name>
+		<Name category_ref="48">Kongressikeskukset</Name>
+		<Name category_ref="49">Hallitus ja hallinto</Name>
+		<Name category_ref="50">Suurlähetystöt</Name>
+		<Name category_ref="52">Oppilaitokset</Name>
+		<Name category_ref="53">Hiljentymispaikat</Name>
+		<Name category_ref="54">Hautausmaat</Name>
+		<Name category_ref="134">Latausasemat</Name>
+	</PoiCategoryNameDefinition>
+</LanguagePoiConfiguration>

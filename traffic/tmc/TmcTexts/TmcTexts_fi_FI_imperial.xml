@@ -1,0 +1,3821 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TmcConfig>
+  <locale code="fi_FI" unit_system="UNITS_IMPERIAL">
+    <tmc_event event_code="1">
+      <short_text>liikenteessä häiriöitä</short_text>
+      <long_text>liikenteessä häiriöitä</long_text>
+    </tmc_event>
+    <tmc_event event_code="2">
+      <short_text>liikenne pysähtele</short_text>
+      <long_text>liikenne pysähtelee, jopa seisoo</long_text>
+    </tmc_event>
+    <tmc_event event_code="12">
+      <short_text>onnettomuu(s/tta)</short_text>
+      <long_text>%s onnettomuu(s/tta), liikenne ohjattu kiertotielle</long_text>
+    </tmc_event>
+    <tmc_event event_code="20">
+      <short_text>pysäköintialue täynnä</short_text>
+      <long_text>palvelualue täynnä, aja toiselle palvelualueelle</long_text>
+    </tmc_event>
+    <tmc_event event_code="22">
+      <short_text>palvelualue, huoltoasema suljettu</short_text>
+      <long_text>palvelualue, huoltoasema suljettu</long_text>
+    </tmc_event>
+    <tmc_event event_code="23">
+      <short_text>ravintola suljettu</short_text>
+      <long_text>palvelualue, ravintola suljettu</long_text>
+    </tmc_event>
+    <tmc_event event_code="24">
+      <short_text>silta suljettu</short_text>
+      <long_text>silta suljettu</long_text>
+    </tmc_event>
+    <tmc_event event_code="25">
+      <short_text>tunneli suljettu</short_text>
+      <long_text>tunneli suljettu</long_text>
+    </tmc_event>
+    <tmc_event event_code="28">
+      <short_text>liikenne pysäytetään ajoittain</short_text>
+      <long_text>liikenne pysäytetään ajoittain</long_text>
+    </tmc_event>
+    <tmc_event event_code="41">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>%s ohituskaista(a) suljettu</long_text>
+    </tmc_event>
+    <tmc_event event_code="42">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>%s ohituskaista(a) tukossa</long_text>
+    </tmc_event>
+    <tmc_event event_code="51">
+      <short_text>tietyö</short_text>
+      <long_text>tietyö, %s ohituskaista(a) suljettu</long_text>
+    </tmc_event>
+    <tmc_event event_code="52">
+      <short_text>tietyö</short_text>
+      <long_text>tietyö pientareella (kohteita %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="53">
+      <short_text>tietyö</short_text>
+      <long_text>hälytysajokaistan rakennustyö (kohteita %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="55">
+      <short_text>odotettavissa: liikennehäiriö</short_text>
+      <long_text>odotettavissa: liikennehäiriö</long_text>
+    </tmc_event>
+    <tmc_event event_code="56">
+      <short_text>odotettavissa: liikenne ruuhkautuu</short_text>
+      <long_text>odotettavissa: liikenne ruuhkautuu</long_text>
+    </tmc_event>
+    <tmc_event event_code="61">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>%s esine(ttä) tiellä</long_text>
+    </tmc_event>
+    <tmc_event event_code="62">
+      <short_text>%s putkivaurio(ta)</short_text>
+      <long_text>%s putkivaurio(ta)</long_text>
+    </tmc_event>
+    <tmc_event event_code="63">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>%s esine(ttä) tiellä. VARO!</long_text>
+    </tmc_event>
+    <tmc_event event_code="64">
+      <short_text>putkivaurio. VARO!</short_text>
+      <long_text>putkivaurio. VARO!</long_text>
+    </tmc_event>
+    <tmc_event event_code="70">
+      <short_text>liikenneruuhka</short_text>
+      <long_text>liikenneruuhka, keskinopeus 10 mph</long_text>
+    </tmc_event>
+    <tmc_event event_code="71">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>liikenneruuhka, keskinopeus 20 mph</long_text>
+    </tmc_event>
+    <tmc_event event_code="72">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>liikenneruuhka, keskinopeus 30 mph</long_text>
+    </tmc_event>
+    <tmc_event event_code="73">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>liikenneruuhka, keskinopeus 40 mph</long_text>
+    </tmc_event>
+    <tmc_event event_code="74">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>liikenneruuhka, keskinopeus 50 mph</long_text>
+    </tmc_event>
+    <tmc_event event_code="75">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>liikenneruuhka, keskinopeus 60 mph</long_text>
+    </tmc_event>
+    <tmc_event event_code="76">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>liikenneruuhka, keskinopeus 70 mph</long_text>
+    </tmc_event>
+    <tmc_event event_code="91">
+      <short_text>viivytyksiä</short_text>
+      <long_text>viivytyksiä %s autoille</long_text>
+    </tmc_event>
+    <tmc_event event_code="101">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>liikenne seisoo</long_text>
+    </tmc_event>
+    <tmc_event event_code="102">
+      <short_text>liikenne seisoo 1 mi matkalla</short_text>
+      <long_text>liikenne seisoo 1 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="103">
+      <short_text>liikenne seisoo 2 mi matkalla</short_text>
+      <long_text>liikenne seisoo 2 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="104">
+      <short_text>liikenne seisoo 4 mi matkalla</short_text>
+      <long_text>liikenne seisoo 4 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="105">
+      <short_text>liikenne seisoo 6 mi matkalla</short_text>
+      <long_text>liikenne seisoo 6 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="106">
+      <short_text>liikenne seisoo 10 mi matkalla</short_text>
+      <long_text>liikenne seisoo 10 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="107">
+      <short_text>liikenteessä häiriöitä</short_text>
+      <long_text>odotettavissa: liikenne seisoo</long_text>
+    </tmc_event>
+    <tmc_event event_code="108">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>liikenne pysähtelee (keskinopeus %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="109">
+      <short_text>liikenne pysähtelee 1 mi matkalla</short_text>
+      <long_text>liikenne pysähtelee 1 mi matkalla (keskinopeus %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="110">
+      <short_text>liikenne pysähtelee 2 mi matkalla</short_text>
+      <long_text>liikenne pysähtelee 2 mi matkalla (keskinopeus %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="111">
+      <short_text>liikenne pysähtelee 4 mi matkalla</short_text>
+      <long_text>liikenne pysähtelee 4 mi matkalla (keskinopeus %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="112">
+      <short_text>liikenne pysähtelee 6 mi matkalla</short_text>
+      <long_text>liikenne pysähtelee 6 mi matkalla (keskinopeus %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="113">
+      <short_text>liikenne pysähtelee 10 mi matkalla</short_text>
+      <long_text>liikenne pysähtelee 10 mi matkalla (keskinopeus %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="114">
+      <short_text>liikenteessä häiriöitä</short_text>
+      <long_text>odotettavissa: liikenne pysähtelee</long_text>
+    </tmc_event>
+    <tmc_event event_code="115">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>liikenne hidasta (keskinopeus %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="116">
+      <short_text>liikenne hidasta 1 mi matkalla</short_text>
+      <long_text>liikenne hidasta 1 mi matkalla (keskinopeus %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="117">
+      <short_text>liikenne hidasta 2 mi matkalla</short_text>
+      <long_text>liikenne hidasta 2 mi matkalla (keskinopeus %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="118">
+      <short_text>liikenne hidasta 4 mi matkalla</short_text>
+      <long_text>liikenne hidasta 4 mi matkalla (keskinopeus %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="119">
+      <short_text>liikenne hidasta 6 mi matkalla</short_text>
+      <long_text>liikenne hidasta 6 mi matkalla (keskinopeus %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="120">
+      <short_text>liikenne hidasta 10 mi matkalla</short_text>
+      <long_text>liikenne hidasta 10 mi matkalla (keskinopeus %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="121">
+      <short_text>liikenteessä häiriöitä</short_text>
+      <long_text>odotettavissa: liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="122">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>liikenne jonoutunut (keskinopeus %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="123">
+      <short_text>liikenteessä häiriöitä</short_text>
+      <long_text>odotettavissa: liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="124">
+      <short_text>liikenne sujuvaa</short_text>
+      <long_text>liikenne sujuvaa (keskinopeus %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="125">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>liikenne ruuhkautuu (keskinopeus %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="129">
+      <short_text>liikenne seisoo 3 mi matkalla</short_text>
+      <long_text>liikenne seisoo 3 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="130">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>liikenne saattaa seisoa</long_text>
+    </tmc_event>
+    <tmc_event event_code="131">
+      <short_text>liikenne pysähtelee 3 mi matkalla</short_text>
+      <long_text>liikenne pysähtelee 3 mi matkalla (keskinopeus %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="132">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>liikenne saattaa pysähdellä (keskinopeus %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="133">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>pitkiä jonoja (keskinopeus %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="134">
+      <short_text>liikenne hidasta 3 mi matkalla</short_text>
+      <long_text>liikenne hidasta 3 mi matkalla (keskinopeus %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="136">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>liikenneruuhka (keskinopeus %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="138">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>liikenne pysähtelee (keskinopeus %s). Lähesty varoen</long_text>
+    </tmc_event>
+    <tmc_event event_code="139">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>liikenne pysähtelee kaarteen takana</long_text>
+    </tmc_event>
+    <tmc_event event_code="140">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>liikenne pysähtelee mäen harjan takana</long_text>
+    </tmc_event>
+    <tmc_event event_code="142">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>liikennettä tavallista enemmän (keskinopeus %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="143">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>liikennettä tavallista huomattavasti enemmän (keskinopeus %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="200">
+      <short_text>onnettomuu(s/tta)</short_text>
+      <long_text>ketjukolari. Viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="201">
+      <short_text>%s onnettomuu(s/tta)</short_text>
+      <long_text>%s onnettomuu(s/tta)</long_text>
+    </tmc_event>
+    <tmc_event event_code="202">
+      <short_text>onnettomuu(s/tta)</short_text>
+      <long_text>%s vakava(a) onnettomuu(s/tta)</long_text>
+    </tmc_event>
+    <tmc_event event_code="203">
+      <short_text>onnettomuu(s/tta)</short_text>
+      <long_text>usean ajoneuvon onnettomuus(, osallisena %s ajoneuvoa)</long_text>
+    </tmc_event>
+    <tmc_event event_code="204">
+      <short_text>onnettomuu(s/tta)</short_text>
+      <long_text>onnettomuus, jossa osallisena %s kuorma-auto(a)</long_text>
+    </tmc_event>
+    <tmc_event event_code="205">
+      <short_text>onnettomuu(s/tta)</short_text>
+      <long_text>%s onnettomuu(s/tta), jo(i)ssa osallisena vaarallisia aineita kuljettava ajoneuvo</long_text>
+    </tmc_event>
+    <tmc_event event_code="206">
+      <short_text>onnettomuu(s/tta)</short_text>
+      <long_text>%s onnettomuu(s/tta), jo(i)ssa polttoainevuoto</long_text>
+    </tmc_event>
+    <tmc_event event_code="207">
+      <short_text>onnettomuu(s/tta)</short_text>
+      <long_text>%s onnettomuu(s/tta), jo(i)ssa kemikaalivuoto</long_text>
+    </tmc_event>
+    <tmc_event event_code="208">
+      <short_text>liikenteessä häiriöitä</short_text>
+      <long_text>ajajat hidastavat %s onnettomuutta katsellessaan</long_text>
+    </tmc_event>
+    <tmc_event event_code="210">
+      <short_text>%s levinnyt(tä) kuorma(a)</short_text>
+      <long_text>%s levinnyt(tä) kuorma(a)</long_text>
+    </tmc_event>
+    <tmc_event event_code="213">
+      <short_text>onnettomuu(s/tta)</short_text>
+      <long_text>%s palava(a) ajoneuvo(a)</long_text>
+    </tmc_event>
+    <tmc_event event_code="214">
+      <short_text>%s liikennehäiriö(tä)</short_text>
+      <long_text>%s liikennehäiriö(tä)</long_text>
+    </tmc_event>
+    <tmc_event event_code="215">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>%s onnettomuu(s/tta). Liikenne seisoo</long_text>
+    </tmc_event>
+    <tmc_event event_code="216">
+      <short_text>liikenne seisoo 1 mi matkalla</short_text>
+      <long_text>%s onnettomuu(s/tta). Liikenne seisoo 1 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="217">
+      <short_text>liikenne seisoo 2 mi matkalla</short_text>
+      <long_text>%s onnettomuu(s/tta). Liikenne seisoo 2 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="218">
+      <short_text>liikenne seisoo 4 mi matkalla</short_text>
+      <long_text>%s onnettomuu(s/tta). Liikenne seisoo 4 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="219">
+      <short_text>liikenne seisoo 6 mi matkalla</short_text>
+      <long_text>%s onnettomuu(s/tta). Liikenne seisoo 6 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="220">
+      <short_text>liikenne seisoo 10 mi matkalla</short_text>
+      <long_text>%s onnettomuu(s/tta). Liikenne seisoo 10 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="221">
+      <short_text>onnettomuu(s/tta)</short_text>
+      <long_text>%s onnettomuu(s/tta). Liikenne saattaa seisoa</long_text>
+    </tmc_event>
+    <tmc_event event_code="222">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>%s onnettomuu(s/tta). Liikenne pysähtelee</long_text>
+    </tmc_event>
+    <tmc_event event_code="223">
+      <short_text>liikenne pysähtelee 1 mi matkalla</short_text>
+      <long_text>%s onnettomuu(s/tta). Liikenne pysähtelee 1 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="224">
+      <short_text>liikenne pysähtelee 2 mi matkalla</short_text>
+      <long_text>%s onnettomuu(s/tta). Liikenne pysähtelee 2 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="225">
+      <short_text>liikenne pysähtelee 4 mi matkalla</short_text>
+      <long_text>%s onnettomuu(s/tta). Liikenne pysähtelee 4 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="226">
+      <short_text>liikenne pysähtelee 6 mi matkalla</short_text>
+      <long_text>%s onnettomuu(s/tta). Liikenne pysähtelee 6 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="227">
+      <short_text>liikenne pysähtelee 10 mi matkalla</short_text>
+      <long_text>%s onnettomuu(s/tta). Liikenne pysähtelee 10 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="228">
+      <short_text>onnettomuu(s/tta)</short_text>
+      <long_text>%s onnettomuu(s/tta). Liikenne saattaa pysähdellä</long_text>
+    </tmc_event>
+    <tmc_event event_code="229">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>%s onnettomuu(s/tta). Liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="230">
+      <short_text>liikenne hidasta 1 mi matkalla</short_text>
+      <long_text>%s onnettomuu(s/tta). Liikenne hidasta 1 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="231">
+      <short_text>liikenne hidasta 2 mi matkalla</short_text>
+      <long_text>%s onnettomuu(s/tta). Liikenne hidasta 2 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="232">
+      <short_text>liikenne hidasta 4 mi matkalla</short_text>
+      <long_text>%s onnettomuu(s/tta). Liikenne hidasta 4 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="233">
+      <short_text>liikenne hidasta 6 mi matkalla</short_text>
+      <long_text>%s onnettomuu(s/tta). Liikenne hidasta 6 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="234">
+      <short_text>liikenne hidasta 10 mi matkalla</short_text>
+      <long_text>%s onnettomuu(s/tta). Liikenne hidasta 10 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="235">
+      <short_text>onnettomuu(s/tta)</short_text>
+      <long_text>%s onnettomuu(s/tta). Odotettavissa: liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="236">
+      <short_text>onnettomuu(s/tta)</short_text>
+      <long_text>%s onnettomuu(s/tta). Liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="237">
+      <short_text>onnettomuu(s/tta)</short_text>
+      <long_text>%s onnettomuu(s/tta). Odotettavissa: liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="238">
+      <short_text>onnettomuu(s/tta)</short_text>
+      <long_text>%s onnettomuu(s/tta). Liikenne sujuvaa</long_text>
+    </tmc_event>
+    <tmc_event event_code="239">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>%s onnettomuu(s/tta). Liikenne ruuhkautuu</long_text>
+    </tmc_event>
+    <tmc_event event_code="241">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>%s onnettomuu(s/tta). Oikea ajokaista tukossa</long_text>
+    </tmc_event>
+    <tmc_event event_code="242">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>%s onnettomuu(s/tta). Keskimmäinen ajokaista tukossa</long_text>
+    </tmc_event>
+    <tmc_event event_code="243">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>%s onnettomuu(s/tta). Vasen ajokaista tukossa</long_text>
+    </tmc_event>
+    <tmc_event event_code="244">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>%s onnettomuu(s/tta). Päällystetty piennar tukossa</long_text>
+    </tmc_event>
+    <tmc_event event_code="245">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>%s onnettomuu(s/tta). Kaksi ajokaistaa tukossa</long_text>
+    </tmc_event>
+    <tmc_event event_code="246">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>%s onnettomuu(s/tta). Kolme ajokaistaa tukossa</long_text>
+    </tmc_event>
+    <tmc_event event_code="247">
+      <short_text>onnettomuu(s/tta)</short_text>
+      <long_text>onnettomuus. Viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="248">
+      <short_text>onnettomuu(s/tta)</short_text>
+      <long_text>onnettomuus. Odotettavissa: viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="249">
+      <short_text>onnettomuu(s/tta)</short_text>
+      <long_text>onnettomuus. Pitkiä viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="250">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>ajajat hidastavat %s onnettomuutta katsellessaan. Liikenne seisoo</long_text>
+    </tmc_event>
+    <tmc_event event_code="251">
+      <short_text>liikenne seisoo 1 mi matkalla</short_text>
+      <long_text>ajajat hidastavat %s onnettomuutta katsellessaan. Liikenne seisoo 1 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="252">
+      <short_text>liikenne seisoo 2 mi matkalla</short_text>
+      <long_text>ajajat hidastavat %s onnettomuutta katsellessaan. Liikenne seisoo 2 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="253">
+      <short_text>liikenne seisoo 4 mi matkalla</short_text>
+      <long_text>ajajat hidastavat %s onnettomuutta katsellessaan. Liikenne seisoo 4 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="254">
+      <short_text>liikenne seisoo 6 mi matkalla</short_text>
+      <long_text>ajajat hidastavat %s onnettomuutta katsellessaan. Liikenne seisoo 6 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="255">
+      <short_text>liikenne seisoo 10 mi matkalla</short_text>
+      <long_text>ajajat hidastavat %s onnettomuutta katsellessaan. Liikenne seisoo 10 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="256">
+      <short_text>liikenteessä häiriöitä</short_text>
+      <long_text>ajajat hidastavat %s onnettomuutta katsellessaan. Liikenne saattaa seisoa</long_text>
+    </tmc_event>
+    <tmc_event event_code="257">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>ajajat hidastavat %s onnettomuutta katsellessaan. Liikenne pysähtelee</long_text>
+    </tmc_event>
+    <tmc_event event_code="258">
+      <short_text>liikenne pysähtelee 1 mi matkalla</short_text>
+      <long_text>ajajat hidastavat %s onnettomuutta katsellessaan. Liikenne pysähtelee 1 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="259">
+      <short_text>liikenne pysähtelee 2 mi matkalla</short_text>
+      <long_text>ajajat hidastavat %s onnettomuutta katsellessaan. Liikenne pysähtelee 2 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="260">
+      <short_text>liikenne pysähtelee 4 mi matkalla</short_text>
+      <long_text>ajajat hidastavat %s onnettomuutta katsellessaan. Liikenne pysähtelee 4 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="261">
+      <short_text>liikenne pysähtelee 6 mi matkalla</short_text>
+      <long_text>ajajat hidastavat %s onnettomuutta katsellessaan. Liikenne pysähtelee 6 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="262">
+      <short_text>liikenne pysähtelee 10 mi matkalla</short_text>
+      <long_text>ajajat hidastavat %s onnettomuutta katsellessaan. Liikenne pysähtelee 10 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="263">
+      <short_text>liikenteessä häiriöitä</short_text>
+      <long_text>ajajat hidastavat %s onnettomuutta katsellessaan. Liikenne saattaa pysähdellä</long_text>
+    </tmc_event>
+    <tmc_event event_code="264">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>ajajat hidastavat %s onnettomuutta katsellessaan. Liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="265">
+      <short_text>liikenne hidasta 1 mi matkalla</short_text>
+      <long_text>ajajat hidastavat %s onnettomuutta katsellessaan. Liikenne hidasta 1 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="266">
+      <short_text>liikenne hidasta 2 mi matkalla</short_text>
+      <long_text>ajajat hidastavat %s onnettomuutta katsellessaan. Liikenne hidasta 2 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="267">
+      <short_text>liikenne hidasta 4 mi matkalla</short_text>
+      <long_text>ajajat hidastavat %s onnettomuutta katsellessaan. Liikenne hidasta 4 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="268">
+      <short_text>liikenne hidasta 6 mi matkalla</short_text>
+      <long_text>ajajat hidastavat %s onnettomuutta katsellessaan. Liikenne hidasta 6 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="269">
+      <short_text>liikenne hidasta 10 mi matkalla</short_text>
+      <long_text>ajajat hidastavat %s onnettomuutta katsellessaan. Liikenne hidasta 10 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="271">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>ajajat hidastavat %s onnettomuutta katsellessaan. Liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="274">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>ajajat hidastavat %s onnettomuutta katsellessaan. Liikenne ruuhkautuu</long_text>
+    </tmc_event>
+    <tmc_event event_code="275">
+      <short_text>viivytyksiä</short_text>
+      <long_text>ajajat hidastavat onnettomuutta katsellessaan. Viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="276">
+      <short_text>viivytyksiä</short_text>
+      <long_text>ajajat hidastavat onnettomuutta katsellessaan. Odotettavissa: viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="277">
+      <short_text>Pitkiä viivytyksiä</short_text>
+      <long_text>ajajat hidastavat onnettomuutta katsellessaan. Pitkiä viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="278">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>%s levinnyt(tä) kuorma(a). Liikenne seisoo</long_text>
+    </tmc_event>
+    <tmc_event event_code="279">
+      <short_text>liikenne seisoo 1 mi matkalla</short_text>
+      <long_text>%s levinnyt(tä) kuorma(a). Liikenne seisoo 1 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="280">
+      <short_text>liikenne seisoo 2 mi matkalla</short_text>
+      <long_text>%s levinnyt(tä) kuorma(a). Liikenne seisoo 2 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="281">
+      <short_text>liikenne seisoo 4 mi matkalla</short_text>
+      <long_text>%s levinnyt(tä) kuorma(a). Liikenne seisoo 4 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="282">
+      <short_text>liikenne seisoo 6 mi matkalla</short_text>
+      <long_text>%s levinnyt(tä) kuorma(a). Liikenne seisoo 6 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="283">
+      <short_text>liikenne seisoo 10 mi matkalla</short_text>
+      <long_text>%s levinnyt(tä) kuorma(a). Liikenne seisoo 10 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="284">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>%s levinnyt(tä) kuorma(a). Liikenne saattaa seisoa</long_text>
+    </tmc_event>
+    <tmc_event event_code="285">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>%s levinnyt(tä) kuorma(a). Liikenne pysähtelee</long_text>
+    </tmc_event>
+    <tmc_event event_code="286">
+      <short_text>liikenne pysähtelee 1 mi matkalla</short_text>
+      <long_text>%s levinnyt(tä) kuorma(a). Liikenne pysähtelee 1 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="287">
+      <short_text>liikenne pysähtelee 2 mi matkalla</short_text>
+      <long_text>%s levinnyt(tä) kuorma(a). Liikenne pysähtelee 2 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="288">
+      <short_text>liikenne pysähtelee 4 mi matkalla</short_text>
+      <long_text>%s levinnyt(tä) kuorma(a). Liikenne pysähtelee 4 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="289">
+      <short_text>liikenne pysähtelee 6 mi matkalla</short_text>
+      <long_text>%s levinnyt(tä) kuorma(a). Liikenne pysähtelee 6 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="290">
+      <short_text>liikenne pysähtelee 10 mi matkalla</short_text>
+      <long_text>%s levinnyt(tä) kuorma(a). Liikenne pysähtelee 10 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="291">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>%s levinnyt(tä) kuorma(a). Liikenne saattaa pysähdellä</long_text>
+    </tmc_event>
+    <tmc_event event_code="292">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>%s levinnyt(tä) kuorma(a). Liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="293">
+      <short_text>liikenne hidasta 1 mi matkalla</short_text>
+      <long_text>%s levinnyt(tä) kuorma(a). Liikenne hidasta 1 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="294">
+      <short_text>liikenne hidasta 2 mi matkalla</short_text>
+      <long_text>%s levinnyt(tä) kuorma(a). Liikenne hidasta 2 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="295">
+      <short_text>liikenne hidasta 4 mi matkalla</short_text>
+      <long_text>%s levinnyt(tä) kuorma(a). Liikenne hidasta 4 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="296">
+      <short_text>liikenne hidasta 6 mi matkalla</short_text>
+      <long_text>%s levinnyt(tä) kuorma(a). Liikenne hidasta 6 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="297">
+      <short_text>liikenne hidasta 10 mi matkalla</short_text>
+      <long_text>%s levinnyt(tä) kuorma(a). Liikenne hidasta 10 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="298">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>%s levinnyt(tä) kuorma(a). Odotettavissa: liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="299">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>%s levinnyt(tä) kuorma(a). Liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="300">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>%s levinnyt(tä) kuorma(a). Odotettavissa: liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="301">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>%s levinnyt(tä) kuorma(a). Liikenne sujuvaa</long_text>
+    </tmc_event>
+    <tmc_event event_code="302">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>%s levinnyt(tä) kuorma(a). Liikenne ruuhkautuu</long_text>
+    </tmc_event>
+    <tmc_event event_code="303">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>tie tukossa %s levinneen kuorman vuoksi</long_text>
+    </tmc_event>
+    <tmc_event event_code="304">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>%s levinnyt(tä) kuorma(a). Oikea ajokaista tukossa</long_text>
+    </tmc_event>
+    <tmc_event event_code="305">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>%s levinnyt(tä) kuorma(a). Keskimmäinen ajokaista tukossa</long_text>
+    </tmc_event>
+    <tmc_event event_code="306">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>%s levinnyt(tä) kuorma(a). Vasen ajokaista tukossa</long_text>
+    </tmc_event>
+    <tmc_event event_code="307">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>%s levinnyt(tä) kuorma(a). Päällystetty piennar tukossa</long_text>
+    </tmc_event>
+    <tmc_event event_code="308">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>%s levinnyt(tä) kuorma(a). Kaksi ajokaistaa tukossa</long_text>
+    </tmc_event>
+    <tmc_event event_code="309">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>%s levinnyt(tä) kuorma(a). Kolme ajokaistaa tukossa</long_text>
+    </tmc_event>
+    <tmc_event event_code="310">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>levinnyt kuorma. Viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="311">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>levinnyt kuorma. Odotettavissa: viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="312">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>levinnyt kuorma. Pitkiä viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="313">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>%s rikkoutunut(ta) ajoneuvo(a). Liikenne seisoo</long_text>
+    </tmc_event>
+    <tmc_event event_code="314">
+      <short_text>liikenteessä häiriöitä</short_text>
+      <long_text>%s rikkoutunut(ta) ajoneuvo(a). Liikenne saattaa seisoa</long_text>
+    </tmc_event>
+    <tmc_event event_code="315">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>%s rikkoutunut(ta) ajoneuvo(a). Liikenne pysähtelee</long_text>
+    </tmc_event>
+    <tmc_event event_code="316">
+      <short_text>liikenteessä häiriöitä</short_text>
+      <long_text>%s rikkoutunut(ta) ajoneuvo(a). Liikenne saattaa pysähdellä</long_text>
+    </tmc_event>
+    <tmc_event event_code="317">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>%s rikkoutunut(ta) ajoneuvo(a). Liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="318">
+      <short_text>liikenteessä häiriöitä</short_text>
+      <long_text>%s rikkoutunut(ta) ajoneuvo(a). Odotettavissa: liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="319">
+      <short_text>liikenteessä häiriöitä</short_text>
+      <long_text>%s rikkoutunut(ta) ajoneuvo(a). Liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="320">
+      <short_text>liikenteessä häiriöitä</short_text>
+      <long_text>%s rikkoutunut(ta) ajoneuvo(a). Odotettavissa: liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="321">
+      <short_text>liikenteessä häiriöitä</short_text>
+      <long_text>%s rikkoutunut(ta) ajoneuvo(a). Liikenne sujuvaa</long_text>
+    </tmc_event>
+    <tmc_event event_code="322">
+      <short_text>liikenteessä häiriöitä</short_text>
+      <long_text>%s rikkoutunut(ta) ajoneuvo(a). Liikenne ruuhkautuu</long_text>
+    </tmc_event>
+    <tmc_event event_code="323">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>tie tukossa %s rikkoutuneen ajoneuvon vuoksi</long_text>
+    </tmc_event>
+    <tmc_event event_code="324">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>%s rikkoutunut(ta) ajoneuvo(a). Oikea ajokaista tukossa</long_text>
+    </tmc_event>
+    <tmc_event event_code="325">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>%s rikkoutunut(ta) ajoneuvo(a). Keskimmäinen ajokaista tukossa</long_text>
+    </tmc_event>
+    <tmc_event event_code="326">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>%s rikkoutunut(ta) ajoneuvo(a). Vasen ajokaista tukossa</long_text>
+    </tmc_event>
+    <tmc_event event_code="327">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>%s rikkoutunut(ta) ajoneuvo(a). Päällystetty piennar tukossa</long_text>
+    </tmc_event>
+    <tmc_event event_code="328">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>%s rikkoutunut(ta) ajoneuvo(a). Kaksi ajokaistaa tukossa</long_text>
+    </tmc_event>
+    <tmc_event event_code="329">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>%s rikkoutunut(ta) ajoneuvo(a). Kolme ajokaistaa tukossa</long_text>
+    </tmc_event>
+    <tmc_event event_code="330">
+      <short_text>liikenteessä häiriöitä</short_text>
+      <long_text>rikkoutunut ajoneuvo. Viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="331">
+      <short_text>liikenteessä häiriöitä</short_text>
+      <long_text>rikkoutunut ajoneuvo. Odotettavissa: viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="332">
+      <short_text>liikenteessä häiriöitä</short_text>
+      <long_text>rikkoutunut ajoneuvo. Pitkiä viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="335">
+      <short_text>onnettomuu(s/tta)</short_text>
+      <long_text>onnettomuus, jossa osallisena %s linja-auto(a)</long_text>
+    </tmc_event>
+    <tmc_event event_code="336">
+      <short_text>onnettomuu(s/tta)</short_text>
+      <long_text>%s onnettomuu(s/tta), jo(i)ssa öljyvuoto</long_text>
+    </tmc_event>
+    <tmc_event event_code="337">
+      <short_text>onnettomuu(s/tta)</short_text>
+      <long_text>%s kaatunut(ta) ajoneuvo(a)</long_text>
+    </tmc_event>
+    <tmc_event event_code="338">
+      <short_text>onnettomuu(s/tta)</short_text>
+      <long_text>%s kaatunut(ta) kuorma-auto(a)</long_text>
+    </tmc_event>
+    <tmc_event event_code="339">
+      <short_text>onnettomuu(s/tta)</short_text>
+      <long_text>%s ajoneuvoyhdistelmä(ä) linkussa</long_text>
+    </tmc_event>
+    <tmc_event event_code="340">
+      <short_text>onnettomuu(s/tta)</short_text>
+      <long_text>%s asuntovaunuyhdistelmä(ä) linkussa</long_text>
+    </tmc_event>
+    <tmc_event event_code="341">
+      <short_text>onnettomuu(s/tta)</short_text>
+      <long_text>%s perävaunulli(nen/sta) kuorma-auto(a) linkussa</long_text>
+    </tmc_event>
+    <tmc_event event_code="342">
+      <short_text>onnettomuu(s/tta)</short_text>
+      <long_text>%s pyörähtänyt(tä) ajoneuvo(a)</long_text>
+    </tmc_event>
+    <tmc_event event_code="343">
+      <short_text>onnettomuu(s/tta)</short_text>
+      <long_text>%s aiemp(i/aa) onnettomuu(s/tta)</long_text>
+    </tmc_event>
+    <tmc_event event_code="344">
+      <short_text>onnettomuu(s/tta)</short_text>
+      <long_text>onnettomuuden tutkinta</long_text>
+    </tmc_event>
+    <tmc_event event_code="345">
+      <short_text>onnettomuu(s/tta)</short_text>
+      <long_text>%s seurannaisonnettomuu(s/tta)</long_text>
+    </tmc_event>
+    <tmc_event event_code="348">
+      <short_text>liikenne seisoo 3 mi matkalla</short_text>
+      <long_text>%s onnettomuu(s/tta). Liikenne seisoo 3 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="349">
+      <short_text>liikenne pysähtelee 3 mi matkalla</short_text>
+      <long_text>%s onnettomuu(s/tta). Liikenne pysähtelee 3 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="350">
+      <short_text>liikenne hidasta 3 mi matkalla</short_text>
+      <long_text>%s onnettomuu(s/tta). Liikenne hidasta 3 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="351">
+      <short_text>onnettomuu(s/tta)</short_text>
+      <long_text>%s onnettomuu(s/tta) tietyöalueella</long_text>
+    </tmc_event>
+    <tmc_event event_code="352">
+      <short_text>liikenne seisoo 3 mi matkalla</short_text>
+      <long_text>ajajat hidastavat %s onnettomuutta katsellessaan. Liikenne seisoo 3 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="353">
+      <short_text>liikenne pysähtelee 3 mi matkalla</short_text>
+      <long_text>ajajat hidastavat %s onnettomuutta katsellessaan. Liikenne pysähtelee 3 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="354">
+      <short_text>liikenne hidasta 3 mi matkalla</short_text>
+      <long_text>ajajat hidastavat %s onnettomuutta katsellessaan. Liikenne hidasta 3 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="355">
+      <short_text>onnettomuu(s/tta)</short_text>
+      <long_text>ajajat hidastavat %s onnettomuutta katsellessaan. VARO!</long_text>
+    </tmc_event>
+    <tmc_event event_code="356">
+      <short_text>liikenne seisoo 3 mi matkalla</short_text>
+      <long_text>%s levinnyt(tä) kuorma(a). Liikenne seisoo 3 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="357">
+      <short_text>liikenne pysähtelee 3 mi matkalla</short_text>
+      <long_text>%s levinnyt(tä) kuorma(a). Liikenne pysähtelee 3 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="358">
+      <short_text>liikenne hidasta 3 mi matkalla</short_text>
+      <long_text>%s levinnyt(tä) kuorma(a). Liikenne hidasta 3 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="359">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>%s levinnyt(tä) kuorma(a). VARO!</long_text>
+    </tmc_event>
+    <tmc_event event_code="360">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>%s kaatunut(ta) ajoneuvo(a). Liikenne seisoo</long_text>
+    </tmc_event>
+    <tmc_event event_code="361">
+      <short_text>onnettomuu(s/tta)</short_text>
+      <long_text>%s kaatunut(ta) ajoneuvo(a). Liikenne saattaa seisoa</long_text>
+    </tmc_event>
+    <tmc_event event_code="362">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>%s kaatunut(ta) ajoneuvo(a). Liikenne pysähtelee</long_text>
+    </tmc_event>
+    <tmc_event event_code="363">
+      <short_text>onnettomuu(s/tta)</short_text>
+      <long_text>%s kaatunut(ta) ajoneuvo(a). Liikenne saattaa pysähdellä</long_text>
+    </tmc_event>
+    <tmc_event event_code="364">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>%s kaatunut(ta) ajoneuvo(a). Liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="365">
+      <short_text>onnettomuu(s/tta)</short_text>
+      <long_text>%s kaatunut(ta) ajoneuvo(a). Odotettavissa: liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="366">
+      <short_text>onnettomuu(s/tta)</short_text>
+      <long_text>%s kaatunut(ta) ajoneuvo(a). Liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="367">
+      <short_text>onnettomuu(s/tta)</short_text>
+      <long_text>%s kaatunut(ta) ajoneuvo(a). Odotettavissa: liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="368">
+      <short_text>onnettomuu(s/tta)</short_text>
+      <long_text>%s kaatunut(ta) ajoneuvo(a). Liikenne ruuhkautuu</long_text>
+    </tmc_event>
+    <tmc_event event_code="369">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>tie tukossa %s kaatuneen ajoneuvon vuoksi</long_text>
+    </tmc_event>
+    <tmc_event event_code="370">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>%s kaatunut(ta) ajoneuvo(a). Oikea ajokaista tukossa</long_text>
+    </tmc_event>
+    <tmc_event event_code="371">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>%s kaatunut(ta) ajoneuvo(a). Keskimmäinen ajokaista tukossa</long_text>
+    </tmc_event>
+    <tmc_event event_code="372">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>%s kaatunut(ta) ajoneuvo(a). Vasen ajokaista tukossa</long_text>
+    </tmc_event>
+    <tmc_event event_code="373">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>%s kaatunut(ta) ajoneuvo(a). Kaksi ajokaistaa tukossa</long_text>
+    </tmc_event>
+    <tmc_event event_code="374">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>%s kaatunut(ta) ajoneuvo(a). Kolme ajokaistaa tukossa</long_text>
+    </tmc_event>
+    <tmc_event event_code="375">
+      <short_text>onnettomuu(s/tta)</short_text>
+      <long_text>kaatunut ajoneuvo. Viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="376">
+      <short_text>onnettomuu(s/tta)</short_text>
+      <long_text>kaatunut ajoneuvo. Odotettavissa: viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="377">
+      <short_text>onnettomuu(s/tta)</short_text>
+      <long_text>kaatunut ajoneuvo. Pitkiä viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="378">
+      <short_text>onnettomuu(s/tta)</short_text>
+      <long_text>%s kaatunut(ta) ajoneuvo(a). VARO!</long_text>
+    </tmc_event>
+    <tmc_event event_code="379">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>Liikenne seisoo %s aiemman onnettomuuden vuoksi</long_text>
+    </tmc_event>
+    <tmc_event event_code="381">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>Liikenne pysähtelee %s aiemman onnettomuuden vuoksi</long_text>
+    </tmc_event>
+    <tmc_event event_code="382">
+      <short_text>liikenteessä häiriöitä</short_text>
+      <long_text>Liikenne saattaa pysähdellä %s aiemman onnettomuuden vuoksi</long_text>
+    </tmc_event>
+    <tmc_event event_code="383">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>Liikenne hidasta %s aiemman onnettomuuden vuoksi</long_text>
+    </tmc_event>
+    <tmc_event event_code="387">
+      <short_text>Liikenne ruuhkautuu %s aiemman onnettomuuden vuoksi</short_text>
+      <long_text>Liikenne ruuhkautuu %s aiemman onnettomuuden vuoksi</long_text>
+    </tmc_event>
+    <tmc_event event_code="388">
+      <short_text>Viivytyksiä %s aiemman onnettomuuden vuoksi</short_text>
+      <long_text>Viivytyksiä %s aiemman onnettomuuden vuoksi</long_text>
+    </tmc_event>
+    <tmc_event event_code="390">
+      <short_text>Pitkiä viivytyksiä %s aiemman onnettomuuden vuoksi</short_text>
+      <long_text>Pitkiä viivytyksiä %s aiemman onnettomuuden vuoksi</long_text>
+    </tmc_event>
+    <tmc_event event_code="391">
+      <short_text>onnettomuuden tutkinta. VARO!</short_text>
+      <long_text>onnettomuuden tutkinta. VARO!</long_text>
+    </tmc_event>
+    <tmc_event event_code="392">
+      <short_text>%s seurannaisonnettomuu(s/tta). VARO!</short_text>
+      <long_text>%s seurannaisonnettomuu(s/tta). VARO!</long_text>
+    </tmc_event>
+    <tmc_event event_code="402">
+      <short_text>tie tukossa</short_text>
+      <long_text>tie tukossa</long_text>
+    </tmc_event>
+    <tmc_event event_code="410">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>ajorata suljettu. Liikenne seisoo</long_text>
+    </tmc_event>
+    <tmc_event event_code="411">
+      <short_text>ajorata suljettu. Liikenne seisoo 1 mi matkalla</short_text>
+      <long_text>ajorata suljettu. Liikenne seisoo 1 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="412">
+      <short_text>ajorata suljettu. Liikenne seisoo 2 mi matkalla</short_text>
+      <long_text>ajorata suljettu. Liikenne seisoo 2 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="413">
+      <short_text>ajorata suljettu. Liikenne seisoo 4 mi matkalla</short_text>
+      <long_text>ajorata suljettu. Liikenne seisoo 4 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="414">
+      <short_text>ajorata suljettu. Liikenne seisoo 6 mi matkalla</short_text>
+      <long_text>ajorata suljettu. Liikenne seisoo 6 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="415">
+      <short_text>ajorata suljettu. Liikenne seisoo 10 mi matkalla</short_text>
+      <long_text>ajorata suljettu. Liikenne seisoo 10 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="416">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>ajorata suljettu. Liikenne saattaa seisoa</long_text>
+    </tmc_event>
+    <tmc_event event_code="417">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>ajorata suljettu. Liikenne pysähtelee</long_text>
+    </tmc_event>
+    <tmc_event event_code="418">
+      <short_text>ajorata suljettu. Liikenne pysähtelee 1 mi matkalla</short_text>
+      <long_text>ajorata suljettu. Liikenne pysähtelee 1 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="419">
+      <short_text>ajorata suljettu. Liikenne pysähtelee 2 mi matkalla</short_text>
+      <long_text>ajorata suljettu. Liikenne pysähtelee 2 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="420">
+      <short_text>ajorata suljettu. Liikenne pysähtelee 4 mi matkalla</short_text>
+      <long_text>ajorata suljettu. Liikenne pysähtelee 4 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="421">
+      <short_text>ajorata suljettu. Liikenne pysähtelee 6 mi matkalla</short_text>
+      <long_text>ajorata suljettu. Liikenne pysähtelee 6 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="422">
+      <short_text>ajorata suljettu. Liikenne pysähtelee 10 mi matkalla</short_text>
+      <long_text>ajorata suljettu. Liikenne pysähtelee 10 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="423">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>ajorata suljettu. Liikenne saattaa pysähdellä</long_text>
+    </tmc_event>
+    <tmc_event event_code="424">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>ajorata suljettu. Liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="425">
+      <short_text>ajorata suljettu. Liikenne hidasta 1 mi matkalla</short_text>
+      <long_text>ajorata suljettu. Liikenne hidasta 1 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="426">
+      <short_text>ajorata suljettu. Liikenne hidasta 2 mi matkalla</short_text>
+      <long_text>ajorata suljettu. Liikenne hidasta 2 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="427">
+      <short_text>ajorata suljettu. Liikenne hidasta 4 mi matkalla</short_text>
+      <long_text>ajorata suljettu. Liikenne hidasta 4 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="428">
+      <short_text>ajorata suljettu. Liikenne hidasta 6 mi matkalla</short_text>
+      <long_text>ajorata suljettu. Liikenne hidasta 6 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="429">
+      <short_text>ajorata suljettu. Liikenne hidasta 10 mi matkalla</short_text>
+      <long_text>ajorata suljettu. Liikenne hidasta 10 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="430">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>ajorata suljettu. Odotettavissa: liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="431">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>ajorata suljettu. Liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="432">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>ajorata suljettu. Odotettavissa: liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="433">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>ajorata suljettu. Liikenne sujuvaa</long_text>
+    </tmc_event>
+    <tmc_event event_code="434">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>ajorata suljettu. Liikenne ruuhkautuu</long_text>
+    </tmc_event>
+    <tmc_event event_code="435">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>ajorata suljettu. Viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="436">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>ajorata suljettu. Odotettavissa: viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="437">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>tie suljettu. Pitkiä viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="438">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>ajorata tukossa. Liikenne seisoo</long_text>
+    </tmc_event>
+    <tmc_event event_code="439">
+      <short_text>ajorata tukossa. Liikenne seisoo 1 mi matkalla</short_text>
+      <long_text>ajorata tukossa. Liikenne seisoo 1 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="440">
+      <short_text>ajorata tukossa. Liikenne seisoo 2 mi matkalla</short_text>
+      <long_text>ajorata tukossa. Liikenne seisoo 2 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="441">
+      <short_text>ajorata tukossa. Liikenne seisoo 4 mi matkalla</short_text>
+      <long_text>ajorata tukossa. Liikenne seisoo 4 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="442">
+      <short_text>ajorata tukossa. Liikenne seisoo 6 mi matkalla</short_text>
+      <long_text>ajorata tukossa. Liikenne seisoo 6 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="443">
+      <short_text>ajorata tukossa. Liikenne seisoo 10 mi matkalla</short_text>
+      <long_text>ajorata tukossa. Liikenne seisoo 10 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="444">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>ajorata tukossa. Liikenne saattaa seisoa</long_text>
+    </tmc_event>
+    <tmc_event event_code="445">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>ajorata tukossa. Liikenne pysähtelee</long_text>
+    </tmc_event>
+    <tmc_event event_code="446">
+      <short_text>ajorata tukossa. Liikenne pysähtelee 1 mi matkalla</short_text>
+      <long_text>ajorata tukossa. Liikenne pysähtelee 1 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="447">
+      <short_text>ajorata tukossa. Liikenne pysähtelee 2 mi matkalla</short_text>
+      <long_text>ajorata tukossa. Liikenne pysähtelee 2 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="448">
+      <short_text>ajorata tukossa. Liikenne pysähtelee 4 mi matkalla</short_text>
+      <long_text>ajorata tukossa. Liikenne pysähtelee 4 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="449">
+      <short_text>ajorata tukossa. Liikenne pysähtelee 6 mi matkalla</short_text>
+      <long_text>ajorata tukossa. Liikenne pysähtelee 6 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="450">
+      <short_text>ajorata tukossa. Liikenne pysähtelee 10 mi matkalla</short_text>
+      <long_text>ajorata tukossa. Liikenne pysähtelee 10 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="451">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>ajorata tukossa. Liikenne saattaa pysähdellä</long_text>
+    </tmc_event>
+    <tmc_event event_code="452">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>ajorata tukossa. Liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="453">
+      <short_text>ajorata tukossa. Liikenne hidasta 1 mi matkalla</short_text>
+      <long_text>ajorata tukossa. Liikenne hidasta 1 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="454">
+      <short_text>ajorata tukossa. Liikenne hidasta 2 mi matkalla</short_text>
+      <long_text>ajorata tukossa. Liikenne hidasta 2 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="455">
+      <short_text>ajorata tukossa. Liikenne hidasta 4 mi matkalla</short_text>
+      <long_text>ajorata tukossa. Liikenne hidasta 4 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="456">
+      <short_text>ajorata tukossa. Liikenne hidasta 6 mi matkalla</short_text>
+      <long_text>ajorata tukossa. Liikenne hidasta 6 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="457">
+      <short_text>ajorata tukossa. Liikenne hidasta 10 mi matkalla</short_text>
+      <long_text>ajorata tukossa. Liikenne hidasta 10 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="458">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>ajorata tukossa. Odotettavissa: liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="459">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>ajorata tukossa. Liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="460">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>ajorata tukossa. Odotettavissa: liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="461">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>ajorata tukossa. Liikenne sujuvaa</long_text>
+    </tmc_event>
+    <tmc_event event_code="462">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>ajorata tukossa. Liikenne ruuhkautuu</long_text>
+    </tmc_event>
+    <tmc_event event_code="463">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>ajorata tukossa. Viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="464">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>ajorata tukossa. Odotettavissa: viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="465">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>ajorata tukossa. Pitkiä viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="469">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>ajorata suljettu</long_text>
+    </tmc_event>
+    <tmc_event event_code="470">
+      <short_text>ajorata tukossa</short_text>
+      <long_text>ajorata tukossa</long_text>
+    </tmc_event>
+    <tmc_event event_code="492">
+      <short_text>moottoriajoneuvoilla ajo kielletty</short_text>
+      <long_text>moottoriajoneuvoilla ajo kielletty</long_text>
+    </tmc_event>
+    <tmc_event event_code="493">
+      <short_text>liikennerajoituksia</short_text>
+      <long_text>liikennerajoituksia</long_text>
+    </tmc_event>
+    <tmc_event event_code="495">
+      <short_text>ajorata suljettu. Liikenne seisoo 3 mi matkalla</short_text>
+      <long_text>ajorata suljettu. Liikenne seisoo 3 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="496">
+      <short_text>ajorata suljettu. Liikenne pysähtelee 3 mi matkalla</short_text>
+      <long_text>ajorata suljettu. Liikenne pysähtelee 3 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="497">
+      <short_text>ajorata suljettu. Liikenne hidasta 3 mi matkalla</short_text>
+      <long_text>ajorata suljettu. Liikenne hidasta 3 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="498">
+      <short_text>ajorata tukossa. Liikenne seisoo 3 mi matkalla</short_text>
+      <long_text>ajorata tukossa. Liikenne seisoo 3 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="499">
+      <short_text>ajorata tukossa. Liikenne pysähtelee 3 mi matkalla</short_text>
+      <long_text>ajorata tukossa. Liikenne pysähtelee 3 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="504">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>päällystetty piennar suljettu</long_text>
+    </tmc_event>
+    <tmc_event event_code="505">
+      <short_text>kaksi ajokaistaa suljettu</short_text>
+      <long_text>kaksi ajokaistaa suljettu</long_text>
+    </tmc_event>
+    <tmc_event event_code="506">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>kolme ajokaistaa suljettu</long_text>
+    </tmc_event>
+    <tmc_event event_code="507">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>%s oikea(npuoleisinta) ajokaista(a) tukossa</long_text>
+    </tmc_event>
+    <tmc_event event_code="508">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>%s keskimmäi(nen/stä) ajokaista(a) tukossa</long_text>
+    </tmc_event>
+    <tmc_event event_code="509">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>%s vase(n/mmanpuoleisinta) ajokaista(a) tukossa</long_text>
+    </tmc_event>
+    <tmc_event event_code="510">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>päällystetty piennar tukossa</long_text>
+    </tmc_event>
+    <tmc_event event_code="511">
+      <short_text>kaksi ajokaistaa tukossa</short_text>
+      <long_text>kaksi ajokaistaa tukossa</long_text>
+    </tmc_event>
+    <tmc_event event_code="512">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>kolme ajokaistaa tukossa</long_text>
+    </tmc_event>
+    <tmc_event event_code="513">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>yksisuuntainen liikenne, ajo vuorotellen ohjauksen mukaan</long_text>
+    </tmc_event>
+    <tmc_event event_code="514">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>vain yksi kaista (%s-kaistasta) käytössä</long_text>
+    </tmc_event>
+    <tmc_event event_code="515">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>vain kaksi kaistaa (%s-kaistasta) käytössä</long_text>
+    </tmc_event>
+    <tmc_event event_code="516">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>vain kolme kaistaa (%s-kaistasta) käytössä</long_text>
+    </tmc_event>
+    <tmc_event event_code="517">
+      <short_text>vastaan tulevaa liikennettä</short_text>
+      <long_text>vastaan tulevaa liikennettä</long_text>
+    </tmc_event>
+    <tmc_event event_code="518">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>kapeat ajokaistat</long_text>
+    </tmc_event>
+    <tmc_event event_code="519">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>vastaan tulevaa liikennettä ja kapeat ajokaistat</long_text>
+    </tmc_event>
+    <tmc_event event_code="520">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>%s ajokaista(a) tukossa</long_text>
+    </tmc_event>
+    <tmc_event event_code="521">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>%s ajokaista(a) suljettu. Liikenne seisoo</long_text>
+    </tmc_event>
+    <tmc_event event_code="522">
+      <short_text>liikenne seisoo 1 mi matkalla</short_text>
+      <long_text>%s ajokaista(a) suljettu. Liikenne seisoo 1 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="523">
+      <short_text>liikenne seisoo 2 mi matkalla</short_text>
+      <long_text>%s ajokaista(a) suljettu. Liikenne seisoo 2 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="524">
+      <short_text>liikenne seisoo 4 mi matkalla</short_text>
+      <long_text>%s ajokaista(a) suljettu. Liikenne seisoo 4 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="525">
+      <short_text>liikenne seisoo 6 mi matkalla</short_text>
+      <long_text>%s ajokaista(a) suljettu. Liikenne seisoo 6 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="526">
+      <short_text>liikenne seisoo 10 mi matkalla</short_text>
+      <long_text>%s ajokaista(a) suljettu. Liikenne seisoo 10 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="527">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>%s ajokaista(a) suljettu. Liikenne saattaa seisoa</long_text>
+    </tmc_event>
+    <tmc_event event_code="528">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>%s ajokaista(a) suljettu. Liikenne pysähtelee</long_text>
+    </tmc_event>
+    <tmc_event event_code="529">
+      <short_text>liikenne pysähtelee 1 mi matkalla</short_text>
+      <long_text>%s ajokaista(a) suljettu. Liikenne pysähtelee 1 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="530">
+      <short_text>liikenne pysähtelee 2 mi matkalla</short_text>
+      <long_text>%s ajokaista(a) suljettu. Liikenne pysähtelee 2 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="531">
+      <short_text>liikenne pysähtelee 4 mi matkalla</short_text>
+      <long_text>%s ajokaista(a) suljettu. Liikenne pysähtelee 4 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="532">
+      <short_text>liikenne pysähtelee 6 mi matkalla</short_text>
+      <long_text>%s ajokaista(a) suljettu. Liikenne pysähtelee 6 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="533">
+      <short_text>liikenne pysähtelee 10 mi matkalla</short_text>
+      <long_text>%s ajokaista(a) suljettu. Liikenne pysähtelee 10 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="534">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>%s ajokaista(a) suljettu. Liikenne saattaa pysähdellä</long_text>
+    </tmc_event>
+    <tmc_event event_code="535">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>%s ajokaista(a) suljettu. Liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="536">
+      <short_text>liikenne hidasta 1 mi matkalla</short_text>
+      <long_text>%s ajokaista(a) suljettu. Liikenne hidasta 1 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="537">
+      <short_text>liikenne hidasta 2 mi matkalla</short_text>
+      <long_text>%s ajokaista(a) suljettu. Liikenne hidasta 2 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="538">
+      <short_text>liikenne hidasta 4 mi matkalla</short_text>
+      <long_text>%s ajokaista(a) suljettu. Liikenne hidasta 4 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="539">
+      <short_text>liikenne hidasta 6 mi matkalla</short_text>
+      <long_text>%s ajokaista(a) suljettu. Liikenne hidasta 6 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="540">
+      <short_text>liikenne hidasta 10 mi matkalla</short_text>
+      <long_text>%s ajokaista(a) suljettu. Liikenne hidasta 10 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="541">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>%s ajokaista(a) suljettu. Odotettavissa: liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="542">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>%s ajokaista(a) suljettu. Liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="543">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>%s ajokaista(a) suljettu. Odotettavissa: liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="544">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>%s ajokaista(a) suljettu. Liikenne sujuvaa</long_text>
+    </tmc_event>
+    <tmc_event event_code="545">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>%s ajokaista(a) suljettu. Liikenne ruuhkautuu</long_text>
+    </tmc_event>
+    <tmc_event event_code="546">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>vain yksi kaista (%s-kaistasta) käytössä. Liikenne seisoo</long_text>
+    </tmc_event>
+    <tmc_event event_code="547">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>vain yksi kaista (%s-kaistasta) käytössä. Liikenne saattaa seisoa</long_text>
+    </tmc_event>
+    <tmc_event event_code="548">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>vain yksi kaista (%s-kaistasta) käytössä. Liikenne pysähtelee</long_text>
+    </tmc_event>
+    <tmc_event event_code="549">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>vain yksi kaista (%s-kaistasta) käytössä. Liikenne saattaa pysähdellä</long_text>
+    </tmc_event>
+    <tmc_event event_code="550">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>vain yksi kaista (%s-kaistasta) käytössä. Liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="551">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>vain yksi kaista (%s-kaistasta) käytössä. Odotettavissa: liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="552">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>vain yksi kaista (%s-kaistasta) käytössä. Liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="553">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>vain yksi kaista (%s-kaistasta) käytössä.. Odotettavissa: liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="554">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>vain yksi kaista (%s-kaistasta) käytössä. Liikenne sujuvaa</long_text>
+    </tmc_event>
+    <tmc_event event_code="555">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>vain yksi kaista (%s-kaistasta) käytössä. Liikenne ruuhkautuu</long_text>
+    </tmc_event>
+    <tmc_event event_code="556">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>vain kaksi kaistaa (%s-kaistasta) käytössä. Liikenne seisoo</long_text>
+    </tmc_event>
+    <tmc_event event_code="557">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>vain kaksi kaistaa (%s-kaistasta) käytössä. Liikenne saattaa seisoa</long_text>
+    </tmc_event>
+    <tmc_event event_code="558">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>vain kaksi kaistaa (%s-kaistasta) käytössä. Liikenne pysähtelee</long_text>
+    </tmc_event>
+    <tmc_event event_code="559">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>vain kaksi kaistaa (%s-kaistasta) käytössä. Liikenne saattaa pysähdellä</long_text>
+    </tmc_event>
+    <tmc_event event_code="560">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>vain kaksi kaistaa (%s-kaistasta) käytössä. Liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="561">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>vain kaksi kaistaa (%s-kaistasta) käytössä. Odotettavissa: liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="562">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>vain kaksi kaistaa (%s-kaistasta) käytössä. Liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="563">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>vain kaksi kaistaa (%s-kaistasta) käytössä.  Odotettavissa: liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="564">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>vain kaksi kaistaa (%s-kaistasta) käytössä. Liikenne sujuvaa</long_text>
+    </tmc_event>
+    <tmc_event event_code="565">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>vain kaksi kaistaa (%s-kaistasta) käytössä. Liikenne ruuhkautuu</long_text>
+    </tmc_event>
+    <tmc_event event_code="566">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>vain kolme kaistaa (%s-kaistasta) käytössä. Liikenne seisoo</long_text>
+    </tmc_event>
+    <tmc_event event_code="567">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>vain kolme kaistaa (%s-kaistasta) käytössä. Liikenne saattaa seisoa</long_text>
+    </tmc_event>
+    <tmc_event event_code="568">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>vain kolme kaistaa (%s-kaistasta) käytössä. Liikenne pysähtelee</long_text>
+    </tmc_event>
+    <tmc_event event_code="569">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>vain kolme kaistaa (%s-kaistasta) käytössä. Liikenne saattaa pysähdellä</long_text>
+    </tmc_event>
+    <tmc_event event_code="570">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>vain kolme kaistaa (%s-kaistasta) käytössä. Liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="571">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>vain kolme kaistaa (%s-kaistasta) käytössä. Odotettavissa: liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="572">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>vain kolme kaistaa (%s-kaistasta) käytössä. Liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="573">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>vain kolme kaistaa (%s-kaistasta) käytössä. Odotettavissa: liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="574">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>vain kolme kaistaa (%s-kaistasta) käytössä. Liikenne sujuvaa</long_text>
+    </tmc_event>
+    <tmc_event event_code="575">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>vain kolme kaistaa (%s-kaistasta) käytössä. Liikenne ruuhkautuu</long_text>
+    </tmc_event>
+    <tmc_event event_code="576">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>vastaan tulevaa liikennettä. Liikenne seisoo</long_text>
+    </tmc_event>
+    <tmc_event event_code="577">
+      <short_text>liikenne seisoo 1 mi matkalla</short_text>
+      <long_text>vastaan tulevaa liikennettä. Liikenne seisoo 1 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="578">
+      <short_text>liikenne seisoo 2 mi matkalla</short_text>
+      <long_text>vastaan tulevaa liikennettä. Liikenne seisoo 2 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="579">
+      <short_text>liikenne seisoo 4 mi matkalla</short_text>
+      <long_text>vastaan tulevaa liikennettä. Liikenne seisoo 4 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="580">
+      <short_text>liikenne seisoo 6 mi matkalla</short_text>
+      <long_text>vastaan tulevaa liikennettä. Liikenne seisoo 6 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="581">
+      <short_text>liikenne seisoo 10 mi matkalla</short_text>
+      <long_text>vastaan tulevaa liikennettä. Liikenne seisoo 10 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="583">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>vastaan tulevaa liikennettä. Liikenne pysähtelee</long_text>
+    </tmc_event>
+    <tmc_event event_code="584">
+      <short_text>liikenne pysähtelee 1 mi matkalla</short_text>
+      <long_text>vastaan tulevaa liikennettä. Liikenne pysähtelee 1 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="585">
+      <short_text>liikenne pysähtelee 2 mi matkalla</short_text>
+      <long_text>vastaan tulevaa liikennettä. Liikenne pysähtelee 2 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="586">
+      <short_text>liikenne pysähtelee 4 mi matkalla</short_text>
+      <long_text>vastaan tulevaa liikennettä. Liikenne pysähtelee 4 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="587">
+      <short_text>liikenne pysähtelee 6 mi matkalla</short_text>
+      <long_text>vastaan tulevaa liikennettä. Liikenne pysähtelee 6 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="588">
+      <short_text>liikenne pysähtelee 10 mi matkalla</short_text>
+      <long_text>vastaan tulevaa liikennettä. Liikenne pysähtelee 10 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="590">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>vastaan tulevaa liikennettä. Liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="591">
+      <short_text>liikenne hidasta 1 mi matkalla</short_text>
+      <long_text>vastaan tulevaa liikennettä. Liikenne hidasta 1 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="592">
+      <short_text>liikenne hidasta 2 mi matkalla</short_text>
+      <long_text>vastaan tulevaa liikennettä. Liikenne hidasta 2 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="593">
+      <short_text>liikenne hidasta 4 mi matkalla</short_text>
+      <long_text>vastaan tulevaa liikennettä. Liikenne hidasta 4 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="594">
+      <short_text>liikenne hidasta 6 mi matkalla</short_text>
+      <long_text>vastaan tulevaa liikennettä. Liikenne hidasta 6 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="595">
+      <short_text>liikenne hidasta 10 mi matkalla</short_text>
+      <long_text>vastaan tulevaa liikennettä. Liikenne hidasta 10 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="597">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>vastaan tulevaa liikennettä. Liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="600">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>vastaan tulevaa liikennettä. Liikenne ruuhkautuu</long_text>
+    </tmc_event>
+    <tmc_event event_code="601">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>vastaan tulevaa liikennettä. Vain yksi kaista (%s-kaistasta) käytössä</long_text>
+    </tmc_event>
+    <tmc_event event_code="602">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>vastaan tulevaa liikennettä. Vain kaksi kaistaa (%s-kaistasta) käytössä</long_text>
+    </tmc_event>
+    <tmc_event event_code="603">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>vastaan tulevaa liikennettä. Vain kolme kaistaa (%s-kaistasta) käytössä</long_text>
+    </tmc_event>
+    <tmc_event event_code="604">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>kapeat ajokaistat. Liikenne seisoo</long_text>
+    </tmc_event>
+    <tmc_event event_code="605">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>kapeat ajokaistat. Liikenne saattaa seisoa</long_text>
+    </tmc_event>
+    <tmc_event event_code="606">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>kapeat ajokaistat. Liikenne pysähtelee</long_text>
+    </tmc_event>
+    <tmc_event event_code="607">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>kapeat ajokaistat. Liikenne saattaa pysähdellä</long_text>
+    </tmc_event>
+    <tmc_event event_code="608">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>kapeat ajokaistat. Liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="609">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>kapeat ajokaistat. Odotettavissa: liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="610">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>kapeat ajokaistat. Liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="611">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>kapeat ajokaistat. Odotettavissa: liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="612">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>kapeat ajokaistat. Liikenne sujuvaa</long_text>
+    </tmc_event>
+    <tmc_event event_code="613">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>kapeat ajokaistat. Liikenne ruuhkautuu</long_text>
+    </tmc_event>
+    <tmc_event event_code="614">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>vastaan tulevaa liikennettä ja kapeat ajokaistat. Liikenne seisoo</long_text>
+    </tmc_event>
+    <tmc_event event_code="615">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>vastaan tulevaa liikennettä ja kapeat ajokaistat. Liikenne saattaa seisoa</long_text>
+    </tmc_event>
+    <tmc_event event_code="616">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>vastaan tulevaa liikennettä ja kapeat ajokaistat. Liikenne pysähtelee</long_text>
+    </tmc_event>
+    <tmc_event event_code="617">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>vastaan tulevaa liikennettä ja kapeat ajokaistat. Liikenne saattaa pysähdellä</long_text>
+    </tmc_event>
+    <tmc_event event_code="618">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>vastaan tulevaa liikennettä ja kapeat ajokaistat. Liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="619">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>vastaan tulevaa liikennettä ja kapeat ajokaistat. Odotettavissa: liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="620">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>vastaan tulevaa liikennettä ja kapeat ajokaistat. Liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="621">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>vastaan tulevaa liikennettä ja kapeat ajokaistat. Odotettavissa: liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="622">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>vastaan tulevaa liikennettä ja kapeat ajokaistat. Liikenne sujuvaa</long_text>
+    </tmc_event>
+    <tmc_event event_code="623">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>vastaan tulevaa liikennettä ja kapeat ajokaistat. Liikenne ruuhkautuu</long_text>
+    </tmc_event>
+    <tmc_event event_code="626">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>ajorata tukossa. Liikenne hidasta 3 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="628">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>ei moottoriajoneuvoille, joiden rekisteritunnus on parillinen</long_text>
+    </tmc_event>
+    <tmc_event event_code="629">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>ei moottoriajoneuvoille, joiden rekisteritunnus on pariton</long_text>
+    </tmc_event>
+    <tmc_event event_code="637">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>hälytysajokaista suljettu</long_text>
+    </tmc_event>
+    <tmc_event event_code="638">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>kääntyvä ajokaista suljettu</long_text>
+    </tmc_event>
+    <tmc_event event_code="639">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>ryömintäkaista suljettu</long_text>
+    </tmc_event>
+    <tmc_event event_code="640">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>hitaiden ajoneuvojen kaista suljettu</long_text>
+    </tmc_event>
+    <tmc_event event_code="641">
+      <short_text>yksi ajokaista suljettu</short_text>
+      <long_text>yksi ajokaista suljettu</long_text>
+    </tmc_event>
+    <tmc_event event_code="642">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>hälytysajokaista tukossa</long_text>
+    </tmc_event>
+    <tmc_event event_code="643">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>kääntyvä ajokaista tukossa</long_text>
+    </tmc_event>
+    <tmc_event event_code="644">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>ryömintäkaista tukossa</long_text>
+    </tmc_event>
+    <tmc_event event_code="645">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>hitaiden ajoneuvojen kaista tukossa</long_text>
+    </tmc_event>
+    <tmc_event event_code="646">
+      <short_text>yksi ajokaista tukossa</short_text>
+      <long_text>yksi ajokaista tukossa</long_text>
+    </tmc_event>
+    <tmc_event event_code="647">
+      <short_text>carpool restrictions changed</short_text>
+      <long_text>(vähintään %s hengen) kimppakyytikaista käytössä</long_text>
+    </tmc_event>
+    <tmc_event event_code="648">
+      <short_text>carpool restrictions changed</short_text>
+      <long_text>(vähintään %s hengen) kimppakyytikaista suljettu</long_text>
+    </tmc_event>
+    <tmc_event event_code="649">
+      <short_text>carpool restrictions changed</short_text>
+      <long_text>(vähintään %s hengen) kimppakyytikaista tukossa</long_text>
+    </tmc_event>
+    <tmc_event event_code="650">
+      <short_text>carpool restrictions changed</short_text>
+      <long_text>kimppakyytirajoitus muuttunut (uusi raja %s henkilöä/ajoneuvo)</long_text>
+    </tmc_event>
+    <tmc_event event_code="651">
+      <short_text>liikenne seisoo 3 mi matkalla</short_text>
+      <long_text>%s ajokaista(a) suljettu. Liikenne seisoo 3 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="652">
+      <short_text>liikenne pysähtelee 3 mi matkalla</short_text>
+      <long_text>%s ajokaista(a) suljettu. Liikenne pysähtelee 3 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="653">
+      <short_text>liikenne hidasta 3 mi matkalla</short_text>
+      <long_text>%s ajokaista(a) suljettu. Liikenne hidasta 3 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="654">
+      <short_text>liikenne seisoo 3 mi matkalla</short_text>
+      <long_text>vastaan tulevaa liikennettä. Liikenne seisoo 3 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="655">
+      <short_text>liikenne pysähtelee 3 mi matkalla</short_text>
+      <long_text>vastaan tulevaa liikennettä. Liikenne pysähtelee 3 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="656">
+      <short_text>liikenne hidasta 3 mi matkalla</short_text>
+      <long_text>vastaan tulevaa liikennettä. Liikenne hidasta 3 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="671">
+      <short_text>carpool restrictions changed</short_text>
+      <long_text>linja-autokaistan käyttö sallittu (vähintään %s hengen) kimppakyytiin</long_text>
+    </tmc_event>
+    <tmc_event event_code="701">
+      <short_text>tietyö</short_text>
+      <long_text>tietyö (kohteita %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="702">
+      <short_text>tietyö</short_text>
+      <long_text>tienparannustyö (kohteita %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="703">
+      <short_text>tietyö</short_text>
+      <long_text>kunnossapitotyö (kohteita %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="704">
+      <short_text>tietyö</short_text>
+      <long_text>päällystystyö (kohteita %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="705">
+      <short_text>tietyö</short_text>
+      <long_text>tietyö ajoratojen välissä (kohteita %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="707">
+      <short_text>tietyö</short_text>
+      <long_text>siltatyö (%s siltaa)</long_text>
+    </tmc_event>
+    <tmc_event event_code="708">
+      <short_text>tietyö</short_text>
+      <long_text>tilapäiset liikennevalot (kohteita %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="709">
+      <short_text>tietyö</short_text>
+      <long_text>räjäytystyö (kohteita %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="710">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>tietyö (kohteita %s). Liikenne seisoo</long_text>
+    </tmc_event>
+    <tmc_event event_code="711">
+      <short_text>liikenne seisoo 1 mi matkalla</short_text>
+      <long_text>tietyö (kohteita %s). Liikenne seisoo 1 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="712">
+      <short_text>liikenne seisoo 2 mi matkalla</short_text>
+      <long_text>tietyö (kohteita %s). Liikenne seisoo 2 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="713">
+      <short_text>liikenne seisoo 4 mi matkalla</short_text>
+      <long_text>tietyö (kohteita %s). Liikenne seisoo 4 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="714">
+      <short_text>liikenne seisoo 6 mi matkalla</short_text>
+      <long_text>tietyö (kohteita %s). Liikenne seisoo 6 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="715">
+      <short_text>liikenne seisoo 10 mi matkalla</short_text>
+      <long_text>tietyö (kohteita %s). Liikenne seisoo 10 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="716">
+      <short_text>tietyö</short_text>
+      <long_text>tietyö (kohteita %s). Liikenne saattaa seisoa</long_text>
+    </tmc_event>
+    <tmc_event event_code="717">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>tietyö (kohteita %s). Liikenne pysähtelee</long_text>
+    </tmc_event>
+    <tmc_event event_code="718">
+      <short_text>liikenne pysähtelee 1 mi matkalla</short_text>
+      <long_text>tietyö (kohteita %s). Liikenne pysähtelee 1 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="719">
+      <short_text>liikenne pysähtelee 2 mi matkalla</short_text>
+      <long_text>tietyö (kohteita %s). Liikenne pysähtelee 2 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="720">
+      <short_text>liikenne pysähtelee 4 mi matkalla</short_text>
+      <long_text>tietyö (kohteita %s). Liikenne pysähtelee 4 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="721">
+      <short_text>liikenne pysähtelee 6 mi matkalla</short_text>
+      <long_text>tietyö (kohteita %s). Liikenne pysähtelee 6 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="722">
+      <short_text>liikenne pysähtelee 10 mi matkalla</short_text>
+      <long_text>tietyö (kohteita %s). Liikenne pysähtelee 10 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="723">
+      <short_text>tietyö</short_text>
+      <long_text>tietyö (kohteita %s). Liikenne saattaa pysähdellä</long_text>
+    </tmc_event>
+    <tmc_event event_code="724">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>tietyö (kohteita %s). Liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="725">
+      <short_text>liikenne hidasta 1 mi matkalla</short_text>
+      <long_text>tietyö (kohteita %s). Liikenne hidasta 1 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="726">
+      <short_text>liikenne hidasta 2 mi matkalla</short_text>
+      <long_text>tietyö (kohteita %s). Liikenne hidasta 2 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="727">
+      <short_text>liikenne hidasta 4 mi matkalla</short_text>
+      <long_text>tietyö (kohteita %s). Liikenne hidasta 4 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="728">
+      <short_text>liikenne hidasta 6 mi matkalla</short_text>
+      <long_text>tietyö (kohteita %s). Liikenne hidasta 6 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="729">
+      <short_text>liikenne hidasta 10 mi matkalla</short_text>
+      <long_text>tietyö (kohteita %s). Liikenne hidasta 10 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="730">
+      <short_text>tietyö</short_text>
+      <long_text>tietyö (kohteita %s). Odotettavissa: liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="731">
+      <short_text>tietyö</short_text>
+      <long_text>tietyö (kohteita %s). Liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="732">
+      <short_text>tietyö</short_text>
+      <long_text>tietyö (kohteita %s). Odotettavissa: liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="733">
+      <short_text>tietyö</short_text>
+      <long_text>tietyö (kohteita %s). Liikenne sujuvaa</long_text>
+    </tmc_event>
+    <tmc_event event_code="734">
+      <short_text>tietyö</short_text>
+      <long_text>tietyö (kohteita %s). Liikenne ruuhkautuu</long_text>
+    </tmc_event>
+    <tmc_event event_code="735">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>tie suljettu tietyön %s vuoksi</long_text>
+    </tmc_event>
+    <tmc_event event_code="736">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>tietyö (kohteita %s). Oikea ajokaista suljettu</long_text>
+    </tmc_event>
+    <tmc_event event_code="737">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>tietyö (kohteita %s). Keskimmäinen ajokaista suljettu</long_text>
+    </tmc_event>
+    <tmc_event event_code="738">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>tietyö (kohteita %s). Vasen ajokaista suljettu</long_text>
+    </tmc_event>
+    <tmc_event event_code="739">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>tietyö (kohteita %s). Päällystetty piennar suljettu</long_text>
+    </tmc_event>
+    <tmc_event event_code="740">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>tietyö (kohteita %s). Kaksi ajokaistaa suljettu</long_text>
+    </tmc_event>
+    <tmc_event event_code="741">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>tietyö (kohteita %s). Kolme ajokaistaa suljettu</long_text>
+    </tmc_event>
+    <tmc_event event_code="742">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>tietyö (kohteita %s). Yksisuuntainen liikenne, ajo vuorotellen ohjauksen mukaan</long_text>
+    </tmc_event>
+    <tmc_event event_code="743">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>tietyö. Vain yksi kaista (%s-kaistasta) käytössä</long_text>
+    </tmc_event>
+    <tmc_event event_code="744">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>tietyö. Vain kaksi kaistaa (%s-kaistasta) käytössä</long_text>
+    </tmc_event>
+    <tmc_event event_code="745">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>tietyö. Vain kolme kaistaa (%s-kaistasta) käytössä</long_text>
+    </tmc_event>
+    <tmc_event event_code="746">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>tietyö (kohteita %s). Vastaan tulevaa liikennettä</long_text>
+    </tmc_event>
+    <tmc_event event_code="747">
+      <short_text>tietyö</short_text>
+      <long_text>tietyö. Viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="748">
+      <short_text>tietyö</short_text>
+      <long_text>tietyö. Odotettavissa: viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="749">
+      <short_text>tietyö</short_text>
+      <long_text>tietyö. Pitkiä viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="750">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>päällystystyö (kohteita %s). Liikenne seisoo</long_text>
+    </tmc_event>
+    <tmc_event event_code="751">
+      <short_text>liikenne seisoo 1 mi matkalla</short_text>
+      <long_text>päällystystyö (kohteita %s). Liikenne seisoo 1 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="752">
+      <short_text>liikenne seisoo 2 mi matkalla</short_text>
+      <long_text>päällystystyö (kohteita %s). Liikenne seisoo 2 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="753">
+      <short_text>liikenne seisoo 4 mi matkalla</short_text>
+      <long_text>päällystystyö (kohteita %s). Liikenne seisoo 4 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="754">
+      <short_text>liikenne seisoo 6 mi matkalla</short_text>
+      <long_text>päällystystyö (kohteita %s). Liikenne seisoo 6 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="755">
+      <short_text>liikenne seisoo 10 mi matkalla</short_text>
+      <long_text>päällystystyö (kohteita %s). Liikenne seisoo 10 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="756">
+      <short_text>tietyö</short_text>
+      <long_text>päällystystyö (kohteita %s). Liikenne saattaa seisoa</long_text>
+    </tmc_event>
+    <tmc_event event_code="757">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>päällystystyö (kohteita %s). Liikenne pysähtelee</long_text>
+    </tmc_event>
+    <tmc_event event_code="758">
+      <short_text>liikenne pysähtelee 1 mi matkalla</short_text>
+      <long_text>päällystystyö (kohteita %s). Liikenne pysähtelee 1 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="759">
+      <short_text>liikenne pysähtelee 2 mi matkalla</short_text>
+      <long_text>päällystystyö (kohteita %s). Liikenne pysähtelee 2 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="760">
+      <short_text>liikenne pysähtelee 4 mi matkalla</short_text>
+      <long_text>päällystystyö (kohteita %s). Liikenne pysähtelee 4 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="761">
+      <short_text>liikenne pysähtelee 6 mi matkalla</short_text>
+      <long_text>päällystystyö (kohteita %s). Liikenne pysähtelee 6 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="762">
+      <short_text>liikenne pysähtelee 10 mi matkalla</short_text>
+      <long_text>päällystystyö (kohteita %s). Liikenne pysähtelee 10 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="763">
+      <short_text>tietyö</short_text>
+      <long_text>päällystystyö (kohteita %s). Liikenne saattaa pysähdellä</long_text>
+    </tmc_event>
+    <tmc_event event_code="764">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>päällystystyö (kohteita %s). Liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="765">
+      <short_text>liikenne hidasta 1 mi matkalla</short_text>
+      <long_text>päällystystyö (kohteita %s). Liikenne hidasta 1 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="766">
+      <short_text>liikenne hidasta 2 mi matkalla</short_text>
+      <long_text>päällystystyö (kohteita %s). Liikenne hidasta 2 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="767">
+      <short_text>liikenne hidasta 4 mi matkalla</short_text>
+      <long_text>päällystystyö (kohteita %s). Liikenne hidasta 4 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="768">
+      <short_text>liikenne hidasta 6 mi matkalla</short_text>
+      <long_text>päällystystyö (kohteita %s). Liikenne hidasta 6 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="769">
+      <short_text>liikenne hidasta 10 mi matkalla</short_text>
+      <long_text>päällystystyö (kohteita %s). Liikenne hidasta 10 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="770">
+      <short_text>tietyö</short_text>
+      <long_text>päällystystyö (kohteita %s). Odotettavissa: liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="771">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>päällystystyö (kohteita %s). Liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="772">
+      <short_text>tietyö</short_text>
+      <long_text>päällystystyö (kohteita %s). Odotettavissa: liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="773">
+      <short_text>tietyö</short_text>
+      <long_text>päällystystyö (kohteita %s). Liikenne sujuvaa</long_text>
+    </tmc_event>
+    <tmc_event event_code="774">
+      <short_text>tietyö</short_text>
+      <long_text>päällystystyö (kohteita %s). Liikenne ruuhkautuu</long_text>
+    </tmc_event>
+    <tmc_event event_code="775">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>päällystystyö (kohteita %s). Yksisuuntainen liikenne, ajo vuorotellen ohjauksen mukaan</long_text>
+    </tmc_event>
+    <tmc_event event_code="776">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>päällystystyö. Vain yksi kaista (%s-kaistasta) käytössä</long_text>
+    </tmc_event>
+    <tmc_event event_code="777">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>päällystystyö. Vain kaksi kaistaa (%s-kaistasta) käytössä</long_text>
+    </tmc_event>
+    <tmc_event event_code="780">
+      <short_text>tietyö</short_text>
+      <long_text>päällystystyö. Viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="781">
+      <short_text>tietyö</short_text>
+      <long_text>päällystystyö. Odotettavissa: viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="782">
+      <short_text>tietyö</short_text>
+      <long_text>päällystystyö. Pitkiä viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="783">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>tiemerkintätyö (kohteita %s). Liikenne seisoo</long_text>
+    </tmc_event>
+    <tmc_event event_code="785">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>tiemerkintätyö (kohteita %s). Liikenne pysähtelee</long_text>
+    </tmc_event>
+    <tmc_event event_code="786">
+      <short_text>liikenteessä häiriöitä</short_text>
+      <long_text>tiemerkintätyö (kohteita %s). Liikenne saattaa pysähdellä</long_text>
+    </tmc_event>
+    <tmc_event event_code="787">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>tiemerkintätyö (kohteita %s). Liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="789">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>tiemerkintätyö (kohteita %s). Liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="791">
+      <short_text>tietyö</short_text>
+      <long_text>tiemerkintätyö (kohteita %s). Liikenne sujuvaa</long_text>
+    </tmc_event>
+    <tmc_event event_code="792">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>tiemerkintätyö (kohteita %s). Liikenne ruuhkautuu</long_text>
+    </tmc_event>
+    <tmc_event event_code="793">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>tiemerkintätyö (kohteita %s). Oikea ajokaista suljettu</long_text>
+    </tmc_event>
+    <tmc_event event_code="794">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>tiemerkintätyö (kohteita %s). Keskimmäinen ajokaista suljettu</long_text>
+    </tmc_event>
+    <tmc_event event_code="795">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>tiemerkintätyö (kohteita %s). Vasen ajokaista suljettu</long_text>
+    </tmc_event>
+    <tmc_event event_code="796">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>tiemerkintätyö (kohteita %s). Päällystetty piennar suljettu</long_text>
+    </tmc_event>
+    <tmc_event event_code="797">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>tiemerkintätyö (kohteita %s). Kaksi ajokaistaa suljettu</long_text>
+    </tmc_event>
+    <tmc_event event_code="798">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>tiemerkintätyö (kohteita %s). Kolme ajokaistaa suljettu</long_text>
+    </tmc_event>
+    <tmc_event event_code="799">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>tie suljettu siltatyön vuoksi (%s siltaa)</long_text>
+    </tmc_event>
+    <tmc_event event_code="802">
+      <short_text>tietyö</short_text>
+      <long_text>pitkäkestoinen tienparannustyö (kohteita %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="803">
+      <short_text>tietyö</short_text>
+      <long_text>tienrakennustyö (kohteita %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="805">
+      <short_text>tietyö</short_text>
+      <long_text>sillanpurkutyö (%s siltaa)</long_text>
+    </tmc_event>
+    <tmc_event event_code="806">
+      <short_text>tietyö</short_text>
+      <long_text>vesijohtotyö (kohteita %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="807">
+      <short_text>kaasujohtotyö</short_text>
+      <long_text>kaasujohtotyö (kohteita %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="808">
+      <short_text>tietyö</short_text>
+      <long_text>maakaapelityö (kohteita %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="809">
+      <short_text>tietyö</short_text>
+      <long_text>kunnallistekninen työ (kohteita %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="810">
+      <short_text>tietyö</short_text>
+      <long_text>tietyömaan liikennejärjestelyt muuttuneet</long_text>
+    </tmc_event>
+    <tmc_event event_code="812">
+      <short_text>liikenne seisoo 3 mi matkalla</short_text>
+      <long_text>tietyö (kohteita %s). Liikenne seisoo 3 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="813">
+      <short_text>liikenne pysähtelee 3 mi matkalla</short_text>
+      <long_text>tietyö (kohteita %s). Liikenne pysähtelee 3 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="814">
+      <short_text>liikenne hidasta 3 mi matkalla</short_text>
+      <long_text>tietyö (kohteita %s). Liikenne hidasta 3 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="815">
+      <short_text>tietyö</short_text>
+      <long_text>tietyö (kohteita %s) päivällä</long_text>
+    </tmc_event>
+    <tmc_event event_code="816">
+      <short_text>tietyö</short_text>
+      <long_text>tietyö (kohteita %s) muina kuin ruuhka-aikoina</long_text>
+    </tmc_event>
+    <tmc_event event_code="817">
+      <short_text>tietyö</short_text>
+      <long_text>tietyö (kohteita %s) yöllä</long_text>
+    </tmc_event>
+    <tmc_event event_code="818">
+      <short_text>liikenne seisoo 3 mi matkalla</short_text>
+      <long_text>päällystystyö (kohteita %s). Liikenne seisoo 3 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="819">
+      <short_text>liikenne pysähtelee 3 mi matkalla</short_text>
+      <long_text>päällystystyö (kohteita %s). Liikenne pysähtelee 3 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="820">
+      <short_text>liikenne hidasta 3 mi matkalla</short_text>
+      <long_text>päällystystyö (kohteita %s). Liikenne hidasta 3 mi matkalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="821">
+      <short_text>tietyö</short_text>
+      <long_text>päällystystyö (kohteita %s) päivällä</long_text>
+    </tmc_event>
+    <tmc_event event_code="822">
+      <short_text>tietyö</short_text>
+      <long_text>päällystystyö (kohteita %s) muina kuin ruuhka-aikoina</long_text>
+    </tmc_event>
+    <tmc_event event_code="823">
+      <short_text>tietyö</short_text>
+      <long_text>päällystystyö (kohteita %s) yöllä</long_text>
+    </tmc_event>
+    <tmc_event event_code="825">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>(%s ryhmää) hitaasti liikkuvia kunnossapitoajoneuvoja. Liikenne seisoo</long_text>
+    </tmc_event>
+    <tmc_event event_code="826">
+      <short_text>tietyö</short_text>
+      <long_text>(%s ryhmää) hitaasti liikkuvia kunnossapitoajoneuvoja. Liikenne saattaa seisoa</long_text>
+    </tmc_event>
+    <tmc_event event_code="827">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>(%s ryhmää) hitaasti liikkuvia kunnossapitoajoneuvoja. Liikenne pysähtelee</long_text>
+    </tmc_event>
+    <tmc_event event_code="828">
+      <short_text>tietyö</short_text>
+      <long_text>(%s ryhmää) hitaasti liikkuvia kunnossapitoajoneuvoja. Liikenne saattaa pysähdellä</long_text>
+    </tmc_event>
+    <tmc_event event_code="829">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>(%s ryhmää) hitaasti liikkuvia kunnossapitoajoneuvoja. Liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="830">
+      <short_text>tietyö</short_text>
+      <long_text>(%s ryhmää) hitaasti liikkuvia kunnossapitoajoneuvoja. Odotettavissa: liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="831">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>(%s ryhmää) hitaasti liikkuvia kunnossapitoajoneuvoja. Liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="832">
+      <short_text>tietyö</short_text>
+      <long_text>(%s ryhmää) hitaasti liikkuvia kunnossapitoajoneuvoja. Odotettavissa: liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="833">
+      <short_text>tietyö</short_text>
+      <long_text>(%s ryhmää) hitaasti liikkuvia kunnossapitoajoneuvoja. Liikenne sujuvaa</long_text>
+    </tmc_event>
+    <tmc_event event_code="834">
+      <short_text>tietyö</short_text>
+      <long_text>(%s ryhmää) hitaasti liikkuvia kunnossapitoajoneuvoja. Liikenne ruuhkautuu</long_text>
+    </tmc_event>
+    <tmc_event event_code="835">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>(%s ryhmää) hitaasti liikkuvia kunnossapitoajoneuvoja. Oikea ajokaista suljettu</long_text>
+    </tmc_event>
+    <tmc_event event_code="836">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>(%s ryhmää) hitaasti liikkuvia kunnossapitoajoneuvoja. Keskimmäinen ajokaista suljettu</long_text>
+    </tmc_event>
+    <tmc_event event_code="837">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>(%s ryhmää) hitaasti liikkuvia kunnossapitoajoneuvoja. Vasen ajokaista suljettu</long_text>
+    </tmc_event>
+    <tmc_event event_code="838">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>(%s ryhmää) hitaasti liikkuvia kunnossapitoajoneuvoja. Kaksi ajokaistaa suljettu</long_text>
+    </tmc_event>
+    <tmc_event event_code="839">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>(%s ryhmää) hitaasti liikkuvia kunnossapitoajoneuvoja. Kolme ajokaistaa suljettu</long_text>
+    </tmc_event>
+    <tmc_event event_code="840">
+      <short_text>tietyö</short_text>
+      <long_text>vesijohtotyö. Viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="841">
+      <short_text>tietyö</short_text>
+      <long_text>vesijohtotyö. Odotettavissa: viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="842">
+      <short_text>tietyö</short_text>
+      <long_text>vesijohtotyö. Pitkiä viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="843">
+      <short_text>tietyö</short_text>
+      <long_text>kaasujohtotyö. Viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="844">
+      <short_text>tietyö</short_text>
+      <long_text>kaasujohtotyö. Odotettavissa: viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="845">
+      <short_text>tietyö</short_text>
+      <long_text>kaasujohtotyö. Pitkiä viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="846">
+      <short_text>tietyö</short_text>
+      <long_text>maakaapelityö. Viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="847">
+      <short_text>tietyö</short_text>
+      <long_text>maakaapelityö. Odotettavissa: viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="848">
+      <short_text>tietyö</short_text>
+      <long_text>maakaapelityö. Pitkiä viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="849">
+      <short_text>tietyö</short_text>
+      <long_text>kunnallistekninen työ. Viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="850">
+      <short_text>tietyö</short_text>
+      <long_text>kunnallistekninen työ. Odotettavissa: viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="851">
+      <short_text>tietyö</short_text>
+      <long_text>kunnallistekninen työ. Pitkiä viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="853">
+      <short_text>tietyö</short_text>
+      <long_text>tietyöjärjestelyjen purku</long_text>
+    </tmc_event>
+    <tmc_event event_code="900">
+      <short_text> tulva</short_text>
+      <long_text>odotettavissa: tulva</long_text>
+    </tmc_event>
+    <tmc_event event_code="901">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>%s este(ttä) tiellä</long_text>
+    </tmc_event>
+    <tmc_event event_code="902">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>%s este(ttä) tiellä. VARO!</long_text>
+    </tmc_event>
+    <tmc_event event_code="903">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>vuoto tiellä</long_text>
+    </tmc_event>
+    <tmc_event event_code="904">
+      <short_text>myrskyvaurio</short_text>
+      <long_text>myrskyvaurio</long_text>
+    </tmc_event>
+    <tmc_event event_code="905">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>%s kaatunut(ta) puu(ta)</long_text>
+    </tmc_event>
+    <tmc_event event_code="906">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>%s kaatunut(ta) puu(ta). VARO!</long_text>
+    </tmc_event>
+    <tmc_event event_code="907">
+      <short_text>tulva</short_text>
+      <long_text>tulva</long_text>
+    </tmc_event>
+    <tmc_event event_code="908">
+      <short_text>tulva. VARO!</short_text>
+      <long_text>tulva. VARO!</long_text>
+    </tmc_event>
+    <tmc_event event_code="909">
+      <short_text>tulva-aaltoja</short_text>
+      <long_text>tulva-aaltoja</long_text>
+    </tmc_event>
+    <tmc_event event_code="910">
+      <short_text>tielle voi tulla tulva-aaltoja</short_text>
+      <long_text>tielle voi tulla tulva-aaltoja</long_text>
+    </tmc_event>
+    <tmc_event event_code="911">
+      <short_text>lumivyöryjä</short_text>
+      <long_text>lumivyöryjä</long_text>
+    </tmc_event>
+    <tmc_event event_code="912">
+      <short_text>lumivyöryvaara</short_text>
+      <long_text>lumivyöryvaara</long_text>
+    </tmc_event>
+    <tmc_event event_code="913">
+      <short_text>kivivyöryjä</short_text>
+      <long_text>kivivyöryjä</long_text>
+    </tmc_event>
+    <tmc_event event_code="914">
+      <short_text>sortumia</short_text>
+      <long_text>sortumia</long_text>
+    </tmc_event>
+    <tmc_event event_code="915">
+      <short_text>maanjäristysvaurio</short_text>
+      <long_text>maanjäristysvaurio</long_text>
+    </tmc_event>
+    <tmc_event event_code="916">
+      <short_text>tie huonossa kunnossa</short_text>
+      <long_text>tie huonossa kunnossa</long_text>
+    </tmc_event>
+    <tmc_event event_code="917">
+      <short_text>painuma</short_text>
+      <long_text>painuma</long_text>
+    </tmc_event>
+    <tmc_event event_code="918">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>%s viemärivaurio(ta)</long_text>
+    </tmc_event>
+    <tmc_event event_code="919">
+      <short_text>vesijohtovaurio</short_text>
+      <long_text>vesijohtovaurio</long_text>
+    </tmc_event>
+    <tmc_event event_code="920">
+      <short_text>kaasuvuoto</short_text>
+      <long_text>kaasuvuoto</long_text>
+    </tmc_event>
+    <tmc_event event_code="921">
+      <short_text>tulipalo</short_text>
+      <long_text>tulipalo</long_text>
+    </tmc_event>
+    <tmc_event event_code="925">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>tie tukossa myrskyvaurion vuoksi</long_text>
+    </tmc_event>
+    <tmc_event event_code="926">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>%s kaatunut(ta) puu(ta) tukkii tien</long_text>
+    </tmc_event>
+    <tmc_event event_code="927">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>%s kaatunut(ta) puu(ta). Aja varoen</long_text>
+    </tmc_event>
+    <tmc_event event_code="928">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>tulva. Liikenne seisoo</long_text>
+    </tmc_event>
+    <tmc_event event_code="929">
+      <short_text>tulva</short_text>
+      <long_text>tulva. Liikenne saattaa seisoa</long_text>
+    </tmc_event>
+    <tmc_event event_code="930">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>tulva. Liikenne pysähtelee</long_text>
+    </tmc_event>
+    <tmc_event event_code="931">
+      <short_text>liikenteessä häiriöitä</short_text>
+      <long_text>tulva. Liikenne saattaa pysähdellä</long_text>
+    </tmc_event>
+    <tmc_event event_code="932">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>tulva. Liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="933">
+      <short_text>tulva. Odotettavissa: liikenne hidasta</short_text>
+      <long_text>tulva. Odotettavissa: liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="934">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>tulva. Liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="935">
+      <short_text>tulva. Odotettavissa: liikenne jonoutunut</short_text>
+      <long_text>tulva. Odotettavissa: liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="936">
+      <short_text>tulva</short_text>
+      <long_text>tulva. Liikenne sujuvaa</long_text>
+    </tmc_event>
+    <tmc_event event_code="937">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>tulva. Liikenne ruuhkautuu</long_text>
+    </tmc_event>
+    <tmc_event event_code="938">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>tie suljettu tulvan vuoksi</long_text>
+    </tmc_event>
+    <tmc_event event_code="939">
+      <short_text>tulva</short_text>
+      <long_text>tulva. Viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="940">
+      <short_text>tulva</short_text>
+      <long_text>tulva. Odotettavissa: viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="941">
+      <short_text>tulva</short_text>
+      <long_text>tulva. Pitkiä viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="943">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>tie suljettu lumivyöryn vuoksi</long_text>
+    </tmc_event>
+    <tmc_event event_code="945">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>tie suljettu kivivyöryn vuoksi</long_text>
+    </tmc_event>
+    <tmc_event event_code="947">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>tie suljettu sortuman vuoksi</long_text>
+    </tmc_event>
+    <tmc_event event_code="949">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>tie suljettu painuman vuoksi</long_text>
+    </tmc_event>
+    <tmc_event event_code="951">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>painuma. Vain yksi kaista (%s-kaistasta) käytössä</long_text>
+    </tmc_event>
+    <tmc_event event_code="952">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>painuma. Vain kaksi kaistaa (%s-kaistasta) käytössä</long_text>
+    </tmc_event>
+    <tmc_event event_code="953">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>painuma. Vain kolme kaistaa (%s-kaistasta) käytössä</long_text>
+    </tmc_event>
+    <tmc_event event_code="954">
+      <short_text>painuma. Vastaan tulevaa liikennettä</short_text>
+      <long_text>painuma. Vastaan tulevaa liikennettä</long_text>
+    </tmc_event>
+    <tmc_event event_code="956">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>tie suljettu viemärivaurion vuoksi</long_text>
+    </tmc_event>
+    <tmc_event event_code="957">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>tie suljettu rikkoutuneen vesijohdon vuoksi</long_text>
+    </tmc_event>
+    <tmc_event event_code="958">
+      <short_text>tulva</short_text>
+      <long_text>vesijohtovaurio. Viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="959">
+      <short_text>tulva</short_text>
+      <long_text>vesijohtovaurio. Odotettavissa: viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="960">
+      <short_text>tulva</short_text>
+      <long_text>vesijohtovaurio. Pitkiä viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="961">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>tie suljettu kaasuvuodon vuoksi</long_text>
+    </tmc_event>
+    <tmc_event event_code="962">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>kaasuvuoto. Viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="963">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>kaasuvuoto. Odotettavissa: viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="964">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>kaasuvuoto. Pitkiä viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="965">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>tie suljettu tulipalon vuoksi</long_text>
+    </tmc_event>
+    <tmc_event event_code="966">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>tulipalo. Viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="967">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>tulipalo. Odotettavissa: viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="968">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>tulipalo. Pitkiä viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="969">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>tie suljettu raivaustyön vuoksi</long_text>
+    </tmc_event>
+    <tmc_event event_code="972">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>odotettavissa: myrskyvaurio</long_text>
+    </tmc_event>
+    <tmc_event event_code="973">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>pudonneita sähköjohtoja</long_text>
+    </tmc_event>
+    <tmc_event event_code="974">
+      <short_text>viemärin ylivuoto</short_text>
+      <long_text>viemärin ylivuoto</long_text>
+    </tmc_event>
+    <tmc_event event_code="975">
+      <short_text>tiet voivat jäätyä</short_text>
+      <long_text>tiet voivat jäätyä</long_text>
+    </tmc_event>
+    <tmc_event event_code="976">
+      <short_text>mutavyöry</short_text>
+      <long_text>mutavyöry</long_text>
+    </tmc_event>
+    <tmc_event event_code="977">
+      <short_text>maastopalo</short_text>
+      <long_text>maastopalo</long_text>
+    </tmc_event>
+    <tmc_event event_code="978">
+      <short_text>lento-onnettomuus</short_text>
+      <long_text>lento-onnettomuus</long_text>
+    </tmc_event>
+    <tmc_event event_code="979">
+      <short_text>junaonnettomuus</short_text>
+      <long_text>junaonnettomuus</long_text>
+    </tmc_event>
+    <tmc_event event_code="980">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>tie tukossa %s liikenne-esteen vuoksi</long_text>
+    </tmc_event>
+    <tmc_event event_code="981">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>%s este(ttä) tiellä. Aja varoen</long_text>
+    </tmc_event>
+    <tmc_event event_code="982">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>tie tukossa vuodon vuoksi</long_text>
+    </tmc_event>
+    <tmc_event event_code="983">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>vuoto tiellä. Aja varoen</long_text>
+    </tmc_event>
+    <tmc_event event_code="984">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>vuoto tiellä. VARO!</long_text>
+    </tmc_event>
+    <tmc_event event_code="985">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>myrskyvaurio. Aja varoen</long_text>
+    </tmc_event>
+    <tmc_event event_code="986">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>myrskyvaurio. VARO!</long_text>
+    </tmc_event>
+    <tmc_event event_code="987">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>tie tukossa pudonneen sähköjohdon vuoksi</long_text>
+    </tmc_event>
+    <tmc_event event_code="989">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>pudonneita sähköjohtoja. VARO!</long_text>
+    </tmc_event>
+    <tmc_event event_code="990">
+      <short_text>tulva</short_text>
+      <long_text>viemärin ylivuoto. VARO!</long_text>
+    </tmc_event>
+    <tmc_event event_code="991">
+      <short_text>tulva</short_text>
+      <long_text>tulva-aaltoja. VARO!</long_text>
+    </tmc_event>
+    <tmc_event event_code="992">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>lumivyöryjä. VARO!</long_text>
+    </tmc_event>
+    <tmc_event event_code="993">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>tie suljettu lumivyöryvaaran vuoksi</long_text>
+    </tmc_event>
+    <tmc_event event_code="994">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>lumivyöryvaara. VARO!</long_text>
+    </tmc_event>
+    <tmc_event event_code="995">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>tie suljettu jäätymisen vuoksi</long_text>
+    </tmc_event>
+    <tmc_event event_code="998">
+      <short_text>kivivyöryjä. VARO!</short_text>
+      <long_text>kivivyöryjä. VARO!</long_text>
+    </tmc_event>
+    <tmc_event event_code="999">
+      <short_text>sortumia. VARO!</short_text>
+      <long_text>sortumia. VARO!</long_text>
+    </tmc_event>
+    <tmc_event event_code="1000">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>maanjäristysvaurio. VARO!</long_text>
+    </tmc_event>
+    <tmc_event event_code="1005">
+      <short_text>lehtiä tiellä</short_text>
+      <long_text>lehtiä tiellä</long_text>
+    </tmc_event>
+    <tmc_event event_code="1006">
+      <short_text>Tie liukas</short_text>
+      <long_text>tie jäinen(, kun korkeus yli %s sataa metriä merenpinnasta)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1007">
+      <short_text>Tie liukas</short_text>
+      <long_text>tie voi olla liukas(, kun korkeus yli %s sataa metriä merenpinnasta)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1008">
+      <short_text>Tie liukas</short_text>
+      <long_text>tiellä mustaa jäätä(, kun korkeus yli %s sataa metriä merenpinnasta)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1009">
+      <short_text>Tie liukas</short_text>
+      <long_text>jäätävää sadetta(, kun korkeus yli %s sataa metriä merenpinnasta)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1010">
+      <short_text>Tie liukas</short_text>
+      <long_text>tie märkä ja jäinen(, kun korkeus yli %s sataa metriä merenpinnasta)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1011">
+      <short_text>Tie liukas</short_text>
+      <long_text>tiellä lumisohjoa(, kun korkeus yli %s sataa metriä merenpinnasta)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1012">
+      <short_text>Tie liukas</short_text>
+      <long_text>tie luminen(, kun korkeus yli %s sataa metriä merenpinnasta)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1013">
+      <short_text>lumisade</short_text>
+      <long_text>tie lumipolanteella(, kun korkeus yli %s sataa metriä merenpinnasta)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1021">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>lunta tiellä. Vain yksi kaista (%s-kaistasta) käytössä</long_text>
+    </tmc_event>
+    <tmc_event event_code="1022">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>lunta tiellä. Vain kaksi kaistaa (%s-kaistasta) käytössä</long_text>
+    </tmc_event>
+    <tmc_event event_code="1023">
+      <short_text>kapeat ajokaistat</short_text>
+      <long_text>lunta tiellä. Vain kolme kaistaa (%s-kaistasta) käytössä</long_text>
+    </tmc_event>
+    <tmc_event event_code="1026">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>painuma. VARO!</long_text>
+    </tmc_event>
+    <tmc_event event_code="1027">
+      <short_text>tulva</short_text>
+      <long_text>viemärivaurio. Viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1028">
+      <short_text>tulva</short_text>
+      <long_text>viemärivaurio. Odotettavissa: viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1029">
+      <short_text>tulva</short_text>
+      <long_text>viemärivaurio. Pitkiä viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1030">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>viemärivaurio. VARO!</long_text>
+    </tmc_event>
+    <tmc_event event_code="1031">
+      <short_text>tulva</short_text>
+      <long_text>vesijohtovaurio. VARO!</long_text>
+    </tmc_event>
+    <tmc_event event_code="1032">
+      <short_text>kaasuvuoto. VARO!</short_text>
+      <long_text>kaasuvuoto. VARO!</long_text>
+    </tmc_event>
+    <tmc_event event_code="1033">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>tulipalo. VARO!</long_text>
+    </tmc_event>
+    <tmc_event event_code="1042">
+      <short_text>Tie liukas</short_text>
+      <long_text>irtohiekkaa tiellä</long_text>
+    </tmc_event>
+    <tmc_event event_code="1044">
+      <short_text>öljyä tiellä</short_text>
+      <long_text>öljyä tiellä</long_text>
+    </tmc_event>
+    <tmc_event event_code="1045">
+      <short_text>polttoainetta tiellä</short_text>
+      <long_text>polttoainetta tiellä</long_text>
+    </tmc_event>
+    <tmc_event event_code="1047">
+      <short_text>Tie liukas</short_text>
+      <long_text>tie paikoin liukas(, kun korkeus yli %s sataa metriä merenpinnasta)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1048">
+      <short_text>Tie liukas</short_text>
+      <long_text>tie voi olla paikoin liukas(, kun korkeus yli %s sataa metriä merenpinnasta)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1050">
+      <short_text>Tie liukas</short_text>
+      <long_text>tiellä voi olla mustaa jäätä(, kun korkeus yli %s sataa metriä merenpinnasta)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1056">
+      <short_text>Tie liukas</short_text>
+      <long_text>irtokiviä tiellä. VARO!</long_text>
+    </tmc_event>
+    <tmc_event event_code="1057">
+      <short_text>Tie liukas</short_text>
+      <long_text>öljyä tiellä. VARO!</long_text>
+    </tmc_event>
+    <tmc_event event_code="1058">
+      <short_text>VARO!</short_text>
+      <long_text>polttoainetta tiellä. VARO!</long_text>
+    </tmc_event>
+    <tmc_event event_code="1059">
+      <short_text>tie huonossa kunnossa</short_text>
+      <long_text>tie huonossa kunnossa. VARO!</long_text>
+    </tmc_event>
+    <tmc_event event_code="1074">
+      <short_text>Tie liukas</short_text>
+      <long_text>odotettavissa: jäätävää sadetta(, kun korkeus yli %s sataa metriä merenpinnasta)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1101">
+      <short_text>lumisade</short_text>
+      <long_text>sakea lumisade %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1102">
+      <short_text>lumisade</short_text>
+      <long_text>sakea lumisade %s. Näkyvyys alle 30 metriä</long_text>
+    </tmc_event>
+    <tmc_event event_code="1103">
+      <short_text>lumisade</short_text>
+      <long_text>sakea lumisade %s. Näkyvyys alle 50 metriä</long_text>
+    </tmc_event>
+    <tmc_event event_code="1104">
+      <short_text>lumisade</short_text>
+      <long_text>lumisade</long_text>
+    </tmc_event>
+    <tmc_event event_code="1105">
+      <short_text>lumisade</short_text>
+      <long_text>lumisade %s. Näkyvyys alle 100 metriä</long_text>
+    </tmc_event>
+    <tmc_event event_code="1109">
+      <short_text>rankkasade</short_text>
+      <long_text>rankkasade %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1110">
+      <short_text>rankkasade</short_text>
+      <long_text>rankkasade %s. Näkyvyys alle 30 metriä</long_text>
+    </tmc_event>
+    <tmc_event event_code="1111">
+      <short_text>rankkasade</short_text>
+      <long_text>rankkasade %s. Näkyvyys alle 50 metriä</long_text>
+    </tmc_event>
+    <tmc_event event_code="1112">
+      <short_text>sade %s</short_text>
+      <long_text>sade %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1113">
+      <short_text>rankkasade</short_text>
+      <long_text>sade %s. Näkyvyys alle 100 metriä</long_text>
+    </tmc_event>
+    <tmc_event event_code="1114">
+      <short_text>rankkasade</short_text>
+      <long_text>sadekuuroja %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1134">
+      <short_text>lumisade</short_text>
+      <long_text>sakea lumisade. Näkyvyys huonontunut %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1135">
+      <short_text>lumisade</short_text>
+      <long_text>lumisade. Näkyvyys huonontunut %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1136">
+      <short_text>rankkasade</short_text>
+      <long_text>rankkasade. Näkyvyys huonontunut %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1137">
+      <short_text>rankkasade</short_text>
+      <long_text>sade. Näkyvyys huonontunut %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1170">
+      <short_text>lumisade</short_text>
+      <long_text>odotettavissa: sakea lumisade %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1171">
+      <short_text>rankkasade</short_text>
+      <long_text>odotettavissa: rankkasade %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1175">
+      <short_text>huono näkyvyys</short_text>
+      <long_text>odotettavissa: näkyvyys huonontunut %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1176">
+      <short_text>Tie liukas</short_text>
+      <long_text>odotettavissa: jäätävää sumua (näkyvyys %s). Tie voi olla liukas</long_text>
+    </tmc_event>
+    <tmc_event event_code="1177">
+      <short_text>sumua</short_text>
+      <long_text>odotettavissa: sakeaa sumua (näkyvyys %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1178">
+      <short_text>sumua</short_text>
+      <long_text>odotettavissa: paikoin sumua (näkyvyys %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1190">
+      <short_text>sakea savusumu</short_text>
+      <long_text>sakea savusumu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1191">
+      <short_text> savusumuvaaran vuoksi</short_text>
+      <long_text>ilma erittäin saastunutta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1201">
+      <short_text>pyörremyrsky</short_text>
+      <long_text>pyörremyrsky</long_text>
+    </tmc_event>
+    <tmc_event event_code="1202">
+      <short_text>kova tuuli</short_text>
+      <long_text>hirmumyrsky %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1203">
+      <short_text>kova tuuli %s</short_text>
+      <long_text>kova tuuli %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1204">
+      <short_text>kova tuuli</short_text>
+      <long_text>myrsky %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1205">
+      <short_text>navakka tuuli</short_text>
+      <long_text>navakka tuuli %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1209">
+      <short_text>puuskittainen tuuli %s</short_text>
+      <long_text>puuskittainen tuuli %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1210">
+      <short_text>sivutuuli %s</short_text>
+      <long_text>sivutuuli %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1211">
+      <short_text>kova tuuli</short_text>
+      <long_text>kova tuuli %s haittaa korkeita ajoneuvoja</long_text>
+    </tmc_event>
+    <tmc_event event_code="1301">
+      <short_text>sumua</short_text>
+      <long_text>sakeaa sumua (näkyvyys %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1302">
+      <short_text>sumua</short_text>
+      <long_text>sakeaa sumua. Näkyvyys alle 30 metriä</long_text>
+    </tmc_event>
+    <tmc_event event_code="1303">
+      <short_text>sumua</short_text>
+      <long_text>sakeaa sumua. Näkyvyys alle 50 metriä</long_text>
+    </tmc_event>
+    <tmc_event event_code="1304">
+      <short_text>sumua</short_text>
+      <long_text>sumua (näkyvyys %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1305">
+      <short_text>sumua</short_text>
+      <long_text>sumua. Näkyvyys alle 100 metriä</long_text>
+    </tmc_event>
+    <tmc_event event_code="1307">
+      <short_text>sumua</short_text>
+      <long_text>paikoin sumua (näkyvyys %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1308">
+      <short_text>sumua</short_text>
+      <long_text>jäätävää sumua (näkyvyys %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1309">
+      <short_text>huono näkyvyys</short_text>
+      <long_text>savu haittaa näkyvyyttä (näkyvyys %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1310">
+      <short_text>huono näkyvyys</short_text>
+      <long_text>pölypyörteitä (näkyvyys %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1312">
+      <short_text>lumisade</short_text>
+      <long_text>lumisadetta ja sumua (näkyvyys %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1313">
+      <short_text>näkyvyys parantunut</short_text>
+      <long_text>näkyvyys parantunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="1314">
+      <short_text>viesti peruutettu</short_text>
+      <long_text>viesti peruutettu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1318">
+      <short_text>huono näkyvyys</short_text>
+      <long_text>huono näkyvyys %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1319">
+      <short_text>huono näkyvyys</short_text>
+      <long_text>näkyvyys alle 30 metriä</long_text>
+    </tmc_event>
+    <tmc_event event_code="1320">
+      <short_text>huono näkyvyys</short_text>
+      <long_text>näkyvyys alle 50 metriä</long_text>
+    </tmc_event>
+    <tmc_event event_code="1321">
+      <short_text>huono näkyvyys</short_text>
+      <long_text>näkyvyys alle 100 metriä</long_text>
+    </tmc_event>
+    <tmc_event event_code="1322">
+      <short_text>huono näkyvyys</short_text>
+      <long_text>sakea lumipyry (näkyvyys %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1323">
+      <short_text>lumisade</short_text>
+      <long_text>pöllyävää lunta (näkyvyys %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1324">
+      <short_text>huono näkyvyys</short_text>
+      <long_text>ajoneuvojen roiskuttama vesi haittaa näkyvyyttä (näkyvyys %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1325">
+      <short_text>matalalta paistava aurinko häikäisee</short_text>
+      <long_text>matalalta paistava aurinko häikäisee</long_text>
+    </tmc_event>
+    <tmc_event event_code="1326">
+      <short_text>huono näkyvyys</short_text>
+      <long_text>hiekkamyrskyjä (näkyvyys %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1332">
+      <short_text>savusumuvaara</short_text>
+      <long_text>savusumuvaara</long_text>
+    </tmc_event>
+    <tmc_event event_code="1337">
+      <short_text>Tie liukas</short_text>
+      <long_text>jäätävää sumua (näkyvyys %s). Tie liukas</long_text>
+    </tmc_event>
+    <tmc_event event_code="1338">
+      <short_text> savusumuvaaran vuoksi</short_text>
+      <long_text>moottoriajoneuvoilla ajo kielletty savusumuvaaran vuoksi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1340">
+      <short_text>huono näkyvyys</short_text>
+      <long_text>hyönteisparvia (näkyvyys %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1485">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>tie suljettu yleisen turvallisuuden vuoksi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1486">
+      <short_text>yleinen turvallisuus uhattuna</short_text>
+      <long_text>yleinen turvallisuus uhattuna. Viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1487">
+      <short_text>yleinen turvallisuus uhattuna</short_text>
+      <long_text>yleinen turvallisuus uhattuna. Odotettavissa: viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1488">
+      <short_text>yleinen turvallisuus uhattuna</short_text>
+      <long_text>yleinen turvallisuus uhattuna. Pitkiä viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1489">
+      <short_text>yleinen turvallisuus uhattuna</short_text>
+      <long_text>poliisivalvonta. Viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1490">
+      <short_text>yleinen turvallisuus uhattuna</short_text>
+      <long_text>poliisivalvonta. Odotettavissa: viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1491">
+      <short_text>yleinen turvallisuus uhattuna</short_text>
+      <long_text>poliisivalvonta. Pitkiä viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1495">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>evakuointi. Liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="1517">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>liikennettä haittaava tapahtuma. Liikenne seisoo</long_text>
+    </tmc_event>
+    <tmc_event event_code="1518">
+      <short_text>liikennettä haittaava tapahtuma</short_text>
+      <long_text>liikennettä haittaava tapahtuma. Liikenne saattaa seisoa</long_text>
+    </tmc_event>
+    <tmc_event event_code="1519">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>liikennettä haittaava tapahtuma. Liikenne pysähtelee</long_text>
+    </tmc_event>
+    <tmc_event event_code="1520">
+      <short_text>liikennettä haittaava tapahtuma</short_text>
+      <long_text>liikennettä haittaava tapahtuma. Liikenne saattaa pysähdellä</long_text>
+    </tmc_event>
+    <tmc_event event_code="1521">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>liikennettä haittaava tapahtuma. Liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1522">
+      <short_text>liikennettä haittaava tapahtuma</short_text>
+      <long_text>liikennettä haittaava tapahtuma. Odotettavissa: liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1523">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>liikennettä haittaava tapahtuma. Liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="1524">
+      <short_text>liikennettä haittaava tapahtuma</short_text>
+      <long_text>liikennettä haittaava tapahtuma. Odotettavissa: liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="1525">
+      <short_text>liikennettä haittaava tapahtuma</short_text>
+      <long_text>liikennettä haittaava tapahtuma. Liikenne sujuvaa</long_text>
+    </tmc_event>
+    <tmc_event event_code="1526">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>liikennettä haittaava tapahtuma. Liikenne ruuhkautuu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1527">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>tie suljettu suurtapahtuman vuoksi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1528">
+      <short_text>viivytyksiä</short_text>
+      <long_text>liikennettä haittaava tapahtuma. Viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1529">
+      <short_text>viivytyksiä</short_text>
+      <long_text>liikennettä haittaava tapahtuma. Odotettavissa: viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1530">
+      <short_text>Pitkiä viivytyksiä</short_text>
+      <long_text>liikennettä haittaava tapahtuma. Pitkiä viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1531">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>urheilutapahtuma. Liikenne seisoo</long_text>
+    </tmc_event>
+    <tmc_event event_code="1532">
+      <short_text>urheilutapahtuma</short_text>
+      <long_text>urheilutapahtuma. Liikenne saattaa seisoa</long_text>
+    </tmc_event>
+    <tmc_event event_code="1533">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>urheilutapahtuma. Liikenne pysähtelee</long_text>
+    </tmc_event>
+    <tmc_event event_code="1534">
+      <short_text>urheilutapahtuma</short_text>
+      <long_text>urheilutapahtuma. Liikenne saattaa pysähdellä</long_text>
+    </tmc_event>
+    <tmc_event event_code="1535">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>urheilutapahtuma. Liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1536">
+      <short_text>urheilutapahtuma</short_text>
+      <long_text>urheilutapahtuma. Odotettavissa: liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1537">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>urheilutapahtuma. Liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="1538">
+      <short_text>urheilutapahtuma</short_text>
+      <long_text>urheilutapahtuma. Odotettavissa: liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="1539">
+      <short_text>liikennettä haittaava tapahtuma</short_text>
+      <long_text>urheilutapahtuma. Liikenne sujuvaa</long_text>
+    </tmc_event>
+    <tmc_event event_code="1540">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>urheilutapahtuma. Liikenne ruuhkautuu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1541">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>tie suljettu urheilutapahtuman vuoksi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1542">
+      <short_text>viivytyksiä</short_text>
+      <long_text>urheilutapahtuma. Viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1543">
+      <short_text>viivytyksiä</short_text>
+      <long_text>urheilutapahtuma. Odotettavissa: viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1544">
+      <short_text>Pitkiä viivytyksiä</short_text>
+      <long_text>urheilutapahtuma. Pitkiä viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1545">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>messut. Liikenne seisoo</long_text>
+    </tmc_event>
+    <tmc_event event_code="1546">
+      <short_text>messut</short_text>
+      <long_text>messut. Liikenne saattaa seisoa</long_text>
+    </tmc_event>
+    <tmc_event event_code="1547">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>messut. Liikenne pysähtelee</long_text>
+    </tmc_event>
+    <tmc_event event_code="1548">
+      <short_text>messut</short_text>
+      <long_text>messut. Liikenne saattaa pysähdellä</long_text>
+    </tmc_event>
+    <tmc_event event_code="1549">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>messut. Liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1550">
+      <short_text>messut</short_text>
+      <long_text>messut. Odotettavissa: liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1551">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>messut. Liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="1552">
+      <short_text>messut</short_text>
+      <long_text>messut. Odotettavissa: liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="1553">
+      <short_text>liikennettä haittaava tapahtuma</short_text>
+      <long_text>messut. Liikenne sujuvaa</long_text>
+    </tmc_event>
+    <tmc_event event_code="1554">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>messut. Liikenne ruuhkautuu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1555">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>tie suljettu messujen vuoksi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1556">
+      <short_text>messut. Viivytyksiä %s</short_text>
+      <long_text>messut. Viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1557">
+      <short_text>viivytyksiä</short_text>
+      <long_text>messut. Odotettavissa: viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1558">
+      <short_text>Pitkiä viivytyksiä</short_text>
+      <long_text>messut. Pitkiä viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1559">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>tie suljettu paraatin vuoksi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1560">
+      <short_text>viivytyksiä</short_text>
+      <long_text>paraati. Viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1561">
+      <short_text>viivytyksiä</short_text>
+      <long_text>paraati. Odotettavissa: viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1562">
+      <short_text>Pitkiä viivytyksiä</short_text>
+      <long_text>paraati. Pitkiä viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1563">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>tie suljettu lakon vuoksi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1564">
+      <short_text>Pitkiä viivytyksiä</short_text>
+      <long_text>lakko. Viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1565">
+      <short_text>viivytyksiä</short_text>
+      <long_text>lakko. Odotettavissa: viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1566">
+      <short_text>Pitkiä viivytyksiä</short_text>
+      <long_text>lakko. Pitkiä viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1567">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>tie suljettu mielenosoituksen vuoksi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1568">
+      <short_text>viivytyksiä</short_text>
+      <long_text>mielenosoitus. Viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1569">
+      <short_text>viivytyksiä</short_text>
+      <long_text>mielenosoitus. Odotettavissa: viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1570">
+      <short_text>Pitkiä viivytyksiä</short_text>
+      <long_text>mielenosoitus. Pitkiä viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1571">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>turvatoimia. Liikenne seisoo</long_text>
+    </tmc_event>
+    <tmc_event event_code="1572">
+      <short_text>turvatoimia</short_text>
+      <long_text>turvatoimia. Liikenne saattaa seisoa</long_text>
+    </tmc_event>
+    <tmc_event event_code="1573">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>turvatoimia. Liikenne pysähtelee</long_text>
+    </tmc_event>
+    <tmc_event event_code="1574">
+      <short_text>turvatoimia</short_text>
+      <long_text>turvatoimia. Liikenne saattaa pysähdellä</long_text>
+    </tmc_event>
+    <tmc_event event_code="1575">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>turvatoimia. Liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1576">
+      <short_text>turvatoimia</short_text>
+      <long_text>turvatoimia. Odotettavissa: liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1577">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>turvatoimia. Liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="1578">
+      <short_text>turvatoimia</short_text>
+      <long_text>turvatoimia. Odotettavissa: liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="1579">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>turvatoimia. Liikenne ruuhkautuu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1580">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>tie suljettu turvatoimien vuoksi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1581">
+      <short_text>viivytyksiä</short_text>
+      <long_text>turvatoimia. Viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1582">
+      <short_text>viivytyksiä</short_text>
+      <long_text>turvatoimia. Odotettavissa: viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1583">
+      <short_text>Pitkiä viivytyksiä</short_text>
+      <long_text>turvatoimia. Pitkiä viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1586">
+      <short_text>yleinen turvallisuus uhattuna</short_text>
+      <long_text>turvatoimia. Liikenne sujuvaa</long_text>
+    </tmc_event>
+    <tmc_event event_code="1604">
+      <short_text>Pitkiä viivytyksiä</short_text>
+      <long_text>viivytyksiä enintään yksi tunti</long_text>
+    </tmc_event>
+    <tmc_event event_code="1605">
+      <short_text>Pitkiä viivytyksiä</short_text>
+      <long_text>viivytyksiä enintään kaksi tuntia</long_text>
+    </tmc_event>
+    <tmc_event event_code="1606">
+      <short_text>Pitkiä viivytyksiä</short_text>
+      <long_text>viivytyksiä useita tunteja</long_text>
+    </tmc_event>
+    <tmc_event event_code="1608">
+      <short_text>Pitkiä viivytyksiä</short_text>
+      <long_text>pitkiä viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1615">
+      <short_text>liikenne keskeytetty</short_text>
+      <long_text>liikenne keskeytetty (%s saakka)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1616">
+      <short_text>vuoro(a) peruutettu</short_text>
+      <long_text>%s vuoro(a) peruutettu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1617">
+      <short_text>vuoro(a) täynnä</short_text>
+      <long_text>%s vuoro(a) täynnä</long_text>
+    </tmc_event>
+    <tmc_event event_code="1625">
+      <short_text>viivytyksiä</short_text>
+      <long_text>viivytyksiä enintään 40 minuuttia</long_text>
+    </tmc_event>
+    <tmc_event event_code="1626">
+      <short_text>Pitkiä viivytyksiä</short_text>
+      <long_text>viivytyksiä enintään 50 minuuttia</long_text>
+    </tmc_event>
+    <tmc_event event_code="1627">
+      <short_text>Pitkiä viivytyksiä</short_text>
+      <long_text>viivytyksiä enintään 90 minuuttia</long_text>
+    </tmc_event>
+    <tmc_event event_code="1628">
+      <short_text>Pitkiä viivytyksiä</short_text>
+      <long_text>viivytyksiä enintään kolme tuntia</long_text>
+    </tmc_event>
+    <tmc_event event_code="1629">
+      <short_text>Pitkiä viivytyksiä</short_text>
+      <long_text>viivytyksiä enintään neljä tuntia</long_text>
+    </tmc_event>
+    <tmc_event event_code="1630">
+      <short_text>Pitkiä viivytyksiä</short_text>
+      <long_text>viivytyksiä enintään viisi tuntia</long_text>
+    </tmc_event>
+    <tmc_event event_code="1631">
+      <short_text>Pitkiä viivytyksiä</short_text>
+      <long_text>erittäin pitkiä viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1632">
+      <short_text>Pitkiä viivytyksiä</short_text>
+      <long_text>ennustamattoman pituisia viivytyksiä</long_text>
+    </tmc_event>
+    <tmc_event event_code="1633">
+      <short_text>viivytyksiä, kunnes toisin ilmoitetaan</short_text>
+      <long_text>viivytyksiä, kunnes toisin ilmoitetaan</long_text>
+    </tmc_event>
+    <tmc_event event_code="1634">
+      <short_text>peruutuksia</short_text>
+      <long_text>peruutuksia</long_text>
+    </tmc_event>
+    <tmc_event event_code="1635">
+      <short_text>pysäköinti</short_text>
+      <long_text>liityntäliikenne ei toimi (%s saakka)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1636">
+      <short_text>joukkoliikenteen erityisvuorot käytössä</short_text>
+      <long_text>joukkoliikenteen erityisvuorot käytössä (%s saakka)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1637">
+      <short_text>joukkoliikenteen normaalivuorot eivät toimi</short_text>
+      <long_text>joukkoliikenteen normaalivuorot eivät toimi (%s saakka)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1638">
+      <short_text>raideliikenne ei toimi</short_text>
+      <long_text>raideliikenne ei toimi (%s saakka)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1639">
+      <short_text>linja-autoliikenne ei toimi</short_text>
+      <long_text>linja-autoliikenne ei toimi (%s saakka)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1640">
+      <short_text>yhdysliikenne toimii</short_text>
+      <long_text>yhdysliikenne toimii (%s saakka)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1641">
+      <short_text>maksuton yhdysliikenne toimii</short_text>
+      <long_text>maksuton yhdysliikenne toimii (%s saakka)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1649">
+      <short_text>raitiovaunuliikenne ei toimi</short_text>
+      <long_text>raitiovaunuliikenne ei toimi (%s saakka)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1651">
+      <short_text>metroliikenne ei toimi</short_text>
+      <long_text>metroliikenne ei toimi (%s saakka)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1652">
+      <short_text>odotettavissa: peruutuksia</short_text>
+      <long_text>odotettavissa: peruutuksia</long_text>
+    </tmc_event>
+    <tmc_event event_code="1653">
+      <short_text>Pitkiä viivytyksiä</short_text>
+      <long_text>odotettavissa: pitkiä viivytyksiä</long_text>
+    </tmc_event>
+    <tmc_event event_code="1654">
+      <short_text>Pitkiä viivytyksiä</short_text>
+      <long_text>odotettavissa: erittäin pitkiä viivytyksiä</long_text>
+    </tmc_event>
+    <tmc_event event_code="1655">
+      <short_text>kaikki vuorot (%s saakka) täynnä</short_text>
+      <long_text>kaikki vuorot (%s saakka) täynnä</long_text>
+    </tmc_event>
+    <tmc_event event_code="1656">
+      <short_text>seuraava saapuva vuoro %s</short_text>
+      <long_text>seuraava saapuva vuoro %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1657">
+      <short_text>raideliikenteessä häiriöitä</short_text>
+      <long_text>raideliikenteessä häiriöitä. Viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1658">
+      <short_text>linja-autoliikenteessä häiriöitä</short_text>
+      <long_text>linja-autoliikenteessä häiriöitä. Viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1659">
+      <short_text>metroliikenteessä häiriöitä</short_text>
+      <long_text>metroliikenteessä häiriöitä</long_text>
+    </tmc_event>
+    <tmc_event event_code="1660">
+      <short_text>normaali joukkoliikenne toimii</short_text>
+      <long_text>normaali joukkoliikenne toimii</long_text>
+    </tmc_event>
+    <tmc_event event_code="1661">
+      <short_text>lauttaliikenne ei toimi</short_text>
+      <long_text>lauttaliikenne ei toimi (%s saakka)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1662">
+      <short_text>pysäköinti</short_text>
+      <long_text>liityntäpysäköinnin matka-aika %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1695">
+      <short_text>tämänhetkinen matka-aika</short_text>
+      <long_text>tämänhetkinen matka-aika %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1696">
+      <short_text>ennustettu matka-aika</short_text>
+      <long_text>ennustettu matka-aika %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1720">
+      <short_text>raideliikenteessä häiriöitä</short_text>
+      <long_text>raideliikenteessä häiriöitä</long_text>
+    </tmc_event>
+    <tmc_event event_code="1721">
+      <short_text>joukkoliikenne ei toimi (%s saakka)</short_text>
+      <long_text>joukkoliikenne ei toimi (%s saakka)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1740">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>erikoiskuljetus hidastaa liikennettä. Viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1741">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>saattue hidastaa liikennettä. Viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1756">
+      <short_text>viivytyksiä</short_text>
+      <long_text>erikoiskuljetus. Viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1757">
+      <short_text>viivytyksiä</short_text>
+      <long_text>erikoiskuljetus. Odotettavissa: viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1758">
+      <short_text>Pitkiä viivytyksiä</short_text>
+      <long_text>erikoiskuljetus. Pitkiä viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1759">
+      <short_text>viivytyksiä</short_text>
+      <long_text>saattue. Viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1760">
+      <short_text>viivytyksiä</short_text>
+      <long_text>saattue. Odotettavissa: viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1761">
+      <short_text>Pitkiä viivytyksiä</short_text>
+      <long_text>saattue. Pitkiä viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1801">
+      <short_text>kaistaopasteet eivät toimi</short_text>
+      <long_text>kaistaopasteet eivät toimi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1802">
+      <short_text>hätäpuhelimet eivät toimi</short_text>
+      <long_text>hätäpuhelimet eivät toimi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1803">
+      <short_text>yleinen hätänumero ei toimi</short_text>
+      <long_text>yleinen hätänumero ei toimi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1804">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>liikennevalot (%s kohdetta) eivät toimi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1805">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>liikennevalot (%s kohdetta) toimivat virheellisesti</long_text>
+    </tmc_event>
+    <tmc_event event_code="1807">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>liikennevalot (%s kohdetta) eivät toimi. Liikenne seisoo</long_text>
+    </tmc_event>
+    <tmc_event event_code="1808">
+      <short_text>liikennevaloteivät toimi. Liikenne saattaa seisoa</short_text>
+      <long_text>liikennevalot (%s kohdetta) eivät toimi. Liikenne saattaa seisoa</long_text>
+    </tmc_event>
+    <tmc_event event_code="1809">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>liikennevalot (%s kohdetta) eivät toimi. Liikenne pysähtelee</long_text>
+    </tmc_event>
+    <tmc_event event_code="1810">
+      <short_text>liikennevalot eivät toimi. Liikenne saattaa pysähdellä</short_text>
+      <long_text>liikennevalot (%s kohdetta) eivät toimi. Liikenne saattaa pysähdellä</long_text>
+    </tmc_event>
+    <tmc_event event_code="1811">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>liikennevalot (%s kohdetta) eivät toimi. Liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1812">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>liikennevalot (%s kohdetta) eivät toimi. Odotettavissa: liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1813">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>liikennevalot (%s kohdetta) eivät toimi. Liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="1814">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>liikennevalot (%s kohdetta) eivät toimi. Odotettavissa: liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="1815">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>liikennevalot (%s kohdetta) eivät toimi. Liikenne sujuvaa</long_text>
+    </tmc_event>
+    <tmc_event event_code="1816">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>liikennevalot (%s kohdetta) eivät toimi. Liikenne ruuhkautuu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1817">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>liikennevalot eivät toimi. Viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1818">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>liikennevalot eivät toimi. Odotettavissa: viivytyksiä %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1820">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>tasoristeyksen turvalaitteet epäkunnossa. Liikenne seisoo</long_text>
+    </tmc_event>
+    <tmc_event event_code="1821">
+      <short_text>tasoristeyksen turvalaitteet epäkunnossa. Liikenne saattaa seisoa</short_text>
+      <long_text>tasoristeyksen turvalaitteet epäkunnossa. Liikenne saattaa seisoa</long_text>
+    </tmc_event>
+    <tmc_event event_code="1822">
+      <short_text>%l liikenneruuhka</short_text>
+      <long_text>tasoristeyksen turvalaitteet epäkunnossa. Liikenne pysähtelee</long_text>
+    </tmc_event>
+    <tmc_event event_code="1823">
+      <short_text>tasoristeyksen turvalaitteet epäkunnossa. Liikenne saattaa pysähdellä</short_text>
+      <long_text>tasoristeyksen turvalaitteet epäkunnossa. Liikenne saattaa pysähdellä</long_text>
+    </tmc_event>
+    <tmc_event event_code="1824">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>tasoristeyksen turvalaitteet epäkunnossa. Liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1825">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>tasoristeyksen turvalaitteet epäkunnossa. Odotettavissa: liikenne hidasta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1826">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>tasoristeyksen turvalaitteet epäkunnossa. Liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="1827">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>tasoristeyksen turvalaitteet epäkunnossa. Odotettavissa: liikenne jonoutunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="1828">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>tasoristeyksen turvalaitteet epäkunnossa. Liikenne sujuvaa</long_text>
+    </tmc_event>
+    <tmc_event event_code="1829">
+      <short_text>%l liikenne hidast</short_text>
+      <long_text>tasoristeyksen turvalaitteet epäkunnossa. Liikenne ruuhkautuu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1838">
+      <short_text>Pitkiä viivytyksiä</short_text>
+      <long_text>kaistaopasteet toimivat virheellisesti</long_text>
+    </tmc_event>
+    <tmc_event event_code="1840">
+      <short_text>muuttuvat opasteet eivät toimi</short_text>
+      <long_text>muuttuvat opasteet eivät toimi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1841">
+      <short_text>muuttuvat opasteet toimivat virheellisesti</short_text>
+      <long_text>muuttuvat opasteet toimivat virheellisesti</long_text>
+    </tmc_event>
+    <tmc_event event_code="1842">
+      <short_text>muuttuvat opasteet toimivat</short_text>
+      <long_text>muuttuvat opasteet toimivat</long_text>
+    </tmc_event>
+    <tmc_event event_code="1843">
+      <short_text>ramppiohjaus ei toimi</short_text>
+      <long_text>ramppiohjaus (%s kohdetta) ei toimi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1844">
+      <short_text>ramppiohjaus toimii virheellisesti</short_text>
+      <long_text>ramppiohjaus (%s kohdetta) toimii virheellisesti</long_text>
+    </tmc_event>
+    <tmc_event event_code="1845">
+      <short_text>tilapäiset liikennevalot eivät toimi</short_text>
+      <long_text>tilapäiset liikennevalot (%s kohdetta) eivät toimi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1846">
+      <short_text>tilapäiset liikennevalot toimivat virheellisesti</short_text>
+      <long_text>tilapäiset liikennevalot (%s kohdetta) toimivat virheellisesti</long_text>
+    </tmc_event>
+    <tmc_event event_code="1865">
+      <short_text>esine(ttä) tiellä</short_text>
+      <long_text>hätäpuhelimet rikki. Ylimääräisiä poliisiyksiköitä liikkeellä</long_text>
+    </tmc_event>
+    <tmc_event event_code="1866">
+      <short_text>hätäpuhelimet rikki</short_text>
+      <long_text>hätäpuhelimet rikki. Hätätilassa odota liikkuvia poliisiyksiköitä</long_text>
+    </tmc_event>
+    <tmc_event event_code="1886">
+      <short_text>pysäköinti</short_text>
+      <long_text>normaalit pysäköintirajoitukset kumottu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1887">
+      <short_text>pysäköinti</short_text>
+      <long_text>poikkeukselliset pysäköintirajoitukset voimassa</long_text>
+    </tmc_event>
+    <tmc_event event_code="1888">
+      <short_text>käytössä 10 %</short_text>
+      <long_text>käytössä 10 %</long_text>
+    </tmc_event>
+    <tmc_event event_code="1889">
+      <short_text>käytössä 20 %</short_text>
+      <long_text>käytössä 20 %</long_text>
+    </tmc_event>
+    <tmc_event event_code="1890">
+      <short_text>käytössä 30 %</short_text>
+      <long_text>käytössä 30 %</long_text>
+    </tmc_event>
+    <tmc_event event_code="1891">
+      <short_text>käytössä 40 %</short_text>
+      <long_text>käytössä 40 %</long_text>
+    </tmc_event>
+    <tmc_event event_code="1892">
+      <short_text>käytössä 50 %</short_text>
+      <long_text>käytössä 50 %</long_text>
+    </tmc_event>
+    <tmc_event event_code="1893">
+      <short_text>käytössä 60 %</short_text>
+      <long_text>käytössä 60 %</long_text>
+    </tmc_event>
+    <tmc_event event_code="1894">
+      <short_text>käytössä 70 %</short_text>
+      <long_text>käytössä 70 %</long_text>
+    </tmc_event>
+    <tmc_event event_code="1895">
+      <short_text>käytössä 80 %</short_text>
+      <long_text>käytössä 80 %</long_text>
+    </tmc_event>
+    <tmc_event event_code="1901">
+      <short_text>seuraava lähtevä vuoro</short_text>
+      <long_text>seuraava lähtevä vuoro %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1903">
+      <short_text>pysäköintialue %s täynnä</short_text>
+      <long_text>pysäköintialue %s täynnä</long_text>
+    </tmc_event>
+    <tmc_event event_code="1906">
+      <short_text>pysäköinti</short_text>
+      <long_text>liityntäliikenne toimii (%s saakka)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1908">
+      <short_text>siirry radiotaajuudelle</short_text>
+      <long_text>siirry radiotaajuudelle %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1909">
+      <short_text>siirry radiotaajuudelle</short_text>
+      <long_text>huomio: nyt seuraa tärkeää uutta tietoa radiossa tällä taajuudella</long_text>
+    </tmc_event>
+    <tmc_event event_code="1910">
+      <short_text>siirry radiotaajuudelle</short_text>
+      <long_text>huomio: uutta tietoa radiossa kello</long_text>
+    </tmc_event>
+    <tmc_event event_code="1913">
+      <short_text>siirry radiotaajuudelle</short_text>
+      <long_text>siirry radiotaajuudelle %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1922">
+      <short_text> pysäköintialue täynnä</short_text>
+      <long_text>odotettavissa: pysäköintialue täynnä</long_text>
+    </tmc_event>
+    <tmc_event event_code="1927">
+      <short_text>pysäköinti</short_text>
+      <long_text>pysäköinti kielletty (%s saakka)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1928">
+      <short_text>pysäköinti</short_text>
+      <long_text>poikkeukselliset pysäköintirajoitukset kumottu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1930">
+      <short_text>siirry radiotaajuudelle</short_text>
+      <long_text>tämä TMC-kanava ei toimi (ennen %s)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1961">
+      <short_text>VARO!</short_text>
+      <long_text>anna hälytysajoneuvojen ajaa ohi kimppakyytikaistalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="1962">
+      <short_text>carpool restrictions changed</short_text>
+      <long_text>kimppakyytikaistan käyttö sallittu kaikille ajoneuvoille</long_text>
+    </tmc_event>
+    <tmc_event event_code="1963">
+      <short_text>carpool restrictions changed</short_text>
+      <long_text>poliisi ohjaa liikenteen kimppakyytikaistan kautta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1974">
+      <short_text>VARO!</short_text>
+      <long_text>anna hälytysajoneuvojen ajaa ohi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1977">
+      <short_text>VARO!</short_text>
+      <long_text>anna hälytysajoneuvojen ajaa ohi raskaiden ajoneuvojen kaistalla</long_text>
+    </tmc_event>
+    <tmc_event event_code="2000">
+      <short_text>ajorata suljettu</short_text>
+      <long_text>tie suljettu savusumuvaaran vuoksi (%s saakka)</long_text>
+    </tmc_event>
+    <tmc_event event_code="2013">
+      <short_text>palvelualue ruuhkautunut</short_text>
+      <long_text>palvelualue ruuhkautunut</long_text>
+    </tmc_event>
+    <tmc_event event_code="2021">
+      <short_text>ei toimi, korvaava liikenne toiminnassa</short_text>
+      <long_text>ei toimi, korvaava liikenne toiminnassa</long_text>
+    </tmc_event>
+    <tmc_event event_code="2022">
+      <short_text>joukkoliikenteen lakko</short_text>
+      <long_text>joukkoliikenteen lakko</long_text>
+    </tmc_event>
+  </locale>
+</TmcConfig>

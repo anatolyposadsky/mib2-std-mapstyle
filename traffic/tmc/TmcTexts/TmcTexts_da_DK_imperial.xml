@@ -1,0 +1,4645 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TmcConfig>
+  <locale code="da_DK" unit_system="UNITS_IMPERIAL">
+    <tmc_event event_code="1">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>trafikale problemer</long_text>
+    </tmc_event>
+    <tmc_event event_code="2">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser med risiko for stillestående trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="11">
+      <short_text>Trafikal forhindring</short_text>
+      <long_text>overhøjde-varslingssystem aktiveret</long_text>
+    </tmc_event>
+    <tmc_event event_code="12">
+      <short_text>Ulykke</short_text>
+      <long_text>uheld, trafikken ledes uden om uheldsområdet</long_text>
+    </tmc_event>
+    <tmc_event event_code="16">
+      <short_text>Spærring</short_text>
+      <long_text>vejen er lukket på grund af rednings- og oprydningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="20">
+      <short_text>Parkeringsplads optaget</short_text>
+      <long_text>serviceanlæg overfyldt, kør videre til næste</long_text>
+    </tmc_event>
+    <tmc_event event_code="22">
+      <short_text>Informationer</short_text>
+      <long_text>tankstation på serviceanlæg lukket</long_text>
+    </tmc_event>
+    <tmc_event event_code="23">
+      <short_text>Parkeringsinformationer</short_text>
+      <long_text>restaurant på serviceanlæg lukket</long_text>
+    </tmc_event>
+    <tmc_event event_code="24">
+      <short_text>Spærring</short_text>
+      <long_text>bro lukket</long_text>
+    </tmc_event>
+    <tmc_event event_code="25">
+      <short_text>Spærring</short_text>
+      <long_text>tunnel lukket</long_text>
+    </tmc_event>
+    <tmc_event event_code="26">
+      <short_text>Spærring</short_text>
+      <long_text>bro spærret</long_text>
+    </tmc_event>
+    <tmc_event event_code="27">
+      <short_text>Spærring</short_text>
+      <long_text>tunnel spærret</long_text>
+    </tmc_event>
+    <tmc_event event_code="28">
+      <short_text>Spærring</short_text>
+      <long_text>vejen er periodevis lukket</long_text>
+    </tmc_event>
+    <tmc_event event_code="41">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>overhalingsspor lukket</long_text>
+    </tmc_event>
+    <tmc_event event_code="42">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>overhalingsspor spærret</long_text>
+    </tmc_event>
+    <tmc_event event_code="51">
+      <short_text>Vejarbejde</short_text>
+      <long_text>vejarbejde og overhalingsspor lukket</long_text>
+    </tmc_event>
+    <tmc_event event_code="52">
+      <short_text>Vejarbejde</short_text>
+      <long_text>vejarbejde i rabatten</long_text>
+    </tmc_event>
+    <tmc_event event_code="53">
+      <short_text>Vejarbejde</short_text>
+      <long_text>vejarbejde i nødsporet</long_text>
+    </tmc_event>
+    <tmc_event event_code="55">
+      <short_text>Trafikal forhindring</short_text>
+      <long_text>trafikale problemer forventes</long_text>
+    </tmc_event>
+    <tmc_event event_code="56">
+      <short_text>Trafikal forhindring</short_text>
+      <long_text>trafikprop forventes</long_text>
+    </tmc_event>
+    <tmc_event event_code="62">
+      <short_text>Oversvømmelse</short_text>
+      <long_text>sprængt rørledning</long_text>
+    </tmc_event>
+    <tmc_event event_code="63">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>pas på, genstande på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="64">
+      <short_text>Oversvømmelse</short_text>
+      <long_text>pas på, sprængt rørledning</long_text>
+    </tmc_event>
+    <tmc_event event_code="70">
+      <short_text>Kø</short_text>
+      <long_text>trafikprop, gennemsnitshastighed 10 mpt</long_text>
+    </tmc_event>
+    <tmc_event event_code="71">
+      <short_text>Kø</short_text>
+      <long_text>trafikprop, gennemsnitshastighed 20 mpt</long_text>
+    </tmc_event>
+    <tmc_event event_code="72">
+      <short_text>Kø</short_text>
+      <long_text>trafikprop, gennemsnitshastighed 30 mpt</long_text>
+    </tmc_event>
+    <tmc_event event_code="73">
+      <short_text>Kø</short_text>
+      <long_text>trafikprop, gennemsnitshastighed 40 mpt</long_text>
+    </tmc_event>
+    <tmc_event event_code="74">
+      <short_text>Køkørsel</short_text>
+      <long_text>trafikprop, gennemsnitshastighed 50 mpt</long_text>
+    </tmc_event>
+    <tmc_event event_code="75">
+      <short_text>Køkørsel</short_text>
+      <long_text>trafikprop, gennemsnitshastighed 60 mpt</long_text>
+    </tmc_event>
+    <tmc_event event_code="76">
+      <short_text>Køkørsel</short_text>
+      <long_text>trafikprop, gennemsnitshastighed 70 mpt</long_text>
+    </tmc_event>
+    <tmc_event event_code="91">
+      <short_text>Forsinkelser</short_text>
+      <long_text>forsinkelser for personbiler</long_text>
+    </tmc_event>
+    <tmc_event event_code="101">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="102">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik over 1 mi</long_text>
+    </tmc_event>
+    <tmc_event event_code="103">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik over 2 mi</long_text>
+    </tmc_event>
+    <tmc_event event_code="104">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik over 4 mi</long_text>
+    </tmc_event>
+    <tmc_event event_code="105">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik over 6 mi</long_text>
+    </tmc_event>
+    <tmc_event event_code="106">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik over 10 mi</long_text>
+    </tmc_event>
+    <tmc_event event_code="107">
+      <short_text>Trafikal forhindring</short_text>
+      <long_text>stillestående trafik forventes</long_text>
+    </tmc_event>
+    <tmc_event event_code="108">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser</long_text>
+    </tmc_event>
+    <tmc_event event_code="109">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser over 1 mi</long_text>
+    </tmc_event>
+    <tmc_event event_code="110">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser over 2 mi</long_text>
+    </tmc_event>
+    <tmc_event event_code="111">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser over 4 mi</long_text>
+    </tmc_event>
+    <tmc_event event_code="112">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser over 6 mi</long_text>
+    </tmc_event>
+    <tmc_event event_code="113">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser over 10 mi</long_text>
+    </tmc_event>
+    <tmc_event event_code="114">
+      <short_text>Trafikal forhindring</short_text>
+      <long_text>kødannelser forventes</long_text>
+    </tmc_event>
+    <tmc_event event_code="115">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="116">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik over 1 mi</long_text>
+    </tmc_event>
+    <tmc_event event_code="117">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik over 2 mi</long_text>
+    </tmc_event>
+    <tmc_event event_code="118">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik over 4 mi</long_text>
+    </tmc_event>
+    <tmc_event event_code="119">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik over 6 mi</long_text>
+    </tmc_event>
+    <tmc_event event_code="120">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik over 10 mi</long_text>
+    </tmc_event>
+    <tmc_event event_code="121">
+      <short_text>Trafikal forhindring</short_text>
+      <long_text>langsom trafik forventes</long_text>
+    </tmc_event>
+    <tmc_event event_code="122">
+      <short_text>Tæt trafik</short_text>
+      <long_text>tæt trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="123">
+      <short_text>Trafikal forhindring</short_text>
+      <long_text>tæt trafik forventes</long_text>
+    </tmc_event>
+    <tmc_event event_code="124">
+      <short_text>Problemfri trafik</short_text>
+      <long_text>normal trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="125">
+      <short_text>Tæt trafik</short_text>
+      <long_text>tiltagende trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="129">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik over 3 mi</long_text>
+    </tmc_event>
+    <tmc_event event_code="130">
+      <short_text>Tæt trafik</short_text>
+      <long_text>risiko for stillestående trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="131">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser over 3 mi</long_text>
+    </tmc_event>
+    <tmc_event event_code="132">
+      <short_text>Tæt trafik</short_text>
+      <long_text>risiko for kødannelser</long_text>
+    </tmc_event>
+    <tmc_event event_code="133">
+      <short_text>Køkørsel</short_text>
+      <long_text>lange køer</long_text>
+    </tmc_event>
+    <tmc_event event_code="134">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik over 3 mi</long_text>
+    </tmc_event>
+    <tmc_event event_code="136">
+      <short_text>Køkørsel</short_text>
+      <long_text>trafikprop</long_text>
+    </tmc_event>
+    <tmc_event event_code="138">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser, nedsæt hastigheden</long_text>
+    </tmc_event>
+    <tmc_event event_code="139">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser ved vejsving</long_text>
+    </tmc_event>
+    <tmc_event event_code="140">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser over bakketop</long_text>
+    </tmc_event>
+    <tmc_event event_code="142">
+      <short_text>Tæt trafik</short_text>
+      <long_text>tættere trafik end normalt</long_text>
+    </tmc_event>
+    <tmc_event event_code="143">
+      <short_text>Tæt trafik</short_text>
+      <long_text>meget tættere trafik end normalt</long_text>
+    </tmc_event>
+    <tmc_event event_code="200">
+      <short_text>Ulykke</short_text>
+      <long_text>forsinkelser på grund af harmonikasammenstød</long_text>
+    </tmc_event>
+    <tmc_event event_code="201">
+      <short_text>Ulykke</short_text>
+      <long_text>uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="202">
+      <short_text>Ulykke</short_text>
+      <long_text>alvorligt uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="203">
+      <short_text>Ulykke</short_text>
+      <long_text>uheld med køretøjer</long_text>
+    </tmc_event>
+    <tmc_event event_code="204">
+      <short_text>Ulykke</short_text>
+      <long_text>uheld med tung lastbil</long_text>
+    </tmc_event>
+    <tmc_event event_code="205">
+      <short_text>Ulykke</short_text>
+      <long_text>uheld med farligt gods</long_text>
+    </tmc_event>
+    <tmc_event event_code="206">
+      <short_text>Ulykke</short_text>
+      <long_text>uheld med brændstofudslip</long_text>
+    </tmc_event>
+    <tmc_event event_code="207">
+      <short_text>Ulykke</short_text>
+      <long_text>uheld med kemikalieudslip</long_text>
+    </tmc_event>
+    <tmc_event event_code="208">
+      <short_text>Trafikal forhindring</short_text>
+      <long_text>trafikanter bremser op for at se på uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="210">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>tabt gods på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="211">
+      <short_text>Trafikal forhindring</short_text>
+      <long_text>køretøjshavari</long_text>
+    </tmc_event>
+    <tmc_event event_code="212">
+      <short_text>Trafikal forhindring</short_text>
+      <long_text>tung lastbil havareret</long_text>
+    </tmc_event>
+    <tmc_event event_code="213">
+      <short_text>Ulykke</short_text>
+      <long_text>køretøj i brand</long_text>
+    </tmc_event>
+    <tmc_event event_code="214">
+      <short_text>Trafikal forhindring</short_text>
+      <long_text>hændelser</long_text>
+    </tmc_event>
+    <tmc_event event_code="215">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik på grund af uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="216">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik over 1 mi på grund af uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="217">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik over 2 mi på grund af uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="218">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik over 4 mi på grund af uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="219">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik over 6 mi på grund af uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="220">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik over 10 mi på grund af uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="221">
+      <short_text>Ulykke</short_text>
+      <long_text>risiko for stillestående trafik på grund af uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="222">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser på grund af uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="223">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser over 1 mi på grund af uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="224">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser over 2 mi på grund af uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="225">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser over 4 mi på grund af uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="226">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser over 6 mi på grund af uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="227">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser over 10 mi på grund af uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="228">
+      <short_text>Ulykke</short_text>
+      <long_text>risiko for kødannelser på grund af uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="229">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik på grund af uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="230">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik over 1 mi på grund af uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="231">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik over 2 mi på grund af uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="232">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik over 4 mi på grund af uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="233">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik over 6 mi på grund af uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="234">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik over 10 mi på grund af uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="235">
+      <short_text>Ulykke</short_text>
+      <long_text>langsom trafik forventes på grund af uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="236">
+      <short_text>Ulykke</short_text>
+      <long_text>tæt trafik på grund af uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="237">
+      <short_text>Ulykke</short_text>
+      <long_text>tæt trafik forventes på grund af uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="238">
+      <short_text>Ulykke</short_text>
+      <long_text>normal trafik på trods af uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="239">
+      <short_text>Tæt trafik</short_text>
+      <long_text>tiltagende trafik på grund af uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="240">
+      <short_text>Spærring</short_text>
+      <long_text>vejen er lukket på grund af uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="241">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>højre spor spærret på grund af uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="242">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>midterspor spærret på grund af uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="243">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>venstre spor spærret på grund af uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="244">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>rabat spærret på grund af uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="245">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>2 spor spærrede på grund af uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="246">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>3 spor spærrede på grund af uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="247">
+      <short_text>Ulykke</short_text>
+      <long_text>forsinkelser på grund af uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="248">
+      <short_text>Ulykke</short_text>
+      <long_text>forsinkelser forventes på grund af uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="249">
+      <short_text>Ulykke</short_text>
+      <long_text>store forsinkelser på grund af uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="250">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik på grund af trafikanter, der bremser op for at se på uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="257">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser på grund af trafikanter, der bremser op for at se på uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="264">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik på grund af trafikanter, der bremser op for at se på uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="271">
+      <short_text>Tæt trafik</short_text>
+      <long_text>tæt trafik på grund af trafikanter, der bremser op for at se på uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="274">
+      <short_text>Tæt trafik</short_text>
+      <long_text>tiltagende trafik på grund af trafikanter, der bremser op for at se på uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="275">
+      <short_text>Forsinkelser</short_text>
+      <long_text>forsinkelser på grund af trafikanter, der bremser op for at se på uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="277">
+      <short_text>Stor forsinkelse</short_text>
+      <long_text>store forsinkelser på grund af trafikanter, der bremser op for at se på uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="278">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik på grund af tabt gods på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="279">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik over 1 mi på grund af tabt gods på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="280">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik over 2 mi på grund af tabt gods på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="281">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik over 4 mi på grund af tabt gods på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="282">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik over 6 mi på grund af tabt gods på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="283">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik over 10 mi på grund af tabt gods på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="284">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>risiko for stillestående trafik på grund af tabt gods på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="285">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser på grund af tabt gods på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="286">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser over 1 mi på grund af tabt gods på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="287">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser over 2 mi på grund af tabt gods på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="288">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser over 4 mi på grund af tabt gods på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="289">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser over 6 mi på grund af tabt gods på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="290">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser over 10 mi på grund af tabt gods på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="291">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>risiko for kødannelser på grund af tabt gods på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="292">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik på grund af tabt gods på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="293">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik over 1 mi på grund af tabt gods på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="294">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik over 2 mi på grund af tabt gods på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="295">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik over 4 mi på grund af tabt gods på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="296">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik over 6 mi på grund af tabt gods på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="297">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik over 10 mi på grund af tabt gods på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="298">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>langsom trafik forventes på grund af tabt gods på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="299">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>tæt trafik på grund af tabt gods på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="300">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>tæt trafik forventes på grund af tabt gods på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="301">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>normal trafik på trods af tabt gods på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="302">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>tiltagende trafik på grund af tabt gods på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="303">
+      <short_text>Spærring</short_text>
+      <long_text>vej spærret på grund af tabt gods</long_text>
+    </tmc_event>
+    <tmc_event event_code="304">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>højre spor spærret på grund af tabt gods</long_text>
+    </tmc_event>
+    <tmc_event event_code="305">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>midterspor spærret på grund af tabt gods</long_text>
+    </tmc_event>
+    <tmc_event event_code="306">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>venstre spor spærret på grund af tabt gods</long_text>
+    </tmc_event>
+    <tmc_event event_code="307">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>rabat spærret på grund af tabt gods</long_text>
+    </tmc_event>
+    <tmc_event event_code="308">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>2 spor spærrede på grund af tabt gods</long_text>
+    </tmc_event>
+    <tmc_event event_code="309">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>3 spor spærrede på grund af tabt gods</long_text>
+    </tmc_event>
+    <tmc_event event_code="310">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>forsinkelser på grund af tabt gods på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="311">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>forsinkelser forventes på grund af tabt gods på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="312">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>store forsinkelser på grund af tabt gods på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="313">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik på grund af køretøjshavari</long_text>
+    </tmc_event>
+    <tmc_event event_code="314">
+      <short_text>Trafikal forhindring</short_text>
+      <long_text>risiko for stillestående trafik på grund af køretøjshavari</long_text>
+    </tmc_event>
+    <tmc_event event_code="315">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser på grund af køretøjshavari</long_text>
+    </tmc_event>
+    <tmc_event event_code="316">
+      <short_text>Trafikal forhindring</short_text>
+      <long_text>risiko for kødannelser på grund af køretøjshavari</long_text>
+    </tmc_event>
+    <tmc_event event_code="317">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik på grund af køretøjshavari</long_text>
+    </tmc_event>
+    <tmc_event event_code="318">
+      <short_text>Trafikal forhindring</short_text>
+      <long_text>langsom trafik forventes på grund af køretøjshavari</long_text>
+    </tmc_event>
+    <tmc_event event_code="319">
+      <short_text>Trafikal forhindring</short_text>
+      <long_text>tæt trafik på grund af køretøjshavari</long_text>
+    </tmc_event>
+    <tmc_event event_code="320">
+      <short_text>Trafikal forhindring</short_text>
+      <long_text>tæt trafik forventes på grund af køretøjshavari</long_text>
+    </tmc_event>
+    <tmc_event event_code="321">
+      <short_text>Trafikal forhindring</short_text>
+      <long_text>normal trafik på trods af køretøjshavari</long_text>
+    </tmc_event>
+    <tmc_event event_code="322">
+      <short_text>Trafikal forhindring</short_text>
+      <long_text>tiltagende trafik på grund af køretøjshavari</long_text>
+    </tmc_event>
+    <tmc_event event_code="323">
+      <short_text>Spærring</short_text>
+      <long_text>3 spor spærrede på grund af væltet køretøj</long_text>
+    </tmc_event>
+    <tmc_event event_code="324">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>højre spor spærret på grund af køretøjshavari</long_text>
+    </tmc_event>
+    <tmc_event event_code="325">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>midterspor spærret på grund af køretøjshavari</long_text>
+    </tmc_event>
+    <tmc_event event_code="326">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>venstre spor spærret på grund af køretøjshavari</long_text>
+    </tmc_event>
+    <tmc_event event_code="327">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>rabat spærret på grund af køretøjshavari</long_text>
+    </tmc_event>
+    <tmc_event event_code="328">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>2 spor spærrede på grund af køretøjshavari</long_text>
+    </tmc_event>
+    <tmc_event event_code="329">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>3 spor spærrede på grund af køretøjshavari</long_text>
+    </tmc_event>
+    <tmc_event event_code="330">
+      <short_text>Trafikal forhindring</short_text>
+      <long_text>forsinkelser på grund af køretøjshavari</long_text>
+    </tmc_event>
+    <tmc_event event_code="331">
+      <short_text>Trafikal forhindring</short_text>
+      <long_text>forsinkelser forventes på grund af køretøjshavari</long_text>
+    </tmc_event>
+    <tmc_event event_code="332">
+      <short_text>Trafikal forhindring</short_text>
+      <long_text>store forsinkelser på grund af køretøjshavari</long_text>
+    </tmc_event>
+    <tmc_event event_code="335">
+      <short_text>Ulykke</short_text>
+      <long_text>uheld med bus</long_text>
+    </tmc_event>
+    <tmc_event event_code="336">
+      <short_text>Ulykke</short_text>
+      <long_text>uheld med olieudslip</long_text>
+    </tmc_event>
+    <tmc_event event_code="337">
+      <short_text>Ulykke</short_text>
+      <long_text>væltet køretøj</long_text>
+    </tmc_event>
+    <tmc_event event_code="338">
+      <short_text>Ulykke</short_text>
+      <long_text>væltet tung lastbil</long_text>
+    </tmc_event>
+    <tmc_event event_code="339">
+      <short_text>Ulykke</short_text>
+      <long_text>uheld med køretøj med trailer</long_text>
+    </tmc_event>
+    <tmc_event event_code="340">
+      <short_text>Ulykke</short_text>
+      <long_text>uheld med køretøj med campingvogn</long_text>
+    </tmc_event>
+    <tmc_event event_code="341">
+      <short_text>Ulykke</short_text>
+      <long_text>uheld med lastbil med sættevogn</long_text>
+    </tmc_event>
+    <tmc_event event_code="342">
+      <short_text>Ulykke</short_text>
+      <long_text>køretøj skredet ud</long_text>
+    </tmc_event>
+    <tmc_event event_code="343">
+      <short_text>Ulykke</short_text>
+      <long_text>tidligere uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="344">
+      <short_text>Ulykke</short_text>
+      <long_text>uheldsopklaring i gang</long_text>
+    </tmc_event>
+    <tmc_event event_code="345">
+      <short_text>Ulykke</short_text>
+      <long_text>følgeuheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="346">
+      <short_text>Trafikal forhindring</short_text>
+      <long_text>busser havareret</long_text>
+    </tmc_event>
+    <tmc_event event_code="348">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik over 3 mi på grund af uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="349">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser over 3 mi på grund af uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="350">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik over 3 mi på grund af uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="351">
+      <short_text>Ulykke</short_text>
+      <long_text>uheld ved vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="355">
+      <short_text>Ulykke</short_text>
+      <long_text>pas på, trafikanter bremser op for at se på uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="356">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik over 3 mi på grund af tabt gods på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="357">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser over 3 mi på grund af tabt gods på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="358">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik over 3 mi på grund af tabt gods på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="359">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>pas på, tabt gods på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="360">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik på grund af væltet køretøj</long_text>
+    </tmc_event>
+    <tmc_event event_code="361">
+      <short_text>Ulykke</short_text>
+      <long_text>risiko for stillestående trafik på grund af væltet køretøj</long_text>
+    </tmc_event>
+    <tmc_event event_code="362">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser på grund af væltet køretøj</long_text>
+    </tmc_event>
+    <tmc_event event_code="363">
+      <short_text>Ulykke</short_text>
+      <long_text>risiko for kødannelser på grund af væltet køretøj</long_text>
+    </tmc_event>
+    <tmc_event event_code="364">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik på grund af væltet køretøj</long_text>
+    </tmc_event>
+    <tmc_event event_code="365">
+      <short_text>Ulykke</short_text>
+      <long_text>langsom trafik forventes på grund af væltet køretøj</long_text>
+    </tmc_event>
+    <tmc_event event_code="366">
+      <short_text>Ulykke</short_text>
+      <long_text>tæt trafik på grund af væltet køretøj</long_text>
+    </tmc_event>
+    <tmc_event event_code="367">
+      <short_text>Ulykke</short_text>
+      <long_text>tæt trafik forventes på grund af væltet køretøj</long_text>
+    </tmc_event>
+    <tmc_event event_code="368">
+      <short_text>Ulykke</short_text>
+      <long_text>tiltagende trafik på grund af væltet køretøj</long_text>
+    </tmc_event>
+    <tmc_event event_code="369">
+      <short_text>Spærring</short_text>
+      <long_text>vej spærret på grund af væltet køretøj</long_text>
+    </tmc_event>
+    <tmc_event event_code="370">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>højre spor spærret på grund af væltet køretøj</long_text>
+    </tmc_event>
+    <tmc_event event_code="371">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>midterspor spærret på grund af væltet køretøj</long_text>
+    </tmc_event>
+    <tmc_event event_code="372">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>venstre spor spærret på grund af væltet køretøj</long_text>
+    </tmc_event>
+    <tmc_event event_code="373">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>rabat spærret på grund af væltet køretøj</long_text>
+    </tmc_event>
+    <tmc_event event_code="374">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>2 spor spærrede på grund af væltet køretøj</long_text>
+    </tmc_event>
+    <tmc_event event_code="375">
+      <short_text>Ulykke</short_text>
+      <long_text>forsinkelser på grund af væltet køretøj</long_text>
+    </tmc_event>
+    <tmc_event event_code="376">
+      <short_text>Ulykke</short_text>
+      <long_text>forsinkelser forventes på grund af væltet køretøj</long_text>
+    </tmc_event>
+    <tmc_event event_code="377">
+      <short_text>Ulykke</short_text>
+      <long_text>store forsinkelser på grund af væltet køretøj</long_text>
+    </tmc_event>
+    <tmc_event event_code="378">
+      <short_text>Ulykke</short_text>
+      <long_text>pas på, væltet køretøj</long_text>
+    </tmc_event>
+    <tmc_event event_code="379">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik på grund af tidligere uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="381">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser på grund af tidligere uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="382">
+      <short_text>Trafikal forhindring</short_text>
+      <long_text>risiko for kødannelser på grund af tidligere uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="383">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik på grund af tidligere uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="387">
+      <short_text>Tæt trafik</short_text>
+      <long_text>tiltagende trafik på grund af tidligere uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="388">
+      <short_text>Ulykke</short_text>
+      <long_text>forsinkelser på grund af tidligere uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="390">
+      <short_text>Trafikal forhindring</short_text>
+      <long_text>store forsinkelser på grund af tidligere uheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="391">
+      <short_text>Ulykke</short_text>
+      <long_text>pas på, uheldsopklaring i gang</long_text>
+    </tmc_event>
+    <tmc_event event_code="392">
+      <short_text>Ulykke</short_text>
+      <long_text>pas på, følgeuheld</long_text>
+    </tmc_event>
+    <tmc_event event_code="393">
+      <short_text>Trafikal forhindring</short_text>
+      <long_text>pas på, køretøjshavari</long_text>
+    </tmc_event>
+    <tmc_event event_code="394">
+      <short_text>Trafikal forhindring</short_text>
+      <long_text>pas på, tung lastbil havareret</long_text>
+    </tmc_event>
+    <tmc_event event_code="397">
+      <short_text>Trafikal forhindring</short_text>
+      <long_text>rednings- og oprydningsarbejde i gang</long_text>
+    </tmc_event>
+    <tmc_event event_code="401">
+      <short_text>Spærring</short_text>
+      <long_text>lukket</long_text>
+    </tmc_event>
+    <tmc_event event_code="402">
+      <short_text>Spærring</short_text>
+      <long_text>spærret</long_text>
+    </tmc_event>
+    <tmc_event event_code="406">
+      <short_text>Tilkørsel spærret</short_text>
+      <long_text>tilkørsel lukket</long_text>
+    </tmc_event>
+    <tmc_event event_code="407">
+      <short_text>Afkørsel spærret</short_text>
+      <long_text>frakørsel lukket</long_text>
+    </tmc_event>
+    <tmc_event event_code="408">
+      <short_text>Afkørsel spærret</short_text>
+      <long_text>til- og frakørsler lukkede</long_text>
+    </tmc_event>
+    <tmc_event event_code="409">
+      <short_text>Vej med begrænset kørselsmulighed</short_text>
+      <long_text>restriktioner for til- og frakørsler</long_text>
+    </tmc_event>
+    <tmc_event event_code="410">
+      <short_text>Spærring</short_text>
+      <long_text>stillestående trafik på grund af lukket vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="411">
+      <short_text>Spærring</short_text>
+      <long_text>stillestående trafik over 1 mi på grund af lukket vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="412">
+      <short_text>Spærring</short_text>
+      <long_text>stillestående trafik over 2 mi på grund af lukket vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="413">
+      <short_text>Spærring</short_text>
+      <long_text>stillestående trafik over 4 mi på grund af lukket vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="414">
+      <short_text>Spærring</short_text>
+      <long_text>stillestående trafik over 6 mi på grund af lukket vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="415">
+      <short_text>Spærring</short_text>
+      <long_text>stillestående trafik over 10 mi på grund af lukket vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="416">
+      <short_text>Spærring</short_text>
+      <long_text>risiko for stillestående trafik på grund af lukket vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="417">
+      <short_text>Spærring</short_text>
+      <long_text>kødannelser på grund af lukket vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="418">
+      <short_text>Spærring</short_text>
+      <long_text>kødannelser over 1 mi på grund af lukket vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="419">
+      <short_text>Spærring</short_text>
+      <long_text>kødannelser over 2 mi på grund af lukket vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="420">
+      <short_text>Spærring</short_text>
+      <long_text>kødannelser over 4 mi på grund af lukket vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="421">
+      <short_text>Spærring</short_text>
+      <long_text>kødannelser over 6 mi på grund af lukket vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="422">
+      <short_text>Spærring</short_text>
+      <long_text>kødannelser over 10 mi på grund af lukket vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="423">
+      <short_text>Spærring</short_text>
+      <long_text>risiko for kødannelser på grund af lukket vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="424">
+      <short_text>Spærring</short_text>
+      <long_text>langsom trafik på grund af lukket vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="425">
+      <short_text>Spærring</short_text>
+      <long_text>langsom trafik med kø over 1 mi på grund af lukket vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="426">
+      <short_text>Spærring</short_text>
+      <long_text>langsom trafik med kø over 2 mi på grund af lukket vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="427">
+      <short_text>Spærring</short_text>
+      <long_text>langsom trafik med kø over 4 mi på grund af lukket vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="428">
+      <short_text>Spærring</short_text>
+      <long_text>langsom trafik med kø over 6 mi på grund af lukket vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="429">
+      <short_text>Spærring</short_text>
+      <long_text>langsom trafik med kø over 10 mi på grund af lukket vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="430">
+      <short_text>Spærring</short_text>
+      <long_text>langsom trafik forventes på grund af lukket vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="431">
+      <short_text>Spærring</short_text>
+      <long_text>tæt trafik på grund af lukket vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="432">
+      <short_text>Spærring</short_text>
+      <long_text>tæt trafik forventes på grund af lukket vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="433">
+      <short_text>Spærring</short_text>
+      <long_text>normal trafik, selvom vejen er lukket længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="434">
+      <short_text>Spærring</short_text>
+      <long_text>tiltagende trafik på grund af lukket vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="435">
+      <short_text>Spærring</short_text>
+      <long_text>forsinkelser på grund af lukket vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="436">
+      <short_text>Spærring</short_text>
+      <long_text>forsinkelser forventes på grund af lukket vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="437">
+      <short_text>Spærring</short_text>
+      <long_text>store forsinkelser på grund af lukket vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="438">
+      <short_text>Spærring</short_text>
+      <long_text>stillestående trafik på grund af spærret vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="439">
+      <short_text>Spærring</short_text>
+      <long_text>stillestående trafik over 1 mi på grund af spærret vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="440">
+      <short_text>Spærring</short_text>
+      <long_text>stillestående trafik over 2 mi på grund af spærret vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="441">
+      <short_text>Spærring</short_text>
+      <long_text>stillestående trafik over 4 mi på grund af spærret vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="442">
+      <short_text>Spærring</short_text>
+      <long_text>stillestående trafik over 6 mi på grund af spærret vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="443">
+      <short_text>Spærring</short_text>
+      <long_text>stillestående trafik over 10 mi på grund af spærret vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="444">
+      <short_text>Spærring</short_text>
+      <long_text>risiko for stillestående trafik på grund af spærret vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="445">
+      <short_text>Spærring</short_text>
+      <long_text>kødannelser på grund af spærret vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="446">
+      <short_text>Spærring</short_text>
+      <long_text>kødannelser over 1 mi på grund af spærret vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="447">
+      <short_text>Spærring</short_text>
+      <long_text>kødannelser over 2 mi på grund af spærret vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="448">
+      <short_text>Spærring</short_text>
+      <long_text>kødannelser over 4 mi på grund af spærret vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="449">
+      <short_text>Spærring</short_text>
+      <long_text>kødannelser over 6 mi på grund af spærret vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="450">
+      <short_text>Spærring</short_text>
+      <long_text>kødannelser over 10 mi på grund af spærret vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="451">
+      <short_text>Spærring</short_text>
+      <long_text>risiko for kødannelser på grund af spærret vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="452">
+      <short_text>Spærring</short_text>
+      <long_text>langsom trafik på grund af spærret vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="453">
+      <short_text>Spærring</short_text>
+      <long_text>langsom trafik med kø over 1 mi på grund af spærret vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="454">
+      <short_text>Spærring</short_text>
+      <long_text>langsom trafik med kø over 2 mi på grund af spærret vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="455">
+      <short_text>Spærring</short_text>
+      <long_text>langsom trafik med kø over 4 mi på grund af spærret vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="456">
+      <short_text>Spærring</short_text>
+      <long_text>langsom trafik med kø over 6 mi på grund af spærret vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="457">
+      <short_text>Spærring</short_text>
+      <long_text>langsom trafik med kø over 10 mi på grund af spærret vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="458">
+      <short_text>Spærring</short_text>
+      <long_text>langsom trafik forventes på grund af spærret vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="459">
+      <short_text>Spærring</short_text>
+      <long_text>tæt trafik på grund af spærret vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="460">
+      <short_text>Spærring</short_text>
+      <long_text>tæt trafik forventes på grund af spærret vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="461">
+      <short_text>Spærring</short_text>
+      <long_text>normal trafik, selvom vejen er spærret længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="462">
+      <short_text>Spærring</short_text>
+      <long_text>tiltagende trafik på grund af spærret vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="463">
+      <short_text>Spærring</short_text>
+      <long_text>forsinkelser på grund af spærret vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="464">
+      <short_text>Spærring</short_text>
+      <long_text>forsinkelser forventes på grund af spærret vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="465">
+      <short_text>Spærring</short_text>
+      <long_text>store forsinkelser på grund af spærret vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="469">
+      <short_text>Spærring</short_text>
+      <long_text>lukket længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="470">
+      <short_text>Spærring</short_text>
+      <long_text>spærret længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="471">
+      <short_text>Tilkørsel spærret</short_text>
+      <long_text>tilkørsel lukket</long_text>
+    </tmc_event>
+    <tmc_event event_code="472">
+      <short_text>Tilkørsel spærret</short_text>
+      <long_text>tilkørsel spærret</long_text>
+    </tmc_event>
+    <tmc_event event_code="473">
+      <short_text>Tilkørsel spærret</short_text>
+      <long_text>tilkørsel spærret</long_text>
+    </tmc_event>
+    <tmc_event event_code="474">
+      <short_text>Afkørsel spærret</short_text>
+      <long_text>frakørsel lukket</long_text>
+    </tmc_event>
+    <tmc_event event_code="475">
+      <short_text>Afkørsel spærret</short_text>
+      <long_text>frakørsel spærret</long_text>
+    </tmc_event>
+    <tmc_event event_code="476">
+      <short_text>Afkørsel spærret</short_text>
+      <long_text>frakørsel spærret</long_text>
+    </tmc_event>
+    <tmc_event event_code="477">
+      <short_text>Afkørsel spærret</short_text>
+      <long_text>til- og frakørsler spærrede</long_text>
+    </tmc_event>
+    <tmc_event event_code="478">
+      <short_text>Afkørsel spærret</short_text>
+      <long_text>tilslutningsvej lukket</long_text>
+    </tmc_event>
+    <tmc_event event_code="479">
+      <short_text>Vej med begrænset kørselsmulighed</short_text>
+      <long_text>parallel kørebane lukket</long_text>
+    </tmc_event>
+    <tmc_event event_code="480">
+      <short_text>Vej med begrænset kørselsmulighed</short_text>
+      <long_text>parallel kørebane til højre lukket</long_text>
+    </tmc_event>
+    <tmc_event event_code="481">
+      <short_text>Vej med begrænset kørselsmulighed</short_text>
+      <long_text>parallel kørebane til venstre lukket</long_text>
+    </tmc_event>
+    <tmc_event event_code="482">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>ekspresspor lukket</long_text>
+    </tmc_event>
+    <tmc_event event_code="483">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>spor for gennemkørende trafik lukkede</long_text>
+    </tmc_event>
+    <tmc_event event_code="484">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>spor for lokal trafik lukkede</long_text>
+    </tmc_event>
+    <tmc_event event_code="485">
+      <short_text>Afkørsel spærret</short_text>
+      <long_text>tilslutningsvej spærret</long_text>
+    </tmc_event>
+    <tmc_event event_code="486">
+      <short_text>Vej med begrænset kørselsmulighed</short_text>
+      <long_text>parallel kørebane spærret</long_text>
+    </tmc_event>
+    <tmc_event event_code="487">
+      <short_text>Vej med begrænset kørselsmulighed</short_text>
+      <long_text>parallel kørebane til højre spærret</long_text>
+    </tmc_event>
+    <tmc_event event_code="488">
+      <short_text>Vej med begrænset kørselsmulighed</short_text>
+      <long_text>parallel kørebane til venstre spærret</long_text>
+    </tmc_event>
+    <tmc_event event_code="489">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>ekspresspor spærret</long_text>
+    </tmc_event>
+    <tmc_event event_code="490">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>spor for gennemkørende trafik spærrede</long_text>
+    </tmc_event>
+    <tmc_event event_code="491">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>spor for lokal trafik spærrede</long_text>
+    </tmc_event>
+    <tmc_event event_code="492">
+      <short_text>Spærring</short_text>
+      <long_text>lukket for motorkøretøjer</long_text>
+    </tmc_event>
+    <tmc_event event_code="493">
+      <short_text>Vej med begrænset kørselsmulighed</short_text>
+      <long_text>restriktioner</long_text>
+    </tmc_event>
+    <tmc_event event_code="495">
+      <short_text>Spærring</short_text>
+      <long_text>stillestående trafik over 3 mi på grund af lukket vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="496">
+      <short_text>Spærring</short_text>
+      <long_text>kødannelser over 3 mi på grund af lukket vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="497">
+      <short_text>Spærring</short_text>
+      <long_text>langsom trafik med kø over 3 mi på grund af lukket vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="498">
+      <short_text>Spærring</short_text>
+      <long_text>stillestående trafik over 3 mi på grund af spærret vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="499">
+      <short_text>Spærring</short_text>
+      <long_text>kødannelser over 3 mi på grund af spærret vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="500">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>spor lukket</long_text>
+    </tmc_event>
+    <tmc_event event_code="501">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>højre spor lukket</long_text>
+    </tmc_event>
+    <tmc_event event_code="502">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>midterspor lukket</long_text>
+    </tmc_event>
+    <tmc_event event_code="503">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>venstre spor lukket</long_text>
+    </tmc_event>
+    <tmc_event event_code="504">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>rabat lukket</long_text>
+    </tmc_event>
+    <tmc_event event_code="505">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>2 spor lukkede</long_text>
+    </tmc_event>
+    <tmc_event event_code="506">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>3 spor lukkede</long_text>
+    </tmc_event>
+    <tmc_event event_code="507">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>højre spor spærret</long_text>
+    </tmc_event>
+    <tmc_event event_code="508">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>midterspor spærret</long_text>
+    </tmc_event>
+    <tmc_event event_code="509">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>venstre spor spærret</long_text>
+    </tmc_event>
+    <tmc_event event_code="510">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>rabat spærret</long_text>
+    </tmc_event>
+    <tmc_event event_code="511">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>2 spor spærrede</long_text>
+    </tmc_event>
+    <tmc_event event_code="512">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>3 spor spærrede</long_text>
+    </tmc_event>
+    <tmc_event event_code="513">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>enkelt kørespor med trafik i skiftende retninger</long_text>
+    </tmc_event>
+    <tmc_event event_code="514">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>kun 1 spor farbart</long_text>
+    </tmc_event>
+    <tmc_event event_code="515">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>kun 2 spor farbare</long_text>
+    </tmc_event>
+    <tmc_event event_code="516">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>kun 3 spor farbare</long_text>
+    </tmc_event>
+    <tmc_event event_code="517">
+      <short_text>Vej med begrænset kørselsmulighed</short_text>
+      <long_text>modkørende trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="518">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>indsnævret kørebane</long_text>
+    </tmc_event>
+    <tmc_event event_code="519">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>modkørende trafik og indsnævret kørebane</long_text>
+    </tmc_event>
+    <tmc_event event_code="520">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>spor spærret</long_text>
+    </tmc_event>
+    <tmc_event event_code="521">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik på grund af lukkede spor</long_text>
+    </tmc_event>
+    <tmc_event event_code="522">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik over 1 mi på grund af lukkede spor</long_text>
+    </tmc_event>
+    <tmc_event event_code="523">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik over 2 mi på grund af lukkede spor</long_text>
+    </tmc_event>
+    <tmc_event event_code="524">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik over 4 mi på grund af lukkede spor</long_text>
+    </tmc_event>
+    <tmc_event event_code="525">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik over 6 mi på grund af lukkede spor</long_text>
+    </tmc_event>
+    <tmc_event event_code="526">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik over 10 mi på grund af lukkede spor</long_text>
+    </tmc_event>
+    <tmc_event event_code="527">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>risiko for stillestående trafik på grund af lukkede spor</long_text>
+    </tmc_event>
+    <tmc_event event_code="528">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser på grund af lukkede spor</long_text>
+    </tmc_event>
+    <tmc_event event_code="529">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser over 1 mi på grund af lukkede spor</long_text>
+    </tmc_event>
+    <tmc_event event_code="530">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser over 2 mi på grund af lukkede spor</long_text>
+    </tmc_event>
+    <tmc_event event_code="531">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser over 4 mi på grund af lukkede spor</long_text>
+    </tmc_event>
+    <tmc_event event_code="532">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser over 6 mi på grund af lukkede spor</long_text>
+    </tmc_event>
+    <tmc_event event_code="533">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser over 10 mi på grund af lukkede spor</long_text>
+    </tmc_event>
+    <tmc_event event_code="534">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>risiko for kødannelser på grund af lukkede spor</long_text>
+    </tmc_event>
+    <tmc_event event_code="535">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik på grund af lukkede spor</long_text>
+    </tmc_event>
+    <tmc_event event_code="536">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik over 1 mi på grund af lukkede spor</long_text>
+    </tmc_event>
+    <tmc_event event_code="537">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik over 2 mi på grund af lukkede spor</long_text>
+    </tmc_event>
+    <tmc_event event_code="538">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik over 4 mi på grund af lukkede spor</long_text>
+    </tmc_event>
+    <tmc_event event_code="539">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik over 6 mi på grund af lukkede spor</long_text>
+    </tmc_event>
+    <tmc_event event_code="540">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik over 10 mi på grund af lukkede spor</long_text>
+    </tmc_event>
+    <tmc_event event_code="541">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>langsom trafik forventes på grund af lukkede spor</long_text>
+    </tmc_event>
+    <tmc_event event_code="542">
+      <short_text>Tæt trafik</short_text>
+      <long_text>tæt trafik på grund af lukkede spor</long_text>
+    </tmc_event>
+    <tmc_event event_code="543">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>tæt trafik forventes på grund af lukkede spor</long_text>
+    </tmc_event>
+    <tmc_event event_code="544">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>normal trafik, selvom spor er lukkede længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="545">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>tiltagende trafik på grund af lukkede spor</long_text>
+    </tmc_event>
+    <tmc_event event_code="546">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik, da kun 1 spor er farbart</long_text>
+    </tmc_event>
+    <tmc_event event_code="547">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>risiko for stillestående trafik, da kun 1 spor er farbart</long_text>
+    </tmc_event>
+    <tmc_event event_code="548">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser, da kun 1 spor er farbart</long_text>
+    </tmc_event>
+    <tmc_event event_code="549">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>risiko for kødannelser, da kun 1 spor er farbart</long_text>
+    </tmc_event>
+    <tmc_event event_code="550">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik, da kun 1 spor er farbart</long_text>
+    </tmc_event>
+    <tmc_event event_code="551">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>langsom trafik forventes, da kun 1 spor er farbart</long_text>
+    </tmc_event>
+    <tmc_event event_code="552">
+      <short_text>Tæt trafik</short_text>
+      <long_text>tæt trafik, da kun 1 spor er farbart</long_text>
+    </tmc_event>
+    <tmc_event event_code="553">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>tæt trafik forventes, da kun 1 spor er farbart</long_text>
+    </tmc_event>
+    <tmc_event event_code="554">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>normal trafik, selvom kun 1 spor er farbart</long_text>
+    </tmc_event>
+    <tmc_event event_code="555">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>tiltagende trafik, da kun 1 spor er farbart</long_text>
+    </tmc_event>
+    <tmc_event event_code="556">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik, da kun 2 spor er farbare</long_text>
+    </tmc_event>
+    <tmc_event event_code="557">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>risiko for stillestående trafik, da kun 2 spor er farbare</long_text>
+    </tmc_event>
+    <tmc_event event_code="558">
+      <short_text>Kø</short_text>
+      <long_text>kødannelser, da kun 2 spor er farbare</long_text>
+    </tmc_event>
+    <tmc_event event_code="559">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>risiko for kødannelser, da kun 2 spor er farbare</long_text>
+    </tmc_event>
+    <tmc_event event_code="560">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik, da kun 2 spor er farbare</long_text>
+    </tmc_event>
+    <tmc_event event_code="561">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>langsom trafik forventes, da kun 2 spor er farbare</long_text>
+    </tmc_event>
+    <tmc_event event_code="562">
+      <short_text>Tæt trafik</short_text>
+      <long_text>tæt trafik, da kun 2 spor er farbare</long_text>
+    </tmc_event>
+    <tmc_event event_code="563">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>tæt trafik forventes, da kun 2 spor er farbare</long_text>
+    </tmc_event>
+    <tmc_event event_code="564">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>normal trafik, selvom kun 2 spor er farbare</long_text>
+    </tmc_event>
+    <tmc_event event_code="565">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>tiltagende trafik, da kun 2 spor er farbare</long_text>
+    </tmc_event>
+    <tmc_event event_code="566">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik, da kun 3 spor er farbare</long_text>
+    </tmc_event>
+    <tmc_event event_code="567">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>risiko for stillestående trafik, da kun 3 spor er farbare</long_text>
+    </tmc_event>
+    <tmc_event event_code="568">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser, da kun 3 spor er farbare</long_text>
+    </tmc_event>
+    <tmc_event event_code="569">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>risiko for kødannelser, da kun 3 spor er farbare</long_text>
+    </tmc_event>
+    <tmc_event event_code="570">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik, da kun 3 spor er farbare</long_text>
+    </tmc_event>
+    <tmc_event event_code="571">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>langsom trafik forventes, da kun 3 spor er farbare</long_text>
+    </tmc_event>
+    <tmc_event event_code="572">
+      <short_text>Tæt trafik</short_text>
+      <long_text>tæt trafik, da kun 3 spor er farbare</long_text>
+    </tmc_event>
+    <tmc_event event_code="573">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>tæt trafik forventes, da kun 3 spor er farbare</long_text>
+    </tmc_event>
+    <tmc_event event_code="574">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>normal trafik, selvom kun 3 spor er farbare</long_text>
+    </tmc_event>
+    <tmc_event event_code="575">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>tiltagende trafik, da kun 3 spor er farbare</long_text>
+    </tmc_event>
+    <tmc_event event_code="576">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik på grund af modkørende trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="577">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik over 1 mi på grund af modkørende trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="578">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik over 2 mi på grund af modkørende trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="579">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik over 4 mi på grund af modkørende trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="580">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik over 6 mi på grund af modkørende trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="581">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik over 10 mi på grund af modkørende trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="583">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser på grund af modkørende trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="584">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser over 1 mi på grund af modkørende trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="585">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser over 2 mi på grund af modkørende trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="586">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser over 4 mi på grund af modkørende trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="587">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser over 6 mi på grund af modkørende trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="588">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser over 10 mi på grund af modkørende trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="590">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik på grund af modkørende trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="591">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik over 1 mi på grund af modkørende trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="592">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik over 2 mi på grund af modkørende trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="593">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik over 4 mi på grund af modkørende trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="594">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik over 6 mi på grund af modkørende trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="595">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik over 10 mi på grund af modkørende trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="597">
+      <short_text>Tæt trafik</short_text>
+      <long_text>tæt trafik på grund af modkørende trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="600">
+      <short_text>Tæt trafik</short_text>
+      <long_text>tiltagende trafik på grund af modkørende trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="601">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>modkørende trafik og kun 1 spor farbart</long_text>
+    </tmc_event>
+    <tmc_event event_code="602">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>modkørende trafik og kun 2 spor farbare</long_text>
+    </tmc_event>
+    <tmc_event event_code="603">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>modkørende trafik og kun 3 spor farbare</long_text>
+    </tmc_event>
+    <tmc_event event_code="604">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik på grund af indsnævret kørebane</long_text>
+    </tmc_event>
+    <tmc_event event_code="605">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>risiko for stillestående trafik på grund af indsnævret kørebane</long_text>
+    </tmc_event>
+    <tmc_event event_code="606">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser på grund af indsnævret kørebane</long_text>
+    </tmc_event>
+    <tmc_event event_code="607">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>risiko for kødannelser på grund af indsnævret kørebane</long_text>
+    </tmc_event>
+    <tmc_event event_code="608">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik på grund af indsnævret kørebane</long_text>
+    </tmc_event>
+    <tmc_event event_code="609">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>langsom trafik forventes på grund af indsnævret kørebane</long_text>
+    </tmc_event>
+    <tmc_event event_code="610">
+      <short_text>Tæt trafik</short_text>
+      <long_text>tæt trafik på grund af indsnævret kørebane</long_text>
+    </tmc_event>
+    <tmc_event event_code="611">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>tæt trafik forventes på grund af indsnævret kørebane</long_text>
+    </tmc_event>
+    <tmc_event event_code="612">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>normal trafik på trods af indsnævret kørebane</long_text>
+    </tmc_event>
+    <tmc_event event_code="613">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>tiltagende trafik på grund af indsnævret kørebane</long_text>
+    </tmc_event>
+    <tmc_event event_code="614">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik på grund af modkørende trafik og indsnævret kørebane</long_text>
+    </tmc_event>
+    <tmc_event event_code="615">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>risiko for stillestående trafik på grund af modkørende trafik og indsnævret kørebane</long_text>
+    </tmc_event>
+    <tmc_event event_code="616">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser på grund af modkørende trafik og indsnævret kørebane</long_text>
+    </tmc_event>
+    <tmc_event event_code="617">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>risiko for kødannelser på grund af modkørende trafik og indsnævret kørebane</long_text>
+    </tmc_event>
+    <tmc_event event_code="618">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik på grund af modkørende trafik og indsnævret kørebane</long_text>
+    </tmc_event>
+    <tmc_event event_code="619">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>langsom trafik forventes på grund af indsnævret kørebane og modkørende trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="620">
+      <short_text>Tæt trafik</short_text>
+      <long_text>tæt trafik på grund af modkørende trafik og indsnævret kørebane</long_text>
+    </tmc_event>
+    <tmc_event event_code="621">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>tæt trafik forventes på grund af indsnævret kørebane og modkørende trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="622">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>normal trafik på trods af modkørende trafik og indsnævret kørebane</long_text>
+    </tmc_event>
+    <tmc_event event_code="623">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>tiltagende trafik på grund af modkørende trafik og indsnævret kørebane</long_text>
+    </tmc_event>
+    <tmc_event event_code="626">
+      <short_text>Spærring</short_text>
+      <long_text>langsom trafik med kø over 3 mi på grund af spærret vej længere fremme</long_text>
+    </tmc_event>
+    <tmc_event event_code="628">
+      <short_text>Spærring</short_text>
+      <long_text>lukket for motorkøretøjer med nummerplader med lige endetal</long_text>
+    </tmc_event>
+    <tmc_event event_code="629">
+      <short_text>Spærring</short_text>
+      <long_text>lukket for motorkøretøjer med nummerplader med ulige endetal</long_text>
+    </tmc_event>
+    <tmc_event event_code="637">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>nødspor lukket</long_text>
+    </tmc_event>
+    <tmc_event event_code="638">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>svingbane lukket</long_text>
+    </tmc_event>
+    <tmc_event event_code="639">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>krybespor lukket</long_text>
+    </tmc_event>
+    <tmc_event event_code="640">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>spor til langsomme køretøjer lukket</long_text>
+    </tmc_event>
+    <tmc_event event_code="641">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>1 spor lukket</long_text>
+    </tmc_event>
+    <tmc_event event_code="642">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>nødspor spærret</long_text>
+    </tmc_event>
+    <tmc_event event_code="643">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>svingbane spærret</long_text>
+    </tmc_event>
+    <tmc_event event_code="644">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>krybespor spærret</long_text>
+    </tmc_event>
+    <tmc_event event_code="645">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>spor til langsomme køretøjer spærret</long_text>
+    </tmc_event>
+    <tmc_event event_code="646">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>1 spor spærret</long_text>
+    </tmc_event>
+    <tmc_event event_code="647">
+      <short_text>Informationer om samkørsel</short_text>
+      <long_text>samkørselsspor må benyttes</long_text>
+    </tmc_event>
+    <tmc_event event_code="648">
+      <short_text>Informationer om samkørsel</short_text>
+      <long_text>samkørselsspor lukket</long_text>
+    </tmc_event>
+    <tmc_event event_code="649">
+      <short_text>Informationer om samkørsel</short_text>
+      <long_text>samkørselsspor spærret</long_text>
+    </tmc_event>
+    <tmc_event event_code="650">
+      <short_text>Informationer om samkørsel</short_text>
+      <long_text>betingelse for samkørsel ændret</long_text>
+    </tmc_event>
+    <tmc_event event_code="651">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik over 3 mi på grund af lukkede spor</long_text>
+    </tmc_event>
+    <tmc_event event_code="652">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser over 3 mi på grund af lukkede spor</long_text>
+    </tmc_event>
+    <tmc_event event_code="653">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik over 3 mi på grund af lukkede spor</long_text>
+    </tmc_event>
+    <tmc_event event_code="654">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik over 3 mi på grund af modkørende trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="655">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser over 3 mi på grund af modkørende trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="656">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik over 3 mi på grund af modkørende trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="664">
+      <short_text>Spærring</short_text>
+      <long_text>kørespor lukket</long_text>
+    </tmc_event>
+    <tmc_event event_code="665">
+      <short_text>Spærring</short_text>
+      <long_text>lukket i begge retninger</long_text>
+    </tmc_event>
+    <tmc_event event_code="666">
+      <short_text>Spærring</short_text>
+      <long_text>periodisk kortvarige lukninger</long_text>
+    </tmc_event>
+    <tmc_event event_code="671">
+      <short_text>Informationer om samkørsel</short_text>
+      <long_text>busbane må benyttes til samkørsel</long_text>
+    </tmc_event>
+    <tmc_event event_code="701">
+      <short_text>Vejarbejde</short_text>
+      <long_text>vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="702">
+      <short_text>Vejarbejde</short_text>
+      <long_text>større vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="703">
+      <short_text>Vejarbejde</short_text>
+      <long_text>vedligeholdelsesarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="704">
+      <short_text>Vejarbejde</short_text>
+      <long_text>belægningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="705">
+      <short_text>Vejarbejde</short_text>
+      <long_text>midterrabatarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="706">
+      <short_text>Farlig situation</short_text>
+      <long_text>afstribningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="707">
+      <short_text>Vejarbejde</short_text>
+      <long_text>vedligeholdelsesarbejde af bro</long_text>
+    </tmc_event>
+    <tmc_event event_code="708">
+      <short_text>Vejarbejde</short_text>
+      <long_text>midlertidig lysregulering</long_text>
+    </tmc_event>
+    <tmc_event event_code="709">
+      <short_text>Vejarbejde</short_text>
+      <long_text>sprængningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="710">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik på grund af vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="711">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik over 1 mi på grund af vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="712">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik over 2 mi på grund af vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="713">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik over 4 mi på grund af vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="714">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik over 6 mi på grund af vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="715">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik over 10 mi på grund af vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="716">
+      <short_text>Vejarbejde</short_text>
+      <long_text>risiko for stillestående trafik på grund af vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="717">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser på grund af vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="718">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser over 1 mi på grund af vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="719">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser over 2 mi på grund af vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="720">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser over 4 mi på grund af vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="721">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser over 6 mi på grund af vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="722">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser over 10 mi på grund af vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="723">
+      <short_text>Vejarbejde</short_text>
+      <long_text>risiko for kødannelser på grund af vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="724">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik på grund af vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="725">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik over 1 mi på grund af vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="726">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik over 2 mi på grund af vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="727">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik over 4 mi på grund af vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="728">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik over 6 mi på grund af vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="729">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik over 10 mi på grund af vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="730">
+      <short_text>Vejarbejde</short_text>
+      <long_text>langsom trafik forventes på grund af vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="731">
+      <short_text>Vejarbejde</short_text>
+      <long_text>tæt trafik på grund af vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="732">
+      <short_text>Vejarbejde</short_text>
+      <long_text>tæt trafik forventes på grund af vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="733">
+      <short_text>Vejarbejde</short_text>
+      <long_text>normal trafik på trods af vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="734">
+      <short_text>Vejarbejde</short_text>
+      <long_text>tiltagende trafik på grund af vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="735">
+      <short_text>Spærring</short_text>
+      <long_text>vej lukket på grund af vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="736">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>højre spor lukket på grund af vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="737">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>midterspor lukket på grund af vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="738">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>venstre spor lukket på grund af vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="739">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>rabat lukket på grund af vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="740">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>2 spor lukkede på grund af vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="741">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>3 spor lukkede på grund af vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="742">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>1 kørespor med trafik i skiftende retninger på grund af vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="743">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>kun 1 spor farbart på grund af vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="744">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>kun 2 spor farbare på grund af vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="745">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>kun 3 spor farbare på grund af vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="746">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>modkørende trafik på grund af vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="747">
+      <short_text>Vejarbejde</short_text>
+      <long_text>forsinkelser på grund af vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="748">
+      <short_text>Vejarbejde</short_text>
+      <long_text>forsinkelser forventes på grund af vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="749">
+      <short_text>Vejarbejde</short_text>
+      <long_text>store forsinkelser på grund af vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="750">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik på grund af belægningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="751">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik over 1 mi på grund af belægningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="752">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik over 2 mi på grund af belægningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="753">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik over 4 mi på grund af belægningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="754">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik over 6 mi på grund af belægningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="755">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik over 10 mi på grund af belægningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="756">
+      <short_text>Vejarbejde</short_text>
+      <long_text>risiko for stillestående trafik på grund af belægningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="757">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser på grund af belægningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="758">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser over 1 mi på grund af belægningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="759">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser over 2 mi på grund af belægningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="760">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser over 4 mi på grund af belægningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="761">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser over 6 mi på grund af belægningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="762">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser over 10 mi på grund af belægningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="763">
+      <short_text>Vejarbejde</short_text>
+      <long_text>risiko for kødannelser på grund af belægningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="764">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik på grund af belægningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="765">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik over 1 mi på grund af belægningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="766">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik over 2 mi på grund af belægningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="767">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik over 4 mi på grund af belægningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="768">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik over 6 mi på grund af belægningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="769">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik over 10 mi på grund af belægningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="770">
+      <short_text>Vejarbejde</short_text>
+      <long_text>langsom trafik forventes på grund af belægningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="771">
+      <short_text>Tæt trafik</short_text>
+      <long_text>tæt trafik på grund af belægningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="772">
+      <short_text>Vejarbejde</short_text>
+      <long_text>tæt trafik forventes på grund af belægningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="773">
+      <short_text>Vejarbejde</short_text>
+      <long_text>normal trafik på trods af belægningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="774">
+      <short_text>Vejarbejde</short_text>
+      <long_text>tiltagende trafik på grund af belægningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="775">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>1 kørespor med trafik i skiftende retninger på grund af belægningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="776">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>kun 1 spor farbart på grund af belægningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="777">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>kun 2 spor farbare på grund af belægningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="780">
+      <short_text>Vejarbejde</short_text>
+      <long_text>forsinkelser på grund af belægningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="781">
+      <short_text>Vejarbejde</short_text>
+      <long_text>forsinkelser forventes på grund af belægningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="782">
+      <short_text>Vejarbejde</short_text>
+      <long_text>store forsinkelser på grund af belægningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="783">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik på grund af afstribningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="785">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser på grund af afstribningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="786">
+      <short_text>Trafikal forhindring</short_text>
+      <long_text>risiko for kødannelser på grund af afstribningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="787">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik på grund af afstribningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="789">
+      <short_text>Tæt trafik</short_text>
+      <long_text>tæt trafik på grund af afstribningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="791">
+      <short_text>Vejarbejde</short_text>
+      <long_text>normal trafik på trods af afstribningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="792">
+      <short_text>Tæt trafik</short_text>
+      <long_text>tiltagende trafik på grund af afstribningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="793">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>højre spor lukket på grund af afmærkningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="794">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>midterspor lukket på grund af afmærkningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="795">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>venstre spor lukket på grund af afmærkningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="796">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>rabat lukket på grund af afmærkningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="797">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>2 spor lukkede på grund af afmærkningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="798">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>3 spor lukkede på grund af afmærkningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="799">
+      <short_text>Spærring</short_text>
+      <long_text>vej lukket på grund af bronedrivningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="802">
+      <short_text>Vejarbejde</short_text>
+      <long_text>længerevarende vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="803">
+      <short_text>Vejarbejde</short_text>
+      <long_text>byggearbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="804">
+      <short_text>Vejarbejde</short_text>
+      <long_text>langtsomtkørende arbejdskøretøj</long_text>
+    </tmc_event>
+    <tmc_event event_code="805">
+      <short_text>Vejarbejde</short_text>
+      <long_text>nedrivningsarbejde af bro</long_text>
+    </tmc_event>
+    <tmc_event event_code="806">
+      <short_text>Vejarbejde</short_text>
+      <long_text>arbejde på hovedvandledning</long_text>
+    </tmc_event>
+    <tmc_event event_code="807">
+      <short_text>Vejarbejde</short_text>
+      <long_text>arbejde på hovedgasledning</long_text>
+    </tmc_event>
+    <tmc_event event_code="808">
+      <short_text>Vejarbejde</short_text>
+      <long_text>arbejde med nedgravede kabler</long_text>
+    </tmc_event>
+    <tmc_event event_code="809">
+      <short_text>Vejarbejde</short_text>
+      <long_text>arbejde med nedgravede installationer</long_text>
+    </tmc_event>
+    <tmc_event event_code="810">
+      <short_text>Vejarbejde</short_text>
+      <long_text>ændret udformning af vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="812">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik over 3 mi på grund af vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="813">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser over 3 mi på grund af vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="814">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik over 3 mi på grund af vejarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="815">
+      <short_text>Vejarbejde</short_text>
+      <long_text>vejarbejde i dagtimerne</long_text>
+    </tmc_event>
+    <tmc_event event_code="816">
+      <short_text>Vejarbejde</short_text>
+      <long_text>vejarbejde udenfor myldretiderne</long_text>
+    </tmc_event>
+    <tmc_event event_code="817">
+      <short_text>Vejarbejde</short_text>
+      <long_text>vejarbejde om natten</long_text>
+    </tmc_event>
+    <tmc_event event_code="818">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik over 3 mi på grund af belægningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="819">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser over 3 mi på grund af belægningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="820">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik over 3 mi på grund af belægningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="821">
+      <short_text>Vejarbejde</short_text>
+      <long_text>belægningsarbejde i dagtimerne</long_text>
+    </tmc_event>
+    <tmc_event event_code="822">
+      <short_text>Vejarbejde</short_text>
+      <long_text>belægningsarbejde udenfor myldretiderne</long_text>
+    </tmc_event>
+    <tmc_event event_code="823">
+      <short_text>Vejarbejde</short_text>
+      <long_text>belægningsarbejde om natten</long_text>
+    </tmc_event>
+    <tmc_event event_code="824">
+      <short_text>Farlig situation</short_text>
+      <long_text>pas på, afstribningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="825">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik på grund af langsomtkørende arbejdskøretøj</long_text>
+    </tmc_event>
+    <tmc_event event_code="826">
+      <short_text>Vejarbejde</short_text>
+      <long_text>risiko for stillestående trafik på grund af langsomtkørende arbejdskøretøj</long_text>
+    </tmc_event>
+    <tmc_event event_code="827">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser på grund af langsomtkørende arbejdskøretøj</long_text>
+    </tmc_event>
+    <tmc_event event_code="828">
+      <short_text>Vejarbejde</short_text>
+      <long_text>risiko for kødannelser på grund af langsomtkørende arbejdskøretøj</long_text>
+    </tmc_event>
+    <tmc_event event_code="829">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik på grund af langsomtkørende arbejdskøretøj</long_text>
+    </tmc_event>
+    <tmc_event event_code="830">
+      <short_text>Vejarbejde</short_text>
+      <long_text>langsom trafik forventes på grund af langsomtkørende arbejdskøretøj</long_text>
+    </tmc_event>
+    <tmc_event event_code="831">
+      <short_text>Tæt trafik</short_text>
+      <long_text>tæt trafik på grund af langsomtkørende arbejdskøretøj</long_text>
+    </tmc_event>
+    <tmc_event event_code="832">
+      <short_text>Vejarbejde</short_text>
+      <long_text>tæt trafik forventes på grund af langsomtkørende arbejdskøretøj</long_text>
+    </tmc_event>
+    <tmc_event event_code="833">
+      <short_text>Vejarbejde</short_text>
+      <long_text>normal trafik på trods af langsomtkørende arbejdskøretøj</long_text>
+    </tmc_event>
+    <tmc_event event_code="834">
+      <short_text>Vejarbejde</short_text>
+      <long_text>tiltagende trafik på grund af langsomtkørende arbejdskøretøj</long_text>
+    </tmc_event>
+    <tmc_event event_code="835">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>højre spor lukket på grund af langsomtkørende arbejdskøretøjer</long_text>
+    </tmc_event>
+    <tmc_event event_code="836">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>midterspor lukket på grund af langsomtkørende arbejdskøretøjer</long_text>
+    </tmc_event>
+    <tmc_event event_code="837">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>venstre spor lukket på grund af langsomtkørende arbejdskøretøjer</long_text>
+    </tmc_event>
+    <tmc_event event_code="838">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>2 spor lukkede på grund af langsomtkørende arbejdskøretøjer</long_text>
+    </tmc_event>
+    <tmc_event event_code="839">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>3 spor lukkede på grund af langsomtkørende arbejdskøretøjer</long_text>
+    </tmc_event>
+    <tmc_event event_code="840">
+      <short_text>Vejarbejde</short_text>
+      <long_text>forsinkelser på grund af arbejde på hovedvandledning</long_text>
+    </tmc_event>
+    <tmc_event event_code="841">
+      <short_text>Vejarbejde</short_text>
+      <long_text>forsinkelser forventes på grund af arbejde på hovedvandledning</long_text>
+    </tmc_event>
+    <tmc_event event_code="842">
+      <short_text>Vejarbejde</short_text>
+      <long_text>store forsinkelser på grund af arbejde på hovedvandledning</long_text>
+    </tmc_event>
+    <tmc_event event_code="843">
+      <short_text>Vejarbejde</short_text>
+      <long_text>forsinkelser på grund af arbejde på hovedgasledning</long_text>
+    </tmc_event>
+    <tmc_event event_code="844">
+      <short_text>Vejarbejde</short_text>
+      <long_text>forsinkelser forventes på grund af arbejde på hovedgasledning</long_text>
+    </tmc_event>
+    <tmc_event event_code="845">
+      <short_text>Vejarbejde</short_text>
+      <long_text>store forsinkelser på grund af arbejde på hovedgasledning</long_text>
+    </tmc_event>
+    <tmc_event event_code="846">
+      <short_text>Vejarbejde</short_text>
+      <long_text>forsinkelser på grund af arbejde med nedgravede kabler</long_text>
+    </tmc_event>
+    <tmc_event event_code="847">
+      <short_text>Vejarbejde</short_text>
+      <long_text>forsinkelser forventes på grund af arbejde med nedgravede kabler</long_text>
+    </tmc_event>
+    <tmc_event event_code="848">
+      <short_text>Vejarbejde</short_text>
+      <long_text>store forsinkelser på grund af arbejde med nedgravede kabler</long_text>
+    </tmc_event>
+    <tmc_event event_code="849">
+      <short_text>Vejarbejde</short_text>
+      <long_text>forsinkelser på grund af arbejde med nedgravede installationer</long_text>
+    </tmc_event>
+    <tmc_event event_code="850">
+      <short_text>Vejarbejde</short_text>
+      <long_text>forsinkelser forventes på grund af arbejde med nedgravede installationer</long_text>
+    </tmc_event>
+    <tmc_event event_code="851">
+      <short_text>Vejarbejde</short_text>
+      <long_text>store forsinkelser på grund af arbejde med nedgravede installationer</long_text>
+    </tmc_event>
+    <tmc_event event_code="852">
+      <short_text>Farlig situation</short_text>
+      <long_text>arbejdskøretøjer sammenflettes med den øvrige trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="853">
+      <short_text>Vejarbejde</short_text>
+      <long_text>oprydning efter vejarbejde i gang</long_text>
+    </tmc_event>
+    <tmc_event event_code="856">
+      <short_text>Farlig situation</short_text>
+      <long_text>pas på, arbejdskøretøjer sammenflettes med den øvrige trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="857">
+      <short_text>Ulykke</short_text>
+      <long_text>usikret skadested</long_text>
+    </tmc_event>
+    <tmc_event event_code="858">
+      <short_text>Ulykke</short_text>
+      <long_text>fare for usikret skadested</long_text>
+    </tmc_event>
+    <tmc_event event_code="900">
+      <short_text>Oversvømmelse</short_text>
+      <long_text>oversvømmelser forventes</long_text>
+    </tmc_event>
+    <tmc_event event_code="901">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>forhindringer på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="902">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>pas på, forhindringer på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="903">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>spild på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="904">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>stormskader</long_text>
+    </tmc_event>
+    <tmc_event event_code="905">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>væltede træer</long_text>
+    </tmc_event>
+    <tmc_event event_code="906">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>pas på, væltede træer</long_text>
+    </tmc_event>
+    <tmc_event event_code="907">
+      <short_text>Oversvømmelse</short_text>
+      <long_text>oversvømmelser</long_text>
+    </tmc_event>
+    <tmc_event event_code="908">
+      <short_text>Oversvømmelse</short_text>
+      <long_text>pas på, oversvømmelser</long_text>
+    </tmc_event>
+    <tmc_event event_code="909">
+      <short_text>Oversvømmelse</short_text>
+      <long_text>pludselig opståede oversvømmelser</long_text>
+    </tmc_event>
+    <tmc_event event_code="910">
+      <short_text>Oversvømmelse</short_text>
+      <long_text>risiko for pludselig opståede oversvømmelser</long_text>
+    </tmc_event>
+    <tmc_event event_code="911">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>laviner</long_text>
+    </tmc_event>
+    <tmc_event event_code="912">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>lavinefare</long_text>
+    </tmc_event>
+    <tmc_event event_code="913">
+      <short_text>Farlig situation</short_text>
+      <long_text>stenskred</long_text>
+    </tmc_event>
+    <tmc_event event_code="914">
+      <short_text>Farlig situation</short_text>
+      <long_text>jordskred</long_text>
+    </tmc_event>
+    <tmc_event event_code="915">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>jordskælvsskader</long_text>
+    </tmc_event>
+    <tmc_event event_code="916">
+      <short_text>Farlige forhold på kørebanen</short_text>
+      <long_text>vejbelægning i dårlig stand</long_text>
+    </tmc_event>
+    <tmc_event event_code="917">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>sammensynkning</long_text>
+    </tmc_event>
+    <tmc_event event_code="918">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>sammenstyrtet kloak</long_text>
+    </tmc_event>
+    <tmc_event event_code="919">
+      <short_text>Oversvømmelse</short_text>
+      <long_text>hovedvandledning sprunget</long_text>
+    </tmc_event>
+    <tmc_event event_code="920">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>gaslækage</long_text>
+    </tmc_event>
+    <tmc_event event_code="921">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>storbrand</long_text>
+    </tmc_event>
+    <tmc_event event_code="922">
+      <short_text>Farlig situation</short_text>
+      <long_text>dyr på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="923">
+      <short_text>Farlig situation</short_text>
+      <long_text>pas på, dyr på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="924">
+      <short_text>Trafikal forhindring</short_text>
+      <long_text>oprydningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="925">
+      <short_text>Spærring</short_text>
+      <long_text>vej spærret på grund af stormskade</long_text>
+    </tmc_event>
+    <tmc_event event_code="926">
+      <short_text>Spærring</short_text>
+      <long_text>vej spærret på grund af væltede træer</long_text>
+    </tmc_event>
+    <tmc_event event_code="927">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>væltede træer, kan passeres med forsigtighed</long_text>
+    </tmc_event>
+    <tmc_event event_code="928">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik på grund af oversvømmelse</long_text>
+    </tmc_event>
+    <tmc_event event_code="929">
+      <short_text>Oversvømmelse</short_text>
+      <long_text>risiko for stillestående trafik på grund af oversvømmelse</long_text>
+    </tmc_event>
+    <tmc_event event_code="930">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser på grund af oversvømmelse</long_text>
+    </tmc_event>
+    <tmc_event event_code="931">
+      <short_text>Trafikal forhindring</short_text>
+      <long_text>risiko for kødannelser på grund af oversvømmelse</long_text>
+    </tmc_event>
+    <tmc_event event_code="932">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik på grund af oversvømmelse</long_text>
+    </tmc_event>
+    <tmc_event event_code="933">
+      <short_text>Oversvømmelse</short_text>
+      <long_text>langsom trafik forventes på grund af oversvømmelse</long_text>
+    </tmc_event>
+    <tmc_event event_code="934">
+      <short_text>Tæt trafik</short_text>
+      <long_text>tæt trafik på grund af oversvømmelse</long_text>
+    </tmc_event>
+    <tmc_event event_code="935">
+      <short_text>Oversvømmelse</short_text>
+      <long_text>tæt trafik forventes på grund af oversvømmelse</long_text>
+    </tmc_event>
+    <tmc_event event_code="936">
+      <short_text>Oversvømmelse</short_text>
+      <long_text>normal trafik på trods af oversvømmelse</long_text>
+    </tmc_event>
+    <tmc_event event_code="937">
+      <short_text>Tæt trafik</short_text>
+      <long_text>tiltagende trafik på grund af oversvømmelse</long_text>
+    </tmc_event>
+    <tmc_event event_code="938">
+      <short_text>Spærring</short_text>
+      <long_text>lukket på grund af oversvømmelse</long_text>
+    </tmc_event>
+    <tmc_event event_code="939">
+      <short_text>Oversvømmelse</short_text>
+      <long_text>forsinkelser på grund af oversvømmelse</long_text>
+    </tmc_event>
+    <tmc_event event_code="940">
+      <short_text>Oversvømmelse</short_text>
+      <long_text>forsinkelser forventes på grund af oversvømmelse</long_text>
+    </tmc_event>
+    <tmc_event event_code="941">
+      <short_text>Oversvømmelse</short_text>
+      <long_text>store forsinkelser på grund af oversvømmelse</long_text>
+    </tmc_event>
+    <tmc_event event_code="942">
+      <short_text>Oversvømmelse</short_text>
+      <long_text>oversvømmelse, kan passeres med forsigtighed</long_text>
+    </tmc_event>
+    <tmc_event event_code="943">
+      <short_text>Spærring</short_text>
+      <long_text>lukket på grund af laviner</long_text>
+    </tmc_event>
+    <tmc_event event_code="944">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>laviner, kan passeres med forsigtighed</long_text>
+    </tmc_event>
+    <tmc_event event_code="945">
+      <short_text>Spærring</short_text>
+      <long_text>lukket på grund af stenskred</long_text>
+    </tmc_event>
+    <tmc_event event_code="946">
+      <short_text>Farlig situation</short_text>
+      <long_text>stenskred, kan passeres med forsigtighed</long_text>
+    </tmc_event>
+    <tmc_event event_code="947">
+      <short_text>Spærring</short_text>
+      <long_text>vej lukket på grund af jordskred</long_text>
+    </tmc_event>
+    <tmc_event event_code="948">
+      <short_text>Farlig situation</short_text>
+      <long_text>jordskred, kan passeres med forsigtighed</long_text>
+    </tmc_event>
+    <tmc_event event_code="949">
+      <short_text>Spærring</short_text>
+      <long_text>lukket på grund af sammensynkning af vejen</long_text>
+    </tmc_event>
+    <tmc_event event_code="950">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>sammensynkning af vejen, enkelt kørespor med trafik i skiftende retninger</long_text>
+    </tmc_event>
+    <tmc_event event_code="951">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>kun 1 spor farbart på grund af sammensunket vej</long_text>
+    </tmc_event>
+    <tmc_event event_code="952">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>kun 2 spor farbare på grund af sammensunket vej</long_text>
+    </tmc_event>
+    <tmc_event event_code="953">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>kun 3 spor farbare på grund af sammensunket vej</long_text>
+    </tmc_event>
+    <tmc_event event_code="954">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>modkørende trafik på grund af sammensunket vej</long_text>
+    </tmc_event>
+    <tmc_event event_code="955">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>sammensynkning af vejen, kan passeres med forsigtighed</long_text>
+    </tmc_event>
+    <tmc_event event_code="956">
+      <short_text>Spærring</short_text>
+      <long_text>vej lukket på grund af sammenstyrtet kloak</long_text>
+    </tmc_event>
+    <tmc_event event_code="957">
+      <short_text>Spærring</short_text>
+      <long_text>vej lukket på grund af sprunget hovedvandledning</long_text>
+    </tmc_event>
+    <tmc_event event_code="958">
+      <short_text>Oversvømmelse</short_text>
+      <long_text>forsinkelser på grund af sprunget hovedvandledning</long_text>
+    </tmc_event>
+    <tmc_event event_code="959">
+      <short_text>Oversvømmelse</short_text>
+      <long_text>forsinkelser forventes på grund af sprunget hovedvandledning</long_text>
+    </tmc_event>
+    <tmc_event event_code="960">
+      <short_text>Oversvømmelse</short_text>
+      <long_text>store forsinkelser på grund af sprunget hovedvandledning</long_text>
+    </tmc_event>
+    <tmc_event event_code="961">
+      <short_text>Spærring</short_text>
+      <long_text>vej lukket på grund af gaslækage</long_text>
+    </tmc_event>
+    <tmc_event event_code="962">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>forsinkelser på grund af gaslækage</long_text>
+    </tmc_event>
+    <tmc_event event_code="963">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>forsinkelser forventes på grund af gaslækage</long_text>
+    </tmc_event>
+    <tmc_event event_code="964">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>store forsinkelser på grund af gaslækage</long_text>
+    </tmc_event>
+    <tmc_event event_code="965">
+      <short_text>Spærring</short_text>
+      <long_text>vej lukket på grund af storbrand</long_text>
+    </tmc_event>
+    <tmc_event event_code="966">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>forsinkelser på grund af storbrand</long_text>
+    </tmc_event>
+    <tmc_event event_code="967">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>forsinkelser forventes på grund af storbrand</long_text>
+    </tmc_event>
+    <tmc_event event_code="968">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>store forsinkelser på grund af storbrand</long_text>
+    </tmc_event>
+    <tmc_event event_code="969">
+      <short_text>Spærring</short_text>
+      <long_text>vej lukket på grund af oprydningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="972">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>stormskader forventes</long_text>
+    </tmc_event>
+    <tmc_event event_code="973">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>nedfaldne elledninger</long_text>
+    </tmc_event>
+    <tmc_event event_code="974">
+      <short_text>Oversvømmelse</short_text>
+      <long_text>overløb af kloakker</long_text>
+    </tmc_event>
+    <tmc_event event_code="975">
+      <short_text>Glat vej</short_text>
+      <long_text>isdannelse</long_text>
+    </tmc_event>
+    <tmc_event event_code="976">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>mudderskred</long_text>
+    </tmc_event>
+    <tmc_event event_code="977">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>markbrand</long_text>
+    </tmc_event>
+    <tmc_event event_code="978">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>flystyrt</long_text>
+    </tmc_event>
+    <tmc_event event_code="979">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>togulykke</long_text>
+    </tmc_event>
+    <tmc_event event_code="980">
+      <short_text>Spærring</short_text>
+      <long_text>vej spærret på grund af forhindring på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="981">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>forhindring på kørebanen, kan passeres med forsigtighed</long_text>
+    </tmc_event>
+    <tmc_event event_code="982">
+      <short_text>Spærring</short_text>
+      <long_text>vej spærret på grund af spild på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="983">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>spild på kørebanen, kan passeres med forsigtighed</long_text>
+    </tmc_event>
+    <tmc_event event_code="984">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>pas på, spild på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="985">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>stormskader, kan passeres med forsigtighed</long_text>
+    </tmc_event>
+    <tmc_event event_code="986">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>pas på, stormskader</long_text>
+    </tmc_event>
+    <tmc_event event_code="987">
+      <short_text>Spærring</short_text>
+      <long_text>vej spærret på grund af nedfaldne elledninger</long_text>
+    </tmc_event>
+    <tmc_event event_code="988">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>nedfaldne ledninger, kan passeres med forsigtighed</long_text>
+    </tmc_event>
+    <tmc_event event_code="989">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>pas på, nedfaldne elledninger</long_text>
+    </tmc_event>
+    <tmc_event event_code="990">
+      <short_text>Oversvømmelse</short_text>
+      <long_text>pas på, overløb af kloakker</long_text>
+    </tmc_event>
+    <tmc_event event_code="991">
+      <short_text>Oversvømmelse</short_text>
+      <long_text>pas på, pludselig opståede oversvømmelser</long_text>
+    </tmc_event>
+    <tmc_event event_code="992">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>pas på, laviner</long_text>
+    </tmc_event>
+    <tmc_event event_code="993">
+      <short_text>Spærring</short_text>
+      <long_text>lukket på grund af lavinefare</long_text>
+    </tmc_event>
+    <tmc_event event_code="994">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>pas på, lavinefare</long_text>
+    </tmc_event>
+    <tmc_event event_code="995">
+      <short_text>Spærring</short_text>
+      <long_text>lukket på grund af isdannelse</long_text>
+    </tmc_event>
+    <tmc_event event_code="996">
+      <short_text>Glat vej</short_text>
+      <long_text>isdannelse, kan passeres med forsigtighed</long_text>
+    </tmc_event>
+    <tmc_event event_code="997">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>isdannelser, enkelt kørespor med trafik i skiftende retninger</long_text>
+    </tmc_event>
+    <tmc_event event_code="998">
+      <short_text>Farlig situation</short_text>
+      <long_text>pas på, stenskred</long_text>
+    </tmc_event>
+    <tmc_event event_code="999">
+      <short_text>Farlig situation</short_text>
+      <long_text>pas på, jordskred</long_text>
+    </tmc_event>
+    <tmc_event event_code="1000">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>pas på, jordskælvsskader</long_text>
+    </tmc_event>
+    <tmc_event event_code="1001">
+      <short_text>Farlige forhold på kørebanen</short_text>
+      <long_text>risikable kørselsforhold</long_text>
+    </tmc_event>
+    <tmc_event event_code="1002">
+      <short_text>Glat vej</short_text>
+      <long_text>risiko for akvaplaning</long_text>
+    </tmc_event>
+    <tmc_event event_code="1003">
+      <short_text>Glat vej</short_text>
+      <long_text>glat</long_text>
+    </tmc_event>
+    <tmc_event event_code="1004">
+      <short_text>Glat vej</short_text>
+      <long_text>mudder på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="1005">
+      <short_text>Glat vej</short_text>
+      <long_text>nedfaldne blade på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="1006">
+      <short_text>Glat vej</short_text>
+      <long_text>isglat</long_text>
+    </tmc_event>
+    <tmc_event event_code="1007">
+      <short_text>Glat vej</short_text>
+      <long_text>risiko for isglat</long_text>
+    </tmc_event>
+    <tmc_event event_code="1008">
+      <short_text>Glat vej</short_text>
+      <long_text>usynligt islag</long_text>
+    </tmc_event>
+    <tmc_event event_code="1009">
+      <short_text>Glat vej</short_text>
+      <long_text>isslag</long_text>
+    </tmc_event>
+    <tmc_event event_code="1010">
+      <short_text>Glat vej</short_text>
+      <long_text>vådt og isglat</long_text>
+    </tmc_event>
+    <tmc_event event_code="1011">
+      <short_text>Glat vej</short_text>
+      <long_text>sjap på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="1012">
+      <short_text>Glat vej</short_text>
+      <long_text>sne på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="1013">
+      <short_text>Snefald</short_text>
+      <long_text>hård og fastkørt sne på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="1014">
+      <short_text>Snefald</short_text>
+      <long_text>nysne på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="1015">
+      <short_text>Snefald</short_text>
+      <long_text>dyb sne på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="1016">
+      <short_text>Snefald</short_text>
+      <long_text>snedriver</long_text>
+    </tmc_event>
+    <tmc_event event_code="1017">
+      <short_text>Glat vej</short_text>
+      <long_text>glat på grund af spild</long_text>
+    </tmc_event>
+    <tmc_event event_code="1018">
+      <short_text>Glat vej</short_text>
+      <long_text>sneglat</long_text>
+    </tmc_event>
+    <tmc_event event_code="1019">
+      <short_text>Glat vej</short_text>
+      <long_text>glat på grund af frost</long_text>
+    </tmc_event>
+    <tmc_event event_code="1020">
+      <short_text>Glat vej</short_text>
+      <long_text>vejen er spærret af sne</long_text>
+    </tmc_event>
+    <tmc_event event_code="1021">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>kun 1 spor farbart på grund af sne</long_text>
+    </tmc_event>
+    <tmc_event event_code="1022">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>kun 2 spor farbart på grund af sne</long_text>
+    </tmc_event>
+    <tmc_event event_code="1023">
+      <short_text>Vejindsnævring</short_text>
+      <long_text>kun 3 spor farbart på grund af sne</long_text>
+    </tmc_event>
+    <tmc_event event_code="1026">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>pas på, sammensynkning</long_text>
+    </tmc_event>
+    <tmc_event event_code="1027">
+      <short_text>Oversvømmelse</short_text>
+      <long_text>forsinkelser på grund af sammenstyrtet kloak</long_text>
+    </tmc_event>
+    <tmc_event event_code="1028">
+      <short_text>Oversvømmelse</short_text>
+      <long_text>forsinkelser forventes på grund af sammenstyrtet kloak</long_text>
+    </tmc_event>
+    <tmc_event event_code="1029">
+      <short_text>Oversvømmelse</short_text>
+      <long_text>store forsinkelser på grund af sammenstyrtet kloak</long_text>
+    </tmc_event>
+    <tmc_event event_code="1030">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>pas på, sammenstyrtet kloak</long_text>
+    </tmc_event>
+    <tmc_event event_code="1031">
+      <short_text>Oversvømmelse</short_text>
+      <long_text>pas på, hovedvandledning sprunget</long_text>
+    </tmc_event>
+    <tmc_event event_code="1032">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>pas på, gaslækage</long_text>
+    </tmc_event>
+    <tmc_event event_code="1033">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>pas på, storbrand</long_text>
+    </tmc_event>
+    <tmc_event event_code="1034">
+      <short_text>Trafikal forhindring</short_text>
+      <long_text>pas på, oprydningsarbejde</long_text>
+    </tmc_event>
+    <tmc_event event_code="1035">
+      <short_text>Vej uden kørselsmulighed</short_text>
+      <long_text>kan ikke passeres</long_text>
+    </tmc_event>
+    <tmc_event event_code="1036">
+      <short_text>Farlige forhold på kørebanen</short_text>
+      <long_text>vanskelig at passere</long_text>
+    </tmc_event>
+    <tmc_event event_code="1037">
+      <short_text>Farlige forhold på kørebanen</short_text>
+      <long_text>ekstremt risikable kørselsforhold</long_text>
+    </tmc_event>
+    <tmc_event event_code="1038">
+      <short_text>Farlige forhold på kørebanen</short_text>
+      <long_text>vanskelige kørselsforhold</long_text>
+    </tmc_event>
+    <tmc_event event_code="1041">
+      <short_text>Oversvømmelse</short_text>
+      <long_text>vand på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="1042">
+      <short_text>Glat vej</short_text>
+      <long_text>løst sand på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="1044">
+      <short_text>Glat vej</short_text>
+      <long_text>olie på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="1045">
+      <short_text>Farlig situation</short_text>
+      <long_text>brændstof på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="1047">
+      <short_text>Glat vej</short_text>
+      <long_text>pletvis isglat</long_text>
+    </tmc_event>
+    <tmc_event event_code="1048">
+      <short_text>Glat vej</short_text>
+      <long_text>risiko for pletvis isglat</long_text>
+    </tmc_event>
+    <tmc_event event_code="1050">
+      <short_text>Glat vej</short_text>
+      <long_text>risiko for usynligt islag</long_text>
+    </tmc_event>
+    <tmc_event event_code="1054">
+      <short_text>Glat vej</short_text>
+      <long_text>glat på grund af løst sand</long_text>
+    </tmc_event>
+    <tmc_event event_code="1055">
+      <short_text>Glat vej</short_text>
+      <long_text>pas på, mudder på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="1056">
+      <short_text>Glat vej</short_text>
+      <long_text>pas på, løse småsten på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="1057">
+      <short_text>Glat vej</short_text>
+      <long_text>pas på, olie på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="1058">
+      <short_text>Farlig situation</short_text>
+      <long_text>pas på, brændstof på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="1059">
+      <short_text>Farlige forhold på kørebanen</short_text>
+      <long_text>pas på, vejbelægning i dårlig stand</long_text>
+    </tmc_event>
+    <tmc_event event_code="1060">
+      <short_text>Glat vej</short_text>
+      <long_text>isglat på broer</long_text>
+    </tmc_event>
+    <tmc_event event_code="1061">
+      <short_text>Glat vej</short_text>
+      <long_text>risiko for pletvis isglat på broer</long_text>
+    </tmc_event>
+    <tmc_event event_code="1064">
+      <short_text>Farlige forhold på kørebanen</short_text>
+      <long_text>kan ikke passeres af køretøjer med anhænger</long_text>
+    </tmc_event>
+    <tmc_event event_code="1066">
+      <short_text>Trafikal forhindring</short_text>
+      <long_text>pas på, rednings- og oprydningsarbejde i gang</long_text>
+    </tmc_event>
+    <tmc_event event_code="1067">
+      <short_text>Farlig situation</short_text>
+      <long_text>store dyr på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="1068">
+      <short_text>Farlig situation</short_text>
+      <long_text>dyreflokke på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="1073">
+      <short_text>Farlige forhold på kørebanen</short_text>
+      <long_text>ekstremt risikable kørselsforhold forventes</long_text>
+    </tmc_event>
+    <tmc_event event_code="1074">
+      <short_text>Glat vej</short_text>
+      <long_text>isslag forventes</long_text>
+    </tmc_event>
+    <tmc_event event_code="1075">
+      <short_text>Snefald</short_text>
+      <long_text>risiko for at vejen bliver spærret af sne</long_text>
+    </tmc_event>
+    <tmc_event event_code="1079">
+      <short_text>Ekstrem temperatur</short_text>
+      <long_text>temperaturen falder hurtigt</long_text>
+    </tmc_event>
+    <tmc_event event_code="1080">
+      <short_text>Temperaturinformation</short_text>
+      <long_text>ekstrem varme</long_text>
+    </tmc_event>
+    <tmc_event event_code="1081">
+      <short_text>Ekstrem temperatur</short_text>
+      <long_text>ekstrem kulde</long_text>
+    </tmc_event>
+    <tmc_event event_code="1083">
+      <short_text>Temperaturinformation</short_text>
+      <long_text>temperaturen</long_text>
+    </tmc_event>
+    <tmc_event event_code="1084">
+      <short_text>Farlig situation</short_text>
+      <long_text>bygningsbrand</long_text>
+    </tmc_event>
+    <tmc_event event_code="1086">
+      <short_text>Ulykke</short_text>
+      <long_text>fastsiddende køretøj under bro</long_text>
+    </tmc_event>
+    <tmc_event event_code="1101">
+      <short_text>Snefald</short_text>
+      <long_text>kraftigt snefald</long_text>
+    </tmc_event>
+    <tmc_event event_code="1102">
+      <short_text>Snefald</short_text>
+      <long_text>kraftigt snefald med sigtbarhed mindre end 30 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1103">
+      <short_text>Snefald</short_text>
+      <long_text>kraftigt snefald med sigtbarhed mindre end 50 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1104">
+      <short_text>Snefald</short_text>
+      <long_text>snefald</long_text>
+    </tmc_event>
+    <tmc_event event_code="1105">
+      <short_text>Snefald</short_text>
+      <long_text>snefald med sigtbarhed mindre end 100 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1106">
+      <short_text>Nedsat sigtbarhed</short_text>
+      <long_text>haglvejr</long_text>
+    </tmc_event>
+    <tmc_event event_code="1107">
+      <short_text>Snefald</short_text>
+      <long_text>slud</long_text>
+    </tmc_event>
+    <tmc_event event_code="1108">
+      <short_text>Nedsat sigtbarhed</short_text>
+      <long_text>tordenvejr</long_text>
+    </tmc_event>
+    <tmc_event event_code="1109">
+      <short_text>Kraftig regn</short_text>
+      <long_text>kraftig regn</long_text>
+    </tmc_event>
+    <tmc_event event_code="1110">
+      <short_text>Kraftig regn</short_text>
+      <long_text>kraftig regn med sigtbarhed mindre end 30 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1111">
+      <short_text>Kraftig regn</short_text>
+      <long_text>kraftig regn med sigtbarhed mindre end 50 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1112">
+      <short_text>Kraftig regn</short_text>
+      <long_text>regn</long_text>
+    </tmc_event>
+    <tmc_event event_code="1113">
+      <short_text>Kraftig regn</short_text>
+      <long_text>regn med sigtbarhed mindre end 100 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1114">
+      <short_text>Kraftig regn</short_text>
+      <long_text>regnbyger</long_text>
+    </tmc_event>
+    <tmc_event event_code="1115">
+      <short_text>Ekstrem temperatur</short_text>
+      <long_text>hård frost</long_text>
+    </tmc_event>
+    <tmc_event event_code="1116">
+      <short_text>Ekstrem temperatur</short_text>
+      <long_text>frost</long_text>
+    </tmc_event>
+    <tmc_event event_code="1128">
+      <short_text>Snefald</short_text>
+      <long_text>vinterstorm</long_text>
+    </tmc_event>
+    <tmc_event event_code="1130">
+      <short_text>Nedsat sigtbarhed</short_text>
+      <long_text>snestorm</long_text>
+    </tmc_event>
+    <tmc_event event_code="1132">
+      <short_text>Nedsat sigtbarhed</short_text>
+      <long_text>voldsomt haglvejr</long_text>
+    </tmc_event>
+    <tmc_event event_code="1134">
+      <short_text>Snefald</short_text>
+      <long_text>kraftigt snefald med nedsat sigtbarhed</long_text>
+    </tmc_event>
+    <tmc_event event_code="1135">
+      <short_text>Snefald</short_text>
+      <long_text>snefald</long_text>
+    </tmc_event>
+    <tmc_event event_code="1136">
+      <short_text>Kraftig regn</short_text>
+      <long_text>kraftig regn med nedsat sigtbarhed</long_text>
+    </tmc_event>
+    <tmc_event event_code="1137">
+      <short_text>Kraftig regn</short_text>
+      <long_text>regn</long_text>
+    </tmc_event>
+    <tmc_event event_code="1170">
+      <short_text>Snefald</short_text>
+      <long_text>kraftigt snefald forventes</long_text>
+    </tmc_event>
+    <tmc_event event_code="1171">
+      <short_text>Kraftig regn</short_text>
+      <long_text>kraftig regn forventes</long_text>
+    </tmc_event>
+    <tmc_event event_code="1173">
+      <short_text>Nedsat sigtbarhed</short_text>
+      <long_text>snestorm forventes</long_text>
+    </tmc_event>
+    <tmc_event event_code="1174">
+      <short_text>Nedsat sigtbarhed</short_text>
+      <long_text>voldsomt haglvejr forventes</long_text>
+    </tmc_event>
+    <tmc_event event_code="1175">
+      <short_text>Nedsat sigtbarhed</short_text>
+      <long_text>nedsat sigtbarhed forventes</long_text>
+    </tmc_event>
+    <tmc_event event_code="1176">
+      <short_text>Glat vej</short_text>
+      <long_text>risiko for glatte veje, rimtåge forventes</long_text>
+    </tmc_event>
+    <tmc_event event_code="1177">
+      <short_text>Tåge</short_text>
+      <long_text>tæt tåge forventes</long_text>
+    </tmc_event>
+    <tmc_event event_code="1178">
+      <short_text>Tåge</short_text>
+      <long_text>tågebanker forventes</long_text>
+    </tmc_event>
+    <tmc_event event_code="1190">
+      <short_text>Smog</short_text>
+      <long_text>kraftig smog</long_text>
+    </tmc_event>
+    <tmc_event event_code="1191">
+      <short_text>Smog</short_text>
+      <long_text>kraftig forurening fra udstødning</long_text>
+    </tmc_event>
+    <tmc_event event_code="1201">
+      <short_text>Kraftig vind</short_text>
+      <long_text>tornado</long_text>
+    </tmc_event>
+    <tmc_event event_code="1202">
+      <short_text>Kraftig vind</short_text>
+      <long_text>vindstød af orkanstyrke</long_text>
+    </tmc_event>
+    <tmc_event event_code="1203">
+      <short_text>Kraftig vind</short_text>
+      <long_text>hård kuling</long_text>
+    </tmc_event>
+    <tmc_event event_code="1204">
+      <short_text>Kraftig vind</short_text>
+      <long_text>vindstød af stormstyrke</long_text>
+    </tmc_event>
+    <tmc_event event_code="1205">
+      <short_text>Kraftig vind</short_text>
+      <long_text>kraftig blæst</long_text>
+    </tmc_event>
+    <tmc_event event_code="1209">
+      <short_text>Kraftig vind</short_text>
+      <long_text>kastevinde</long_text>
+    </tmc_event>
+    <tmc_event event_code="1210">
+      <short_text>Kraftig vind</short_text>
+      <long_text>sidevinde</long_text>
+    </tmc_event>
+    <tmc_event event_code="1211">
+      <short_text>Kraftig vind</short_text>
+      <long_text>kraftig blæst der kan påvirke campingvogne og høje køretøjer</long_text>
+    </tmc_event>
+    <tmc_event event_code="1301">
+      <short_text>Tåge</short_text>
+      <long_text>tæt tåge</long_text>
+    </tmc_event>
+    <tmc_event event_code="1302">
+      <short_text>Tåge</short_text>
+      <long_text>tæt tåge med sigtbarhed mindre end 30 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1303">
+      <short_text>Tåge</short_text>
+      <long_text>tæt tåge med sigtbarhed mindre end 50 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1304">
+      <short_text>Tåge</short_text>
+      <long_text>tåge</long_text>
+    </tmc_event>
+    <tmc_event event_code="1305">
+      <short_text>Tåge</short_text>
+      <long_text>tåge med sigtbarhed mindre end 100 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1307">
+      <short_text>Tåge</short_text>
+      <long_text>tågebanker</long_text>
+    </tmc_event>
+    <tmc_event event_code="1308">
+      <short_text>Tåge</short_text>
+      <long_text>rimtåge</long_text>
+    </tmc_event>
+    <tmc_event event_code="1309">
+      <short_text>Nedsat sigtbarhed</short_text>
+      <long_text>nedsat sigtbarhed på grund af røg</long_text>
+    </tmc_event>
+    <tmc_event event_code="1310">
+      <short_text>Nedsat sigtbarhed</short_text>
+      <long_text>støvfygning</long_text>
+    </tmc_event>
+    <tmc_event event_code="1312">
+      <short_text>Snefald</short_text>
+      <long_text>snefald og tåge</long_text>
+    </tmc_event>
+    <tmc_event event_code="1318">
+      <short_text>Nedsat sigtbarhed</short_text>
+      <long_text>nedsat sigtbarhed</long_text>
+    </tmc_event>
+    <tmc_event event_code="1319">
+      <short_text>Nedsat sigtbarhed</short_text>
+      <long_text>sigtbarhed mindre end 30 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1320">
+      <short_text>Nedsat sigtbarhed</short_text>
+      <long_text>sigtbarhed mindre end 50 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1321">
+      <short_text>Nedsat sigtbarhed</short_text>
+      <long_text>sigtbarhed mindre end 100 m</long_text>
+    </tmc_event>
+    <tmc_event event_code="1322">
+      <short_text>Nedsat sigtbarhed</short_text>
+      <long_text>udsyn stærkt begrænset</long_text>
+    </tmc_event>
+    <tmc_event event_code="1323">
+      <short_text>Snefald</short_text>
+      <long_text>snefygning</long_text>
+    </tmc_event>
+    <tmc_event event_code="1324">
+      <short_text>Nedsat sigtbarhed</short_text>
+      <long_text>nedsat sigtbarhed på grund af våde vejbaner</long_text>
+    </tmc_event>
+    <tmc_event event_code="1325">
+      <short_text>Nedsat sigtbarhed</short_text>
+      <long_text>lavtstående sol</long_text>
+    </tmc_event>
+    <tmc_event event_code="1326">
+      <short_text>Nedsat sigtbarhed</short_text>
+      <long_text>sandstorm</long_text>
+    </tmc_event>
+    <tmc_event event_code="1332">
+      <short_text>Smog</short_text>
+      <long_text>smog-alarm</long_text>
+    </tmc_event>
+    <tmc_event event_code="1337">
+      <short_text>Glat vej</short_text>
+      <long_text>glat på grund af rimtåge</long_text>
+    </tmc_event>
+    <tmc_event event_code="1338">
+      <short_text>Smog</short_text>
+      <long_text>lukket for motorkøretøjer på grund af smog-alarm</long_text>
+    </tmc_event>
+    <tmc_event event_code="1340">
+      <short_text>Nedsat sigtbarhed</short_text>
+      <long_text>insektsværme</long_text>
+    </tmc_event>
+    <tmc_event event_code="1450">
+      <short_text>Arrangementer</short_text>
+      <long_text>international sportsbegivenhed</long_text>
+    </tmc_event>
+    <tmc_event event_code="1451">
+      <short_text>Arrangementer</short_text>
+      <long_text>kamp</long_text>
+    </tmc_event>
+    <tmc_event event_code="1452">
+      <short_text>Arrangementer</short_text>
+      <long_text>turnering</long_text>
+    </tmc_event>
+    <tmc_event event_code="1453">
+      <short_text>Arrangementer</short_text>
+      <long_text>atletikstævne</long_text>
+    </tmc_event>
+    <tmc_event event_code="1454">
+      <short_text>Arrangementer</short_text>
+      <long_text>boldspil</long_text>
+    </tmc_event>
+    <tmc_event event_code="1455">
+      <short_text>Arrangementer</short_text>
+      <long_text>bokseturnering</long_text>
+    </tmc_event>
+    <tmc_event event_code="1456">
+      <short_text>Arrangementer</short_text>
+      <long_text>tyrefægtning</long_text>
+    </tmc_event>
+    <tmc_event event_code="1457">
+      <short_text>Arrangementer</short_text>
+      <long_text>cricketkamp</long_text>
+    </tmc_event>
+    <tmc_event event_code="1458">
+      <short_text>Arrangementer</short_text>
+      <long_text>cykelløb</long_text>
+    </tmc_event>
+    <tmc_event event_code="1459">
+      <short_text>Arrangementer</short_text>
+      <long_text>fodboldkamp</long_text>
+    </tmc_event>
+    <tmc_event event_code="1460">
+      <short_text>Arrangementer</short_text>
+      <long_text>golfturnering</long_text>
+    </tmc_event>
+    <tmc_event event_code="1461">
+      <short_text>Arrangementer</short_text>
+      <long_text>maratonløb</long_text>
+    </tmc_event>
+    <tmc_event event_code="1462">
+      <short_text>Arrangementer</short_text>
+      <long_text>hestevæddeløb</long_text>
+    </tmc_event>
+    <tmc_event event_code="1463">
+      <short_text>Arrangementer</short_text>
+      <long_text>rugbykamp</long_text>
+    </tmc_event>
+    <tmc_event event_code="1464">
+      <short_text>Arrangementer</short_text>
+      <long_text>ridebanespringning</long_text>
+    </tmc_event>
+    <tmc_event event_code="1465">
+      <short_text>Arrangementer</short_text>
+      <long_text>tennisturnering</long_text>
+    </tmc_event>
+    <tmc_event event_code="1466">
+      <short_text>Arrangementer</short_text>
+      <long_text>regatta</long_text>
+    </tmc_event>
+    <tmc_event event_code="1467">
+      <short_text>Arrangementer</short_text>
+      <long_text>vintersportsbegivenhed</long_text>
+    </tmc_event>
+    <tmc_event event_code="1468">
+      <short_text>Arrangementer</short_text>
+      <long_text>tivoli</long_text>
+    </tmc_event>
+    <tmc_event event_code="1469">
+      <short_text>Arrangementer</short_text>
+      <long_text>varemesse</long_text>
+    </tmc_event>
+    <tmc_event event_code="1470">
+      <short_text>Arrangementer</short_text>
+      <long_text>optog</long_text>
+    </tmc_event>
+    <tmc_event event_code="1471">
+      <short_text>Farlig situation</short_text>
+      <long_text>tilskuere spærrer for tilkørsel</long_text>
+    </tmc_event>
+    <tmc_event event_code="1472">
+      <short_text>Farlig situation</short_text>
+      <long_text>personer på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="1473">
+      <short_text>Farlig situation</short_text>
+      <long_text>børn på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="1474">
+      <short_text>Farlig situation</short_text>
+      <long_text>cyklister på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="1475">
+      <short_text>Arrangementer</short_text>
+      <long_text>strejke</long_text>
+    </tmc_event>
+    <tmc_event event_code="1476">
+      <short_text>Sikkerhedshændelse</short_text>
+      <long_text>sikkerhedstrussel</long_text>
+    </tmc_event>
+    <tmc_event event_code="1477">
+      <short_text>Sikkerhedshændelse</short_text>
+      <long_text>politikontrol</long_text>
+    </tmc_event>
+    <tmc_event event_code="1478">
+      <short_text>Sikkerhedshændelse</short_text>
+      <long_text>terrortrussel</long_text>
+    </tmc_event>
+    <tmc_event event_code="1479">
+      <short_text>Sikkerhedshændelse</short_text>
+      <long_text>pas på, skyderi på vejen</long_text>
+    </tmc_event>
+    <tmc_event event_code="1480">
+      <short_text>Sikkerhedshændelse</short_text>
+      <long_text>civilt beredskab</long_text>
+    </tmc_event>
+    <tmc_event event_code="1481">
+      <short_text>Sikkerhedshændelse</short_text>
+      <long_text>pas på, luftangreb</long_text>
+    </tmc_event>
+    <tmc_event event_code="1482">
+      <short_text>Farlig situation</short_text>
+      <long_text>pas på, personer på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="1483">
+      <short_text>Farlig situation</short_text>
+      <long_text>pas på, børn på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="1484">
+      <short_text>Farlig situation</short_text>
+      <long_text>pas på, cyklister på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="1485">
+      <short_text>Spærring</short_text>
+      <long_text>lukket på grund af sikkerhedstrussel</long_text>
+    </tmc_event>
+    <tmc_event event_code="1486">
+      <short_text>Sikkerhedshændelse</short_text>
+      <long_text>forsinkelser på grund af sikkerhedstrussel</long_text>
+    </tmc_event>
+    <tmc_event event_code="1487">
+      <short_text>Sikkerhedshændelse</short_text>
+      <long_text>forsinkelser forventes på grund af sikkerhedstrussel</long_text>
+    </tmc_event>
+    <tmc_event event_code="1488">
+      <short_text>Sikkerhedshændelse</short_text>
+      <long_text>store forsinkelser på grund af sikkerhedstrussel</long_text>
+    </tmc_event>
+    <tmc_event event_code="1489">
+      <short_text>Sikkerhedshændelse</short_text>
+      <long_text>forsinkelser på grund af politikontrol</long_text>
+    </tmc_event>
+    <tmc_event event_code="1490">
+      <short_text>Sikkerhedshændelse</short_text>
+      <long_text>forsinkelser forventes på grund af politikontrol</long_text>
+    </tmc_event>
+    <tmc_event event_code="1491">
+      <short_text>Sikkerhedshændelse</short_text>
+      <long_text>store forsinkelser på grund af politikontrol</long_text>
+    </tmc_event>
+    <tmc_event event_code="1494">
+      <short_text>Sikkerhedshændelse</short_text>
+      <long_text>evakuering</long_text>
+    </tmc_event>
+    <tmc_event event_code="1495">
+      <short_text>Tæt trafik</short_text>
+      <long_text>tæt trafik på grund af evakuering</long_text>
+    </tmc_event>
+    <tmc_event event_code="1501">
+      <short_text>Arrangementer</short_text>
+      <long_text>større begivenhed</long_text>
+    </tmc_event>
+    <tmc_event event_code="1502">
+      <short_text>Arrangementer</short_text>
+      <long_text>sportsbegivenhed</long_text>
+    </tmc_event>
+    <tmc_event event_code="1503">
+      <short_text>Arrangementer</short_text>
+      <long_text>opvisning</long_text>
+    </tmc_event>
+    <tmc_event event_code="1504">
+      <short_text>Arrangementer</short_text>
+      <long_text>festival</long_text>
+    </tmc_event>
+    <tmc_event event_code="1505">
+      <short_text>Arrangementer</short_text>
+      <long_text>udstilling</long_text>
+    </tmc_event>
+    <tmc_event event_code="1506">
+      <short_text>Arrangementer</short_text>
+      <long_text>messe</long_text>
+    </tmc_event>
+    <tmc_event event_code="1507">
+      <short_text>Arrangementer</short_text>
+      <long_text>marked</long_text>
+    </tmc_event>
+    <tmc_event event_code="1508">
+      <short_text>Arrangementer</short_text>
+      <long_text>ceremoniel begivenhed</long_text>
+    </tmc_event>
+    <tmc_event event_code="1509">
+      <short_text>Arrangementer</short_text>
+      <long_text>statsbegivenhed</long_text>
+    </tmc_event>
+    <tmc_event event_code="1510">
+      <short_text>Arrangementer</short_text>
+      <long_text>parade</long_text>
+    </tmc_event>
+    <tmc_event event_code="1511">
+      <short_text>Arrangementer</short_text>
+      <long_text>menneskemængde</long_text>
+    </tmc_event>
+    <tmc_event event_code="1512">
+      <short_text>Arrangementer</short_text>
+      <long_text>march</long_text>
+    </tmc_event>
+    <tmc_event event_code="1513">
+      <short_text>Arrangementer</short_text>
+      <long_text>demonstration</long_text>
+    </tmc_event>
+    <tmc_event event_code="1514">
+      <short_text>Arrangementer</short_text>
+      <long_text>optøjer</long_text>
+    </tmc_event>
+    <tmc_event event_code="1515">
+      <short_text>Sikkerhedshændelse</short_text>
+      <long_text>alarmberedskab</long_text>
+    </tmc_event>
+    <tmc_event event_code="1516">
+      <short_text>Sikkerhedshændelse</short_text>
+      <long_text>bombetrussel</long_text>
+    </tmc_event>
+    <tmc_event event_code="1517">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik på grund af større begivenhed</long_text>
+    </tmc_event>
+    <tmc_event event_code="1518">
+      <short_text>Arrangementer</short_text>
+      <long_text>risiko for stillestående trafik på grund af større begivenhed</long_text>
+    </tmc_event>
+    <tmc_event event_code="1519">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser på grund af større begivenhed</long_text>
+    </tmc_event>
+    <tmc_event event_code="1520">
+      <short_text>Arrangementer</short_text>
+      <long_text>risiko for kødannelser på grund af større begivenhed</long_text>
+    </tmc_event>
+    <tmc_event event_code="1521">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik på grund af større begivenhed</long_text>
+    </tmc_event>
+    <tmc_event event_code="1522">
+      <short_text>Arrangementer</short_text>
+      <long_text>langsom trafik forventes på grund af større begivenhed</long_text>
+    </tmc_event>
+    <tmc_event event_code="1523">
+      <short_text>Tæt trafik</short_text>
+      <long_text>tæt trafik på grund af større begivenhed</long_text>
+    </tmc_event>
+    <tmc_event event_code="1524">
+      <short_text>Arrangementer</short_text>
+      <long_text>tæt trafik forventes på grund af større begivenhed</long_text>
+    </tmc_event>
+    <tmc_event event_code="1525">
+      <short_text>Arrangementer</short_text>
+      <long_text>normal trafik på trods af større begivenhed</long_text>
+    </tmc_event>
+    <tmc_event event_code="1526">
+      <short_text>Tæt trafik</short_text>
+      <long_text>tiltagende trafik på grund af større begivenhed</long_text>
+    </tmc_event>
+    <tmc_event event_code="1527">
+      <short_text>Spærring</short_text>
+      <long_text>lukket på grund af større begivenhed</long_text>
+    </tmc_event>
+    <tmc_event event_code="1528">
+      <short_text>Forsinkelser</short_text>
+      <long_text>forsinkelser på grund af større begivenhed</long_text>
+    </tmc_event>
+    <tmc_event event_code="1529">
+      <short_text>Forsinkelser</short_text>
+      <long_text>forsinkelser forventes på grund af større begivenhed</long_text>
+    </tmc_event>
+    <tmc_event event_code="1530">
+      <short_text>Stor forsinkelse</short_text>
+      <long_text>store forsinkelser på grund af større begivenhed</long_text>
+    </tmc_event>
+    <tmc_event event_code="1531">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik på grund af sportsbegivenhed</long_text>
+    </tmc_event>
+    <tmc_event event_code="1532">
+      <short_text>Arrangementer</short_text>
+      <long_text>risiko for stillestående trafik på grund af sportsbegivenhed</long_text>
+    </tmc_event>
+    <tmc_event event_code="1533">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser på grund af sportsbegivenhed</long_text>
+    </tmc_event>
+    <tmc_event event_code="1534">
+      <short_text>Arrangementer</short_text>
+      <long_text>risiko for kødannelser på grund af sportsbegivenhed</long_text>
+    </tmc_event>
+    <tmc_event event_code="1535">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik på grund af sportsbegivenhed</long_text>
+    </tmc_event>
+    <tmc_event event_code="1536">
+      <short_text>Arrangementer</short_text>
+      <long_text>langsom trafik forventes på grund af sportsbegivenhed</long_text>
+    </tmc_event>
+    <tmc_event event_code="1537">
+      <short_text>Tæt trafik</short_text>
+      <long_text>tæt trafik på grund af sportsbegivenhed</long_text>
+    </tmc_event>
+    <tmc_event event_code="1538">
+      <short_text>Arrangementer</short_text>
+      <long_text>tæt trafik forventes på grund af sportsbegivenhed</long_text>
+    </tmc_event>
+    <tmc_event event_code="1539">
+      <short_text>Arrangementer</short_text>
+      <long_text>normal trafik på trods af sportsbegivenhed</long_text>
+    </tmc_event>
+    <tmc_event event_code="1540">
+      <short_text>Tæt trafik</short_text>
+      <long_text>tiltagende trafik på grund af sportsbegivenhed</long_text>
+    </tmc_event>
+    <tmc_event event_code="1541">
+      <short_text>Spærring</short_text>
+      <long_text>lukket på grund af sportsbegivenhed</long_text>
+    </tmc_event>
+    <tmc_event event_code="1542">
+      <short_text>Forsinkelser</short_text>
+      <long_text>forsinkelser på grund af sportsbegivenhed</long_text>
+    </tmc_event>
+    <tmc_event event_code="1543">
+      <short_text>Forsinkelser</short_text>
+      <long_text>forsinkelser forventes på grund af sportsbegivenhed</long_text>
+    </tmc_event>
+    <tmc_event event_code="1544">
+      <short_text>Stor forsinkelse</short_text>
+      <long_text>store forsinkelser på grund af sportsbegivenhed</long_text>
+    </tmc_event>
+    <tmc_event event_code="1545">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik på grund af messe</long_text>
+    </tmc_event>
+    <tmc_event event_code="1546">
+      <short_text>Arrangementer</short_text>
+      <long_text>risiko for stillestående trafik på grund af messe</long_text>
+    </tmc_event>
+    <tmc_event event_code="1547">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser på grund af messe</long_text>
+    </tmc_event>
+    <tmc_event event_code="1548">
+      <short_text>Arrangementer</short_text>
+      <long_text>risiko for kødannelser på grund af messe</long_text>
+    </tmc_event>
+    <tmc_event event_code="1549">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik på grund af messe</long_text>
+    </tmc_event>
+    <tmc_event event_code="1550">
+      <short_text>Arrangementer</short_text>
+      <long_text>langsom trafik forventes på grund af messe</long_text>
+    </tmc_event>
+    <tmc_event event_code="1551">
+      <short_text>Tæt trafik</short_text>
+      <long_text>tæt trafik på grund af messe</long_text>
+    </tmc_event>
+    <tmc_event event_code="1552">
+      <short_text>Arrangementer</short_text>
+      <long_text>tæt trafik forventes på grund af messe</long_text>
+    </tmc_event>
+    <tmc_event event_code="1553">
+      <short_text>Arrangementer</short_text>
+      <long_text>normal trafik på trods af messe</long_text>
+    </tmc_event>
+    <tmc_event event_code="1554">
+      <short_text>Tæt trafik</short_text>
+      <long_text>tiltagende trafik på grund af messe</long_text>
+    </tmc_event>
+    <tmc_event event_code="1555">
+      <short_text>Spærring</short_text>
+      <long_text>lukket på grund af messe</long_text>
+    </tmc_event>
+    <tmc_event event_code="1556">
+      <short_text>Forsinkelser</short_text>
+      <long_text>forsinkelser på grund af messe</long_text>
+    </tmc_event>
+    <tmc_event event_code="1557">
+      <short_text>Forsinkelser</short_text>
+      <long_text>forsinkelser forventes på grund af messe</long_text>
+    </tmc_event>
+    <tmc_event event_code="1558">
+      <short_text>Stor forsinkelse</short_text>
+      <long_text>store forsinkelser på grund af messe</long_text>
+    </tmc_event>
+    <tmc_event event_code="1559">
+      <short_text>Spærring</short_text>
+      <long_text>lukket på grund af parade</long_text>
+    </tmc_event>
+    <tmc_event event_code="1560">
+      <short_text>Forsinkelser</short_text>
+      <long_text>forsinkelser på grund af parade</long_text>
+    </tmc_event>
+    <tmc_event event_code="1561">
+      <short_text>Forsinkelser</short_text>
+      <long_text>forsinkelser forventes på grund af parade</long_text>
+    </tmc_event>
+    <tmc_event event_code="1562">
+      <short_text>Stor forsinkelse</short_text>
+      <long_text>store forsinkelser på grund af parade</long_text>
+    </tmc_event>
+    <tmc_event event_code="1563">
+      <short_text>Spærring</short_text>
+      <long_text>lukket på grund af strejke</long_text>
+    </tmc_event>
+    <tmc_event event_code="1564">
+      <short_text>Stor forsinkelse</short_text>
+      <long_text>forsinkelser på grund af strejke</long_text>
+    </tmc_event>
+    <tmc_event event_code="1565">
+      <short_text>Forsinkelser</short_text>
+      <long_text>forsinkelser forventes på grund af strejke</long_text>
+    </tmc_event>
+    <tmc_event event_code="1566">
+      <short_text>Stor forsinkelse</short_text>
+      <long_text>store forsinkelser på grund af strejke</long_text>
+    </tmc_event>
+    <tmc_event event_code="1567">
+      <short_text>Spærring</short_text>
+      <long_text>lukket på grund af demonstration</long_text>
+    </tmc_event>
+    <tmc_event event_code="1568">
+      <short_text>Forsinkelser</short_text>
+      <long_text>forsinkelser på grund af demonstration</long_text>
+    </tmc_event>
+    <tmc_event event_code="1569">
+      <short_text>Forsinkelser</short_text>
+      <long_text>forsinkelser forventes på grund af demonstration</long_text>
+    </tmc_event>
+    <tmc_event event_code="1570">
+      <short_text>Stor forsinkelse</short_text>
+      <long_text>store forsinkelser på grund af demonstration</long_text>
+    </tmc_event>
+    <tmc_event event_code="1571">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik på grund af alarmberedskab</long_text>
+    </tmc_event>
+    <tmc_event event_code="1572">
+      <short_text>Sikkerhedshændelse</short_text>
+      <long_text>risiko for stillestående trafik på grund af alarmberedskab</long_text>
+    </tmc_event>
+    <tmc_event event_code="1573">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser på grund af alarmberedskab</long_text>
+    </tmc_event>
+    <tmc_event event_code="1574">
+      <short_text>Sikkerhedshændelse</short_text>
+      <long_text>risiko for kødannelser på grund af alarmberedskab</long_text>
+    </tmc_event>
+    <tmc_event event_code="1575">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik på grund af alarmberedskab</long_text>
+    </tmc_event>
+    <tmc_event event_code="1576">
+      <short_text>Sikkerhedshændelse</short_text>
+      <long_text>langsom trafik forventes på grund af alarmberedskab</long_text>
+    </tmc_event>
+    <tmc_event event_code="1577">
+      <short_text>Tæt trafik</short_text>
+      <long_text>tæt trafik på grund af alarmberedskab</long_text>
+    </tmc_event>
+    <tmc_event event_code="1578">
+      <short_text>Sikkerhedshændelse</short_text>
+      <long_text>tæt trafik forventes på grund af alarmberedskab</long_text>
+    </tmc_event>
+    <tmc_event event_code="1579">
+      <short_text>Tæt trafik</short_text>
+      <long_text>tiltagende trafik på grund af alarmberedskab</long_text>
+    </tmc_event>
+    <tmc_event event_code="1580">
+      <short_text>Spærring</short_text>
+      <long_text>lukket på grund af alarmberedskab</long_text>
+    </tmc_event>
+    <tmc_event event_code="1581">
+      <short_text>Forsinkelser</short_text>
+      <long_text>forsinkelser på grund af alarmberedskab</long_text>
+    </tmc_event>
+    <tmc_event event_code="1582">
+      <short_text>Forsinkelser</short_text>
+      <long_text>forsinkelser forventes på grund af alarmberedskab</long_text>
+    </tmc_event>
+    <tmc_event event_code="1583">
+      <short_text>Stor forsinkelse</short_text>
+      <long_text>store forsinkelser på grund af alarmberedskab</long_text>
+    </tmc_event>
+    <tmc_event event_code="1586">
+      <short_text>Sikkerhedshændelse</short_text>
+      <long_text>normal trafik på trods af alarmberedskab</long_text>
+    </tmc_event>
+    <tmc_event event_code="1590">
+      <short_text>Arrangementer</short_text>
+      <long_text>flere større begivenheder</long_text>
+    </tmc_event>
+    <tmc_event event_code="1591">
+      <short_text>Arrangementer</short_text>
+      <long_text>information vedrørende større begivenhed er ikke længere gyldig</long_text>
+    </tmc_event>
+    <tmc_event event_code="1592">
+      <short_text>Arrangementer</short_text>
+      <long_text>motorløb</long_text>
+    </tmc_event>
+    <tmc_event event_code="1593">
+      <short_text>Arrangementer</short_text>
+      <long_text>baseballkamp</long_text>
+    </tmc_event>
+    <tmc_event event_code="1594">
+      <short_text>Arrangementer</short_text>
+      <long_text>basketballkamp</long_text>
+    </tmc_event>
+    <tmc_event event_code="1595">
+      <short_text>Arrangementer</short_text>
+      <long_text>kapsejlads</long_text>
+    </tmc_event>
+    <tmc_event event_code="1596">
+      <short_text>Arrangementer</short_text>
+      <long_text>koncert</long_text>
+    </tmc_event>
+    <tmc_event event_code="1597">
+      <short_text>Arrangementer</short_text>
+      <long_text>hockeykamp</long_text>
+    </tmc_event>
+    <tmc_event event_code="1601">
+      <short_text>Forsinkelser</short_text>
+      <long_text>forsinkelser</long_text>
+    </tmc_event>
+    <tmc_event event_code="1602">
+      <short_text>Forsinkelser</short_text>
+      <long_text>forsinkelser på op til 15 minutter</long_text>
+    </tmc_event>
+    <tmc_event event_code="1603">
+      <short_text>Forsinkelser</short_text>
+      <long_text>forsinkelser på op til 30 minutter</long_text>
+    </tmc_event>
+    <tmc_event event_code="1604">
+      <short_text>Stor forsinkelse</short_text>
+      <long_text>forsinkelser på op til 1 time</long_text>
+    </tmc_event>
+    <tmc_event event_code="1605">
+      <short_text>Stor forsinkelse</short_text>
+      <long_text>forsinkelser på op til 2 timer</long_text>
+    </tmc_event>
+    <tmc_event event_code="1606">
+      <short_text>Stor forsinkelse</short_text>
+      <long_text>forsinkelser på flere timer</long_text>
+    </tmc_event>
+    <tmc_event event_code="1607">
+      <short_text>Forsinkelser</short_text>
+      <long_text>forsinkelser forventes</long_text>
+    </tmc_event>
+    <tmc_event event_code="1608">
+      <short_text>Stor forsinkelse</short_text>
+      <long_text>store forsinkelser</long_text>
+    </tmc_event>
+    <tmc_event event_code="1615">
+      <short_text>Informationer</short_text>
+      <long_text>al drift indstillet</long_text>
+    </tmc_event>
+    <tmc_event event_code="1616">
+      <short_text>Informationer</short_text>
+      <long_text>afgang aflyst</long_text>
+    </tmc_event>
+    <tmc_event event_code="1617">
+      <short_text>Informationer</short_text>
+      <long_text>afgang udsolgt</long_text>
+    </tmc_event>
+    <tmc_event event_code="1621">
+      <short_text>Forsinkelser</short_text>
+      <long_text>forsinkelser på op til 5 minutter</long_text>
+    </tmc_event>
+    <tmc_event event_code="1622">
+      <short_text>Forsinkelser</short_text>
+      <long_text>forsinkelser på op til 10 minutter</long_text>
+    </tmc_event>
+    <tmc_event event_code="1623">
+      <short_text>Forsinkelser</short_text>
+      <long_text>forsinkelser på op til 20 minutter</long_text>
+    </tmc_event>
+    <tmc_event event_code="1624">
+      <short_text>Forsinkelser</short_text>
+      <long_text>forsinkelser på op til 25 minutter</long_text>
+    </tmc_event>
+    <tmc_event event_code="1625">
+      <short_text>Forsinkelser</short_text>
+      <long_text>forsinkelser på op til 40 minutter</long_text>
+    </tmc_event>
+    <tmc_event event_code="1626">
+      <short_text>Stor forsinkelse</short_text>
+      <long_text>forsinkelser på op til 50 minutter</long_text>
+    </tmc_event>
+    <tmc_event event_code="1627">
+      <short_text>Stor forsinkelse</short_text>
+      <long_text>forsinkelser på op til 90 minutter</long_text>
+    </tmc_event>
+    <tmc_event event_code="1628">
+      <short_text>Stor forsinkelse</short_text>
+      <long_text>forsinkelser på op til 3 timer</long_text>
+    </tmc_event>
+    <tmc_event event_code="1629">
+      <short_text>Stor forsinkelse</short_text>
+      <long_text>forsinkelser på op til 4 timer</long_text>
+    </tmc_event>
+    <tmc_event event_code="1630">
+      <short_text>Stor forsinkelse</short_text>
+      <long_text>forsinkelser på op til 5 timer</long_text>
+    </tmc_event>
+    <tmc_event event_code="1631">
+      <short_text>Stor forsinkelse</short_text>
+      <long_text>meget store forsinkelser</long_text>
+    </tmc_event>
+    <tmc_event event_code="1632">
+      <short_text>Stor forsinkelse</short_text>
+      <long_text>forsinkelser af ukendt varighed</long_text>
+    </tmc_event>
+    <tmc_event event_code="1633">
+      <short_text>Informationer</short_text>
+      <long_text>forsinket indtil videre</long_text>
+    </tmc_event>
+    <tmc_event event_code="1634">
+      <short_text>Informationer</short_text>
+      <long_text>aflysninger</long_text>
+    </tmc_event>
+    <tmc_event event_code="1635">
+      <short_text>Parkeringsinformationer</short_text>
+      <long_text>park and ride indstillet</long_text>
+    </tmc_event>
+    <tmc_event event_code="1636">
+      <short_text>Informationer</short_text>
+      <long_text>særlige kollektive transportmidler i drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1637">
+      <short_text>Informationer</short_text>
+      <long_text>kollektiv transport indstillet</long_text>
+    </tmc_event>
+    <tmc_event event_code="1638">
+      <short_text>Informationer</short_text>
+      <long_text>togdrift indstillet</long_text>
+    </tmc_event>
+    <tmc_event event_code="1639">
+      <short_text>Informationer</short_text>
+      <long_text>busdrift indstillet</long_text>
+    </tmc_event>
+    <tmc_event event_code="1640">
+      <short_text>Informationer</short_text>
+      <long_text>rutefart i drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1641">
+      <short_text>Informationer</short_text>
+      <long_text>gratis rutefart i drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1649">
+      <short_text>Informationer</short_text>
+      <long_text>bybanedrift indstillet</long_text>
+    </tmc_event>
+    <tmc_event event_code="1650">
+      <short_text>Forsinkelser</short_text>
+      <long_text>risiko for forsinkelser</long_text>
+    </tmc_event>
+    <tmc_event event_code="1651">
+      <short_text>Informationer</short_text>
+      <long_text>drift af metro indstillet</long_text>
+    </tmc_event>
+    <tmc_event event_code="1652">
+      <short_text>Informationer</short_text>
+      <long_text>aflysninger forventes</long_text>
+    </tmc_event>
+    <tmc_event event_code="1653">
+      <short_text>Stor forsinkelse</short_text>
+      <long_text>store forsinkelser forventes</long_text>
+    </tmc_event>
+    <tmc_event event_code="1654">
+      <short_text>Stor forsinkelse</short_text>
+      <long_text>meget store forsinkelser forventes</long_text>
+    </tmc_event>
+    <tmc_event event_code="1655">
+      <short_text>Informationer</short_text>
+      <long_text>alle afgange udsolgte</long_text>
+    </tmc_event>
+    <tmc_event event_code="1657">
+      <short_text>Informationer</short_text>
+      <long_text>togdrift uregelmæssig</long_text>
+    </tmc_event>
+    <tmc_event event_code="1658">
+      <short_text>Informationer</short_text>
+      <long_text>busdrift uregelmæssig</long_text>
+    </tmc_event>
+    <tmc_event event_code="1659">
+      <short_text>Informationer</short_text>
+      <long_text>uregelmæssig drift af metro</long_text>
+    </tmc_event>
+    <tmc_event event_code="1660">
+      <short_text>Informationer</short_text>
+      <long_text>kollektiv transport genoptaget</long_text>
+    </tmc_event>
+    <tmc_event event_code="1661">
+      <short_text>Informationer</short_text>
+      <long_text>færgedriften indstillet</long_text>
+    </tmc_event>
+    <tmc_event event_code="1700">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>langsomtkørende arbejdskøretøj</long_text>
+    </tmc_event>
+    <tmc_event event_code="1701">
+      <short_text>Spøgelsesbilist</short_text>
+      <long_text>pas på, køretøj i forkert kørselsretning</long_text>
+    </tmc_event>
+    <tmc_event event_code="1704">
+      <short_text>Farlig situation</short_text>
+      <long_text>hensynsløs bilist</long_text>
+    </tmc_event>
+    <tmc_event event_code="1705">
+      <short_text>Farlig situation</short_text>
+      <long_text>forbudt køretøj på kørebanen</long_text>
+    </tmc_event>
+    <tmc_event event_code="1706">
+      <short_text>Farlig situation</short_text>
+      <long_text>udrykningskøretøj</long_text>
+    </tmc_event>
+    <tmc_event event_code="1707">
+      <short_text>Farlig situation</short_text>
+      <long_text>udrykningskøretøj med høj hastighed</long_text>
+    </tmc_event>
+    <tmc_event event_code="1708">
+      <short_text>Farlig situation</short_text>
+      <long_text>biljagt med høj hastighed</long_text>
+    </tmc_event>
+    <tmc_event event_code="1709">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>spild fra køretøj i bevægelse</long_text>
+    </tmc_event>
+    <tmc_event event_code="1710">
+      <short_text>Farlig situation</short_text>
+      <long_text>køretøj i bevægelse taber gods</long_text>
+    </tmc_event>
+    <tmc_event event_code="1720">
+      <short_text>Informationer</short_text>
+      <long_text>togdrift uregelmæssig</long_text>
+    </tmc_event>
+    <tmc_event event_code="1721">
+      <short_text>Informationer</short_text>
+      <long_text>kollektiv transport indstillet</long_text>
+    </tmc_event>
+    <tmc_event event_code="1731">
+      <short_text>Bilmæssig forhindring/usædvanligt læs/usædvanlige køretøjer</short_text>
+      <long_text>pas på, særtransport</long_text>
+    </tmc_event>
+    <tmc_event event_code="1732">
+      <short_text>Bilmæssig forhindring/usædvanligt læs/usædvanlige køretøjer</short_text>
+      <long_text>pas på, bredt læs</long_text>
+    </tmc_event>
+    <tmc_event event_code="1733">
+      <short_text>Bilmæssig forhindring/usædvanligt læs/usædvanlige køretøjer</short_text>
+      <long_text>pas på, langt køretøj</long_text>
+    </tmc_event>
+    <tmc_event event_code="1734">
+      <short_text>Bilmæssig forhindring/usædvanligt læs/usædvanlige køretøjer</short_text>
+      <long_text>pas på, langsomt køretøj</long_text>
+    </tmc_event>
+    <tmc_event event_code="1735">
+      <short_text>Bilmæssig forhindring/usædvanligt læs/usædvanlige køretøjer</short_text>
+      <long_text>pas på, bæltekøretøj</long_text>
+    </tmc_event>
+    <tmc_event event_code="1736">
+      <short_text>Transporter med farligt gods</short_text>
+      <long_text>pas på, køretøj med farligt gods</long_text>
+    </tmc_event>
+    <tmc_event event_code="1737">
+      <short_text>Bilmæssig forhindring/usædvanligt læs/usædvanlige køretøjer</short_text>
+      <long_text>pas på, konvoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="1738">
+      <short_text>Bilmæssig forhindring/usædvanligt læs/usædvanlige køretøjer</short_text>
+      <long_text>pas på, militærkonvoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="1739">
+      <short_text>Bilmæssig forhindring/usædvanligt læs/usædvanlige køretøjer</short_text>
+      <long_text>pas på, køretøj med for højt læs</long_text>
+    </tmc_event>
+    <tmc_event event_code="1740">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik med forsinkelser på grund af særtransport</long_text>
+    </tmc_event>
+    <tmc_event event_code="1741">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik med forsinkelser på grund af konvoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="1751">
+      <short_text>Bilmæssig forhindring/usædvanligt læs/usædvanlige køretøjer</short_text>
+      <long_text>særtransport</long_text>
+    </tmc_event>
+    <tmc_event event_code="1752">
+      <short_text>Bilmæssig forhindring/usædvanligt læs/usædvanlige køretøjer</short_text>
+      <long_text>bredt læs</long_text>
+    </tmc_event>
+    <tmc_event event_code="1753">
+      <short_text>Bilmæssig forhindring/usædvanligt læs/usædvanlige køretøjer</short_text>
+      <long_text>langt køretøj</long_text>
+    </tmc_event>
+    <tmc_event event_code="1754">
+      <short_text>Bilmæssig forhindring/usædvanligt læs/usædvanlige køretøjer</short_text>
+      <long_text>langsomt køretøj</long_text>
+    </tmc_event>
+    <tmc_event event_code="1755">
+      <short_text>Bilmæssig forhindring/usædvanligt læs/usædvanlige køretøjer</short_text>
+      <long_text>konvoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="1756">
+      <short_text>Forsinkelser</short_text>
+      <long_text>forsinkelser på grund af særtransport</long_text>
+    </tmc_event>
+    <tmc_event event_code="1757">
+      <short_text>Forsinkelser</short_text>
+      <long_text>forsinkelser forventes på grund af særtransport</long_text>
+    </tmc_event>
+    <tmc_event event_code="1758">
+      <short_text>Stor forsinkelse</short_text>
+      <long_text>store forsinkelser på grund af særtransport</long_text>
+    </tmc_event>
+    <tmc_event event_code="1759">
+      <short_text>Forsinkelser</short_text>
+      <long_text>forsinkelser på grund af konvoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="1760">
+      <short_text>Forsinkelser</short_text>
+      <long_text>forsinkelser forventes på grund af konvoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="1761">
+      <short_text>Stor forsinkelse</short_text>
+      <long_text>store forsinkelser på grund af konvoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="1764">
+      <short_text>Bilmæssig forhindring/usædvanligt læs/usædvanlige køretøjer</short_text>
+      <long_text>bæltekøretøj</long_text>
+    </tmc_event>
+    <tmc_event event_code="1765">
+      <short_text>Transporter med farligt gods</short_text>
+      <long_text>køretøj med farligt gods</long_text>
+    </tmc_event>
+    <tmc_event event_code="1766">
+      <short_text>Bilmæssig forhindring/usædvanligt læs/usædvanlige køretøjer</short_text>
+      <long_text>militærkonvoj</long_text>
+    </tmc_event>
+    <tmc_event event_code="1767">
+      <short_text>Bilmæssig forhindring/usædvanligt læs/usædvanlige køretøjer</short_text>
+      <long_text>særtransport, overhaling forbudt</long_text>
+    </tmc_event>
+    <tmc_event event_code="1768">
+      <short_text>Transporter med farligt gods</short_text>
+      <long_text>køretøjer med farligt gods skal stoppe ved næste sikre sted</long_text>
+    </tmc_event>
+    <tmc_event event_code="1801">
+      <short_text>Fejl på lyssignalanlæg og øvrigt vejudstyr</short_text>
+      <long_text>vognbanesignaler ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1802">
+      <short_text>Fejl på lyssignalanlæg og øvrigt vejudstyr</short_text>
+      <long_text>nødtelefoner ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1803">
+      <short_text>Fejl på lyssignalanlæg og øvrigt vejudstyr</short_text>
+      <long_text>alarmopkaldsnummer ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1804">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>lysregulering ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1805">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>driftsforstyrrelse af lysregulering</long_text>
+    </tmc_event>
+    <tmc_event event_code="1806">
+      <short_text>Fejl på lyssignalanlæg og øvrigt vejudstyr</short_text>
+      <long_text>signal ved jernbaneoverskæring ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1807">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik, fordi lysregulering er ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1808">
+      <short_text>Fejl på lyssignalanlæg og øvrigt vejudstyr</short_text>
+      <long_text>risiko for stillestående trafik, fordi lysregulering er ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1809">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser, fordi lysregulering er ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1810">
+      <short_text>Fejl på lyssignalanlæg og øvrigt vejudstyr</short_text>
+      <long_text>risiko for kødannelser, fordi lysregulering er ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1811">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik, fordi lysregulering er ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1812">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>langsom trafik forventes, fordi lysregulering er ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1813">
+      <short_text>Tæt trafik</short_text>
+      <long_text>tæt trafik, fordi lysregulering er ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1814">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>tæt trafik forventes, fordi lysregulering er ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1815">
+      <short_text>Fejl på lyssignalanlæg og øvrigt vejudstyr</short_text>
+      <long_text>normal trafik selvom lysregulering er ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1816">
+      <short_text>Tæt trafik</short_text>
+      <long_text>tiltagende trafik, fordi lysregulering er ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1817">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>forsinkelser, fordi lysregulering er ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1818">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>forsinkelser forventes, fordi lysregulering er ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1819">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>store forsinkelser, fordi lysregulering er ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1820">
+      <short_text>Kø</short_text>
+      <long_text>stillestående trafik, fordi signal ved jernbaneoverskæring er ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1821">
+      <short_text>Fejl på lyssignalanlæg og øvrigt vejudstyr</short_text>
+      <long_text>risiko for stillestående trafik, fordi signal ved jernbaneoverskæring er ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1822">
+      <short_text>Køkørsel</short_text>
+      <long_text>kødannelser, fordi signal ved jernbaneoverskæring er ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1823">
+      <short_text>Fejl på lyssignalanlæg og øvrigt vejudstyr</short_text>
+      <long_text>risiko for kødannelser, fordi signal ved jernbaneoverskæring er ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1824">
+      <short_text>Tæt trafik</short_text>
+      <long_text>langsom trafik, fordi signal ved jernbaneoverskæring er ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1825">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>langsom trafik forventes, fordi signal ved jernbaneoverskæring er ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1826">
+      <short_text>Tæt trafik</short_text>
+      <long_text>tæt trafik, fordi signal ved jernbaneoverskæring er ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1827">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>tæt trafik forventes, fordi signal ved jernbaneoverskæring er ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1828">
+      <short_text>Fejl på lyssignalanlæg og øvrigt vejudstyr</short_text>
+      <long_text>normal trafik selvom signal ved jernbaneoverskæring er ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1829">
+      <short_text>Tæt trafik</short_text>
+      <long_text>tiltagende trafik, fordi signal ved jernbaneoverskæring er ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1830">
+      <short_text>Forsinkelser</short_text>
+      <long_text>forsinkelser, fordi signal ved jernbaneoverskæring er ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1831">
+      <short_text>Forsinkelser</short_text>
+      <long_text>forsinkelser forventes, fordi signal ved jernbaneoverskæring er ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1832">
+      <short_text>Stor forsinkelse</short_text>
+      <long_text>store forsinkelser, fordi signal ved jernbaneoverskæring er ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1838">
+      <short_text>Fejl på lyssignalanlæg og øvrigt vejudstyr</short_text>
+      <long_text>driftsforstyrrelse af vognbanesignaler</long_text>
+    </tmc_event>
+    <tmc_event event_code="1840">
+      <short_text>Fejl på lyssignalanlæg og øvrigt vejudstyr</short_text>
+      <long_text>variable tavler ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1841">
+      <short_text>Fejl på lyssignalanlæg og øvrigt vejudstyr</short_text>
+      <long_text>driftsforstyrrelse af variable tavler</long_text>
+    </tmc_event>
+    <tmc_event event_code="1842">
+      <short_text>Fejl på lyssignalanlæg og øvrigt vejudstyr</short_text>
+      <long_text>variable tavler i drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1843">
+      <short_text>Fejl på lyssignalanlæg og øvrigt vejudstyr</short_text>
+      <long_text>rampedoseringsanlæg ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1844">
+      <short_text>Fejl på lyssignalanlæg og øvrigt vejudstyr</short_text>
+      <long_text>driftsforstyrrelse af rampedoseringsanlæg</long_text>
+    </tmc_event>
+    <tmc_event event_code="1845">
+      <short_text>Fejl på lyssignalanlæg og øvrigt vejudstyr</short_text>
+      <long_text>midlertidig lysregulering ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1846">
+      <short_text>Fejl på lyssignalanlæg og øvrigt vejudstyr</short_text>
+      <long_text>driftsforstyrrelse af midlertidig lysregulering</long_text>
+    </tmc_event>
+    <tmc_event event_code="1847">
+      <short_text>Fejl på lyssignalanlæg og øvrigt vejudstyr</short_text>
+      <long_text>trafiksignalcomputer ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1848">
+      <short_text>Fejl på lyssignalanlæg og øvrigt vejudstyr</short_text>
+      <long_text>lyssignalets indstillinger ændret</long_text>
+    </tmc_event>
+    <tmc_event event_code="1849">
+      <short_text>Fejl på lyssignalanlæg og øvrigt vejudstyr</short_text>
+      <long_text>tunnelventilation ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1850">
+      <short_text>Fejl på lyssignalanlæg og øvrigt vejudstyr</short_text>
+      <long_text>pas på, vognbanesignaler ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1864">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>pas på, driftsforstyrrelse af vognbanesignaler</long_text>
+    </tmc_event>
+    <tmc_event event_code="1865">
+      <short_text>Fejl på lyssignalanlæg og øvrigt vejudstyr</short_text>
+      <long_text>nødtelefoner ude af drift, men ekstra politipatruljer sat ind</long_text>
+    </tmc_event>
+    <tmc_event event_code="1866">
+      <short_text>Fejl på lyssignalanlæg og øvrigt vejudstyr</short_text>
+      <long_text>nødtelefoner ude af drift, i en nødsituation, vent på politipatrulje</long_text>
+    </tmc_event>
+    <tmc_event event_code="1867">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>pas på, lysregulering ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1868">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>forsinkelser på grund af driftsforstyrrelse af lysregulering</long_text>
+    </tmc_event>
+    <tmc_event event_code="1869">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>forsinkelser forventes på grund af driftsforstyrrelse af lysregulering</long_text>
+    </tmc_event>
+    <tmc_event event_code="1870">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>store forsinkelser på grund af driftsforstyrrelse af lysregulering</long_text>
+    </tmc_event>
+    <tmc_event event_code="1875">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>pas på, driftsforstyrrelse af lysregulering</long_text>
+    </tmc_event>
+    <tmc_event event_code="1876">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>forsinkelser, fordi midlertidig lysregulering er ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1877">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>forsinkelser forventes, fordi midlertidig lysregulering er ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1878">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>store forsinkelser, fordi midlertidig lysregulering er ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1879">
+      <short_text>Forhindring på kørebanen</short_text>
+      <long_text>pas på, midlertidig lysregulering ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1880">
+      <short_text>Forsinkelser</short_text>
+      <long_text>forsinkelser, fordi trafiksignalcomputer er ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1884">
+      <short_text>Forsinkelser</short_text>
+      <long_text>forsinkelser forventes, fordi trafiksignalcomputer er ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1885">
+      <short_text>Stor forsinkelse</short_text>
+      <long_text>store forsinkelser, fordi trafiksignalcomputer er ude af drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1886">
+      <short_text>Parkeringsinformationer</short_text>
+      <long_text>normale parkeringsrestriktioner er ophævede</long_text>
+    </tmc_event>
+    <tmc_event event_code="1887">
+      <short_text>Parkeringsinformationer</short_text>
+      <long_text>særlige parkeringsrestriktioner er i kraft</long_text>
+    </tmc_event>
+    <tmc_event event_code="1888">
+      <short_text>Ledige parkeringspladser</short_text>
+      <long_text>10 % fuld</long_text>
+    </tmc_event>
+    <tmc_event event_code="1889">
+      <short_text>Ledige parkeringspladser</short_text>
+      <long_text>20 % fuld</long_text>
+    </tmc_event>
+    <tmc_event event_code="1890">
+      <short_text>Ledige parkeringspladser</short_text>
+      <long_text>30 % fuld</long_text>
+    </tmc_event>
+    <tmc_event event_code="1891">
+      <short_text>Ledige parkeringspladser</short_text>
+      <long_text>40 % fuld</long_text>
+    </tmc_event>
+    <tmc_event event_code="1892">
+      <short_text>Parkeringsplads næsten optaget</short_text>
+      <long_text>50 % fuld</long_text>
+    </tmc_event>
+    <tmc_event event_code="1893">
+      <short_text>Parkeringsplads næsten optaget</short_text>
+      <long_text>60 % fuld</long_text>
+    </tmc_event>
+    <tmc_event event_code="1894">
+      <short_text>Parkeringsplads næsten optaget</short_text>
+      <long_text>70 % fuld</long_text>
+    </tmc_event>
+    <tmc_event event_code="1895">
+      <short_text>Parkeringsplads optaget</short_text>
+      <long_text>80 % fuld</long_text>
+    </tmc_event>
+    <tmc_event event_code="1896">
+      <short_text>Parkeringsplads optaget</short_text>
+      <long_text>90 % fuld</long_text>
+    </tmc_event>
+    <tmc_event event_code="1897">
+      <short_text>Parkeringsplads næsten optaget</short_text>
+      <long_text>færre end 10 ledige parkeringsbåse</long_text>
+    </tmc_event>
+    <tmc_event event_code="1898">
+      <short_text>Parkeringsplads næsten optaget</short_text>
+      <long_text>færre end 20 ledige parkeringsbåse</long_text>
+    </tmc_event>
+    <tmc_event event_code="1899">
+      <short_text>Parkeringsplads næsten optaget</short_text>
+      <long_text>færre end 30 ledige parkeringsbåse</long_text>
+    </tmc_event>
+    <tmc_event event_code="1900">
+      <short_text>Parkeringsplads næsten optaget</short_text>
+      <long_text>færre end 40 ledige parkeringsbåse</long_text>
+    </tmc_event>
+    <tmc_event event_code="1903">
+      <short_text>Parkeringsplads optaget</short_text>
+      <long_text>parkeringspladsen fuld</long_text>
+    </tmc_event>
+    <tmc_event event_code="1904">
+      <short_text>Parkeringsplads næsten optaget</short_text>
+      <long_text>alle parkeringspladser fulde</long_text>
+    </tmc_event>
+    <tmc_event event_code="1906">
+      <short_text>Parkeringsinformationer</short_text>
+      <long_text>park and ride i drift</long_text>
+    </tmc_event>
+    <tmc_event event_code="1908">
+      <short_text>Servicemeddelelser</short_text>
+      <long_text>skift frekvens på radioen</long_text>
+    </tmc_event>
+    <tmc_event event_code="1913">
+      <short_text>Servicemeddelelser</short_text>
+      <long_text>skift frekvens på radioen</long_text>
+    </tmc_event>
+    <tmc_event event_code="1918">
+      <short_text>Parkeringsplads optaget</short_text>
+      <long_text>parkeringspladsen fuld</long_text>
+    </tmc_event>
+    <tmc_event event_code="1920">
+      <short_text>Parkeringsplads næsten optaget</short_text>
+      <long_text>kun få ledige parkeringsbåse</long_text>
+    </tmc_event>
+    <tmc_event event_code="1921">
+      <short_text>Ledige parkeringspladser</short_text>
+      <long_text>ledige parkeringsbåse</long_text>
+    </tmc_event>
+    <tmc_event event_code="1922">
+      <short_text>Parkeringsplads optaget</short_text>
+      <long_text>parkeringspladsen forventes at være fuld</long_text>
+    </tmc_event>
+    <tmc_event event_code="1923">
+      <short_text>Parkeringsplads optaget</short_text>
+      <long_text>alle parkeringsbåse forventes at være optagede</long_text>
+    </tmc_event>
+    <tmc_event event_code="1924">
+      <short_text>Parkeringsplads optaget</short_text>
+      <long_text>parkeringshusene fulde</long_text>
+    </tmc_event>
+    <tmc_event event_code="1926">
+      <short_text>Parkeringsplads optaget</short_text>
+      <long_text>alle parkeringsbåse optagede</long_text>
+    </tmc_event>
+    <tmc_event event_code="1927">
+      <short_text>Parkeringsinformationer</short_text>
+      <long_text>parkering forbudt</long_text>
+    </tmc_event>
+    <tmc_event event_code="1928">
+      <short_text>Parkeringsinformationer</short_text>
+      <long_text>særlige parkeringsrestriktioner er ophævede</long_text>
+    </tmc_event>
+    <tmc_event event_code="1930">
+      <short_text>Servicemeddelelser</short_text>
+      <long_text>denne TMC-service er ikke aktiv</long_text>
+    </tmc_event>
+    <tmc_event event_code="1961">
+      <short_text>Farlig situation</short_text>
+      <long_text>giv plads til udrykningskøretøjer i samkørselsspor</long_text>
+    </tmc_event>
+    <tmc_event event_code="1962">
+      <short_text>Informationer om samkørsel</short_text>
+      <long_text>brug af samkørselsspor tilladt for alle køretøjer</long_text>
+    </tmc_event>
+    <tmc_event event_code="1963">
+      <short_text>Informationer om samkørsel</short_text>
+      <long_text>politiet dirigerer trafikken via samkørselssporet</long_text>
+    </tmc_event>
+    <tmc_event event_code="1974">
+      <short_text>Farlig situation</short_text>
+      <long_text>giv plads til udrykningskøretøjer</long_text>
+    </tmc_event>
+    <tmc_event event_code="1977">
+      <short_text>Farlig situation</short_text>
+      <long_text>giv plads til udrykningskøretøjer i sporet til tunge køretøjer</long_text>
+    </tmc_event>
+    <tmc_event event_code="2000">
+      <short_text>Spærring</short_text>
+      <long_text>lukket på grund af smog-alarm</long_text>
+    </tmc_event>
+    <tmc_event event_code="2013">
+      <short_text>Parkeringsplads næsten optaget</short_text>
+      <long_text>serviceanlæg optaget</long_text>
+    </tmc_event>
+    <tmc_event event_code="2021">
+      <short_text>Informationer</short_text>
+      <long_text>drift indstillet, men alternativ transport er tilgængelig</long_text>
+    </tmc_event>
+    <tmc_event event_code="2022">
+      <short_text>Informationer</short_text>
+      <long_text>kollektiv transport ramt af strejke</long_text>
+    </tmc_event>
+  </locale>
+</TmcConfig>

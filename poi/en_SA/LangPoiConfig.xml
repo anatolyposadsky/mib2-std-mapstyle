@@ -1,0 +1,1414 @@
+<LanguagePoiConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xsd/locale/LanguagePoiConfiguration.xsd" version="1">
+<!--Alphabetically sorted setup category definitions for each fuel type, will be reloaded after language change-->
+	<SetupCategoryDefinition>
+		<PoiCategoryMapping fueltype="default">
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Airports -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Amusement parks -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Attractions -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Banks -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Boating -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Border crossings -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Bus stations -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Cafés -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Car hire -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Car parks -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Cash machines -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Casinos -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Cemeteries -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Charging stations -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Cinemas -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Clothing -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Companies -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Conference centres -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Educational institutions -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Electronics -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Embassies -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Ferries and motorails -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golf -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Government and administration -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Hospitals -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hotels and motels -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- LPG filling stations -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Medical services -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Memorials -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Motorway exit/access roads -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Museums -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Natural gas filling stations -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Nightlife -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parks -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Performing arts -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Petrol stations -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Pharmacies -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Places of worship -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Police -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Post -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Railway stations -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restaurants -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Service areas -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Shopping centres -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Skiing -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Sports centres -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Tourist information -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW dealers -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW service -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Wine and spirits -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="gasoline">
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Airports -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Amusement parks -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Attractions -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Banks -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Boating -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Border crossings -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Bus stations -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Cafés -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Car hire -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Car parks -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Cash machines -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Casinos -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Cemeteries -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Charging stations -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Cinemas -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Clothing -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Companies -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Conference centres -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Educational institutions -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Electronics -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Embassies -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Ferries and motorails -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golf -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Government and administration -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Hospitals -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hotels and motels -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- LPG filling stations -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Medical services -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Memorials -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Motorway exit/access roads -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Museums -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Natural gas filling stations -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Nightlife -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parks -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Performing arts -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Petrol stations -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Pharmacies -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Places of worship -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Police -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Post -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Railway stations -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restaurants -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Service areas -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Shopping centres -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Skiing -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Sports centres -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Tourist information -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW dealers -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW service -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Wine and spirits -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="diesel">
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Airports -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Amusement parks -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Attractions -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Banks -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Boating -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Border crossings -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Bus stations -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Cafés -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Car hire -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Car parks -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Cash machines -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Casinos -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Cemeteries -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Charging stations -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Cinemas -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Clothing -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Companies -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Conference centres -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Educational institutions -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Electronics -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Embassies -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Ferries and motorails -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golf -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Government and administration -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Hospitals -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hotels and motels -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- LPG filling stations -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Medical services -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Memorials -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Motorway exit/access roads -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Museums -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Natural gas filling stations -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Nightlife -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parks -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Performing arts -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Petrol stations -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Pharmacies -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Places of worship -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Police -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Post -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Railway stations -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restaurants -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Service areas -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Shopping centres -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Skiing -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Sports centres -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Tourist information -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW dealers -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW service -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Wine and spirits -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="cng">
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Airports -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Amusement parks -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Attractions -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Banks -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Boating -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Border crossings -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Bus stations -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Cafés -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Car hire -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Car parks -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Cash machines -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Casinos -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Cemeteries -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Charging stations -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Cinemas -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Clothing -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Companies -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Conference centres -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Educational institutions -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Electronics -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Embassies -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Ferries and motorails -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golf -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Government and administration -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Hospitals -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hotels and motels -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- LPG filling stations -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Medical services -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Memorials -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Motorway exit/access roads -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Museums -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Natural gas filling stations -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Nightlife -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parks -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Performing arts -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Petrol stations -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Pharmacies -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Places of worship -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Police -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Post -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Railway stations -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restaurants -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Service areas -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Shopping centres -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Skiing -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Sports centres -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Tourist information -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW dealers -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW service -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Wine and spirits -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="lpg">
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Airports -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Amusement parks -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Attractions -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Banks -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Boating -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Border crossings -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Bus stations -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Cafés -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Car hire -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Car parks -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Cash machines -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Casinos -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Cemeteries -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Charging stations -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Cinemas -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Clothing -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Companies -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Conference centres -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Educational institutions -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Electronics -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Embassies -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Ferries and motorails -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golf -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Government and administration -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Hospitals -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hotels and motels -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- LPG filling stations -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Medical services -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Memorials -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Motorway exit/access roads -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Museums -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Natural gas filling stations -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Nightlife -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parks -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Performing arts -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Petrol stations -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Pharmacies -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Places of worship -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Police -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Post -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Railway stations -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restaurants -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Service areas -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Shopping centres -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Skiing -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Sports centres -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Tourist information -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW dealers -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW service -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Wine and spirits -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="bev">
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Airports -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Amusement parks -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Attractions -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Banks -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Boating -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Border crossings -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Bus stations -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Cafés -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Car hire -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Car parks -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Cash machines -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Casinos -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Cemeteries -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Charging stations -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Cinemas -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Clothing -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Companies -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Conference centres -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Educational institutions -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Electronics -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Embassies -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Ferries and motorails -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golf -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Government and administration -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Hospitals -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hotels and motels -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- LPG filling stations -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Medical services -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Memorials -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Motorway exit/access roads -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Museums -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Natural gas filling stations -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Nightlife -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parks -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Performing arts -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Petrol stations -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Pharmacies -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Places of worship -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Police -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Post -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Railway stations -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restaurants -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Service areas -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Shopping centres -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Skiing -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Sports centres -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Tourist information -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW dealers -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW service -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Wine and spirits -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="phev">
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Airports -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Amusement parks -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Attractions -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Banks -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Boating -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Border crossings -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Bus stations -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Cafés -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Car hire -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Car parks -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Cash machines -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Casinos -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Cemeteries -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Charging stations -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Cinemas -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Clothing -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Companies -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Conference centres -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Educational institutions -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Electronics -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Embassies -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Ferries and motorails -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golf -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Government and administration -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Hospitals -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hotels and motels -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- LPG filling stations -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Medical services -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Memorials -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Motorway exit/access roads -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Museums -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Natural gas filling stations -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Nightlife -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parks -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Performing arts -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Petrol stations -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Pharmacies -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Places of worship -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Police -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Post -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Railway stations -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restaurants -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Service areas -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Shopping centres -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Skiing -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Sports centres -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Tourist information -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW dealers -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW service -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Wine and spirits -->
+		</PoiCategoryMapping>
+	</SetupCategoryDefinition>
+  <PoiCategoryGroupDefinition>
+    <PoiCategoryGroup id="10" type="dynamic">
+      <Priority>1</Priority>
+      <PoiCategoryMapping>
+        <!-- MUSS LEER BLEIBEN Ueber XSD checken !! -->
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+    <PoiCategoryGroup id="11" type="local">
+      <Priority>2</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>2</PoiCategoryRef>
+        <!-- Airports -->
+        <PoiCategoryRef>44</PoiCategoryRef>
+        <!-- Amusement parks -->
+        <PoiCategoryRef>25</PoiCategoryRef>
+        <!-- ATMs -->
+        <PoiCategoryRef>1</PoiCategoryRef>
+        <!-- Autostadt -->
+        <PoiCategoryRef>45</PoiCategoryRef>
+        <!-- Banks -->
+        <PoiCategoryRef>10</PoiCategoryRef>
+        <!-- Border crossings -->
+        <PoiCategoryRef>18</PoiCategoryRef>
+        <!-- Bus stops -->
+        <PoiCategoryRef>26</PoiCategoryRef>
+        <!-- Cafes -->
+        <PoiCategoryRef>35</PoiCategoryRef>
+        <!-- Casinos -->
+        <PoiCategoryRef>54</PoiCategoryRef>
+        <!-- Cemeteries -->
+        <PoiCategoryRef>134</PoiCategoryRef>
+        <!-- Charging stations -->
+        <PoiCategoryRef>34</PoiCategoryRef>
+        <!-- Cinemas -->
+        <PoiCategoryRef>28</PoiCategoryRef>
+        <!-- Clothes -->
+        <PoiCategoryRef>47</PoiCategoryRef>
+        <!-- Companies -->
+        <PoiCategoryRef>48</PoiCategoryRef>
+        <!-- Conference centres -->
+        <PoiCategoryRef>23</PoiCategoryRef>
+        <!-- Drugstores -->
+        <PoiCategoryRef>52</PoiCategoryRef>
+        <!-- Educational institutions -->
+        <PoiCategoryRef>29</PoiCategoryRef>
+        <!-- Electronics -->
+        <PoiCategoryRef>50</PoiCategoryRef>
+        <!-- Embassies -->
+        <PoiCategoryRef>9</PoiCategoryRef>
+        <!-- Ferries -->
+        <PoiCategoryRef>14</PoiCategoryRef>
+        <!-- Freeway exits/on-ramps -->
+        <PoiCategoryRef>101</PoiCategoryRef>
+        <!-- Gas stations -->
+        <PoiCategoryRef>41</PoiCategoryRef>
+        <!-- Golfing -->
+        <PoiCategoryRef>49</PoiCategoryRef>
+        <!-- Government and office -->
+        <PoiCategoryRef>21</PoiCategoryRef>
+        <!-- Hospitals -->
+        <PoiCategoryRef>8</PoiCategoryRef>
+        <!-- Hotels and motels -->
+        <PoiCategoryRef>15</PoiCategoryRef>
+        <!-- Local transport -->
+        <PoiCategoryRef>136</PoiCategoryRef>
+        <!-- LPG gas stations -->
+        <PoiCategoryRef>22</PoiCategoryRef>
+        <!-- Medical services -->
+        <PoiCategoryRef>38</PoiCategoryRef>
+        <!-- Memorials -->
+        <PoiCategoryRef>37</PoiCategoryRef>
+        <!-- Museums -->
+        <PoiCategoryRef>31</PoiCategoryRef>
+        <!-- Nightlife -->
+        <PoiCategoryRef>102</PoiCategoryRef>
+        <!-- Parking lots -->
+        <PoiCategoryRef>32</PoiCategoryRef>
+        <!-- Parks -->
+        <PoiCategoryRef>36</PoiCategoryRef>
+        <!-- Performing arts -->
+        <PoiCategoryRef>135</PoiCategoryRef>
+        <!-- Petroleum gas stations -->
+        <PoiCategoryRef>53</PoiCategoryRef>
+        <!-- Places of worship -->
+        <PoiCategoryRef>20</PoiCategoryRef>
+        <!-- Police -->
+        <PoiCategoryRef>46</PoiCategoryRef>
+        <!-- Post -->
+        <PoiCategoryRef>7</PoiCategoryRef>
+        <!-- Rest stops -->
+        <PoiCategoryRef>104</PoiCategoryRef>
+        <!-- Restaurants -->
+        <PoiCategoryRef>27</PoiCategoryRef>
+        <!-- Shopping malls -->
+        <PoiCategoryRef>43</PoiCategoryRef>
+        <!-- Skiing -->
+        <PoiCategoryRef>39</PoiCategoryRef>
+        <!-- Sports centres -->
+        <PoiCategoryRef>33</PoiCategoryRef>
+        <!-- Tourist attractions -->
+        <PoiCategoryRef>19</PoiCategoryRef>
+        <!-- Tourist information -->
+        <PoiCategoryRef>16</PoiCategoryRef>
+        <!-- Train stations -->
+        <PoiCategoryRef>11</PoiCategoryRef>
+        <!-- VW dealers -->
+        <PoiCategoryRef>12</PoiCategoryRef>
+        <!-- VW service -->
+        <PoiCategoryRef>42</PoiCategoryRef>
+        <!-- Watersport -->
+        <PoiCategoryRef>30</PoiCategoryRef>
+        <!-- Wine and spirits -->
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+
+    <PoiCategoryGroup id="12" type="local">
+      <Priority>3</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>44</PoiCategoryRef>
+        <!-- Amusement parks -->
+        <PoiCategoryRef>1</PoiCategoryRef>
+        <!-- Autostadt -->
+        <PoiCategoryRef>35</PoiCategoryRef>
+        <!-- Casinos -->
+        <PoiCategoryRef>34</PoiCategoryRef>
+        <!-- Cinemas -->
+        <PoiCategoryRef>41</PoiCategoryRef>
+        <!-- Golfing -->
+        <PoiCategoryRef>38</PoiCategoryRef>
+        <!-- Memorials -->
+        <PoiCategoryRef>37</PoiCategoryRef>
+        <!-- Museums -->
+        <PoiCategoryRef>32</PoiCategoryRef>
+        <!-- Parks -->
+        <PoiCategoryRef>36</PoiCategoryRef>
+        <!-- Performing arts -->
+        <PoiCategoryRef>43</PoiCategoryRef>
+        <!-- Skiing -->
+        <PoiCategoryRef>39</PoiCategoryRef>
+        <!-- Sports centres -->
+        <PoiCategoryRef>33</PoiCategoryRef>
+        <!-- Tourist attractions -->
+        <PoiCategoryRef>42</PoiCategoryRef>
+        <!-- Watersport -->
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+
+    <PoiCategoryGroup id="13" type="local">
+      <Priority>4</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>2</PoiCategoryRef>
+        <!-- Airports -->
+        <PoiCategoryRef>10</PoiCategoryRef>
+        <!-- Border crossings -->
+        <PoiCategoryRef>18</PoiCategoryRef>
+        <!-- Bus stops -->
+        <PoiCategoryRef>134</PoiCategoryRef>
+        <!-- Charging stations -->
+        <PoiCategoryRef>9</PoiCategoryRef>
+        <!-- Ferries -->
+        <PoiCategoryRef>14</PoiCategoryRef>
+        <!-- Freeway exits/on-ramps -->
+        <PoiCategoryRef>101</PoiCategoryRef>
+        <!-- Gas stations -->
+        <PoiCategoryRef>8</PoiCategoryRef>
+        <!-- Hotels and motels -->
+        <PoiCategoryRef>15</PoiCategoryRef>
+        <!-- Local transport -->
+        <PoiCategoryRef>136</PoiCategoryRef>
+        <!-- LPG gas stations -->
+        <PoiCategoryRef>102</PoiCategoryRef>
+        <!-- Parking lots -->
+        <PoiCategoryRef>135</PoiCategoryRef>
+        <!-- Petroleum gas stations -->
+        <PoiCategoryRef>7</PoiCategoryRef>
+        <!-- Rest stops -->
+        <PoiCategoryRef>19</PoiCategoryRef>
+        <!-- Tourist information -->
+        <PoiCategoryRef>16</PoiCategoryRef>
+        <!-- Train stations -->
+        <PoiCategoryRef>11</PoiCategoryRef>
+        <!-- VW dealers -->
+        <PoiCategoryRef>12</PoiCategoryRef>
+        <!-- VW service -->
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+
+    <PoiCategoryGroup id="14" type="local">
+      <Priority>5</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>45</PoiCategoryRef>
+        <!-- Banks -->
+        <PoiCategoryRef>54</PoiCategoryRef>
+        <!-- Cemeteries -->
+        <PoiCategoryRef>47</PoiCategoryRef>
+        <!-- Companies -->
+        <PoiCategoryRef>48</PoiCategoryRef>
+        <!-- Conference centres -->
+        <PoiCategoryRef>52</PoiCategoryRef>
+        <!-- Educational institutions -->
+        <PoiCategoryRef>50</PoiCategoryRef>
+        <!-- Embassies -->
+        <PoiCategoryRef>49</PoiCategoryRef>
+        <!-- Government and office -->
+        <PoiCategoryRef>53</PoiCategoryRef>
+        <!-- Places of worship -->
+        <PoiCategoryRef>46</PoiCategoryRef>
+        <!-- Post -->
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+
+    <PoiCategoryGroup id="15" type="local">
+      <Priority>6</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>25</PoiCategoryRef>
+        <!-- ATMs -->
+        <PoiCategoryRef>26</PoiCategoryRef>
+        <!-- Cafes -->
+        <PoiCategoryRef>28</PoiCategoryRef>
+        <!-- Clothes -->
+        <PoiCategoryRef>29</PoiCategoryRef>
+        <!-- Electronics -->
+        <PoiCategoryRef>31</PoiCategoryRef>
+        <!-- Nightlife -->
+        <PoiCategoryRef>104</PoiCategoryRef>
+        <!-- Restaurants -->
+        <PoiCategoryRef>27</PoiCategoryRef>
+        <!-- Shopping malls -->
+        <PoiCategoryRef>30</PoiCategoryRef>
+        <!-- Wine and spirits -->
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+
+    <PoiCategoryGroup id="16" type="local">
+      <Priority>7</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>23</PoiCategoryRef>
+        <!-- Drugstores -->
+        <PoiCategoryRef>21</PoiCategoryRef>
+        <!-- Hospitals -->
+        <PoiCategoryRef>22</PoiCategoryRef>
+        <!-- Medical services -->
+        <PoiCategoryRef>20</PoiCategoryRef>
+        <!-- Police -->
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+
+  </PoiCategoryGroupDefinition>
+
+  <PoiCategoryGroupNameDefinition>
+    <Name category_group_ref="10">My points of interest (Personal POI)</Name>
+    <Name category_group_ref="11">Categories (alphabetical)</Name>
+    <Name category_group_ref="12">Attractions and leisure</Name>
+    <Name category_group_ref="13">Car and travel</Name>
+    <Name category_group_ref="14">Companies and public services</Name>
+    <Name category_group_ref="15">Dining and shopping</Name>
+    <Name category_group_ref="16">Emergencies</Name>
+  </PoiCategoryGroupNameDefinition>
+
+	<PoiCategoryThesaurusDefinition>
+		<Thesaurus category_ref="1">
+			<Value>Autostadt</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="2">
+			<Value>Airports</Value>
+			<Value>Airport</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="136">
+			<Value>LPG filling stations</Value>
+			<Value>LPG</Value>
+			<Value>Gas</Value>
+			<Value>Refuel</Value>
+			<Value>Refuelling</Value>
+			<Value>Filling station</Value>
+			<Value>Filling stations</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="135">
+			<Value>Natural gas filling stations</Value>
+			<Value>Natural gas filling station</Value>
+			<Value>Natural gas</Value>
+			<Value>Gas</Value>
+			<Value>CNG</Value>
+			<Value>Refuel</Value>
+			<Value>Refuelling</Value>
+			<Value>Filling station</Value>
+			<Value>Filling stations</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="101">
+			<Value>Petrol stations</Value>
+			<Value>Petrol station</Value>
+			<Value>Refuel</Value>
+			<Value>Refuelling</Value>
+			<Value>Petrol</Value>
+			<Value>Diesel</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="102">
+			<Value>Car parks</Value>
+			<Value>Car park</Value>
+			<Value>Parking</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="7">
+			<Value>Service areas</Value>
+			<Value>Service area</Value>
+			<Value>Service station</Value>
+			<Value>WC</Value>
+			<Value>Toilet</Value>
+			<Value>Toilets</Value>
+			<Value>Rest</Value>
+			<Value>Resting</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="8">
+			<Value>Hotels and motels</Value>
+			<Value>Hotel</Value>
+			<Value>Hotels</Value>
+			<Value>Motel</Value>
+			<Value>Motels</Value>
+			<Value>Guesthouse</Value>
+			<Value>Guesthouses</Value>
+			<Value>Sleep</Value>
+			<Value>Sleeping</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="9">
+			<Value>Ferries and motorails</Value>
+			<Value>Motorail</Value>
+			<Value>Motorails</Value>
+			<Value>Ferry</Value>
+			<Value>Ferries</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="10">
+			<Value>Border crossings</Value>
+			<Value>Border crossing</Value>
+			<Value>Border</Value>
+			<Value>Borders</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="11">
+			<Value>VW dealers</Value>
+			<Value>Dealer</Value>
+			<Value>Dealers</Value>
+			<Value>VW</Value>
+			<Value>Volkswagen</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="12">
+			<Value>VW service</Value>
+			<Value>Volkswagen</Value>
+			<Value>Workshop</Value>
+			<Value>Workshops</Value>
+			<Value>Service</Value>
+			<Value>Services</Value>
+			<Value>Inspection</Value>
+			<Value>Inspections</Value>
+			<Value>Maintenance</Value>
+			<Value>Servicing</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="14">
+			<Value>Motorway exit/access roads</Value>
+			<Value>Exit</Value>
+			<Value>Exits</Value>
+			<Value>Access road</Value>
+			<Value>Access roads</Value>
+			<Value>Exit road</Value>
+			<Value>Exit roads</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="15">
+			<Value>Car hire</Value>
+			<Value>Car rental</Value>
+			<Value>Hire</Value>
+			<Value>Rent</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="16">
+			<Value>Railway stations</Value>
+			<Value>Railway station</Value>
+			<Value>Train stations</Value>
+			<Value>Train station</Value>
+			<Value>Train</Value>
+			<Value>Trains</Value>
+			<Value>Railway</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="18">
+			<Value>Bus stations</Value>
+			<Value>Bus station</Value>
+			<Value>Bus</Value>
+			<Value>Buses</Value>
+			<Value>Bus stop</Value>
+			<Value>Bus stops</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="19">
+			<Value>Tourist information</Value>
+			<Value>Visitor information</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="20">
+			<Value>Police</Value>
+			<Value>Police station</Value>
+			<Value>999</Value>
+			<Value>112</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="21">
+			<Value>Hospitals</Value>
+			<Value>Hospital</Value>
+			<Value>Clinic</Value>
+			<Value>Clinics</Value>
+			<Value>Emergency</Value>
+			<Value>Emergencies</Value>
+			<Value>Doctor</Value>
+			<Value>Doctors</Value>
+			<Value>999</Value>
+			<Value>112</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="22">
+			<Value>Medical services</Value>
+			<Value>Medical service</Value>
+			<Value>Practice</Value>
+			<Value>Practices</Value>
+			<Value>Surgery</Value>
+			<Value>Surgeries</Value>
+			<Value>Doctor</Value>
+			<Value>Doctors</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="23">
+			<Value>Pharmacies</Value>
+			<Value>Pharmacy</Value>
+			<Value>Chemist</Value>
+			<Value>Medicine</Value>
+			<Value>Medicines</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="104">
+			<Value>Restaurants</Value>
+			<Value>Restaurant</Value>
+			<Value>Eating</Value>
+			<Value>Drinking</Value>
+			<Value>Lodging</Value>
+			<Value>Accommodation</Value>
+			<Value>Hunger</Value>
+			<Value>Hungry</Value>
+			<Value>Thirst</Value>
+			<Value>Thirsty</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="25">
+			<Value>Cash machines</Value>
+			<Value>Cash machine</Value>
+			<Value>Money</Value>
+			<Value>Cash</Value>
+			<Value>ATM</Value>
+			<Value>EC</Value>
+			<Value>Cashpoint</Value>
+			<Value>Cashpoints</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="26">
+			<Value>Cafés</Value>
+			<Value>Café</Value>
+			<Value>Coffee shop</Value>
+			<Value>Coffee shops</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="27">
+			<Value>Shopping centres</Value>
+			<Value>Shopping centre</Value>
+			<Value>Shopping</Value>
+			<Value>Shop</Value>
+			<Value>Department store</Value>
+			<Value>Department stores</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="28">
+			<Value>Clothing</Value>
+			<Value>Clothes</Value>
+			<Value>Shoe</Value>
+			<Value>Shoes</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="29">
+			<Value>Electronics</Value>
+			<Value>Electronic goods</Value>
+			<Value>Electricals</Value>
+			<Value>Technology</Value>
+			<Value>Computer</Value>
+			<Value>Computers</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="30">
+			<Value>Wine and spirits</Value>
+			<Value>Wine cellar</Value>
+			<Value>Off-licence</Value>
+			<Value>Wines</Value>
+			<Value>Wines</Value>
+			<Value>Spirit</Value>
+			<Value>Spirits</Value>
+			<Value>Alcohol</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="31">
+			<Value>Nightlife</Value>
+			<Value>Bar</Value>
+			<Value>Bars</Value>
+			<Value>Pub</Value>
+			<Value>Pubs</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="32">
+			<Value>Parks</Value>
+			<Value>Park</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="33">
+			<Value>Attractions</Value>
+			<Value>Attraction</Value>
+			<Value>Sights</Value>
+			<Value>Landmark</Value>
+			<Value>Landmarks</Value>
+			<Value>POI</Value>
+			<Value>POIs</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="34">
+			<Value>Cinemas</Value>
+			<Value>Cinema</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="35">
+			<Value>Casinos</Value>
+			<Value>Casino</Value>
+			<Value>Gambling</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="36">
+			<Value>Performing arts</Value>
+			<Value>Opera</Value>
+			<Value>Theatre</Value>
+			<Value>Concert</Value>
+			<Value>Musical</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="37">
+			<Value>Museums</Value>
+			<Value>Museum</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="38">
+			<Value>Memorials</Value>
+			<Value>Memorial</Value>
+			<Value>Monument</Value>
+			<Value>Monuments</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="39">
+			<Value>Sports centres</Value>
+			<Value>Sports centre</Value>
+			<Value>Stadium</Value>
+			<Value>Stadiums</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="41">
+			<Value>Golf</Value>
+			<Value>Golfing</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="42">
+			<Value>Boating</Value>
+			<Value>Boat</Value>
+			<Value>Boats</Value>
+			<Value>Sailing</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="43">
+			<Value>Skiing</Value>
+			<Value>Ski</Value>
+			<Value>Sport</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="44">
+			<Value>Amusement parks</Value>
+			<Value>Amusement park</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="45">
+			<Value>Banks</Value>
+			<Value>Bank</Value>
+			<Value>Money</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="46">
+			<Value>Post</Value>
+			<Value>Letter</Value>
+			<Value>Letters</Value>
+			<Value>Package</Value>
+			<Value>Packages</Value>
+			<Value>Parcel</Value>
+			<Value>Parcels</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="47">
+			<Value>Companies</Value>
+			<Value>Company</Value>
+			<Value>Business</Value>
+			<Value>Businesses</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="48">
+			<Value>Conference centres</Value>
+			<Value>Conference centre</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="49">
+			<Value>Government and administration</Value>
+			<Value>Town hall</Value>
+			<Value>Government</Value>
+			<Value>Administration</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="50">
+			<Value>Embassies</Value>
+			<Value>Embassy</Value>
+			<Value>Consulate</Value>
+			<Value>Consulates</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="52">
+			<Value>Educational institutions</Value>
+			<Value>School</Value>
+			<Value>Schools</Value>
+			<Value>University</Value>
+			<Value>Universities</Value>
+			<Value>College</Value>
+			<Value>Colleges</Value>
+			<Value>Educational institution</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="53">
+			<Value>Places of worship</Value>
+			<Value>Place of worship</Value>
+			<Value>Mosque</Value>
+			<Value>Mosques</Value>
+			<Value>Church</Value>
+			<Value>Churches</Value>
+			<Value>Synagogue</Value>
+			<Value>Synagogues</Value>
+			<Value>Monastery</Value>
+			<Value>Monasteries</Value>
+			<Value>Convent</Value>
+			<Value>Convents</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="54">
+			<Value>Cemeteries</Value>
+			<Value>Cemeteries</Value>
+			<Value>Graveyard</Value>
+			<Value>Graveyards</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="134">
+			<Value>Charging stations</Value>
+			<Value>Charging station</Value>
+			<Value>Charging</Value>
+		</Thesaurus>
+	</PoiCategoryThesaurusDefinition>
+
+	<PoiCategoryNameDefinition>
+		<Name category_ref="1">Autostadt</Name>
+		<Name category_ref="2">Airports</Name>
+		<Name category_ref="136">LPG filling stations</Name>
+		<Name category_ref="135">Natural gas filling stations</Name>
+		<Name category_ref="101">Petrol stations</Name>
+		<Name category_ref="102">Car parks</Name>
+		<Name category_ref="7">Service areas</Name>
+		<Name category_ref="8">Hotels and motels</Name>
+		<Name category_ref="9">Ferries and motorails</Name>
+		<Name category_ref="10">Border crossings</Name>
+		<Name category_ref="11">VW dealers</Name>
+		<Name category_ref="12">VW service</Name>
+		<Name category_ref="14">Motorway exit/access roads</Name>
+		<Name category_ref="15">Car hire</Name>
+		<Name category_ref="16">Railway stations</Name>
+		<Name category_ref="18">Bus stations</Name>
+		<Name category_ref="19">Tourist information</Name>
+		<Name category_ref="20">Police</Name>
+		<Name category_ref="21">Hospitals</Name>
+		<Name category_ref="22">Medical services</Name>
+		<Name category_ref="23">Pharmacies</Name>
+		<Name category_ref="104">Restaurants</Name>
+		<Name category_ref="25">Cash machines</Name>
+		<Name category_ref="26">Cafés</Name>
+		<Name category_ref="27">Shopping centres</Name>
+		<Name category_ref="28">Clothing</Name>
+		<Name category_ref="29">Electronics</Name>
+		<Name category_ref="30">Wine and spirits</Name>
+		<Name category_ref="31">Nightlife</Name>
+		<Name category_ref="32">Parks</Name>
+		<Name category_ref="33">Attractions</Name>
+		<Name category_ref="34">Cinemas</Name>
+		<Name category_ref="35">Casinos</Name>
+		<Name category_ref="36">Performing arts</Name>
+		<Name category_ref="37">Museums</Name>
+		<Name category_ref="38">Memorials</Name>
+		<Name category_ref="39">Sports centres</Name>
+		<Name category_ref="41">Golf</Name>
+		<Name category_ref="42">Boating</Name>
+		<Name category_ref="43">Skiing</Name>
+		<Name category_ref="44">Amusement parks</Name>
+		<Name category_ref="45">Banks</Name>
+		<Name category_ref="46">Post</Name>
+		<Name category_ref="47">Companies</Name>
+		<Name category_ref="48">Conference centres</Name>
+		<Name category_ref="49">Government and administration</Name>
+		<Name category_ref="50">Embassies</Name>
+		<Name category_ref="52">Educational institutions</Name>
+		<Name category_ref="53">Places of worship</Name>
+		<Name category_ref="54">Cemeteries</Name>
+		<Name category_ref="134">Charging stations</Name>
+	</PoiCategoryNameDefinition>
+</LanguagePoiConfiguration>

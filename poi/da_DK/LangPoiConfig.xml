@@ -1,0 +1,1273 @@
+<LanguagePoiConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xsd/locale/LanguagePoiConfiguration.xsd" version="1">
+<!--Alphabetically sorted setup category definitions for each fuel type, will be reloaded after language change-->
+	<SetupCategoryDefinition>
+		<PoiCategoryMapping fueltype="default">
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Ambassader -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Apoteker -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Banegårde -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Banker -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Beklædning -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Biludlejning -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Biografer -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Busterminaler -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Caféer -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektronik -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Firmaer -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Forlystelsesparker -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Færger og biltog -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golfsport -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Grænseovergange -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hoteller og moteller -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Idrætscentre -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Indkøbscentre -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kasinoer -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Kirkegårde -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Kirker -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongrescentre -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Ladestationer -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- LPG-tankstationer -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Lufthavne -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Lægetjenester -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Mindesmærker -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Motorvejsfrakørsler/-tilkørsler -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Museer -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Natteliv -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Naturgastankstationer -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parker -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parkeringspladser -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Pengeautomater -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Politi -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Post -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Rastepladser -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Regering og administration -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restauranter -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Scenekunst -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Sejlsport -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Seværdigheder -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Skisport -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Sygehuse -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Tankstationer -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Turistinformationer -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Uddannelsesinstitutioner -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Vin og spiritus -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW partner -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW service -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="gasoline">
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Ambassader -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Apoteker -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Banegårde -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Banker -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Beklædning -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Biludlejning -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Biografer -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Busterminaler -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Caféer -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektronik -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Firmaer -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Forlystelsesparker -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Færger og biltog -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golfsport -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Grænseovergange -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hoteller og moteller -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Idrætscentre -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Indkøbscentre -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kasinoer -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Kirkegårde -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Kirker -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongrescentre -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Ladestationer -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- LPG-tankstationer -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Lufthavne -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Lægetjenester -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Mindesmærker -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Motorvejsfrakørsler/-tilkørsler -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Museer -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Natteliv -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Naturgastankstationer -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parker -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parkeringspladser -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Pengeautomater -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Politi -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Post -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Rastepladser -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Regering og administration -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restauranter -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Scenekunst -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Sejlsport -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Seværdigheder -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Skisport -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Sygehuse -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Tankstationer -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Turistinformationer -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Uddannelsesinstitutioner -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Vin og spiritus -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW partner -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW service -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="diesel">
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Ambassader -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Apoteker -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Banegårde -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Banker -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Beklædning -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Biludlejning -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Biografer -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Busterminaler -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Caféer -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektronik -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Firmaer -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Forlystelsesparker -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Færger og biltog -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golfsport -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Grænseovergange -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hoteller og moteller -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Idrætscentre -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Indkøbscentre -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kasinoer -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Kirkegårde -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Kirker -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongrescentre -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Ladestationer -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- LPG-tankstationer -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Lufthavne -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Lægetjenester -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Mindesmærker -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Motorvejsfrakørsler/-tilkørsler -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Museer -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Natteliv -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Naturgastankstationer -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parker -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parkeringspladser -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Pengeautomater -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Politi -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Post -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Rastepladser -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Regering og administration -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restauranter -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Scenekunst -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Sejlsport -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Seværdigheder -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Skisport -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Sygehuse -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Tankstationer -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Turistinformationer -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Uddannelsesinstitutioner -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Vin og spiritus -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW partner -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW service -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="cng">
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Ambassader -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Apoteker -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Banegårde -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Banker -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Beklædning -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Biludlejning -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Biografer -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Busterminaler -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Caféer -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektronik -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Firmaer -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Forlystelsesparker -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Færger og biltog -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golfsport -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Grænseovergange -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hoteller og moteller -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Idrætscentre -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Indkøbscentre -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kasinoer -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Kirkegårde -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Kirker -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongrescentre -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Ladestationer -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- LPG-tankstationer -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Lufthavne -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Lægetjenester -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Mindesmærker -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Motorvejsfrakørsler/-tilkørsler -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Museer -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Natteliv -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Naturgastankstationer -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parker -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parkeringspladser -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Pengeautomater -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Politi -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Post -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Rastepladser -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Regering og administration -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restauranter -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Scenekunst -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Sejlsport -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Seværdigheder -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Skisport -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Sygehuse -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Tankstationer -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Turistinformationer -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Uddannelsesinstitutioner -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Vin og spiritus -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW partner -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW service -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="lpg">
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Ambassader -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Apoteker -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Banegårde -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Banker -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Beklædning -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Biludlejning -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Biografer -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Busterminaler -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Caféer -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektronik -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Firmaer -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Forlystelsesparker -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Færger og biltog -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golfsport -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Grænseovergange -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hoteller og moteller -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Idrætscentre -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Indkøbscentre -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kasinoer -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Kirkegårde -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Kirker -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongrescentre -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Ladestationer -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- LPG-tankstationer -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Lufthavne -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Lægetjenester -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Mindesmærker -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Motorvejsfrakørsler/-tilkørsler -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Museer -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Natteliv -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Naturgastankstationer -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parker -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parkeringspladser -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Pengeautomater -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Politi -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Post -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Rastepladser -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Regering og administration -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restauranter -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Scenekunst -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Sejlsport -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Seværdigheder -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Skisport -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Sygehuse -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Tankstationer -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Turistinformationer -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Uddannelsesinstitutioner -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Vin og spiritus -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW partner -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW service -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="bev">
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Ambassader -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Apoteker -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Banegårde -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Banker -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Beklædning -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Biludlejning -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Biografer -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Busterminaler -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Caféer -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektronik -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Firmaer -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Forlystelsesparker -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Færger og biltog -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golfsport -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Grænseovergange -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hoteller og moteller -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Idrætscentre -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Indkøbscentre -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kasinoer -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Kirkegårde -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Kirker -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongrescentre -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Ladestationer -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- LPG-tankstationer -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Lufthavne -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Lægetjenester -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Mindesmærker -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Motorvejsfrakørsler/-tilkørsler -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Museer -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Natteliv -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Naturgastankstationer -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parker -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parkeringspladser -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Pengeautomater -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Politi -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Post -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Rastepladser -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Regering og administration -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restauranter -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Scenekunst -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Sejlsport -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Seværdigheder -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Skisport -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Sygehuse -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Tankstationer -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Turistinformationer -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Uddannelsesinstitutioner -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Vin og spiritus -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW partner -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW service -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="phev">
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Ambassader -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Apoteker -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Banegårde -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Banker -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Beklædning -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Biludlejning -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Biografer -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Busterminaler -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Caféer -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektronik -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Firmaer -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Forlystelsesparker -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Færger og biltog -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golfsport -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Grænseovergange -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Hoteller og moteller -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Idrætscentre -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Indkøbscentre -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kasinoer -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Kirkegårde -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Kirker -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongrescentre -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Ladestationer -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- LPG-tankstationer -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Lufthavne -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Lægetjenester -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Mindesmærker -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Motorvejsfrakørsler/-tilkørsler -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Museer -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Natteliv -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Naturgastankstationer -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parker -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parkeringspladser -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Pengeautomater -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Politi -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Post -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Rastepladser -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Regering og administration -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restauranter -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Scenekunst -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Sejlsport -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Seværdigheder -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Skisport -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Sygehuse -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Tankstationer -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Turistinformationer -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Uddannelsesinstitutioner -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Vin og spiritus -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW partner -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW service -->
+		</PoiCategoryMapping>
+	</SetupCategoryDefinition>
+  <PoiCategoryGroupDefinition>
+    <PoiCategoryGroup id="10" type="dynamic">
+      <Priority>1</Priority>
+      <PoiCategoryMapping />
+    </PoiCategoryGroup>
+    <PoiCategoryGroup id="11" type="local">
+      <Priority>2</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>50</PoiCategoryRef>
+        <PoiCategoryRef>23</PoiCategoryRef>
+        <PoiCategoryRef>1</PoiCategoryRef>
+        <PoiCategoryRef>16</PoiCategoryRef>
+        <PoiCategoryRef>45</PoiCategoryRef>
+        <PoiCategoryRef>28</PoiCategoryRef>
+        <PoiCategoryRef>15</PoiCategoryRef>
+        <PoiCategoryRef>34</PoiCategoryRef>
+        <PoiCategoryRef>18</PoiCategoryRef>
+        <PoiCategoryRef>26</PoiCategoryRef>
+        <PoiCategoryRef>35</PoiCategoryRef>
+        <PoiCategoryRef>29</PoiCategoryRef>
+        <PoiCategoryRef>9</PoiCategoryRef>
+        <PoiCategoryRef>44</PoiCategoryRef>
+        <PoiCategoryRef>41</PoiCategoryRef>
+        <PoiCategoryRef>10</PoiCategoryRef>
+        <PoiCategoryRef>8</PoiCategoryRef>
+        <PoiCategoryRef>39</PoiCategoryRef>
+        <PoiCategoryRef>27</PoiCategoryRef>
+        <PoiCategoryRef>54</PoiCategoryRef>
+        <PoiCategoryRef>53</PoiCategoryRef>
+        <PoiCategoryRef>48</PoiCategoryRef>
+        <PoiCategoryRef>134</PoiCategoryRef>
+        <PoiCategoryRef>22</PoiCategoryRef>
+        <PoiCategoryRef>136</PoiCategoryRef>
+        <PoiCategoryRef>2</PoiCategoryRef>
+        <PoiCategoryRef>38</PoiCategoryRef>
+        <PoiCategoryRef>14</PoiCategoryRef>
+        <PoiCategoryRef>37</PoiCategoryRef>
+        <PoiCategoryRef>31</PoiCategoryRef>
+        <PoiCategoryRef>135</PoiCategoryRef>
+        <PoiCategoryRef>32</PoiCategoryRef>
+        <PoiCategoryRef>102</PoiCategoryRef>
+        <PoiCategoryRef>25</PoiCategoryRef>
+        <PoiCategoryRef>20</PoiCategoryRef>
+        <PoiCategoryRef>46</PoiCategoryRef>
+        <PoiCategoryRef>7</PoiCategoryRef>
+        <PoiCategoryRef>49</PoiCategoryRef>
+        <PoiCategoryRef>104</PoiCategoryRef>
+        <PoiCategoryRef>36</PoiCategoryRef>
+        <PoiCategoryRef>42</PoiCategoryRef>
+        <PoiCategoryRef>43</PoiCategoryRef>
+        <PoiCategoryRef>21</PoiCategoryRef>
+        <PoiCategoryRef>101</PoiCategoryRef>
+        <PoiCategoryRef>33</PoiCategoryRef>
+        <PoiCategoryRef>19</PoiCategoryRef>
+        <PoiCategoryRef>52</PoiCategoryRef>
+        <PoiCategoryRef>30</PoiCategoryRef>
+        <PoiCategoryRef>47</PoiCategoryRef>
+        <PoiCategoryRef>11</PoiCategoryRef>
+        <PoiCategoryRef>12</PoiCategoryRef>
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+    <PoiCategoryGroup id="12" type="local">
+      <Priority>3</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>16</PoiCategoryRef>
+        <PoiCategoryRef>15</PoiCategoryRef>
+        <PoiCategoryRef>18</PoiCategoryRef>
+        <PoiCategoryRef>9</PoiCategoryRef>
+        <PoiCategoryRef>10</PoiCategoryRef>
+        <PoiCategoryRef>8</PoiCategoryRef>
+        <PoiCategoryRef>134</PoiCategoryRef>
+        <PoiCategoryRef>136</PoiCategoryRef>
+        <PoiCategoryRef>2</PoiCategoryRef>
+        <PoiCategoryRef>14</PoiCategoryRef>
+        <PoiCategoryRef>135</PoiCategoryRef>
+        <PoiCategoryRef>102</PoiCategoryRef>
+        <PoiCategoryRef>7</PoiCategoryRef>
+        <PoiCategoryRef>101</PoiCategoryRef>
+        <PoiCategoryRef>19</PoiCategoryRef>
+        <PoiCategoryRef>11</PoiCategoryRef>
+        <PoiCategoryRef>12</PoiCategoryRef>
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+    <PoiCategoryGroup id="13" type="local">
+      <Priority>4</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>28</PoiCategoryRef>
+        <PoiCategoryRef>26</PoiCategoryRef>
+        <PoiCategoryRef>29</PoiCategoryRef>
+        <PoiCategoryRef>27</PoiCategoryRef>
+        <PoiCategoryRef>31</PoiCategoryRef>
+        <PoiCategoryRef>25</PoiCategoryRef>
+        <PoiCategoryRef>104</PoiCategoryRef>
+        <PoiCategoryRef>30</PoiCategoryRef>
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+    <PoiCategoryGroup id="14" type="local">
+      <Priority>6</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>23</PoiCategoryRef>
+        <PoiCategoryRef>22</PoiCategoryRef>
+        <PoiCategoryRef>21</PoiCategoryRef>
+        <PoiCategoryRef>20</PoiCategoryRef>
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+    <PoiCategoryGroup id="15" type="local">
+      <Priority>7</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>1</PoiCategoryRef>
+        <PoiCategoryRef>34</PoiCategoryRef>
+        <PoiCategoryRef>35</PoiCategoryRef>
+        <PoiCategoryRef>44</PoiCategoryRef>
+        <PoiCategoryRef>41</PoiCategoryRef>
+        <PoiCategoryRef>39</PoiCategoryRef>
+        <PoiCategoryRef>38</PoiCategoryRef>
+        <PoiCategoryRef>37</PoiCategoryRef>
+        <PoiCategoryRef>32</PoiCategoryRef>
+        <PoiCategoryRef>36</PoiCategoryRef>
+        <PoiCategoryRef>42</PoiCategoryRef>
+        <PoiCategoryRef>43</PoiCategoryRef>
+        <PoiCategoryRef>33</PoiCategoryRef>
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+    <PoiCategoryGroup id="16" type="local">
+      <Priority>5</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>50</PoiCategoryRef>
+        <PoiCategoryRef>45</PoiCategoryRef>
+        <PoiCategoryRef>54</PoiCategoryRef>
+        <PoiCategoryRef>53</PoiCategoryRef>
+        <PoiCategoryRef>48</PoiCategoryRef>
+        <PoiCategoryRef>46</PoiCategoryRef>
+        <PoiCategoryRef>49</PoiCategoryRef>
+        <PoiCategoryRef>52</PoiCategoryRef>
+        <PoiCategoryRef>47</PoiCategoryRef>
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+  </PoiCategoryGroupDefinition>
+  <PoiCategoryGroupNameDefinition>
+    <Name category_group_ref="10">Mine specialdestinationer (personal POI's)</Name>
+    <Name category_group_ref="11">Kategorier (alfabetisk)</Name>
+    <Name category_group_ref="12">Bil og rejser</Name>
+    <Name category_group_ref="13">Mad og indkøb</Name>
+    <Name category_group_ref="14">Nødsituationer</Name>
+    <Name category_group_ref="15">Seværdigheder og fritid</Name>
+    <Name category_group_ref="16">Virksomheder og offentlige institutioner</Name>
+  </PoiCategoryGroupNameDefinition>
+
+	<PoiCategoryThesaurusDefinition>
+		<Thesaurus category_ref="1">
+			<Value>Autostadt</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="2">
+			<Value>Lufthavne</Value>
+			<Value>Lufthavn</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="136">
+			<Value>LPG-tankstationer</Value>
+			<Value>LPG</Value>
+			<Value>Gas</Value>
+			<Value>Tanke</Value>
+			<Value>Tankstation</Value>
+			<Value>Tankstationer</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="135">
+			<Value>Naturgastankstationer</Value>
+			<Value>Naturgastankstation</Value>
+			<Value>Naturgas</Value>
+			<Value>Gas</Value>
+			<Value>CNG</Value>
+			<Value>Tanke</Value>
+			<Value>Tankstation</Value>
+			<Value>Tankstationer</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="101">
+			<Value>Tankstationer</Value>
+			<Value>Tankstation</Value>
+			<Value>Tanke</Value>
+			<Value>Benzin</Value>
+			<Value>Diesel</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="102">
+			<Value>Parkeringspladser</Value>
+			<Value>Parkeringsplads</Value>
+			<Value>Parkere</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="7">
+			<Value>Rastepladser</Value>
+			<Value>Rasteplads</Value>
+			<Value>Transportcenter</Value>
+			<Value>Lokum</Value>
+			<Value>WC</Value>
+			<Value>Toilet</Value>
+			<Value>Toiletter</Value>
+			<Value>Hvile</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="8">
+			<Value>Hoteller og moteller</Value>
+			<Value>Hotel</Value>
+			<Value>Hoteller</Value>
+			<Value>Motel</Value>
+			<Value>Moteller</Value>
+			<Value>Kro</Value>
+			<Value>Kroer</Value>
+			<Value>Sove</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="9">
+			<Value>Færger og biltog</Value>
+			<Value>Biltog</Value>
+			<Value>Færge</Value>
+			<Value>Færger</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="10">
+			<Value>Grænseovergange</Value>
+			<Value>Grænseovergang</Value>
+			<Value>Grænse</Value>
+			<Value>Grænser</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="11">
+			<Value>VW partner</Value>
+			<Value>Forhandlere</Value>
+			<Value>Forhandler</Value>
+			<Value>VW</Value>
+			<Value>Volkswagen</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="12">
+			<Value>VW service</Value>
+			<Value>Volkswagen</Value>
+			<Value>Værksted</Value>
+			<Value>Værksteder</Value>
+			<Value>Service</Value>
+			<Value>Servicer</Value>
+			<Value>Serviceeftersyn</Value>
+			<Value>Pleje</Value>
+			<Value>Vedligeholdelse</Value>
+			<Value>Vedligeholdelsesarbejde</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="14">
+			<Value>Motorvejsfrakørsler/-tilkørsler</Value>
+			<Value>Frakørsel</Value>
+			<Value>Frakørsler</Value>
+			<Value>Tilkørsel</Value>
+			<Value>Tilkørsler</Value>
+			<Value>Afkørsel</Value>
+			<Value>Afkørsler</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="15">
+			<Value>Biludlejning</Value>
+			<Value>Leje</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="16">
+			<Value>Banegårde</Value>
+			<Value>Banegård</Value>
+			<Value>Tog</Value>
+			<Value>Jernbane</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="18">
+			<Value>Busterminaler</Value>
+			<Value>Busterminal</Value>
+			<Value>Bus</Value>
+			<Value>Busser</Value>
+			<Value>Busstoppested</Value>
+			<Value>Busstoppesteder</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="19">
+			<Value>Turistinformationer</Value>
+			<Value>Turistinformation</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="20">
+			<Value>Politi</Value>
+			<Value>114</Value>
+			<Value>112</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="21">
+			<Value>Sygehuse</Value>
+			<Value>Sygehus</Value>
+			<Value>Hospital</Value>
+			<Value>Hospitaler</Value>
+			<Value>Klinik</Value>
+			<Value>Klinikker</Value>
+			<Value>Nødsituation</Value>
+			<Value>Nødsituationer</Value>
+			<Value>Læge</Value>
+			<Value>Læger</Value>
+			<Value>112</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="22">
+			<Value>Lægetjenester</Value>
+			<Value>Lægetjeneste</Value>
+			<Value>Praksis</Value>
+			<Value>Praksisser</Value>
+			<Value>Læge</Value>
+			<Value>Læger</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="23">
+			<Value>Apoteker</Value>
+			<Value>Apotek</Value>
+			<Value>Medikament</Value>
+			<Value>Medikamenter</Value>
+			<Value>Medicin</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="104">
+			<Value>Restauranter</Value>
+			<Value>Restaurant</Value>
+			<Value>Spise</Value>
+			<Value>Drikke</Value>
+			<Value>Kro</Value>
+			<Value>Kroer</Value>
+			<Value>Sult</Value>
+			<Value>Tørst</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="25">
+			<Value>Pengeautomater</Value>
+			<Value>Pengeautomat</Value>
+			<Value>Penge</Value>
+			<Value>Kontanter</Value>
+			<Value>Bankautomat</Value>
+			<Value>Dankort</Value>
+			<Value>Automat</Value>
+			<Value>Automater</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="26">
+			<Value>Caféer</Value>
+			<Value>Café</Value>
+			<Value>Kaffe</Value>
+			<Value>Te</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="27">
+			<Value>Indkøbscentre</Value>
+			<Value>Indkøbscenter</Value>
+			<Value>Shopping</Value>
+			<Value>Shoppe</Value>
+			<Value>Indkøb</Value>
+			<Value>Købe</Value>
+			<Value>Varehus</Value>
+			<Value>Varehuse</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="28">
+			<Value>Beklædning</Value>
+			<Value>Tøj</Value>
+			<Value>Sko</Value>
+			<Value>Fodtøj</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="29">
+			<Value>Elektronik</Value>
+			<Value>Teknik</Value>
+			<Value>Computer</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="30">
+			<Value>Vin og spiritus</Value>
+			<Value>Vinkælder</Value>
+			<Value>Vin</Value>
+			<Value>Vine</Value>
+			<Value>Spiritus</Value>
+			<Value>Alkohol</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="31">
+			<Value>Natteliv</Value>
+			<Value>Bar</Value>
+			<Value>Værtshus</Value>
+			<Value>Værtshuse</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="32">
+			<Value>Parker</Value>
+			<Value>Park</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="33">
+			<Value>Seværdigheder</Value>
+			<Value>Seværdighed</Value>
+			<Value>Attraktion</Value>
+			<Value>Attraktioner</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="34">
+			<Value>Biografer</Value>
+			<Value>Biograf</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="35">
+			<Value>Kasinoer</Value>
+			<Value>Kasino</Value>
+			<Value>Spillekasino</Value>
+			<Value>Spillekasino</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="36">
+			<Value>Scenekunst</Value>
+			<Value>Opera</Value>
+			<Value>Teater</Value>
+			<Value>Koncert</Value>
+			<Value>Musical</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="37">
+			<Value>Museer</Value>
+			<Value>Museum</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="38">
+			<Value>Mindesmærker</Value>
+			<Value>Mindesmærke</Value>
+			<Value>Monument</Value>
+			<Value>Monumenter</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="39">
+			<Value>Idrætscentre</Value>
+			<Value>Idrætscenter</Value>
+			<Value>Stadion</Value>
+			<Value>Stadioner</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="41">
+			<Value>Golfsport</Value>
+			<Value>Golf</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="42">
+			<Value>Sejlsport</Value>
+			<Value>Båd</Value>
+			<Value>Både</Value>
+			<Value>Sejle</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="43">
+			<Value>Skisport</Value>
+			<Value>Ski</Value>
+			<Value>Sport</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="44">
+			<Value>Forlystelsesparker</Value>
+			<Value>Forlystelsespark</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="45">
+			<Value>Banker</Value>
+			<Value>Bank</Value>
+			<Value>Penge</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="46">
+			<Value>Post</Value>
+			<Value>Brev</Value>
+			<Value>Breve</Value>
+			<Value>Pakke</Value>
+			<Value>Pakker</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="47">
+			<Value>Firmaer</Value>
+			<Value>Firma</Value>
+			<Value>Virksomhed</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="48">
+			<Value>Kongrescentre</Value>
+			<Value>Kongrescenter</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="49">
+			<Value>Regering og administration</Value>
+			<Value>Rådhus</Value>
+			<Value>Regering</Value>
+			<Value>Administration</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="50">
+			<Value>Ambassader</Value>
+			<Value>Ambassade</Value>
+			<Value>Konsulat</Value>
+			<Value>Konsulater</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="52">
+			<Value>Uddannelsesinstitutioner</Value>
+			<Value>Skole</Value>
+			<Value>Skoler</Value>
+			<Value>Universitet</Value>
+			<Value>Universiteter</Value>
+			<Value>Uddannelsesinstitution</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="53">
+			<Value>Kirker</Value>
+			<Value>Kirke</Value>
+			<Value>Moske</Value>
+			<Value>Moskeer</Value>
+			<Value>Synagoge</Value>
+			<Value>Synagoger</Value>
+			<Value>Kloster</Value>
+			<Value>Klostre</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="54">
+			<Value>Kirkegårde</Value>
+			<Value>Kirkegård</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="134">
+			<Value>Ladestationer</Value>
+			<Value>Ladestation</Value>
+			<Value>Lade</Value>
+			<Value>Oplade</Value>
+		</Thesaurus>
+	</PoiCategoryThesaurusDefinition>
+
+	<PoiCategoryNameDefinition>
+		<Name category_ref="1">Autostadt</Name>
+		<Name category_ref="2">Lufthavne</Name>
+		<Name category_ref="136">LPG-tankstationer</Name>
+		<Name category_ref="135">Naturgastankstationer</Name>
+		<Name category_ref="101">Tankstationer</Name>
+		<Name category_ref="102">Parkeringspladser</Name>
+		<Name category_ref="7">Rastepladser</Name>
+		<Name category_ref="8">Hoteller og moteller</Name>
+		<Name category_ref="9">Færger og biltog</Name>
+		<Name category_ref="10">Grænseovergange</Name>
+		<Name category_ref="11">VW partner</Name>
+		<Name category_ref="12">VW service</Name>
+		<Name category_ref="14">Motorvejsfrakørsler/-tilkørsler</Name>
+		<Name category_ref="15">Biludlejning</Name>
+		<Name category_ref="16">Banegårde</Name>
+		<Name category_ref="18">Busterminaler</Name>
+		<Name category_ref="19">Turistinformationer</Name>
+		<Name category_ref="20">Politi</Name>
+		<Name category_ref="21">Sygehuse</Name>
+		<Name category_ref="22">Lægetjenester</Name>
+		<Name category_ref="23">Apoteker</Name>
+		<Name category_ref="104">Restauranter</Name>
+		<Name category_ref="25">Pengeautomater</Name>
+		<Name category_ref="26">Caféer</Name>
+		<Name category_ref="27">Indkøbscentre</Name>
+		<Name category_ref="28">Beklædning</Name>
+		<Name category_ref="29">Elektronik</Name>
+		<Name category_ref="30">Vin og spiritus</Name>
+		<Name category_ref="31">Natteliv</Name>
+		<Name category_ref="32">Parker</Name>
+		<Name category_ref="33">Seværdigheder</Name>
+		<Name category_ref="34">Biografer</Name>
+		<Name category_ref="35">Kasinoer</Name>
+		<Name category_ref="36">Scenekunst</Name>
+		<Name category_ref="37">Museer</Name>
+		<Name category_ref="38">Mindesmærker</Name>
+		<Name category_ref="39">Idrætscentre</Name>
+		<Name category_ref="41">Golfsport</Name>
+		<Name category_ref="42">Sejlsport</Name>
+		<Name category_ref="43">Skisport</Name>
+		<Name category_ref="44">Forlystelsesparker</Name>
+		<Name category_ref="45">Banker</Name>
+		<Name category_ref="46">Post</Name>
+		<Name category_ref="47">Firmaer</Name>
+		<Name category_ref="48">Kongrescentre</Name>
+		<Name category_ref="49">Regering og administration</Name>
+		<Name category_ref="50">Ambassader</Name>
+		<Name category_ref="52">Uddannelsesinstitutioner</Name>
+		<Name category_ref="53">Kirker</Name>
+		<Name category_ref="54">Kirkegårde</Name>
+		<Name category_ref="134">Ladestationer</Name>
+	</PoiCategoryNameDefinition>
+</LanguagePoiConfiguration>

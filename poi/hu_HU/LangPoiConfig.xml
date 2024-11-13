@@ -1,0 +1,1281 @@
+<LanguagePoiConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xsd/locale/LanguagePoiConfiguration.xsd" version="1">
+<!--Alphabetically sorted setup category definitions for each fuel type, will be reloaded after language change-->
+	<SetupCategoryDefinition>
+		<PoiCategoryMapping fueltype="default">
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Autókölcsönzők -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Autópálya-lehajtók/-felhajtók -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Bankok -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Bevásárlóközpontok -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Borok és szeszes italok -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Buszpályaudvarok -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Cégek -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Éjszakai élet -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektronika -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Előadóművészetek -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Emlékművek -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Éttermek -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Földgáztöltő állomások -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golf sport -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Gyógyszertárak -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Hajós sport -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Határátkelők -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kaszinók -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Kávéházak -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Kompok és autószállító vonatok -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongresszusi központok -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Kormány és közigazgatás -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Követségek -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Kórházak -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- LPG töltőállomások -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Mozik -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Múzeumok -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Nevezetességek -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Oktatási intézmények -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Orvosi szolgáltatások -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Pályaudvarok -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parkok -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parkolóhelyek -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Pénzautomaták -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Pihenőhelyek -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Posta -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Rendőrség -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Repülőterek -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Ruházat -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Sportközpontok -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Szállodák és motelek -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Sísport -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Temetők -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Templomok -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Töltőállomások -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Turisztikai információk -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Üzemanyagtöltő állomások -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Vidámparkok -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW márkakereskedő -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW szerviz -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="gasoline">
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Autókölcsönzők -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Autópálya-lehajtók/-felhajtók -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Bankok -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Bevásárlóközpontok -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Borok és szeszes italok -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Buszpályaudvarok -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Cégek -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Éjszakai élet -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektronika -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Előadóművészetek -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Emlékművek -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Éttermek -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Földgáztöltő állomások -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golf sport -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Gyógyszertárak -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Hajós sport -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Határátkelők -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kaszinók -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Kávéházak -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Kompok és autószállító vonatok -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongresszusi központok -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Kormány és közigazgatás -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Követségek -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Kórházak -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- LPG töltőállomások -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Mozik -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Múzeumok -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Nevezetességek -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Oktatási intézmények -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Orvosi szolgáltatások -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Pályaudvarok -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parkok -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parkolóhelyek -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Pénzautomaták -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Pihenőhelyek -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Posta -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Rendőrség -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Repülőterek -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Ruházat -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Sportközpontok -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Szállodák és motelek -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Sísport -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Temetők -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Templomok -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Töltőállomások -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Turisztikai információk -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Üzemanyagtöltő állomások -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Vidámparkok -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW márkakereskedő -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW szerviz -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="diesel">
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Autókölcsönzők -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Autópálya-lehajtók/-felhajtók -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Bankok -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Bevásárlóközpontok -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Borok és szeszes italok -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Buszpályaudvarok -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Cégek -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Éjszakai élet -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektronika -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Előadóművészetek -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Emlékművek -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Éttermek -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Földgáztöltő állomások -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golf sport -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Gyógyszertárak -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Hajós sport -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Határátkelők -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kaszinók -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Kávéházak -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Kompok és autószállító vonatok -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongresszusi központok -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Kormány és közigazgatás -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Követségek -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Kórházak -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- LPG töltőállomások -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Mozik -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Múzeumok -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Nevezetességek -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Oktatási intézmények -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Orvosi szolgáltatások -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Pályaudvarok -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parkok -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parkolóhelyek -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Pénzautomaták -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Pihenőhelyek -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Posta -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Rendőrség -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Repülőterek -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Ruházat -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Sportközpontok -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Szállodák és motelek -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Sísport -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Temetők -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Templomok -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Töltőállomások -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Turisztikai információk -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Üzemanyagtöltő állomások -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Vidámparkok -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW márkakereskedő -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW szerviz -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="cng">
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Autókölcsönzők -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Autópálya-lehajtók/-felhajtók -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Bankok -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Bevásárlóközpontok -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Borok és szeszes italok -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Buszpályaudvarok -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Cégek -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Éjszakai élet -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektronika -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Előadóművészetek -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Emlékművek -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Éttermek -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Földgáztöltő állomások -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golf sport -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Gyógyszertárak -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Hajós sport -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Határátkelők -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kaszinók -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Kávéházak -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Kompok és autószállító vonatok -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongresszusi központok -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Kormány és közigazgatás -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Követségek -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Kórházak -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- LPG töltőállomások -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Mozik -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Múzeumok -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Nevezetességek -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Oktatási intézmények -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Orvosi szolgáltatások -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Pályaudvarok -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parkok -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parkolóhelyek -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Pénzautomaták -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Pihenőhelyek -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Posta -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Rendőrség -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Repülőterek -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Ruházat -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Sportközpontok -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Szállodák és motelek -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Sísport -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Temetők -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Templomok -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Töltőállomások -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Turisztikai információk -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Üzemanyagtöltő állomások -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Vidámparkok -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW márkakereskedő -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW szerviz -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="lpg">
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Autókölcsönzők -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Autópálya-lehajtók/-felhajtók -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Bankok -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Bevásárlóközpontok -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Borok és szeszes italok -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Buszpályaudvarok -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Cégek -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Éjszakai élet -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektronika -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Előadóművészetek -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Emlékművek -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Éttermek -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Földgáztöltő állomások -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golf sport -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Gyógyszertárak -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Hajós sport -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Határátkelők -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kaszinók -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Kávéházak -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Kompok és autószállító vonatok -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongresszusi központok -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Kormány és közigazgatás -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Követségek -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Kórházak -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- LPG töltőállomások -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Mozik -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Múzeumok -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Nevezetességek -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Oktatási intézmények -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Orvosi szolgáltatások -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Pályaudvarok -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parkok -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parkolóhelyek -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Pénzautomaták -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Pihenőhelyek -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Posta -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Rendőrség -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Repülőterek -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Ruházat -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Sportközpontok -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Szállodák és motelek -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Sísport -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Temetők -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Templomok -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Töltőállomások -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Turisztikai információk -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Üzemanyagtöltő állomások -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Vidámparkok -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW márkakereskedő -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW szerviz -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="bev">
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Autókölcsönzők -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Autópálya-lehajtók/-felhajtók -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Bankok -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Bevásárlóközpontok -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Borok és szeszes italok -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Buszpályaudvarok -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Cégek -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Éjszakai élet -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektronika -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Előadóművészetek -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Emlékművek -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Éttermek -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Földgáztöltő állomások -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golf sport -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Gyógyszertárak -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Hajós sport -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Határátkelők -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kaszinók -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Kávéházak -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Kompok és autószállító vonatok -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongresszusi központok -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Kormány és közigazgatás -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Követségek -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Kórházak -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- LPG töltőállomások -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Mozik -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Múzeumok -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Nevezetességek -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Oktatási intézmények -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Orvosi szolgáltatások -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Pályaudvarok -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parkok -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parkolóhelyek -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Pénzautomaták -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Pihenőhelyek -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Posta -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Rendőrség -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Repülőterek -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Ruházat -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Sportközpontok -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Szállodák és motelek -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Sísport -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Temetők -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Templomok -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Töltőállomások -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Turisztikai információk -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Üzemanyagtöltő állomások -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Vidámparkok -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW márkakereskedő -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW szerviz -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="phev">
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Autókölcsönzők -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Autópálya-lehajtók/-felhajtók -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Bankok -->
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Bevásárlóközpontok -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Borok és szeszes italok -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Buszpályaudvarok -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Cégek -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Éjszakai élet -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektronika -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Előadóművészetek -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Emlékművek -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Éttermek -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Földgáztöltő állomások -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golf sport -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Gyógyszertárak -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Hajós sport -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Határátkelők -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kaszinók -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Kávéházak -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Kompok és autószállító vonatok -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongresszusi központok -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- Kormány és közigazgatás -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Követségek -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Kórházak -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- LPG töltőállomások -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Mozik -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Múzeumok -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Nevezetességek -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Oktatási intézmények -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Orvosi szolgáltatások -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Pályaudvarok -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parkok -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Parkolóhelyek -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Pénzautomaták -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Pihenőhelyek -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Posta -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Rendőrség -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Repülőterek -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Ruházat -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Sportközpontok -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Szállodák és motelek -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Sísport -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Temetők -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- Templomok -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Töltőállomások -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Turisztikai információk -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Üzemanyagtöltő állomások -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Vidámparkok -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW márkakereskedő -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW szerviz -->
+		</PoiCategoryMapping>
+	</SetupCategoryDefinition>
+  <PoiCategoryGroupDefinition>
+    <PoiCategoryGroup id="10" type="dynamic">
+      <Priority>1</Priority>
+      <PoiCategoryMapping />
+    </PoiCategoryGroup>
+    <PoiCategoryGroup id="11" type="local">
+      <Priority>2</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>15</PoiCategoryRef>
+        <PoiCategoryRef>14</PoiCategoryRef>
+        <PoiCategoryRef>1</PoiCategoryRef>
+        <PoiCategoryRef>45</PoiCategoryRef>
+        <PoiCategoryRef>27</PoiCategoryRef>
+        <PoiCategoryRef>30</PoiCategoryRef>
+        <PoiCategoryRef>18</PoiCategoryRef>
+        <PoiCategoryRef>47</PoiCategoryRef>
+        <PoiCategoryRef>31</PoiCategoryRef>
+        <PoiCategoryRef>29</PoiCategoryRef>
+        <PoiCategoryRef>36</PoiCategoryRef>
+        <PoiCategoryRef>38</PoiCategoryRef>
+        <PoiCategoryRef>104</PoiCategoryRef>
+        <PoiCategoryRef>135</PoiCategoryRef>
+        <PoiCategoryRef>41</PoiCategoryRef>
+        <PoiCategoryRef>23</PoiCategoryRef>
+        <PoiCategoryRef>42</PoiCategoryRef>
+        <PoiCategoryRef>10</PoiCategoryRef>
+        <PoiCategoryRef>35</PoiCategoryRef>
+        <PoiCategoryRef>26</PoiCategoryRef>
+        <PoiCategoryRef>9</PoiCategoryRef>
+        <PoiCategoryRef>48</PoiCategoryRef>
+        <PoiCategoryRef>21</PoiCategoryRef>
+        <PoiCategoryRef>49</PoiCategoryRef>
+        <PoiCategoryRef>50</PoiCategoryRef>
+        <PoiCategoryRef>136</PoiCategoryRef>
+        <PoiCategoryRef>34</PoiCategoryRef>
+        <PoiCategoryRef>52</PoiCategoryRef>
+        <PoiCategoryRef>37</PoiCategoryRef>
+        <PoiCategoryRef>22</PoiCategoryRef>
+        <PoiCategoryRef>16</PoiCategoryRef>
+        <PoiCategoryRef>32</PoiCategoryRef>
+        <PoiCategoryRef>102</PoiCategoryRef>
+        <PoiCategoryRef>25</PoiCategoryRef>
+        <PoiCategoryRef>7</PoiCategoryRef>
+        <PoiCategoryRef>46</PoiCategoryRef>
+        <PoiCategoryRef>20</PoiCategoryRef>
+        <PoiCategoryRef>2</PoiCategoryRef>
+        <PoiCategoryRef>28</PoiCategoryRef>
+        <PoiCategoryRef>43</PoiCategoryRef>
+        <PoiCategoryRef>39</PoiCategoryRef>
+        <PoiCategoryRef>8</PoiCategoryRef>
+        <PoiCategoryRef>54</PoiCategoryRef>
+        <PoiCategoryRef>53</PoiCategoryRef>
+        <PoiCategoryRef>134</PoiCategoryRef>
+        <PoiCategoryRef>19</PoiCategoryRef>
+        <PoiCategoryRef>33</PoiCategoryRef>
+        <PoiCategoryRef>101</PoiCategoryRef>
+        <PoiCategoryRef>44</PoiCategoryRef>
+        <PoiCategoryRef>11</PoiCategoryRef>
+        <PoiCategoryRef>12</PoiCategoryRef>
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+    <PoiCategoryGroup id="12" type="local">
+      <Priority>3</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>15</PoiCategoryRef>
+        <PoiCategoryRef>14</PoiCategoryRef>
+        <PoiCategoryRef>18</PoiCategoryRef>
+        <PoiCategoryRef>135</PoiCategoryRef>
+        <PoiCategoryRef>10</PoiCategoryRef>
+        <PoiCategoryRef>9</PoiCategoryRef>
+        <PoiCategoryRef>136</PoiCategoryRef>
+        <PoiCategoryRef>16</PoiCategoryRef>
+        <PoiCategoryRef>102</PoiCategoryRef>
+        <PoiCategoryRef>7</PoiCategoryRef>
+        <PoiCategoryRef>2</PoiCategoryRef>
+        <PoiCategoryRef>8</PoiCategoryRef>
+        <PoiCategoryRef>134</PoiCategoryRef>
+        <PoiCategoryRef>19</PoiCategoryRef>
+        <PoiCategoryRef>101</PoiCategoryRef>
+        <PoiCategoryRef>11</PoiCategoryRef>
+        <PoiCategoryRef>12</PoiCategoryRef>
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+    <PoiCategoryGroup id="13" type="local">
+      <Priority>5</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>45</PoiCategoryRef>
+        <PoiCategoryRef>47</PoiCategoryRef>
+        <PoiCategoryRef>48</PoiCategoryRef>
+        <PoiCategoryRef>49</PoiCategoryRef>
+        <PoiCategoryRef>50</PoiCategoryRef>
+        <PoiCategoryRef>52</PoiCategoryRef>
+        <PoiCategoryRef>46</PoiCategoryRef>
+        <PoiCategoryRef>54</PoiCategoryRef>
+        <PoiCategoryRef>53</PoiCategoryRef>
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+    <PoiCategoryGroup id="14" type="local">
+      <Priority>4</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>27</PoiCategoryRef>
+        <PoiCategoryRef>30</PoiCategoryRef>
+        <PoiCategoryRef>31</PoiCategoryRef>
+        <PoiCategoryRef>29</PoiCategoryRef>
+        <PoiCategoryRef>104</PoiCategoryRef>
+        <PoiCategoryRef>26</PoiCategoryRef>
+        <PoiCategoryRef>25</PoiCategoryRef>
+        <PoiCategoryRef>28</PoiCategoryRef>
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+    <PoiCategoryGroup id="15" type="local">
+      <Priority>7</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>1</PoiCategoryRef>
+        <PoiCategoryRef>36</PoiCategoryRef>
+        <PoiCategoryRef>38</PoiCategoryRef>
+        <PoiCategoryRef>41</PoiCategoryRef>
+        <PoiCategoryRef>42</PoiCategoryRef>
+        <PoiCategoryRef>35</PoiCategoryRef>
+        <PoiCategoryRef>34</PoiCategoryRef>
+        <PoiCategoryRef>37</PoiCategoryRef>
+        <PoiCategoryRef>32</PoiCategoryRef>
+        <PoiCategoryRef>43</PoiCategoryRef>
+        <PoiCategoryRef>39</PoiCategoryRef>
+        <PoiCategoryRef>33</PoiCategoryRef>
+        <PoiCategoryRef>44</PoiCategoryRef>
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+    <PoiCategoryGroup id="16" type="local">
+      <Priority>6</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>23</PoiCategoryRef>
+        <PoiCategoryRef>21</PoiCategoryRef>
+        <PoiCategoryRef>22</PoiCategoryRef>
+        <PoiCategoryRef>20</PoiCategoryRef>
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+  </PoiCategoryGroupDefinition>
+  <PoiCategoryGroupNameDefinition>
+    <Name category_group_ref="10">Különleges úti céljaim (személyes POI)</Name>
+    <Name category_group_ref="11">Kategóriák (abc sorrendben)</Name>
+    <Name category_group_ref="12">Autó és utazások</Name>
+    <Name category_group_ref="13">Cégek és közintézmények</Name>
+    <Name category_group_ref="14">Étkezés és bevásárlás</Name>
+    <Name category_group_ref="15">Nevezetességek és szabadidő</Name>
+    <Name category_group_ref="16">Vészhelyzetek</Name>
+  </PoiCategoryGroupNameDefinition>
+
+	<PoiCategoryThesaurusDefinition>
+		<Thesaurus category_ref="1">
+			<Value>Autostadt</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="2">
+			<Value>Repülőterek</Value>
+			<Value>Repülőtér</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="136">
+			<Value>LPG töltőállomások</Value>
+			<Value>LPG</Value>
+			<Value>Gáz</Value>
+			<Value>Tankolni</Value>
+			<Value>Töltőállomás</Value>
+			<Value>Töltőállomások</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="135">
+			<Value>Földgáztöltő állomások</Value>
+			<Value>Földgáztöltő állomás</Value>
+			<Value>Földgáz</Value>
+			<Value>Gáz</Value>
+			<Value>CNG</Value>
+			<Value>Tankolni</Value>
+			<Value>Töltőállomás</Value>
+			<Value>Töltőállomások</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="101">
+			<Value>Üzemanyagtöltő állomások</Value>
+			<Value>Üzemanyagtöltő állomás</Value>
+			<Value>Tankolni</Value>
+			<Value>Benzin</Value>
+			<Value>Dízel</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="102">
+			<Value>Parkolóhelyek</Value>
+			<Value>Parkolóhely</Value>
+			<Value>Parkolni</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="7">
+			<Value>Pihenőhelyek</Value>
+			<Value>Pihenőhely</Value>
+			<Value>Autópályán kívüli pihenőhely</Value>
+			<Value>Vécé</Value>
+			<Value>WC</Value>
+			<Value>Illemhely</Value>
+			<Value>Illemhelyek</Value>
+			<Value>Pihenőt tart</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="8">
+			<Value>Szállodák és motelek</Value>
+			<Value>Szálloda</Value>
+			<Value>Szállodák</Value>
+			<Value>Motel</Value>
+			<Value>Motelek</Value>
+			<Value>Vendéglő</Value>
+			<Value>Vendéglők</Value>
+			<Value>Alvás</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="9">
+			<Value>Kompok és autószállító vonatok</Value>
+			<Value>Autószállító vonat</Value>
+			<Value>Autószállító vonatok</Value>
+			<Value>Komp</Value>
+			<Value>Kompok</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="10">
+			<Value>Határátkelők</Value>
+			<Value>Határátkelő</Value>
+			<Value>Határ</Value>
+			<Value>Határok</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="11">
+			<Value>VW márkakereskedő</Value>
+			<Value>Márkakereskedők</Value>
+			<Value>Márkakereskedő</Value>
+			<Value>VW</Value>
+			<Value>Volkswagen</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="12">
+			<Value>VW szerviz</Value>
+			<Value>Volkswagen</Value>
+			<Value>Műhely</Value>
+			<Value>Műhelyek</Value>
+			<Value>Szerviz</Value>
+			<Value>Szervizek</Value>
+			<Value>Ellenőrző szerviz</Value>
+			<Value>Ellenőrző szervizek</Value>
+			<Value>Karbantartás</Value>
+			<Value>Karbantartások</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="14">
+			<Value>Autópálya-lehajtók/-felhajtók</Value>
+			<Value>Kihajtó</Value>
+			<Value>Kihajtók</Value>
+			<Value>Felhajtó</Value>
+			<Value>Felhajtók</Value>
+			<Value>Lehajtó</Value>
+			<Value>Lehajtók</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="15">
+			<Value>Autókölcsönzők</Value>
+			<Value>Autókölcsönző</Value>
+			<Value>Bérel</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="16">
+			<Value>Pályaudvarok</Value>
+			<Value>Pályaudvar</Value>
+			<Value>Vonat</Value>
+			<Value>Vonatok</Value>
+			<Value>Vasút</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="18">
+			<Value>Buszpályaudvarok</Value>
+			<Value>Buszpályaudvar</Value>
+			<Value>Busz</Value>
+			<Value>Buszok</Value>
+			<Value>Buszmegálló</Value>
+			<Value>Buszmegállók</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="19">
+			<Value>Turisztikai információk</Value>
+			<Value>Turisztikai információ</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="20">
+			<Value>Rendőrség</Value>
+			<Value>Segélyhívó</Value>
+			<Value>107</Value>
+			<Value>112</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="21">
+			<Value>Kórházak</Value>
+			<Value>Kórház</Value>
+			<Value>Gyógyintézet</Value>
+			<Value>Gyógyintézetek</Value>
+			<Value>Klinika</Value>
+			<Value>Klinikák</Value>
+			<Value>Vészhelyzet</Value>
+			<Value>Vészhelyzetek</Value>
+			<Value>Orvos</Value>
+			<Value>Orvosok</Value>
+			<Value>104</Value>
+			<Value>112</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="22">
+			<Value>Orvosi szolgáltatások</Value>
+			<Value>Orvosi szolgáltatás</Value>
+			<Value>Orvosi rendelő</Value>
+			<Value>Orvosi rendelők</Value>
+			<Value>Orvos</Value>
+			<Value>Orvosok</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="23">
+			<Value>Gyógyszertárak</Value>
+			<Value>Gyógyszertár</Value>
+			<Value>Gyógyszer</Value>
+			<Value>Gyógyszerek</Value>
+			<Value>Orvosság</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="104">
+			<Value>Éttermek</Value>
+			<Value>Étterem</Value>
+			<Value>Enni</Value>
+			<Value>Inni</Value>
+			<Value>Vendéglátóhely</Value>
+			<Value>Vendéglátóhelyek</Value>
+			<Value>Éhség</Value>
+			<Value>Szomjúság</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="25">
+			<Value>Pénzautomaták</Value>
+			<Value>Pénzautomata</Value>
+			<Value>Pénz</Value>
+			<Value>Készpénz</Value>
+			<Value>ATM</Value>
+			<Value>EC</Value>
+			<Value>Automata</Value>
+			<Value>Automaták</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="26">
+			<Value>Kávéházak</Value>
+			<Value>Kávéház</Value>
+			<Value>Kávé</Value>
+			<Value>Kávék</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="27">
+			<Value>Bevásárlóközpontok</Value>
+			<Value>Bevásárlóközpont</Value>
+			<Value>Shoppingolás</Value>
+			<Value>Shoppingolni</Value>
+			<Value>Bevásárolni</Value>
+			<Value>Vásárolni</Value>
+			<Value>Áruház</Value>
+			<Value>Áruházak</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="28">
+			<Value>Ruházat</Value>
+			<Value>Ruhák</Value>
+			<Value>Cipő</Value>
+			<Value>Cipők</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="29">
+			<Value>Elektronika</Value>
+			<Value>Technika</Value>
+			<Value>Számítógép</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="30">
+			<Value>Borok és szeszes italok</Value>
+			<Value>Borospince</Value>
+			<Value>Bor</Value>
+			<Value>Borok</Value>
+			<Value>Szeszes ital</Value>
+			<Value>Szeszes italok</Value>
+			<Value>Alkohol</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="31">
+			<Value>Éjszakai élet</Value>
+			<Value>Bár</Value>
+			<Value>Kocsma</Value>
+			<Value>Kocsmák</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="32">
+			<Value>Parkok</Value>
+			<Value>Park</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="33">
+			<Value>Nevezetességek</Value>
+			<Value>Nevezetesség</Value>
+			<Value>Látnivaló</Value>
+			<Value>Látnivalók</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="34">
+			<Value>Mozik</Value>
+			<Value>Mozi</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="35">
+			<Value>Kaszinók</Value>
+			<Value>Kaszinó</Value>
+			<Value>Játékterem</Value>
+			<Value>Játéktermek</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="36">
+			<Value>Előadóművészetek</Value>
+			<Value>Opera</Value>
+			<Value>Színház</Value>
+			<Value>Koncert</Value>
+			<Value>Musical</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="37">
+			<Value>Múzeumok</Value>
+			<Value>Múzeum</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="38">
+			<Value>Emlékművek</Value>
+			<Value>Emlékmű</Value>
+			<Value>Műemlék</Value>
+			<Value>Műemlékek</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="39">
+			<Value>Sportközpontok</Value>
+			<Value>Sportközpont</Value>
+			<Value>Stadion</Value>
+			<Value>Stadionok</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="41">
+			<Value>Golf sport</Value>
+			<Value>Golf</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="42">
+			<Value>Hajós sport</Value>
+			<Value>Csónak</Value>
+			<Value>Csónakok</Value>
+			<Value>Vitorlázni</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="43">
+			<Value>Sísport</Value>
+			<Value>Sí</Value>
+			<Value>Sport</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="44">
+			<Value>Vidámparkok</Value>
+			<Value>Vidámpark</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="45">
+			<Value>Bankok</Value>
+			<Value>Bank</Value>
+			<Value>Pénz</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="46">
+			<Value>Posta</Value>
+			<Value>Levél</Value>
+			<Value>Levelek</Value>
+			<Value>Csomag</Value>
+			<Value>Csomagok</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="47">
+			<Value>Cégek</Value>
+			<Value>Cég</Value>
+			<Value>Vállalkozások</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="48">
+			<Value>Kongresszusi központok</Value>
+			<Value>Kongresszusi központ</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="49">
+			<Value>Kormány és közigazgatás</Value>
+			<Value>Városháza</Value>
+			<Value>Kormány</Value>
+			<Value>Közigazgatás</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="50">
+			<Value>Követségek</Value>
+			<Value>Követség</Value>
+			<Value>Konzulátus</Value>
+			<Value>Konzulátusok</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="52">
+			<Value>Oktatási intézmények</Value>
+			<Value>Iskola</Value>
+			<Value>Iskolák</Value>
+			<Value>Egyetem</Value>
+			<Value>Egyetemek</Value>
+			<Value>Oktatási intézmény</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="53">
+			<Value>Templomok</Value>
+			<Value>Templom</Value>
+			<Value>Mecset</Value>
+			<Value>Mecsetek</Value>
+			<Value>Egyház</Value>
+			<Value>Egyházak</Value>
+			<Value>Zsinagóga</Value>
+			<Value>Zsinagógák</Value>
+			<Value>Kolostor</Value>
+			<Value>Kolostorok</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="54">
+			<Value>Temetők</Value>
+			<Value>Temető</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="134">
+			<Value>Töltőállomások</Value>
+			<Value>Töltőállomás</Value>
+			<Value>Tölteni</Value>
+			<Value>Feltölteni</Value>
+		</Thesaurus>
+	</PoiCategoryThesaurusDefinition>
+
+	<PoiCategoryNameDefinition>
+		<Name category_ref="1">Autostadt</Name>
+		<Name category_ref="2">Repülőterek</Name>
+		<Name category_ref="136">LPG töltőállomások</Name>
+		<Name category_ref="135">Földgáztöltő állomások</Name>
+		<Name category_ref="101">Üzemanyagtöltő állomások</Name>
+		<Name category_ref="102">Parkolóhelyek</Name>
+		<Name category_ref="7">Pihenőhelyek</Name>
+		<Name category_ref="8">Szállodák és motelek</Name>
+		<Name category_ref="9">Kompok és autószállító vonatok</Name>
+		<Name category_ref="10">Határátkelők</Name>
+		<Name category_ref="11">VW márkakereskedő</Name>
+		<Name category_ref="12">VW szerviz</Name>
+		<Name category_ref="14">Autópálya-lehajtók/-felhajtók</Name>
+		<Name category_ref="15">Autókölcsönzők</Name>
+		<Name category_ref="16">Pályaudvarok</Name>
+		<Name category_ref="18">Buszpályaudvarok</Name>
+		<Name category_ref="19">Turisztikai információk</Name>
+		<Name category_ref="20">Rendőrség</Name>
+		<Name category_ref="21">Kórházak</Name>
+		<Name category_ref="22">Orvosi szolgáltatások</Name>
+		<Name category_ref="23">Gyógyszertárak</Name>
+		<Name category_ref="104">Éttermek</Name>
+		<Name category_ref="25">Pénzautomaták</Name>
+		<Name category_ref="26">Kávéházak</Name>
+		<Name category_ref="27">Bevásárlóközpontok</Name>
+		<Name category_ref="28">Ruházat</Name>
+		<Name category_ref="29">Elektronika</Name>
+		<Name category_ref="30">Borok és szeszes italok</Name>
+		<Name category_ref="31">Éjszakai élet</Name>
+		<Name category_ref="32">Parkok</Name>
+		<Name category_ref="33">Nevezetességek</Name>
+		<Name category_ref="34">Mozik</Name>
+		<Name category_ref="35">Kaszinók</Name>
+		<Name category_ref="36">Előadóművészetek</Name>
+		<Name category_ref="37">Múzeumok</Name>
+		<Name category_ref="38">Emlékművek</Name>
+		<Name category_ref="39">Sportközpontok</Name>
+		<Name category_ref="41">Golf sport</Name>
+		<Name category_ref="42">Hajós sport</Name>
+		<Name category_ref="43">Sísport</Name>
+		<Name category_ref="44">Vidámparkok</Name>
+		<Name category_ref="45">Bankok</Name>
+		<Name category_ref="46">Posta</Name>
+		<Name category_ref="47">Cégek</Name>
+		<Name category_ref="48">Kongresszusi központok</Name>
+		<Name category_ref="49">Kormány és közigazgatás</Name>
+		<Name category_ref="50">Követségek</Name>
+		<Name category_ref="52">Oktatási intézmények</Name>
+		<Name category_ref="53">Templomok</Name>
+		<Name category_ref="54">Temetők</Name>
+		<Name category_ref="134">Töltőállomások</Name>
+	</PoiCategoryNameDefinition>
+</LanguagePoiConfiguration>

@@ -1,0 +1,1470 @@
+<LanguagePoiConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xsd/locale/LanguagePoiConfiguration.xsd" version="1">
+<!--Alphabetically sorted setup category definitions for each fuel type, will be reloaded after language change-->
+	<SetupCategoryDefinition>
+		<PoiCategoryMapping fueltype="default">
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Alışveriş merkezleri -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Anıtlar -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Araç kiralama şirketleri -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Bankalar -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Bankamatikler -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Dinlenme tesisleri -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Doktor hizmetleri -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Doğal gaz yakıt istasyonları -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Eczaneler -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektronik -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Elçilikler -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Eğitim kurumları -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Eğlence parkları -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Feribotlar ve ototrenler -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Firmalar -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Gece hayatı -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golf sporu -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Hastaneler -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Havalimanları -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- İbadethaneler -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- İdare ve yönetim -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Kafeler -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Kayak sporu -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Kıyafet -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongre merkezleri -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kumarhaneler -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- LPG yakıt istasyonları -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Mezarlıklar -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Müzeler -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Oteller ve moteller -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Otobüs terminalleri -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Otoparklar -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Otoyol çıkışları / Otoyol girişleri -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parklar -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Polisler -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Posta -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restoranlar -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Sahne sanatları -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Şarap ve alkollü içecekler -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Şarj istasyonları -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Sinemalar -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Sınır kapıları -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Spor merkezleri -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Tren istasyonları -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Turist bilgi merkezleri -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Turistik yerler -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW servisi -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW yetkili satıcıları -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Yakıt istasyonları -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Yatçılık sporu -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="gasoline">
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Alışveriş merkezleri -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Anıtlar -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Araç kiralama şirketleri -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Bankalar -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Bankamatikler -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Dinlenme tesisleri -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Doktor hizmetleri -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Doğal gaz yakıt istasyonları -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Eczaneler -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektronik -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Elçilikler -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Eğitim kurumları -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Eğlence parkları -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Feribotlar ve ototrenler -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Firmalar -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Gece hayatı -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golf sporu -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Hastaneler -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Havalimanları -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- İbadethaneler -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- İdare ve yönetim -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Kafeler -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Kayak sporu -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Kıyafet -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongre merkezleri -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kumarhaneler -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- LPG yakıt istasyonları -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Mezarlıklar -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Müzeler -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Oteller ve moteller -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Otobüs terminalleri -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Otoparklar -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Otoyol çıkışları / Otoyol girişleri -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parklar -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Polisler -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Posta -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restoranlar -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Sahne sanatları -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Şarap ve alkollü içecekler -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Şarj istasyonları -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Sinemalar -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Sınır kapıları -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Spor merkezleri -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Tren istasyonları -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Turist bilgi merkezleri -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Turistik yerler -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW servisi -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW yetkili satıcıları -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Yakıt istasyonları -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Yatçılık sporu -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="diesel">
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Alışveriş merkezleri -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Anıtlar -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Araç kiralama şirketleri -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Bankalar -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Bankamatikler -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Dinlenme tesisleri -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Doktor hizmetleri -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Doğal gaz yakıt istasyonları -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Eczaneler -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektronik -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Elçilikler -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Eğitim kurumları -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Eğlence parkları -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Feribotlar ve ototrenler -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Firmalar -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Gece hayatı -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golf sporu -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Hastaneler -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Havalimanları -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- İbadethaneler -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- İdare ve yönetim -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Kafeler -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Kayak sporu -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Kıyafet -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongre merkezleri -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kumarhaneler -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- LPG yakıt istasyonları -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Mezarlıklar -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Müzeler -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Oteller ve moteller -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Otobüs terminalleri -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Otoparklar -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Otoyol çıkışları / Otoyol girişleri -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parklar -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Polisler -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Posta -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restoranlar -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Sahne sanatları -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Şarap ve alkollü içecekler -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Şarj istasyonları -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Sinemalar -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Sınır kapıları -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Spor merkezleri -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Tren istasyonları -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Turist bilgi merkezleri -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Turistik yerler -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW servisi -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW yetkili satıcıları -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Yakıt istasyonları -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Yatçılık sporu -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="cng">
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Alışveriş merkezleri -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Anıtlar -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Araç kiralama şirketleri -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Bankalar -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Bankamatikler -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Dinlenme tesisleri -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Doktor hizmetleri -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Doğal gaz yakıt istasyonları -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Eczaneler -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektronik -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Elçilikler -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Eğitim kurumları -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Eğlence parkları -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Feribotlar ve ototrenler -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Firmalar -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Gece hayatı -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golf sporu -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Hastaneler -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Havalimanları -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- İbadethaneler -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- İdare ve yönetim -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Kafeler -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Kayak sporu -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Kıyafet -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongre merkezleri -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kumarhaneler -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- LPG yakıt istasyonları -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Mezarlıklar -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Müzeler -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Oteller ve moteller -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Otobüs terminalleri -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Otoparklar -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Otoyol çıkışları / Otoyol girişleri -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parklar -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Polisler -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Posta -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restoranlar -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Sahne sanatları -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Şarap ve alkollü içecekler -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Şarj istasyonları -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Sinemalar -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Sınır kapıları -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Spor merkezleri -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Tren istasyonları -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Turist bilgi merkezleri -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Turistik yerler -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW servisi -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW yetkili satıcıları -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Yakıt istasyonları -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Yatçılık sporu -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="lpg">
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Alışveriş merkezleri -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Anıtlar -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Araç kiralama şirketleri -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Bankalar -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Bankamatikler -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Dinlenme tesisleri -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Doktor hizmetleri -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Doğal gaz yakıt istasyonları -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Eczaneler -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektronik -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Elçilikler -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Eğitim kurumları -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Eğlence parkları -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Feribotlar ve ototrenler -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Firmalar -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Gece hayatı -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golf sporu -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Hastaneler -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Havalimanları -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- İbadethaneler -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- İdare ve yönetim -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Kafeler -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Kayak sporu -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Kıyafet -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongre merkezleri -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kumarhaneler -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- LPG yakıt istasyonları -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Mezarlıklar -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Müzeler -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Oteller ve moteller -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Otobüs terminalleri -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Otoparklar -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Otoyol çıkışları / Otoyol girişleri -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parklar -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Polisler -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Posta -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restoranlar -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Sahne sanatları -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Şarap ve alkollü içecekler -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Şarj istasyonları -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Sinemalar -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Sınır kapıları -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Spor merkezleri -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Tren istasyonları -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Turist bilgi merkezleri -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Turistik yerler -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW servisi -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW yetkili satıcıları -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Yakıt istasyonları -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Yatçılık sporu -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="bev">
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Alışveriş merkezleri -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Anıtlar -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Araç kiralama şirketleri -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Bankalar -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Bankamatikler -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Dinlenme tesisleri -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Doktor hizmetleri -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Doğal gaz yakıt istasyonları -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Eczaneler -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektronik -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Elçilikler -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Eğitim kurumları -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Eğlence parkları -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Feribotlar ve ototrenler -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Firmalar -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Gece hayatı -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golf sporu -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Hastaneler -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Havalimanları -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- İbadethaneler -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- İdare ve yönetim -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Kafeler -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Kayak sporu -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Kıyafet -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongre merkezleri -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kumarhaneler -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- LPG yakıt istasyonları -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Mezarlıklar -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Müzeler -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Oteller ve moteller -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Otobüs terminalleri -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Otoparklar -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Otoyol çıkışları / Otoyol girişleri -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parklar -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Polisler -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Posta -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restoranlar -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Sahne sanatları -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Şarap ve alkollü içecekler -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Şarj istasyonları -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Sinemalar -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Sınır kapıları -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Spor merkezleri -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Tren istasyonları -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Turist bilgi merkezleri -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Turistik yerler -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW servisi -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW yetkili satıcıları -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Yakıt istasyonları -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Yatçılık sporu -->
+		</PoiCategoryMapping>
+		<PoiCategoryMapping fueltype="phev">
+			<PoiCategoryRef>27</PoiCategoryRef>
+			<!-- Alışveriş merkezleri -->
+			<PoiCategoryRef>38</PoiCategoryRef>
+			<!-- Anıtlar -->
+			<PoiCategoryRef>15</PoiCategoryRef>
+			<!-- Araç kiralama şirketleri -->
+			<PoiCategoryRef>1</PoiCategoryRef>
+			<!-- Autostadt -->
+			<PoiCategoryRef>45</PoiCategoryRef>
+			<!-- Bankalar -->
+			<PoiCategoryRef>25</PoiCategoryRef>
+			<!-- Bankamatikler -->
+			<PoiCategoryRef>7</PoiCategoryRef>
+			<!-- Dinlenme tesisleri -->
+			<PoiCategoryRef>22</PoiCategoryRef>
+			<!-- Doktor hizmetleri -->
+			<PoiCategoryRef>135</PoiCategoryRef>
+			<!-- Doğal gaz yakıt istasyonları -->
+			<PoiCategoryRef>23</PoiCategoryRef>
+			<!-- Eczaneler -->
+			<PoiCategoryRef>29</PoiCategoryRef>
+			<!-- Elektronik -->
+			<PoiCategoryRef>50</PoiCategoryRef>
+			<!-- Elçilikler -->
+			<PoiCategoryRef>52</PoiCategoryRef>
+			<!-- Eğitim kurumları -->
+			<PoiCategoryRef>44</PoiCategoryRef>
+			<!-- Eğlence parkları -->
+			<PoiCategoryRef>9</PoiCategoryRef>
+			<!-- Feribotlar ve ototrenler -->
+			<PoiCategoryRef>47</PoiCategoryRef>
+			<!-- Firmalar -->
+			<PoiCategoryRef>31</PoiCategoryRef>
+			<!-- Gece hayatı -->
+			<PoiCategoryRef>41</PoiCategoryRef>
+			<!-- Golf sporu -->
+			<PoiCategoryRef>21</PoiCategoryRef>
+			<!-- Hastaneler -->
+			<PoiCategoryRef>2</PoiCategoryRef>
+			<!-- Havalimanları -->
+			<PoiCategoryRef>53</PoiCategoryRef>
+			<!-- İbadethaneler -->
+			<PoiCategoryRef>49</PoiCategoryRef>
+			<!-- İdare ve yönetim -->
+			<PoiCategoryRef>26</PoiCategoryRef>
+			<!-- Kafeler -->
+			<PoiCategoryRef>43</PoiCategoryRef>
+			<!-- Kayak sporu -->
+			<PoiCategoryRef>28</PoiCategoryRef>
+			<!-- Kıyafet -->
+			<PoiCategoryRef>48</PoiCategoryRef>
+			<!-- Kongre merkezleri -->
+			<PoiCategoryRef>35</PoiCategoryRef>
+			<!-- Kumarhaneler -->
+			<PoiCategoryRef>136</PoiCategoryRef>
+			<!-- LPG yakıt istasyonları -->
+			<PoiCategoryRef>54</PoiCategoryRef>
+			<!-- Mezarlıklar -->
+			<PoiCategoryRef>37</PoiCategoryRef>
+			<!-- Müzeler -->
+			<PoiCategoryRef>8</PoiCategoryRef>
+			<!-- Oteller ve moteller -->
+			<PoiCategoryRef>18</PoiCategoryRef>
+			<!-- Otobüs terminalleri -->
+			<PoiCategoryRef>102</PoiCategoryRef>
+			<!-- Otoparklar -->
+			<PoiCategoryRef>14</PoiCategoryRef>
+			<!-- Otoyol çıkışları / Otoyol girişleri -->
+			<PoiCategoryRef>32</PoiCategoryRef>
+			<!-- Parklar -->
+			<PoiCategoryRef>20</PoiCategoryRef>
+			<!-- Polisler -->
+			<PoiCategoryRef>46</PoiCategoryRef>
+			<!-- Posta -->
+			<PoiCategoryRef>104</PoiCategoryRef>
+			<!-- Restoranlar -->
+			<PoiCategoryRef>36</PoiCategoryRef>
+			<!-- Sahne sanatları -->
+			<PoiCategoryRef>30</PoiCategoryRef>
+			<!-- Şarap ve alkollü içecekler -->
+			<PoiCategoryRef>134</PoiCategoryRef>
+			<!-- Şarj istasyonları -->
+			<PoiCategoryRef>34</PoiCategoryRef>
+			<!-- Sinemalar -->
+			<PoiCategoryRef>10</PoiCategoryRef>
+			<!-- Sınır kapıları -->
+			<PoiCategoryRef>39</PoiCategoryRef>
+			<!-- Spor merkezleri -->
+			<PoiCategoryRef>16</PoiCategoryRef>
+			<!-- Tren istasyonları -->
+			<PoiCategoryRef>19</PoiCategoryRef>
+			<!-- Turist bilgi merkezleri -->
+			<PoiCategoryRef>33</PoiCategoryRef>
+			<!-- Turistik yerler -->
+			<PoiCategoryRef>12</PoiCategoryRef>
+			<!-- VW servisi -->
+			<PoiCategoryRef>11</PoiCategoryRef>
+			<!-- VW yetkili satıcıları -->
+			<PoiCategoryRef>101</PoiCategoryRef>
+			<!-- Yakıt istasyonları -->
+			<PoiCategoryRef>42</PoiCategoryRef>
+			<!-- Yatçılık sporu -->
+		</PoiCategoryMapping>
+	</SetupCategoryDefinition>
+  <PoiCategoryGroupDefinition>
+    <PoiCategoryGroup id="10" type="dynamic">
+      <Priority>1</Priority>
+      <PoiCategoryMapping>
+        <!-- MUSS LEER BLEIBEN Ueber XSD checken !! -->
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+
+    <PoiCategoryGroup id="11" type="local">
+      <Priority>2</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>27</PoiCategoryRef>
+        <!-- Alışveriş merkezleri -->
+        <PoiCategoryRef>38</PoiCategoryRef>
+        <!-- Anıtlar -->
+        <PoiCategoryRef>15</PoiCategoryRef>
+        <!-- Araç kiralama -->
+        <PoiCategoryRef>1</PoiCategoryRef>
+        <!-- Autostadt -->
+        <PoiCategoryRef>45</PoiCategoryRef>
+        <!-- Bankalar -->
+        <PoiCategoryRef>42</PoiCategoryRef>
+        <!-- Bot sporları -->
+        <PoiCategoryRef>35</PoiCategoryRef>
+        <!-- Casino -->
+        <PoiCategoryRef>135</PoiCategoryRef>
+        <!-- Doğalgaz istasyonları -->
+        <PoiCategoryRef>7</PoiCategoryRef>
+        <!-- Duraklama tesisleri -->
+        <PoiCategoryRef>23</PoiCategoryRef>
+        <!-- Eczaneler -->
+        <PoiCategoryRef>52</PoiCategoryRef>
+        <!-- Eğitim tesisleri -->
+        <PoiCategoryRef>44</PoiCategoryRef>
+        <!-- Eğlence parkları -->
+        <PoiCategoryRef>29</PoiCategoryRef>
+        <!-- Elektronik -->
+        <PoiCategoryRef>9</PoiCategoryRef>
+        <!-- Feribotlar -->
+        <PoiCategoryRef>47</PoiCategoryRef>
+        <!-- Firmalar -->
+        <PoiCategoryRef>31</PoiCategoryRef>
+        <!-- Gece hayatı -->
+        <PoiCategoryRef>28</PoiCategoryRef>
+        <!-- Giysi -->
+        <PoiCategoryRef>41</PoiCategoryRef>
+        <!-- Golf sporu -->
+        <PoiCategoryRef>33</PoiCategoryRef>
+        <!-- Görülmeye değer yerler -->
+        <PoiCategoryRef>21</PoiCategoryRef>
+        <!-- Hastaneler -->
+        <PoiCategoryRef>2</PoiCategoryRef>
+        <!-- Hava alanları -->
+        <PoiCategoryRef>8</PoiCategoryRef>
+        <!-- Hoteller ve Moteller -->
+        <PoiCategoryRef>53</PoiCategoryRef>
+        <!-- İbadethaneler -->
+        <PoiCategoryRef>26</PoiCategoryRef>
+        <!-- Kafeler -->
+        <PoiCategoryRef>43</PoiCategoryRef>
+        <!-- Kayak sporu -->
+        <PoiCategoryRef>48</PoiCategoryRef>
+        <!-- Kongre merkezleri -->
+        <PoiCategoryRef>50</PoiCategoryRef>
+        <!-- Konsolosluklar -->
+        <PoiCategoryRef>136</PoiCategoryRef>
+        <!-- LPG istasyonları -->
+        <PoiCategoryRef>54</PoiCategoryRef>
+        <!-- Mezarlıklar -->
+        <PoiCategoryRef>37</PoiCategoryRef>
+        <!-- Müzeler -->
+        <PoiCategoryRef>18</PoiCategoryRef>
+        <!-- Otobüs durakları -->
+        <PoiCategoryRef>14</PoiCategoryRef>
+        <!-- Otoyol çıkışları / girişleri -->
+        <PoiCategoryRef>25</PoiCategoryRef>
+        <!-- Para otomatları -->
+        <PoiCategoryRef>102</PoiCategoryRef>
+        <!-- Park alanları -->
+        <PoiCategoryRef>32</PoiCategoryRef>
+        <!-- Parklar -->
+        <PoiCategoryRef>36</PoiCategoryRef>
+        <!-- Performans sanatları -->
+        <PoiCategoryRef>20</PoiCategoryRef>
+        <!-- Polis -->
+        <PoiCategoryRef>46</PoiCategoryRef>
+        <!-- Postane -->
+        <PoiCategoryRef>104</PoiCategoryRef>
+        <!-- Restoranlar -->
+        <PoiCategoryRef>30</PoiCategoryRef>
+        <!-- Şarap ve alkollü içecekler -->
+        <PoiCategoryRef>134</PoiCategoryRef>
+        <!-- Şarj istasyonları -->
+        <PoiCategoryRef>34</PoiCategoryRef>
+        <!-- Sinemalar -->
+        <PoiCategoryRef>10</PoiCategoryRef>
+        <!-- Sınır geçişleri -->
+        <PoiCategoryRef>39</PoiCategoryRef>
+        <!-- Spor merkezleri -->
+        <PoiCategoryRef>22</PoiCategoryRef>
+        <!-- Tıbbi hizmetler -->
+        <PoiCategoryRef>16</PoiCategoryRef>
+        <!-- Tren istasyonları -->
+        <PoiCategoryRef>19</PoiCategoryRef>
+        <!-- Turist danışma -->
+        <PoiCategoryRef>11</PoiCategoryRef>
+        <!-- VW Yetkili Satıcısı -->
+        <PoiCategoryRef>12</PoiCategoryRef>
+        <!-- VW Yetkili Servisi -->
+        <PoiCategoryRef>101</PoiCategoryRef>
+        <!-- Yakıt istasyonları -->
+        <PoiCategoryRef>49</PoiCategoryRef>
+        <!-- Yönetim ve idare -->
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+
+    <PoiCategoryGroup id="12" type="local">
+      <Priority>3</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>23</PoiCategoryRef>
+        <!-- Eczaneler -->
+        <PoiCategoryRef>21</PoiCategoryRef>
+        <!-- Hastaneler -->
+        <PoiCategoryRef>20</PoiCategoryRef>
+        <!-- Polis -->
+        <PoiCategoryRef>22</PoiCategoryRef>
+        <!-- Tıbbi hizmetler -->
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+
+    <PoiCategoryGroup id="13" type="local">
+      <Priority>4</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>45</PoiCategoryRef>
+        <!-- Bankalar -->
+        <PoiCategoryRef>52</PoiCategoryRef>
+        <!-- Eğitim tesisleri -->
+        <PoiCategoryRef>47</PoiCategoryRef>
+        <!-- Firmalar -->
+        <PoiCategoryRef>53</PoiCategoryRef>
+        <!-- İbadethaneler -->
+        <PoiCategoryRef>48</PoiCategoryRef>
+        <!-- Kongre merkezleri -->
+        <PoiCategoryRef>50</PoiCategoryRef>
+        <!-- Konsolosluklar -->
+        <PoiCategoryRef>54</PoiCategoryRef>
+        <!-- Mezarlıklar -->
+        <PoiCategoryRef>46</PoiCategoryRef>
+        <!-- Postane -->
+        <PoiCategoryRef>49</PoiCategoryRef>
+        <!-- Yönetim ve idare -->
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+
+    <PoiCategoryGroup id="14" type="local">
+      <Priority>5</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>38</PoiCategoryRef>
+        <!-- Anıtlar -->
+        <PoiCategoryRef>1</PoiCategoryRef>
+        <!-- Autostadt -->
+        <PoiCategoryRef>42</PoiCategoryRef>
+        <!-- Bot sporları -->
+        <PoiCategoryRef>35</PoiCategoryRef>
+        <!-- Casino -->
+        <PoiCategoryRef>44</PoiCategoryRef>
+        <!-- Eğlence parkları -->
+        <PoiCategoryRef>41</PoiCategoryRef>
+        <!-- Golf sporu -->
+        <PoiCategoryRef>33</PoiCategoryRef>
+        <!-- Görülmeye değer yerler -->
+        <PoiCategoryRef>43</PoiCategoryRef>
+        <!-- Kayak sporu -->
+        <PoiCategoryRef>37</PoiCategoryRef>
+        <!-- Müzeler -->
+        <PoiCategoryRef>32</PoiCategoryRef>
+        <!-- Parklar -->
+        <PoiCategoryRef>36</PoiCategoryRef>
+        <!-- Performans sanatları -->
+        <PoiCategoryRef>34</PoiCategoryRef>
+        <!-- Sinemalar -->
+        <PoiCategoryRef>39</PoiCategoryRef>
+        <!-- Spor merkezleri -->
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+
+    <PoiCategoryGroup id="15" type="local">
+      <Priority>6</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>15</PoiCategoryRef>
+        <!-- Araç kiralama -->
+        <PoiCategoryRef>135</PoiCategoryRef>
+        <!-- Doğalgaz istasyonları -->
+        <PoiCategoryRef>7</PoiCategoryRef>
+        <!-- Duraklama tesisleri -->
+        <PoiCategoryRef>9</PoiCategoryRef>
+        <!-- Feribotlar -->
+        <PoiCategoryRef>2</PoiCategoryRef>
+        <!-- Hava alanları -->
+        <PoiCategoryRef>8</PoiCategoryRef>
+        <!-- Hoteller ve Moteller -->
+        <PoiCategoryRef>136</PoiCategoryRef>
+        <!-- LPG istasyonları -->
+        <PoiCategoryRef>18</PoiCategoryRef>
+        <!-- Otobüs durakları -->
+        <PoiCategoryRef>14</PoiCategoryRef>
+        <!-- Otoyol çıkışları / girişleri -->
+        <PoiCategoryRef>102</PoiCategoryRef>
+        <!-- Park alanları -->
+        <PoiCategoryRef>134</PoiCategoryRef>
+        <!-- Şarj istasyonları -->
+        <PoiCategoryRef>10</PoiCategoryRef>
+        <!-- Sınır geçişleri -->
+        <PoiCategoryRef>16</PoiCategoryRef>
+        <!-- Tren istasyonları -->
+        <PoiCategoryRef>19</PoiCategoryRef>
+        <!-- Turist danışma -->
+        <PoiCategoryRef>11</PoiCategoryRef>
+        <!-- VW Yetkili Satıcısı -->
+        <PoiCategoryRef>12</PoiCategoryRef>
+        <!-- VW Yetkili Servisi -->
+        <PoiCategoryRef>101</PoiCategoryRef>
+        <!-- Yakıt istasyonları -->
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+
+    <PoiCategoryGroup id="16" type="local">
+      <Priority>7</Priority>
+      <PoiCategoryMapping>
+        <PoiCategoryRef>27</PoiCategoryRef>
+        <!-- Alışveriş merkezleri -->
+        <PoiCategoryRef>29</PoiCategoryRef>
+        <!-- Elektronik -->
+        <PoiCategoryRef>31</PoiCategoryRef>
+        <!-- Gece hayatı -->
+        <PoiCategoryRef>28</PoiCategoryRef>
+        <!-- Giysi -->
+        <PoiCategoryRef>26</PoiCategoryRef>
+        <!-- Kafeler -->
+        <PoiCategoryRef>25</PoiCategoryRef>
+        <!-- Para otomatları -->
+        <PoiCategoryRef>104</PoiCategoryRef>
+        <!-- Restoranlar -->
+        <PoiCategoryRef>30</PoiCategoryRef>
+        <!-- Şarap ve alkollü içecekler -->
+      </PoiCategoryMapping>
+    </PoiCategoryGroup>
+
+  </PoiCategoryGroupDefinition>
+
+  <PoiCategoryGroupNameDefinition>
+    <Name category_group_ref="10">Özel ilgi noktalarım (Personal POI)</Name>
+    <Name category_group_ref="11">Kategoriler (alfabetik)</Name>
+    <Name category_group_ref="12">Acil durumlar</Name>
+    <Name category_group_ref="13">Firmalar ve resmi etk.</Name>
+    <Name category_group_ref="14">Görülecek yer ve boş zaman</Name>
+    <Name category_group_ref="15">Otomobil ve Yolculuk</Name>
+    <Name category_group_ref="16">Yemek ve alışveriş</Name>
+  </PoiCategoryGroupNameDefinition>
+
+	<PoiCategoryThesaurusDefinition>
+		<Thesaurus category_ref="1">
+			<Value>Autostadt</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="2">
+			<Value>Havalimanları</Value>
+			<Value>Havaalanları</Value>
+			<Value>Havalimanı</Value>
+			<Value>Havaalanı</Value>
+			<Value>Havalimanlari</Value>
+			<Value>Havaalanlari</Value>
+			<Value>Havalimani</Value>
+			<Value>Havaalani</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="136">
+			<Value>LPG yakıt istasyonları</Value>
+			<Value>LPG yakıt istasyonlari</Value>
+			<Value>LPG</Value>
+			<Value>Gaz</Value>
+			<Value>Yakıt doldurma</Value>
+			<Value>Yakıt alma</Value>
+			<Value>Yakıt istasyonu</Value>
+			<Value>Yakıt istasyonları</Value>
+			<Value>Yakit doldurma</Value>
+			<Value>Yakit alma</Value>
+			<Value>Yakit istasyonu</Value>
+			<Value>Yakit istasyonlari</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="135">
+			<Value>Doğal gaz yakıt istasyonları</Value>
+			<Value>Doğal gaz yakıt istasyonu</Value>
+			<Value>Doğal gaz yakit istasyonlari</Value>
+			<Value>Doğal gaz yakit istasyonu</Value>
+			<Value>Doğal gaz</Value>
+			<Value>Gaz</Value>
+			<Value>CNG</Value>
+			<Value>Yakıt doldurma</Value>
+			<Value>Yakıt alma</Value>
+			<Value>Yakıt istasyonu</Value>
+			<Value>Yakıt istasyonları</Value>
+			<Value>Yakit doldurma</Value>
+			<Value>Yakit alma</Value>
+			<Value>Yakit istasyonu</Value>
+			<Value>Yakit istasyonlari</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="101">
+			<Value>Yakıt istasyonları</Value>
+			<Value>Yakıt istasyonu</Value>
+			<Value>Yakıt doldurma</Value>
+			<Value>Yakıt alma</Value>
+			<Value>Benzin</Value>
+			<Value>Dizel</Value>
+			<Value>Yakit istasyonlari</Value>
+			<Value>Yakit istasyonu</Value>
+			<Value>Yakit doldurma</Value>
+			<Value>Yakit alma</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="102">
+			<Value>Otoparklar</Value>
+			<Value>Otopark</Value>
+			<Value>Park yerleri</Value>
+			<Value>Par yeri</Value>
+			<Value>Park etme</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="7">
+			<Value>Dinlenme tesisleri</Value>
+			<Value>Dinlenme tesisi</Value>
+			<Value>Araç park alanı</Value>
+			<Value>Araç park alani</Value>
+			<Value>Helâ</Value>
+			<Value>WC</Value>
+			<Value>Tuvalet</Value>
+			<Value>Tuvaletler</Value>
+			<Value>Mola verme</Value>
+			<Value>Dinlenme</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="8">
+			<Value>Oteller ve moteller</Value>
+			<Value>Otel</Value>
+			<Value>Oteller</Value>
+			<Value>Motel</Value>
+			<Value>Moteller</Value>
+			<Value>Misafirhane</Value>
+			<Value>Misafirhaneler</Value>
+			<Value>Uyuma</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="9">
+			<Value>Feribotlar ve ototrenler</Value>
+			<Value>Ototren</Value>
+			<Value>Ototrenler</Value>
+			<Value>Feribot</Value>
+			<Value>Feribotlar</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="10">
+			<Value>Sınır kapıları</Value>
+			<Value>Sınır kapısı</Value>
+			<Value>Sınır</Value>
+			<Value>Sınırlar</Value>
+			<Value>Sinir kapilari</Value>
+			<Value>Sinir kapisi</Value>
+			<Value>Sinir</Value>
+			<Value>Sinirlar</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="11">
+			<Value>VW yetkili satıcıları</Value>
+			<Value>VW yetkili satıcısı</Value>
+			<Value>Yetkili satıcılar</Value>
+			<Value>Yetkili satıcı</Value>
+			<Value>VW yetkili saticilari</Value>
+			<Value>VW yetkili saticisi</Value>
+			<Value>Yetkili saticilar</Value>
+			<Value>Yetkili satici</Value>
+			<Value>VW</Value>
+			<Value>Volkswagen</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="12">
+			<Value>VW servisi</Value>
+			<Value>Volkswagen</Value>
+			<Value>Servis</Value>
+			<Value>Servisler</Value>
+			<Value>Servis</Value>
+			<Value>Servisler</Value>
+			<Value>Periyodik bakım</Value>
+			<Value>Periyodik bakımlar</Value>
+			<Value>Bakım</Value>
+			<Value>Bakımlar</Value>
+			<Value>Periyodik bakim</Value>
+			<Value>Periyodik bakimlar</Value>
+			<Value>Bakim</Value>
+			<Value>Bakimlar</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="14">
+			<Value>Otoyol çıkışları / Otoyol girişleri</Value>
+			<Value>Çıkış</Value>
+			<Value>Çıkışlar</Value>
+			<Value>Otoyol çikişlari / Otoyol girişleri</Value>
+			<Value>Çikiş</Value>
+			<Value>Çikişlar</Value>
+			<Value>Giriş</Value>
+			<Value>Girişler</Value>
+			<Value>Çıkış</Value>
+			<Value>Çıkışlar</Value>
+			<Value>Çikiş</Value>
+			<Value>Çikişlar</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="15">
+			<Value>Araç kiralama şirketleri</Value>
+			<Value>Araç kiralama şirketi</Value>
+			<Value>Oto kiralama şirketleri</Value>
+			<Value>Oto kiralama şirketi</Value>
+			<Value>Kiralama</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="16">
+			<Value>Tren istasyonları</Value>
+			<Value>Tren istasyonlari</Value>
+			<Value>Tren istasyonu</Value>
+			<Value>Tren</Value>
+			<Value>Trenler</Value>
+			<Value>Tren</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="18">
+			<Value>Otobüs terminalleri</Value>
+			<Value>Otobüs terminali</Value>
+			<Value>Otobüs</Value>
+			<Value>Otobüsler</Value>
+			<Value>Otobüs durağı</Value>
+			<Value>Otobüs durakları</Value>
+			<Value>Otobüs duraği</Value>
+			<Value>Otobüs duraklari</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="19">
+			<Value>Turist bilgi merkezleri</Value>
+			<Value>Turist bilgi merkezi</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="20">
+			<Value>Polisler</Value>
+			<Value>Polis</Value>
+			<Value>112</Value>
+			<Value>155</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="21">
+			<Value>Hastaneler</Value>
+			<Value>Hastane</Value>
+			<Value>Sağlık merkezi</Value>
+			<Value>Sağlık merkezleri</Value>
+			<Value>Sağlik merkezi</Value>
+			<Value>Sağlik merkezleri</Value>
+			<Value>Klinik</Value>
+			<Value>Klinikler</Value>
+			<Value>Acil durum</Value>
+			<Value>Acil durumlar</Value>
+			<Value>Doktor</Value>
+			<Value>Doktorlar</Value>
+			<Value>112</Value>
+			<Value>155</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="22">
+			<Value>Doktor hizmetleri</Value>
+			<Value>Doktor hizmeti</Value>
+			<Value>Klinik</Value>
+			<Value>Klinikler</Value>
+			<Value>Doktor</Value>
+			<Value>Doktorlar</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="23">
+			<Value>Eczaneler</Value>
+			<Value>Eczane</Value>
+			<Value>İlaç</Value>
+			<Value>İlaçlar</Value>
+			<Value>İlaç</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="104">
+			<Value>Restoranlar</Value>
+			<Value>Restoran</Value>
+			<Value>Yeme</Value>
+			<Value>İçme</Value>
+			<Value>Lokanta</Value>
+			<Value>Lokantalar</Value>
+			<Value>Açlık</Value>
+			<Value>Açlik</Value>
+			<Value>Susuzluk</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="25">
+			<Value>Bankamatikler</Value>
+			<Value>Bankamatik</Value>
+			<Value>Para</Value>
+			<Value>Nakit</Value>
+			<Value>ATM</Value>
+			<Value>EC</Value>
+			<Value>Bankamatik</Value>
+			<Value>Bankamatikler</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="26">
+			<Value>Kafeler</Value>
+			<Value>Kafe</Value>
+			<Value>Kafe</Value>
+			<Value>Kafeler</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="27">
+			<Value>Alışveriş merkezleri</Value>
+			<Value>Alışveriş merkezi</Value>
+			<Value>Alışveriş</Value>
+			<Value>Alışveriş yapma</Value>
+			<Value>Satın alma</Value>
+			<Value>Alişveriş merkezleri</Value>
+			<Value>Alişveriş merkezi</Value>
+			<Value>Alişveriş</Value>
+			<Value>Alişveriş yapma</Value>
+			<Value>Satin alma</Value>
+			<Value>Mağaza</Value>
+			<Value>Mağazalar</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="28">
+			<Value>Kıyafet</Value>
+			<Value>Kıyafetler</Value>
+			<Value>Ayakkabı</Value>
+			<Value>Ayakkabılar</Value>
+			<Value>Kiyafet</Value>
+			<Value>Kiyafetler</Value>
+			<Value>Ayakkabi</Value>
+			<Value>Ayakkabilar</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="29">
+			<Value>Elektronik</Value>
+			<Value>Teknik</Value>
+			<Value>Bilgisayar</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="30">
+			<Value>Şarap ve alkollü içecekler</Value>
+			<Value>Şarap mahzeni</Value>
+			<Value>Şarap</Value>
+			<Value>Şaraplar</Value>
+			<Value>Alkollü içecek</Value>
+			<Value>Alkollü içecekler</Value>
+			<Value>Alkol</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="31">
+			<Value>Gece hayatı</Value>
+			<Value>Gece hayati</Value>
+			<Value>Bar</Value>
+			<Value>Birahane</Value>
+			<Value>Birahaneler</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="32">
+			<Value>Parklar</Value>
+			<Value>Park</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="33">
+			<Value>Turistik yerler</Value>
+			<Value>Turistik yer</Value>
+			<Value>İlgi çekici yer</Value>
+			<Value>İlgi çekici yerler</Value>
+			<Value>Gezilecek/görülecek yerler</Value>
+			<Value>Gezilecek/görülecek yer</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="34">
+			<Value>Sinemalar</Value>
+			<Value>Sinema</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="35">
+			<Value>Kumarhaneler</Value>
+			<Value>Kumarhane</Value>
+			<Value>Kazino</Value>
+			<Value>Kazinolar</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="36">
+			<Value>Sahne sanatları</Value>
+			<Value>Sahne sanatlari</Value>
+			<Value>Opera</Value>
+			<Value>Tiyatro</Value>
+			<Value>Konser</Value>
+			<Value>Müzikal</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="37">
+			<Value>Müzeler</Value>
+			<Value>Müze</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="38">
+			<Value>Anıtlar</Value>
+			<Value>Anıt</Value>
+			<Value>Anitlar</Value>
+			<Value>Anit</Value>
+			<Value>Eser</Value>
+			<Value>Eserler</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="39">
+			<Value>Spor merkezleri</Value>
+			<Value>Spor merkezi</Value>
+			<Value>Stadyum</Value>
+			<Value>Stadyumlar</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="41">
+			<Value>Golf sporu</Value>
+			<Value>Golf</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="42">
+			<Value>Yatçılık sporu</Value>
+			<Value>Yatçilik sporu</Value>
+			<Value>Tekne</Value>
+			<Value>Tekneler</Value>
+			<Value>Yelkencilik</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="43">
+			<Value>Kayak sporu</Value>
+			<Value>Kayak</Value>
+			<Value>Spor</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="44">
+			<Value>Eğlence parkları</Value>
+			<Value>Eğlence parkı</Value>
+			<Value>Eğlence parklari</Value>
+			<Value>Eğlence parki</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="45">
+			<Value>Bankalar</Value>
+			<Value>Banka</Value>
+			<Value>Para</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="46">
+			<Value>Posta</Value>
+			<Value>Mektup</Value>
+			<Value>Mektuplar</Value>
+			<Value>Paket</Value>
+			<Value>Paketler</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="47">
+			<Value>Firmalar</Value>
+			<Value>Firma</Value>
+			<Value>Şirket</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="48">
+			<Value>Kongre merkezleri</Value>
+			<Value>Kongre merkezi</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="49">
+			<Value>İdare ve yönetim</Value>
+			<Value>Belediye</Value>
+			<Value>İdare</Value>
+			<Value>Yönetim</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="50">
+			<Value>Elçilikler</Value>
+			<Value>Elçilik</Value>
+			<Value>Konsolosluk</Value>
+			<Value>Konsolosluklar</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="52">
+			<Value>Eğitim kurumları</Value>
+			<Value>Eğitim kurumlari</Value>
+			<Value>Okul</Value>
+			<Value>Okullar</Value>
+			<Value>Üniversite</Value>
+			<Value>Üniversiteler</Value>
+			<Value>Eğitim kurumu</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="53">
+			<Value>İbadethaneler</Value>
+			<Value>İbadethane</Value>
+			<Value>Cami</Value>
+			<Value>Camiler</Value>
+			<Value>Kilise</Value>
+			<Value>Kiliseler</Value>
+			<Value>Sinagog</Value>
+			<Value>Sinagoglar</Value>
+			<Value>Manastır</Value>
+			<Value>Manastırlar</Value>
+			<Value>Manastir</Value>
+			<Value>Manastirlar</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="54">
+			<Value>Mezarlıklar</Value>
+			<Value>Mezarlık</Value>
+			<Value>Mezarliklar</Value>
+			<Value>Mezarlik</Value>
+		</Thesaurus>
+		<Thesaurus category_ref="134">
+			<Value>Şarj istasyonları</Value>
+			<Value>Şarj istasyonlari</Value>
+			<Value>Şarj istasyonu</Value>
+			<Value>Şarj</Value>
+			<Value>Şarj etme</Value>
+		</Thesaurus>
+	</PoiCategoryThesaurusDefinition>
+
+	<PoiCategoryNameDefinition>
+		<Name category_ref="1">Autostadt</Name>
+		<Name category_ref="2">Havalimanları</Name>
+		<Name category_ref="136">LPG yakıt istasyonları</Name>
+		<Name category_ref="135">Doğal gaz yakıt istasyonları</Name>
+		<Name category_ref="101">Yakıt istasyonları</Name>
+		<Name category_ref="102">Otoparklar</Name>
+		<Name category_ref="7">Dinlenme tesisleri</Name>
+		<Name category_ref="8">Oteller ve moteller</Name>
+		<Name category_ref="9">Feribotlar ve ototrenler</Name>
+		<Name category_ref="10">Sınır kapıları</Name>
+		<Name category_ref="11">VW yetkili satıcıları</Name>
+		<Name category_ref="12">VW servisi</Name>
+		<Name category_ref="14">Otoyol çıkışları / Otoyol girişleri</Name>
+		<Name category_ref="15">Araç kiralama şirketleri</Name>
+		<Name category_ref="16">Tren istasyonları</Name>
+		<Name category_ref="18">Otobüs terminalleri</Name>
+		<Name category_ref="19">Turist bilgi merkezleri</Name>
+		<Name category_ref="20">Polisler</Name>
+		<Name category_ref="21">Hastaneler</Name>
+		<Name category_ref="22">Doktor hizmetleri</Name>
+		<Name category_ref="23">Eczaneler</Name>
+		<Name category_ref="104">Restoranlar</Name>
+		<Name category_ref="25">Bankamatikler</Name>
+		<Name category_ref="26">Kafeler</Name>
+		<Name category_ref="27">Alışveriş merkezleri</Name>
+		<Name category_ref="28">Kıyafet</Name>
+		<Name category_ref="29">Elektronik</Name>
+		<Name category_ref="30">Şarap ve alkollü içecekler</Name>
+		<Name category_ref="31">Gece hayatı</Name>
+		<Name category_ref="32">Parklar</Name>
+		<Name category_ref="33">Turistik yerler</Name>
+		<Name category_ref="34">Sinemalar</Name>
+		<Name category_ref="35">Kumarhaneler</Name>
+		<Name category_ref="36">Sahne sanatları</Name>
+		<Name category_ref="37">Müzeler</Name>
+		<Name category_ref="38">Anıtlar</Name>
+		<Name category_ref="39">Spor merkezleri</Name>
+		<Name category_ref="41">Golf sporu</Name>
+		<Name category_ref="42">Yatçılık sporu</Name>
+		<Name category_ref="43">Kayak sporu</Name>
+		<Name category_ref="44">Eğlence parkları</Name>
+		<Name category_ref="45">Bankalar</Name>
+		<Name category_ref="46">Posta</Name>
+		<Name category_ref="47">Firmalar</Name>
+		<Name category_ref="48">Kongre merkezleri</Name>
+		<Name category_ref="49">İdare ve yönetim</Name>
+		<Name category_ref="50">Elçilikler</Name>
+		<Name category_ref="52">Eğitim kurumları</Name>
+		<Name category_ref="53">İbadethaneler</Name>
+		<Name category_ref="54">Mezarlıklar</Name>
+		<Name category_ref="134">Şarj istasyonları</Name>
+	</PoiCategoryNameDefinition>
+</LanguagePoiConfiguration>

@@ -1,0 +1,4665 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TmcConfig>
+  <locale code="tr_TR" unit_system="UNITS_METRIC">
+    <tmc_event event_code="1">
+      <short_text>Yol engelli</short_text>
+      <long_text>Trafikte problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="2">
+      <short_text>%lyoğun trafik</short_text>
+      <long_text>yoğun trafik, trafik tıkanıklığı tehlikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="11">
+      <short_text>Trafik tıkalı</short_text>
+      <long_text>Yükseklik kontrolü devreye girdi</long_text>
+    </tmc_event>
+    <tmc_event event_code="12">
+      <short_text>kaza</short_text>
+      <long_text>%skaza, trafik kaza yerinden yönlendiriliyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="16">
+      <short_text>Geçilemez</short_text>
+      <long_text>Kurtarma çalışmalarından dolayı kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="20">
+      <short_text>Benzin istasyonu ve dinlenme tesisi dolmuş, başka bir benzin istasyonuna veya dinlenme tesisine gidin</short_text>
+      <long_text>Benzin istasyonu ve dinlenme tesisi dolmuş, başka bir benzin istasyonuna veya dinlenme tesisine gidin</long_text>
+    </tmc_event>
+    <tmc_event event_code="22">
+      <short_text>Benzin istasyonu ve dinlenme tesisi, benzin istasyonu kapalı</short_text>
+      <long_text>Benzin istasyonu ve dinlenme tesisi, benzin istasyonu kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="23">
+      <short_text>Park etmek</short_text>
+      <long_text>Benzin istasyonu ve dinlenme tesisi, dinlenme tesisi kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="24">
+      <short_text>Geçilemez</short_text>
+      <long_text>Köprü kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="25">
+      <short_text>Geçilemez</short_text>
+      <long_text>Tünel kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="26">
+      <short_text>Geçilemez</short_text>
+      <long_text>Köprü tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="27">
+      <short_text>Geçilemez</short_text>
+      <long_text>Tünel tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="28">
+      <short_text>Geçilemez</short_text>
+      <long_text>Birçok yerde yol kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="41">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Sollama %sşeridi kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="42">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>%ssollama şeridi tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="51">
+      <short_text>Tamirat var</short_text>
+      <long_text>Sollama şeridinde çalışmalar</long_text>
+    </tmc_event>
+    <tmc_event event_code="52">
+      <short_text>Tamirat var</short_text>
+      <long_text>Bekleme şeridinde %sçalışma</long_text>
+    </tmc_event>
+    <tmc_event event_code="53">
+      <short_text>Tamirat var</short_text>
+      <long_text>Emniyet şeridinde %sçalışma</long_text>
+    </tmc_event>
+    <tmc_event event_code="55">
+      <short_text>Trafik tıkalı</short_text>
+      <long_text>Trafikte problem bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="56">
+      <short_text>Trafik tıkalı</short_text>
+      <long_text>Trafik problemi bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="61">
+      <short_text>Yol engelli</short_text>
+      <long_text>Yolda %syük olmasından dolayı trafikte problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="62">
+      <short_text>Sel tehlikesi</short_text>
+      <long_text>%sboru kırılmasından dolayı trafikte problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="63">
+      <short_text>Yol engelli</short_text>
+      <long_text>Yolda %syük olmasından dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="64">
+      <short_text>Sel tehlikesi</short_text>
+      <long_text>Boru kırılmasından dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="70">
+      <short_text>%ltrafik tıkanıklığı</short_text>
+      <long_text>Trafik problemi, ortalama hız 10 km/saat</long_text>
+    </tmc_event>
+    <tmc_event event_code="71">
+      <short_text>%ltrafik tıkanıklığı</short_text>
+      <long_text>Trafik problemi, ortalama hız 20 km/saat</long_text>
+    </tmc_event>
+    <tmc_event event_code="72">
+      <short_text>%ltrafik tıkanıklığı</short_text>
+      <long_text>Trafik problemi, ortalama hız 30 km/saat</long_text>
+    </tmc_event>
+    <tmc_event event_code="73">
+      <short_text>%ltrafik tıkanıklığı</short_text>
+      <long_text>Trafik problemi, ortalama hız 40 km/saat</long_text>
+    </tmc_event>
+    <tmc_event event_code="74">
+      <short_text>%lyoğun trafik</short_text>
+      <long_text>Trafik problemi, ortalama hız 50 km/saat</long_text>
+    </tmc_event>
+    <tmc_event event_code="75">
+      <short_text>%lyoğun trafik</short_text>
+      <long_text>Trafik problemi, ortalama hız 60 km/saat</long_text>
+    </tmc_event>
+    <tmc_event event_code="76">
+      <short_text>%lyoğun trafik</short_text>
+      <long_text>Trafik problemi, ortalama hız 70 km/saat</long_text>
+    </tmc_event>
+    <tmc_event event_code="82">
+      <short_text>Tamirat var</short_text>
+      <long_text>Tamirat var</long_text>
+    </tmc_event>
+    <tmc_event event_code="83">
+      <short_text>Geçilemez</short_text>
+      <long_text>Geçilemez</long_text>
+    </tmc_event>
+    <tmc_event event_code="84">
+      <short_text>Festival var</short_text>
+      <long_text>Festival var</long_text>
+    </tmc_event>
+    <tmc_event event_code="85">
+      <short_text>Festival var</short_text>
+      <long_text>Festival var</long_text>
+    </tmc_event>
+    <tmc_event event_code="86">
+      <short_text>Festival var</short_text>
+      <long_text>Festival var</long_text>
+    </tmc_event>
+    <tmc_event event_code="91">
+      <short_text>Gecikme var</short_text>
+      <long_text>Binek araçlar için gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="101">
+      <short_text>%ltrafik tıkanıklığı</short_text>
+      <long_text>%l trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="102">
+      <short_text>1 km trafik tıkanıklığı</short_text>
+      <long_text>1 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="103">
+      <short_text>2 km trafik tıkanıklığı</short_text>
+      <long_text>2 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="104">
+      <short_text>4 km trafik tıkanıklığı</short_text>
+      <long_text>4 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="105">
+      <short_text>6 km trafik tıkanıklığı</short_text>
+      <long_text>6 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="106">
+      <short_text>10 km trafik tıkanıklığı</short_text>
+      <long_text>10 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="107">
+      <short_text>Trafik tıkalı</short_text>
+      <long_text>Trafik tıkanıklığı bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="108">
+      <short_text>%lyoğun trafik</short_text>
+      <long_text>%lyoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="109">
+      <short_text>1 km yoğun trafik</short_text>
+      <long_text>1 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="110">
+      <short_text>2 km yoğun trafik</short_text>
+      <long_text>2 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="111">
+      <short_text>4 km yoğun trafik</short_text>
+      <long_text>4 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="112">
+      <short_text>6 km yoğun trafik</short_text>
+      <long_text>6 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="113">
+      <short_text>10 km yoğun trafik</short_text>
+      <long_text>10 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="114">
+      <short_text>Trafik tıkalı</short_text>
+      <long_text>Yoğun trafik bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="115">
+      <short_text>%lyavaş akan trafik</short_text>
+      <long_text>%lyavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="116">
+      <short_text>1 km yavaş akan trafik</short_text>
+      <long_text>1 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="117">
+      <short_text>2 km yavaş akan trafik</short_text>
+      <long_text>2 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="118">
+      <short_text>4 km yavaş akan trafik</short_text>
+      <long_text>4 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="119">
+      <short_text>6 km yavaş akan trafik</short_text>
+      <long_text>6 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="120">
+      <short_text>10 km yavaş akan trafik</short_text>
+      <long_text>10 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="121">
+      <short_text>Trafik tıkalı</short_text>
+      <long_text>yavaş akan trafik bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="122">
+      <short_text>%lakıcı trafik</short_text>
+      <long_text>%lakıcı trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="123">
+      <short_text>Trafik tıkalı</short_text>
+      <long_text>akıcı trafik bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="124">
+      <short_text>Açık trafik</short_text>
+      <long_text>Açık trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="125">
+      <short_text>%lyavaş akan trafik</short_text>
+      <long_text>Artan yoğunluklu trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="129">
+      <short_text>3 km trafik tıkanıklığı</short_text>
+      <long_text>3 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="130">
+      <short_text>%lYoğun trafik</short_text>
+      <long_text>Trafik yoğunlaşma tehlikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="131">
+      <short_text>3 km yoğun trafik</short_text>
+      <long_text>3 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="132">
+      <short_text>%ltrafik tıkanıklığı</short_text>
+      <long_text>Trafiğin yavaşlama tehlikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="133">
+      <short_text>%ltrafik tıkanıklığı</short_text>
+      <long_text>Uzun trafik kuyrukları</long_text>
+    </tmc_event>
+    <tmc_event event_code="134">
+      <short_text>3 km yavaş akan trafik</short_text>
+      <long_text>3 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="136">
+      <short_text>%lTrafik problemi</short_text>
+      <long_text>Trafik problemi</long_text>
+    </tmc_event>
+    <tmc_event event_code="138">
+      <short_text>%ltrafik tıkanıklığı</short_text>
+      <long_text>trafik tıkanıklığı, trafik kuyruğunun sonuna yavaşça yaklaşın</long_text>
+    </tmc_event>
+    <tmc_event event_code="139">
+      <short_text>%lyoğun trafik</short_text>
+      <long_text>Kuyruğun sonu bir virajın arkasında</long_text>
+    </tmc_event>
+    <tmc_event event_code="140">
+      <short_text>%lyoğun trafik</short_text>
+      <long_text>Kuyruğun sonu bir tepenin arkasında</long_text>
+    </tmc_event>
+    <tmc_event event_code="142">
+      <short_text>%lyavaş akan trafik</short_text>
+      <long_text>Normal trafikten daha yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="143">
+      <short_text>%lyavaş akan trafik</short_text>
+      <long_text>Normal trafikten daha yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="200">
+      <short_text>kaza</short_text>
+      <long_text>Birden çok aracın karıştığı kaza, gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="201">
+      <short_text>%skaza</short_text>
+      <long_text>%skaza</long_text>
+    </tmc_event>
+    <tmc_event event_code="202">
+      <short_text>%sağır kaza</short_text>
+      <long_text>%sağır kaza</long_text>
+    </tmc_event>
+    <tmc_event event_code="203">
+      <short_text>kaza</short_text>
+      <long_text>Birden çok aracın karıştığı kaza (%s araç)</long_text>
+    </tmc_event>
+    <tmc_event event_code="204">
+      <short_text>kaza</short_text>
+      <long_text>%skamyonun karıştığı kaza</long_text>
+    </tmc_event>
+    <tmc_event event_code="205">
+      <short_text>kaza</short_text>
+      <long_text>Tehlikeli madde taşıyan kamyonlu %skaza</long_text>
+    </tmc_event>
+    <tmc_event event_code="206">
+      <short_text>kaza</short_text>
+      <long_text>%skaza, sızan benzinden dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="207">
+      <short_text>kaza</short_text>
+      <long_text>%skaza, sızan kimyasallardan dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="208">
+      <short_text>Trafik tıkalı</short_text>
+      <long_text>%skazaya bakmak için araçlar yavaşlıyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="210">
+      <short_text>Yol engelli</short_text>
+      <long_text>Yol üzerinde düşürülmüş %syük</long_text>
+    </tmc_event>
+    <tmc_event event_code="211">
+      <short_text>Trafik tıkalı</short_text>
+      <long_text>Arızalı %saraçtan dolayı trafikte problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="212">
+      <short_text>Trafik tıkalı</short_text>
+      <long_text>Arızalı %skamyondan dolayı trafikte problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="213">
+      <short_text>Yanan %saraç</short_text>
+      <long_text>Yanan %saraç</long_text>
+    </tmc_event>
+    <tmc_event event_code="214">
+      <short_text>Trafik tıkalı</short_text>
+      <long_text>%strafikte problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="215">
+      <short_text>%ltrafik tıkanıklığı</short_text>
+      <long_text>%skaza, trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="216">
+      <short_text>1 km trafik tıkanıklığı</short_text>
+      <long_text>%skaza, 1 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="217">
+      <short_text>2 km trafik tıkanıklığı</short_text>
+      <long_text>%skaza, 2 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="218">
+      <short_text>4 km trafik tıkanıklığı</short_text>
+      <long_text>%skaza, 4 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="219">
+      <short_text>6 km trafik tıkanıklığı</short_text>
+      <long_text>%skaza, 6 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="220">
+      <short_text>10 km trafik tıkanıklığı</short_text>
+      <long_text>%skaza, 10 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="221">
+      <short_text>kaza</short_text>
+      <long_text>%skaza, trafik tıkanıklığı tehlikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="222">
+      <short_text>%lyoğun trafik</short_text>
+      <long_text>%skaza, yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="223">
+      <short_text>1 km yoğun trafik</short_text>
+      <long_text>%skaza, 1 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="224">
+      <short_text>2 km yoğun trafik</short_text>
+      <long_text>%skaza, 2 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="225">
+      <short_text>4 km yoğun trafik</short_text>
+      <long_text>%skaza, 4 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="226">
+      <short_text>6 km yoğun trafik</short_text>
+      <long_text>%skaza, 6 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="227">
+      <short_text>10 km yoğun trafik</short_text>
+      <long_text>%skaza, 10 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="228">
+      <short_text>kaza</short_text>
+      <long_text>%skaza, trafiğin yavaşlama tehlikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="229">
+      <short_text>%lyavaş akan trafik</short_text>
+      <long_text>%skaza, yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="230">
+      <short_text>1 km yavaş akan trafik</short_text>
+      <long_text>%skaza, 1 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="231">
+      <short_text>2 km yavaş akan trafik</short_text>
+      <long_text>%skaza, 2 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="232">
+      <short_text>4 km yavaş akan trafik</short_text>
+      <long_text>%skaza, 4 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="233">
+      <short_text>6 km yavaş akan trafik</short_text>
+      <long_text>%skaza, 6 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="234">
+      <short_text>10 km yavaş akan trafik</short_text>
+      <long_text>%skaza, 10 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="235">
+      <short_text>kaza</short_text>
+      <long_text>%skaza, yavaş akan trafik bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="236">
+      <short_text>kaza</short_text>
+      <long_text>%skaza, akıcı trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="237">
+      <short_text>kaza</short_text>
+      <long_text>%skaza, akıcı trafik bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="238">
+      <short_text>kaza</short_text>
+      <long_text>%skaza, açık trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="239">
+      <short_text>%lyavaş akan trafik</short_text>
+      <long_text>%skaza, artan yoğunluklu trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="240">
+      <short_text>Geçilemez</short_text>
+      <long_text>Kaza, yol kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="241">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>%skaza, sağ şerit tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="242">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>%skaza, orta şerit tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="243">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>%skaza, sol şerit tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="244">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>%skaza, bekleme şeridi tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="245">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>%skaza, 2 şerit tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="246">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>%skaza, 3 şerit tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="247">
+      <short_text>Kaza, gecikme %s</short_text>
+      <long_text>Kaza, gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="248">
+      <short_text>kaza</short_text>
+      <long_text>Kaza, gecikme %solması bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="249">
+      <short_text>kaza</short_text>
+      <long_text>Kaza, büyük gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="250">
+      <short_text>%ltrafik tıkanıklığı</short_text>
+      <long_text>%skazaya bakmak için araçlar yavaşlıyor, trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="251">
+      <short_text>1 km trafik tıkanıklığı</short_text>
+      <long_text>%skazaya bakmak için araçlar yavaşlıyor, 1 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="252">
+      <short_text>2 km trafik tıkanıklığı</short_text>
+      <long_text>%skazaya bakmak için araçlar yavaşlıyor, 2 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="253">
+      <short_text>4 km trafik tıkanıklığı</short_text>
+      <long_text>%skazaya bakmak için araçlar yavaşlıyor, 4 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="254">
+      <short_text>6 km trafik tıkanıklığı</short_text>
+      <long_text>%skazaya bakmak için araçlar yavaşlıyor, 6 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="255">
+      <short_text>10 km trafik tıkanıklığı</short_text>
+      <long_text>%skazaya bakmak için araçlar yavaşlıyor, 10 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="256">
+      <short_text>Trafik tıkalı</short_text>
+      <long_text>%skazaya bakmak için araçlar yavaşlıyor, trafik tıkanıklığı tehlikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="257">
+      <short_text>%lyoğun trafik</short_text>
+      <long_text>%skazaya bakmak için araçlar yavaşlıyor, yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="258">
+      <short_text>1 km yoğun trafik</short_text>
+      <long_text>%skazaya bakmak için araçlar yavaşlıyor, 1 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="259">
+      <short_text>2 km yoğun trafik</short_text>
+      <long_text>%skazaya bakmak için araçlar yavaşlıyor, 2 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="260">
+      <short_text>4 km yoğun trafik</short_text>
+      <long_text>%skazaya bakmak için araçlar yavaşlıyor, 4 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="261">
+      <short_text>6 km yoğun trafik</short_text>
+      <long_text>%skazaya bakmak için araçlar yavaşlıyor, 6 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="262">
+      <short_text>10 km yoğun trafik</short_text>
+      <long_text>%skazaya bakmak için araçlar yavaşlıyor, 10 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="263">
+      <short_text>Trafik tıkalı</short_text>
+      <long_text>%skazaya bakmak için araçlar yavaşlıyor, trafiğin yavaşlama tehlikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="264">
+      <short_text>%lyavaş akan trafik</short_text>
+      <long_text>%skazaya bakmak için araçlar yavaşlıyor, yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="265">
+      <short_text>1 km yavaş akan trafik</short_text>
+      <long_text>%skazaya bakmak için araçlar yavaşlıyor, 1 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="266">
+      <short_text>2 km yavaş akan trafik</short_text>
+      <long_text>%skazaya bakmak için araçlar yavaşlıyor, 2 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="267">
+      <short_text>4 km yavaş akan trafik</short_text>
+      <long_text>%skazaya bakmak için araçlar yavaşlıyor, 4 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="268">
+      <short_text>6 km yavaş akan trafik</short_text>
+      <long_text>%skazaya bakmak için araçlar yavaşlıyor, 6 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="269">
+      <short_text>10 km yavaş akan trafik</short_text>
+      <long_text>%skazaya bakmak için araçlar yavaşlıyor, 10 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="271">
+      <short_text>%lakıcı trafik</short_text>
+      <long_text>%skazaya bakmak için araçlar yavaşlıyor, akıcı trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="274">
+      <short_text>%lyavaş akan trafik</short_text>
+      <long_text>%skazaya bakmak için araçlar yavaşlıyor, artan yoğunluklu trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="275">
+      <short_text>Gecikme var</short_text>
+      <long_text>Meraklı sürücülerden dolayı engelleme, gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="277">
+      <short_text>Uzun bekleme süresi var</short_text>
+      <long_text>Meraklı sürücülerden dolayı engelleme, büyük gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="278">
+      <short_text>%ltrafik tıkanıklığı</short_text>
+      <long_text>Yol üzerinde düşürülmüş %syük, trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="279">
+      <short_text>1 km trafik tıkanıklığı</short_text>
+      <long_text>Yol üzerinde düşürülmüş %syük, 1 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="280">
+      <short_text>2 km trafik tıkanıklığı</short_text>
+      <long_text>Yol üzerinde düşürülmüş %syük, 2 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="281">
+      <short_text>4 km trafik tıkanıklığı</short_text>
+      <long_text>Yol üzerinde düşürülmüş %syük, 4 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="282">
+      <short_text>6 km trafik tıkanıklığı</short_text>
+      <long_text>Yol üzerinde düşürülmüş %syük, 6 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="283">
+      <short_text>10 km trafik tıkanıklığı</short_text>
+      <long_text>Yol üzerinde düşürülmüş %syük, 10 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="284">
+      <short_text>Yol engelli</short_text>
+      <long_text>Yol üzerinde düşürülmüş %syük, trafik tıkanıklığı tehlikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="285">
+      <short_text>%lyoğun trafik</short_text>
+      <long_text>Yol üzerinde düşürülmüş %syük, yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="286">
+      <short_text>1 km yoğun trafik</short_text>
+      <long_text>Yol üzerinde düşürülmüş %syük, 1 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="287">
+      <short_text>2 km yoğun trafik</short_text>
+      <long_text>Yol üzerinde düşürülmüş %syük, 2 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="288">
+      <short_text>4 km yoğun trafik</short_text>
+      <long_text>Yol üzerinde düşürülmüş %syük, 4 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="289">
+      <short_text>6 km yoğun trafik</short_text>
+      <long_text>Yol üzerinde düşürülmüş %syük, 6 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="290">
+      <short_text>10 km yoğun trafik</short_text>
+      <long_text>Yol üzerinde düşürülmüş %syük, 10 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="291">
+      <short_text>Yol engelli</short_text>
+      <long_text>Yol üzerinde düşürülmüş %syük, trafiğin yavaşlama tehlikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="292">
+      <short_text>%lyavaş akan trafik</short_text>
+      <long_text>Yol üzerinde düşürülmüş %syük, yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="293">
+      <short_text>1 km yavaş akan trafik</short_text>
+      <long_text>Yol üzerinde düşürülmüş %syük, 1 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="294">
+      <short_text>2 km yavaş akan trafik</short_text>
+      <long_text>Yol üzerinde düşürülmüş %syük, 2 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="295">
+      <short_text>4 km yavaş akan trafik</short_text>
+      <long_text>Yol üzerinde düşürülmüş %syük, 4 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="296">
+      <short_text>6 km yavaş akan trafik</short_text>
+      <long_text>Yol üzerinde düşürülmüş %syük, 6 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="297">
+      <short_text>10 km yavaş akan trafik</short_text>
+      <long_text>Yol üzerinde düşürülmüş %syük, 10 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="298">
+      <short_text>Yol engelli</short_text>
+      <long_text>Yol üzerinde düşürülmüş %syük, yavaş akan trafik bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="299">
+      <short_text>Yol engelli</short_text>
+      <long_text>Yol üzerinde düşürülmüş %syük, akıcı trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="300">
+      <short_text>Yol engelli</short_text>
+      <long_text>Yol üzerinde düşürülmüş %syük, akıcı trafik bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="301">
+      <short_text>Yol engelli</short_text>
+      <long_text>Yol üzerinde düşürülmüş %syük, trafik açık</long_text>
+    </tmc_event>
+    <tmc_event event_code="302">
+      <short_text>Yol engelli</short_text>
+      <long_text>Yol üzerinde düşürülmüş %syük, artan yoğunluklu trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="303">
+      <short_text>Geçilemez</short_text>
+      <long_text>yol üzerinde (%s adet) yükten dolayı tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="304">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol üzerinde düşürülmüş %syük, sağ şerit tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="305">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol üzerinde düşürülmüş %syük, orta şerit tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="306">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol üzerinde düşürülmüş %syük, sol şerit tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="307">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol üzerinde düşürülmüş %syük, bekleme şeridi tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="308">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol üzerinde düşürülmüş %syük, 2 şerit tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="309">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol üzerinde düşürülmüş %syük, 3 şerit tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="310">
+      <short_text>Yol engelli</short_text>
+      <long_text>Yol üzerinde kayıp eşya, gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="311">
+      <short_text>Yol engelli</short_text>
+      <long_text>Yol üzerinde kayıp eşya, gecikme %solması bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="312">
+      <short_text>Yol engelli</short_text>
+      <long_text>Yol üzerinde kayıp eşya, büyük gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="313">
+      <short_text>%ltrafik tıkanıklığı</short_text>
+      <long_text>Arızalı %saraçtan dolayı trafikte problem, trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="314">
+      <short_text>Trafik tıkalı</short_text>
+      <long_text>Arızalı %saraçtan dolayı trafikte problem, trafik tıkanıklığı tehlikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="315">
+      <short_text>%lyoğun trafik</short_text>
+      <long_text>Arızalı %saraçtan dolayı trafikte problem, yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="316">
+      <short_text>Trafik tıkalı</short_text>
+      <long_text>Arızalı %saraçtan dolayı trafikte problem, trafiğin yavaşlama tehlikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="317">
+      <short_text>%lyavaş akan trafik</short_text>
+      <long_text>Arızalı %saraçtan dolayı trafikte problem, yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="318">
+      <short_text>Trafik tıkalı</short_text>
+      <long_text>Arızalı %saraçtan dolayı trafikte problem, yoğun trafik bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="319">
+      <short_text>Trafik tıkalı</short_text>
+      <long_text>Arızalı %saraçtan dolayı trafikte problem, akıcı trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="320">
+      <short_text>Trafik tıkalı</short_text>
+      <long_text>Arızalı %saraçtan dolayı trafikte problem, akıcı trafik bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="321">
+      <short_text>Trafik tıkalı</short_text>
+      <long_text>Arızalı %saraç, trafik açık</long_text>
+    </tmc_event>
+    <tmc_event event_code="322">
+      <short_text>Trafik tıkalı</short_text>
+      <long_text>Arızalı %saraçtan dolayı trafikte problem, artan yoğunluklu trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="323">
+      <short_text>Geçilemez</short_text>
+      <long_text>Arızalı %saraçtan dolayı trafikte problem, yol tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="324">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Arızalı %saraçtan dolayı trafikte problem, sağ şerit tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="325">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Arızalı %saraçtan dolayı trafikte problem, orta şerit tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="326">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Arızalı %saraçtan dolayı trafikte problem, sol şerit tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="327">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Arızalı %saraçtan dolayı trafikte problem, bekleme şeridi tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="328">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Arızalı %saraçtan dolayı trafikte problem, 2 şerit tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="329">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Arızalı %saraçtan dolayı trafikte problem, 3 şerit tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="330">
+      <short_text>Trafik tıkalı</short_text>
+      <long_text>Arızalı araçtan dolayı trafikte problem, gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="331">
+      <short_text>Trafik tıkalı</short_text>
+      <long_text>Arızalı araçtan dolayı trafikte problem, gecikme %solması bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="332">
+      <short_text>Trafik tıkalı</short_text>
+      <long_text>Arızalı araçtan dolayı trafikte problem, büyük gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="335">
+      <short_text>kaza</short_text>
+      <long_text>%sotobüsün karıştığı kaza</long_text>
+    </tmc_event>
+    <tmc_event event_code="336">
+      <short_text>kaza</short_text>
+      <long_text>%skaza, sızan yağdan dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="337">
+      <short_text>kaza</short_text>
+      <long_text>%saraç devrilmiş</long_text>
+    </tmc_event>
+    <tmc_event event_code="338">
+      <short_text>kaza</short_text>
+      <long_text>%skamyon devrilmesinden dolayı trafikte problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="339">
+      <short_text>kaza</short_text>
+      <long_text>Yan yatmış %srömork</long_text>
+    </tmc_event>
+    <tmc_event event_code="340">
+      <short_text>kaza</short_text>
+      <long_text>Yan yatmış %skaravan</long_text>
+    </tmc_event>
+    <tmc_event event_code="341">
+      <short_text>kaza</short_text>
+      <long_text>Yan yatmış %skamyon</long_text>
+    </tmc_event>
+    <tmc_event event_code="342">
+      <short_text>kaza</short_text>
+      <long_text>%saraç kaza geçirmiş</long_text>
+    </tmc_event>
+    <tmc_event event_code="343">
+      <short_text>Önceki %skaza</short_text>
+      <long_text>Önceki %skaza</long_text>
+    </tmc_event>
+    <tmc_event event_code="344">
+      <short_text>kaza</short_text>
+      <long_text>Kaza yeri inceleme</long_text>
+    </tmc_event>
+    <tmc_event event_code="345">
+      <short_text>İkincil %skaza</short_text>
+      <long_text>İkincil %skaza</long_text>
+    </tmc_event>
+    <tmc_event event_code="346">
+      <short_text>Trafik tıkalı</short_text>
+      <long_text>arızalı %sotobüs</long_text>
+    </tmc_event>
+    <tmc_event event_code="348">
+      <short_text>3 km trafik tıkanıklığı</short_text>
+      <long_text>%skaza, 3 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="349">
+      <short_text>3 km yoğun trafik</short_text>
+      <long_text>%skaza, 3 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="350">
+      <short_text>3 km yavaş akan trafik</short_text>
+      <long_text>%skaza, 3 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="351">
+      <short_text>kaza</short_text>
+      <long_text>Yol yapım çalışması alanında %skaza</long_text>
+    </tmc_event>
+    <tmc_event event_code="352">
+      <short_text>3 km trafik tıkanıklığı</short_text>
+      <long_text>%skazaya bakmak için araçlar yavaşlıyor, 3 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="353">
+      <short_text>3 km yoğun trafik</short_text>
+      <long_text>%skazaya bakmak için araçlar yavaşlıyor, 3 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="354">
+      <short_text>3 km yavaş akan trafik</short_text>
+      <long_text>%skazaya bakmak için araçlar yavaşlıyor, 3 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="355">
+      <short_text>kaza</short_text>
+      <long_text>%skazaya bakmak için araçlar yavaşlıyor, tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="356">
+      <short_text>3 km trafik tıkanıklığı</short_text>
+      <long_text>Yol üzerinde düşürülmüş %syük, 3 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="357">
+      <short_text>3 km yoğun trafik</short_text>
+      <long_text>Yol üzerinde düşürülmüş %syük, 3 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="358">
+      <short_text>3 km yavaş akan trafik</short_text>
+      <long_text>Yol üzerinde düşürülmüş %syük, 3 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="359">
+      <short_text>Yol engelli</short_text>
+      <long_text>Yol üzerinde düşürülmüş %syük, tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="360">
+      <short_text>%ltrafik tıkanıklığı</short_text>
+      <long_text>%saraç devrilmiş, trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="361">
+      <short_text>kaza</short_text>
+      <long_text>%saraç devrilmiş, trafik tıkanıklığı tehikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="362">
+      <short_text>%lyoğun trafik</short_text>
+      <long_text>%saraç devrilmiş, yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="363">
+      <short_text>kaza</short_text>
+      <long_text>%saraç devrilmiş, trafiğin yavaşlama tehlikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="364">
+      <short_text>%lyavaş akan trafik</short_text>
+      <long_text>%saraç devrilmiş, yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="365">
+      <short_text>kaza</short_text>
+      <long_text>%saraç devrilmiş, yavaş akan trafik bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="366">
+      <short_text>kaza</short_text>
+      <long_text>%saraç devrilmiş, akıcı trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="367">
+      <short_text>kaza</short_text>
+      <long_text>%saraç devrilmiş, akıcı trafik bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="368">
+      <short_text>kaza</short_text>
+      <long_text>%saraç devrilmiş, artan yoğunluklu trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="369">
+      <short_text>Geçilemez</short_text>
+      <long_text>%saraç devrildiğinden dolayı tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="370">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>%saraç devrilmiş, sağ şerit tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="371">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>%saraç devrilmiş, orta şerit tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="372">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>%saraç devrilmiş, sol şerit tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="373">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>%saraç devrilmiş, 2 şerit tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="374">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>%saraç devrilmiş, 3 şerit tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="375">
+      <short_text>kaza</short_text>
+      <long_text>Araç devrilmiş, gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="376">
+      <short_text>kaza</short_text>
+      <long_text>Araç devrilmiş, gecikme %solması bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="377">
+      <short_text>kaza</short_text>
+      <long_text>Araç devrilmiş, büyük gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="378">
+      <short_text>kaza</short_text>
+      <long_text>%skamyon devrilmesinden dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="379">
+      <short_text>%ltrafik tıkanıklığı</short_text>
+      <long_text>trafik tıkanıklığı, %skaza yeri toplanmış</long_text>
+    </tmc_event>
+    <tmc_event event_code="381">
+      <short_text>%lyoğun trafik</short_text>
+      <long_text>yoğun trafik, %skaza yeri toplanmış</long_text>
+    </tmc_event>
+    <tmc_event event_code="382">
+      <short_text>Trafik tıkalı</short_text>
+      <long_text>Trafiğin yavaşlama tehlikesi, %skaza yeri toplanmış</long_text>
+    </tmc_event>
+    <tmc_event event_code="383">
+      <short_text>%lyavaş akan trafik</short_text>
+      <long_text>yavaş akan trafik, %skaza yeri toplanmış</long_text>
+    </tmc_event>
+    <tmc_event event_code="387">
+      <short_text>%lyavaş akan trafik</short_text>
+      <long_text>Artan yoğunluklu trafik, %skaza yeri toplanmış</long_text>
+    </tmc_event>
+    <tmc_event event_code="388">
+      <short_text>kaza</short_text>
+      <long_text>Erken kaza, gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="390">
+      <short_text>Trafik tıkalı</short_text>
+      <long_text>Erken kaza, büyük gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="391">
+      <short_text>kaza</short_text>
+      <long_text>Kaza yeri inceleme, tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="392">
+      <short_text>kaza</short_text>
+      <long_text>İkincil %skaza, tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="393">
+      <short_text>Trafik tıkalı</short_text>
+      <long_text>Arızalı %saraçtan dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="394">
+      <short_text>Trafik tıkalı</short_text>
+      <long_text>Arızalı %skamyondan dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="397">
+      <short_text>Trafik tıkalı</short_text>
+      <long_text>Kurtarma çalışmalarından dolayı trafikte problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="401">
+      <short_text>Geçilemez</short_text>
+      <long_text>Kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="402">
+      <short_text>Geçilemez</short_text>
+      <long_text>Tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="406">
+      <short_text>giriş kapalı</short_text>
+      <long_text>(%s.) giriş kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="407">
+      <short_text>çıkış kapalı</short_text>
+      <long_text>(%s.) çıkış kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="408">
+      <short_text>çıkış kapalı</short_text>
+      <long_text>Bağlantı noktası kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="409">
+      <short_text>Trafik tıkalı</short_text>
+      <long_text>Bağlantı noktasında sınırlama</long_text>
+    </tmc_event>
+    <tmc_event event_code="410">
+      <short_text>Geçilemez</short_text>
+      <long_text>Kapalı, trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="411">
+      <short_text>Geçilemez</short_text>
+      <long_text>Kapalı, 1 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="412">
+      <short_text>Geçilemez</short_text>
+      <long_text>Kapalı, 2 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="413">
+      <short_text>Geçilemez</short_text>
+      <long_text>Kapalı, 4 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="414">
+      <short_text>Geçilemez</short_text>
+      <long_text>Kapalı, 6 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="415">
+      <short_text>Geçilemez</short_text>
+      <long_text>Kapalı, 10 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="416">
+      <short_text>Geçilemez</short_text>
+      <long_text>Kapalı, trafik tıkanıklığı tehlikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="417">
+      <short_text>Geçilemez</short_text>
+      <long_text>Kapalı, yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="418">
+      <short_text>Geçilemez</short_text>
+      <long_text>Kapalı, 1 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="419">
+      <short_text>Geçilemez</short_text>
+      <long_text>Kapalı, 2 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="420">
+      <short_text>Geçilemez</short_text>
+      <long_text>Kapalı, 4 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="421">
+      <short_text>Geçilemez</short_text>
+      <long_text>Kapalı, 6 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="422">
+      <short_text>Geçilemez</short_text>
+      <long_text>Kapalı, 10 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="423">
+      <short_text>Geçilemez</short_text>
+      <long_text>Kapalı, trafiğin yavaşlama tehlikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="424">
+      <short_text>Geçilemez</short_text>
+      <long_text>Kapalı, yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="425">
+      <short_text>Geçilemez</short_text>
+      <long_text>Kapalı, 1 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="426">
+      <short_text>Geçilemez</short_text>
+      <long_text>Kapalı, 2 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="427">
+      <short_text>Geçilemez</short_text>
+      <long_text>Kapalı, 4 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="428">
+      <short_text>Geçilemez</short_text>
+      <long_text>Kapalı, 6 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="429">
+      <short_text>Geçilemez</short_text>
+      <long_text>Kapalı, 10 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="430">
+      <short_text>Geçilemez</short_text>
+      <long_text>kapalı, yavaş akan trafik bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="431">
+      <short_text>Geçilemez</short_text>
+      <long_text>Kapalı, akıcı trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="432">
+      <short_text>Geçilemez</short_text>
+      <long_text>kapalı, akıcı trafik bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="433">
+      <short_text>Geçilemez</short_text>
+      <long_text>Kapalı, açık trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="434">
+      <short_text>Geçilemez</short_text>
+      <long_text>Kapalı, artan yoğunluklu trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="435">
+      <short_text>Geçilemez</short_text>
+      <long_text>Kapalı, gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="436">
+      <short_text>Geçilemez</short_text>
+      <long_text>Kapalı, gecikme %solması bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="437">
+      <short_text>Geçilemez</short_text>
+      <long_text>Kapalı, büyük gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="438">
+      <short_text>Geçilemez</short_text>
+      <long_text>Tıkalı, trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="439">
+      <short_text>Geçilemez</short_text>
+      <long_text>Tıkalı, 1 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="440">
+      <short_text>Geçilemez</short_text>
+      <long_text>Tıkalı, 2 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="441">
+      <short_text>Geçilemez</short_text>
+      <long_text>Tıkalı, 4 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="442">
+      <short_text>Geçilemez</short_text>
+      <long_text>Tıkalı, 6 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="443">
+      <short_text>Geçilemez</short_text>
+      <long_text>Tıkalı, 10 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="444">
+      <short_text>Geçilemez</short_text>
+      <long_text>Tıkalı, trafik tıkanıklığı tehlikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="445">
+      <short_text>Geçilemez</short_text>
+      <long_text>Tıkalı, yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="446">
+      <short_text>Geçilemez</short_text>
+      <long_text>Tıkalı, 1 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="447">
+      <short_text>Geçilemez</short_text>
+      <long_text>Tıkalı, 2 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="448">
+      <short_text>Geçilemez</short_text>
+      <long_text>Tıkalı, 4 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="449">
+      <short_text>Geçilemez</short_text>
+      <long_text>Tıkalı, 6 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="450">
+      <short_text>Geçilemez</short_text>
+      <long_text>Tıkalı, 10 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="451">
+      <short_text>Geçilemez</short_text>
+      <long_text>Tıkalı, trafiğin yavaşlama tehlikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="452">
+      <short_text>Geçilemez</short_text>
+      <long_text>Tıkalı, yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="453">
+      <short_text>Geçilemez</short_text>
+      <long_text>Tıkalı, 1 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="454">
+      <short_text>Geçilemez</short_text>
+      <long_text>Tıkalı, 2 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="455">
+      <short_text>Geçilemez</short_text>
+      <long_text>Tıkalı, 4 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="456">
+      <short_text>Geçilemez</short_text>
+      <long_text>Tıkalı, 6 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="457">
+      <short_text>Geçilemez</short_text>
+      <long_text>Tıkalı, 10 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="458">
+      <short_text>Geçilemez</short_text>
+      <long_text>tıkalı, yoğun trafik bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="459">
+      <short_text>Geçilemez</short_text>
+      <long_text>Tıkalı, akıcı trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="460">
+      <short_text>Geçilemez</short_text>
+      <long_text>tıkalı, akıcı trafik bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="461">
+      <short_text>Geçilemez</short_text>
+      <long_text>Tıkalı, açık trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="462">
+      <short_text>Geçilemez</short_text>
+      <long_text>Tıkalı, artan yoğunluklu trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="463">
+      <short_text>Geçilemez</short_text>
+      <long_text>Tıkalı, gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="464">
+      <short_text>Geçilemez</short_text>
+      <long_text>Tıkalı, gecikme %solması bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="465">
+      <short_text>Geçilemez</short_text>
+      <long_text>Tıkalı, büyük gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="469">
+      <short_text>Geçilemez</short_text>
+      <long_text>Kilitli</long_text>
+    </tmc_event>
+    <tmc_event event_code="470">
+      <short_text>Geçilemez</short_text>
+      <long_text>bloke olmuş</long_text>
+    </tmc_event>
+    <tmc_event event_code="471">
+      <short_text>giriş kapalı</short_text>
+      <long_text>%sgiriş kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="472">
+      <short_text>giriş kapalı</short_text>
+      <long_text>(%s.) giriş tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="473">
+      <short_text>giriş kapalı</short_text>
+      <long_text>Giriş tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="474">
+      <short_text>çıkış kapalı</short_text>
+      <long_text>%sçıkış kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="475">
+      <short_text>çıkış kapalı</short_text>
+      <long_text>(%s.) çıkış tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="476">
+      <short_text>çıkış kapalı</short_text>
+      <long_text>Çıkış tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="477">
+      <short_text>çıkış kapalı</short_text>
+      <long_text>Giriş ve çıkışlar kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="478">
+      <short_text>çıkış kapalı</short_text>
+      <long_text>Bağlantı şeridi kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="479">
+      <short_text>Trafik tıkalı</short_text>
+      <long_text>Yanyol kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="480">
+      <short_text>Trafik tıkalı</short_text>
+      <long_text>Sağ yönlendirme şeridi kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="481">
+      <short_text>Trafik tıkalı</short_text>
+      <long_text>Sol yönlendirme şeridi kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="482">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Sollama şeridi kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="483">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Uzun mesafe şeridi kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="484">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yakın mesafe şeridi kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="485">
+      <short_text>çıkış kapalı</short_text>
+      <long_text>Bağlantı şeridi tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="486">
+      <short_text>Trafik tıkalı</short_text>
+      <long_text>Yanyol tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="487">
+      <short_text>Trafik tıkalı</short_text>
+      <long_text>Sağ yönlendirme şeridi tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="488">
+      <short_text>Trafik tıkalı</short_text>
+      <long_text>Sol yönlendirme şeridi tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="489">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Sollama şeridi tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="490">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Uzun mesafe şeridi tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="491">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yakın mesafe şeridi tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="492">
+      <short_text>Geçilemez</short_text>
+      <long_text>Sürüş yasağı</long_text>
+    </tmc_event>
+    <tmc_event event_code="493">
+      <short_text>Trafik tıkalı</short_text>
+      <long_text>Sınırlamalar</long_text>
+    </tmc_event>
+    <tmc_event event_code="495">
+      <short_text>Geçilemez</short_text>
+      <long_text>Kapalı, 3 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="496">
+      <short_text>Geçilemez</short_text>
+      <long_text>Kapalı, 3 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="497">
+      <short_text>Geçilemez</short_text>
+      <long_text>Kapalı, 3 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="498">
+      <short_text>Geçilemez</short_text>
+      <long_text>Tıkalı, 3 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="499">
+      <short_text>Geçilemez</short_text>
+      <long_text>Tıkalı, 3 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="500">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>%sşerit kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="501">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Sağ %sşerit kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="502">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Orta %sşerit kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="503">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Sol %sşerit kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="504">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Bekleme şeridi kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="505">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>2 şerit kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="506">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>3 şerit kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="507">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Sağ %sşerit tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="508">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Orta %sşerit tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="509">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Sol %sşerit tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="510">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Bekleme şeridi tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="511">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>2 şerit tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="512">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>3 şerit tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="513">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Her iki yön için dönüşümlü olarak sadece tek şerit var</long_text>
+    </tmc_event>
+    <tmc_event event_code="514">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol (%s şeritten) tek şeride düşüyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="515">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol (%s şeritten) iki şeride düşüyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="516">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol (%s şeritten) üç şeride düşüyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="517">
+      <short_text>Trafik tıkalı</short_text>
+      <long_text>Trafik karşı şeritten veriliyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="518">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol daralması</long_text>
+    </tmc_event>
+    <tmc_event event_code="519">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol daralması, trafik karşı şeritten veriliyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="520">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>%sşerit tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="521">
+      <short_text>%ltrafik tıkanıklığı</short_text>
+      <long_text>%sşerit kapalı, trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="522">
+      <short_text>1 km trafik tıkanıklığı</short_text>
+      <long_text>%sşerit kapalı, 1 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="523">
+      <short_text>2 km trafik tıkanıklığı</short_text>
+      <long_text>%sşerit kapalı, 2 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="524">
+      <short_text>4 km trafik tıkanıklığı</short_text>
+      <long_text>%sşerit kapalı, 4 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="525">
+      <short_text>6 km trafik tıkanıklığı</short_text>
+      <long_text>%sşerit kapalı, 6 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="526">
+      <short_text>10 km trafik tıkanıklığı</short_text>
+      <long_text>%sşerit kapalı, 10 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="527">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>%sşerit kapalı, trafik tıkanıklığı tehlikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="528">
+      <short_text>%lyoğun trafik</short_text>
+      <long_text>%sşerit kapalı, yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="529">
+      <short_text>1 km yoğun trafik</short_text>
+      <long_text>%sşerit kapalı, 1 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="530">
+      <short_text>2 km yoğun trafik</short_text>
+      <long_text>%sşerit kapalı, 2 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="531">
+      <short_text>4 km yoğun trafik</short_text>
+      <long_text>%sşerit kapalı, 4 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="532">
+      <short_text>6 km yoğun trafik</short_text>
+      <long_text>%sşerit kapalı, 6 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="533">
+      <short_text>10 km yoğun trafik</short_text>
+      <long_text>%sşerit kapalı, 10 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="534">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>%sşerit kapalı, trafiğin yavaşlama tehlikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="535">
+      <short_text>%lyavaş akan trafik</short_text>
+      <long_text>%sşerit kapalı, yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="536">
+      <short_text>1 km yavaş akan trafik</short_text>
+      <long_text>%sşerit kapalı, 1 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="537">
+      <short_text>2 km yavaş akan trafik</short_text>
+      <long_text>%sşerit kapalı, 2 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="538">
+      <short_text>4 km yavaş akan trafik</short_text>
+      <long_text>%sşerit kapalı, 4 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="539">
+      <short_text>6 km yavaş akan trafik</short_text>
+      <long_text>%sşerit kapalı, 6 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="540">
+      <short_text>10 km yavaş akan trafik</short_text>
+      <long_text>%sşerit kapalı, 10 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="541">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>%sşerit kapalı, yavaş akan trafik bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="542">
+      <short_text>%lakıcı trafik</short_text>
+      <long_text>%sşerit kapalı, akıcı trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="543">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>%sşerit kapalı, akıcı trafik bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="544">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>%sşerit kapalı, açık trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="545">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>%sşerit kapalı, artan yoğunluklu trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="546">
+      <short_text>%ltrafik tıkanıklığı</short_text>
+      <long_text>Yol (%s şeritten) tek şeride düşüyor, trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="547">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol (%s şeritten) tek şeride düşüyor, trafik tıkanıklığı tehlikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="548">
+      <short_text>%lyoğun trafik</short_text>
+      <long_text>Yol (%s şeritten) tek şeride düşüyor, yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="549">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol (%s şeritten) tek şeride düşüyor, trafiğin yavaşlama tehlikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="550">
+      <short_text>%lyavaş akan trafik</short_text>
+      <long_text>Yol (%s şeritten) tek şeride düşüyor, yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="551">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol (%s şeritten) tek şeride düşüyor, yavaş akan trafik bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="552">
+      <short_text>%lYoğun trafik</short_text>
+      <long_text>Yol (%s şeritten) tek şeride düşüyor, akıcı trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="553">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol (%s şeritten) tek şeride düşüyor, akıcı trafik bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="554">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol (%s şeritten) tek şeride düşüyor, trafik açık</long_text>
+    </tmc_event>
+    <tmc_event event_code="555">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol (%s şeritten) tek şeride düşüyor, artan yoğunluklu trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="556">
+      <short_text>%ltrafik tıkanıklığı</short_text>
+      <long_text>Yol (%s şeritten) iki şeride düşüyor, trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="557">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol (%s şeritten) iki şeride düşüyor, trafik tıkanıklığı tehlikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="558">
+      <short_text>%lyoğun trafik</short_text>
+      <long_text>Yol (%s şeritten) iki şeride düşüyor, yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="559">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol (%s şeritten) iki şeride düşüyor, trafiğin yavaşlama tehlikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="560">
+      <short_text>%lyavaş akan trafik</short_text>
+      <long_text>Yol (%s şeritten) iki şeride düşüyor, yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="561">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol (%s şeritten) iki şeride düşüyor, yavaş akan trafik bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="562">
+      <short_text>%lakıcı trafik</short_text>
+      <long_text>Yol (%s şeritten) iki şeride düşüyor, akıcı trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="563">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol (%s şeritten) iki şeride düşüyor, akıcı trafik bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="564">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol (%s şeritten) iki şeride düşüyor, trafik açık</long_text>
+    </tmc_event>
+    <tmc_event event_code="565">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol (%s şeritten) iki şeride düşüyor, artan yoğunluklu trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="566">
+      <short_text>%ltrafik tıkanıklığı</short_text>
+      <long_text>Yol (%s şeritten) üç şeride düşüyor, trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="567">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol (%s şeritten) üç şeride düşüyor, trafik tıkanıklığı tehlikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="568">
+      <short_text>%lyoğun trafik</short_text>
+      <long_text>Yol (%s şeritten) üç şeride düşüyor, yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="569">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol (%s şeritten) üç şeride düşüyor, trafiğin yavaşlama tehlikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="570">
+      <short_text>%lyavaş akan trafik</short_text>
+      <long_text>Yol (%s şeritten) üç şeride düşüyor, yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="571">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol (%s şeritten) üç şeride düşüyor, yavaş akan trafik bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="572">
+      <short_text>%lakıcı trafik</short_text>
+      <long_text>Yol (%s şeritten) üç şeride düşüyor, akıcı trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="573">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol (%s şeritten) üç şeride düşüyor, akıcı trafik bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="574">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol (%s şeritten) üç şeride düşüyor, trafik açık</long_text>
+    </tmc_event>
+    <tmc_event event_code="575">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol (%s şeritten) üç şeride düşüyor, artan yoğunluklu trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="576">
+      <short_text>%ltrafik tıkanıklığı</short_text>
+      <long_text>Trafik karşı şeritten veriliyor, trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="577">
+      <short_text>%ltrafik tıkanıklığı</short_text>
+      <long_text>Trafik karşı şeritten veriliyor, trafik tıkanıklığı bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="578">
+      <short_text>2 km trafik tıkanıklığı</short_text>
+      <long_text>Trafik karşı şeritten veriliyor, 2 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="579">
+      <short_text>4 km trafik tıkanıklığı</short_text>
+      <long_text>Trafik karşı şeritten veriliyor, 4 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="580">
+      <short_text>6 km trafik tıkanıklığı</short_text>
+      <long_text>Trafik karşı şeritten veriliyor, 6 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="581">
+      <short_text>10 km trafik tıkanıklığı</short_text>
+      <long_text>Trafik karşı şeritten veriliyor, 10 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="583">
+      <short_text>%lyoğun trafik</short_text>
+      <long_text>Trafik karşı şeritten veriliyor, yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="584">
+      <short_text>1 km yoğun trafik</short_text>
+      <long_text>Trafik karşı şeritten veriliyor, 1 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="585">
+      <short_text>2 km yoğun trafik</short_text>
+      <long_text>Trafik karşı şeritten veriliyor, 2 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="586">
+      <short_text>4 km yoğun trafik</short_text>
+      <long_text>Trafik karşı şeritten veriliyor, 4 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="587">
+      <short_text>6 km yoğun trafik</short_text>
+      <long_text>Trafik karşı şeritten veriliyor, 6 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="588">
+      <short_text>10 km yoğun trafik</short_text>
+      <long_text>Trafik karşı şeritten veriliyor, 10 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="590">
+      <short_text>%lyavaş akan trafik</short_text>
+      <long_text>Trafik karşı şeritten veriliyor, yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="591">
+      <short_text>1 km yavaş akan trafik</short_text>
+      <long_text>Trafik karşı şeritten veriliyor, 1 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="592">
+      <short_text>2 km yavaş akan trafik</short_text>
+      <long_text>Trafik karşı şeritten veriliyor, 2 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="593">
+      <short_text>4 km yavaş akan trafik</short_text>
+      <long_text>Trafik karşı şeritten veriliyor, 4 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="594">
+      <short_text>6 km yavaş akan trafik</short_text>
+      <long_text>Trafik karşı şeritten veriliyor, 6 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="595">
+      <short_text>10 km yavaş akan trafik</short_text>
+      <long_text>Trafik karşı şeritten veriliyor, 10 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="597">
+      <short_text>%lakıcı trafik</short_text>
+      <long_text>Trafik karşı şeritten veriliyor, akıcı trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="600">
+      <short_text>%lyavaş akan trafik</short_text>
+      <long_text>Trafik karşı şeritten veriliyor, artan yoğunluklu trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="601">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol (%s şeritten) tek şeride düşüyor, trafik karşı şeritten veriliyor,</long_text>
+    </tmc_event>
+    <tmc_event event_code="602">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol (%s şeritten) iki şeride düşüyor, trafik karşı şeritten veriliyor,</long_text>
+    </tmc_event>
+    <tmc_event event_code="603">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol (%s şeritten) üç şeride düşüyor, trafik karşı şeritten veriliyor,</long_text>
+    </tmc_event>
+    <tmc_event event_code="604">
+      <short_text>%ltrafik tıkanıklığı</short_text>
+      <long_text>Yol daralıyor, trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="605">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol daralıyor, trafik tıkanıklığı tehlikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="606">
+      <short_text>%lyoğun trafik</short_text>
+      <long_text>Yol daralıyor, yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="607">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol daralıyor, trafiğin yavaşlama tehlikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="608">
+      <short_text>%lyavaş akan trafik</short_text>
+      <long_text>Yol daralıyor, yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="609">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol daralması, yavaş akan trafik bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="610">
+      <short_text>%lakıcı trafik</short_text>
+      <long_text>Yol daralıyor, akıcı trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="611">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol daralması, akıcı trafik bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="612">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol daralıyor, açık trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="613">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol daralıyor, artan yoğunluklu trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="614">
+      <short_text>%ltrafik tıkanıklığı</short_text>
+      <long_text> Yol daralıyor, trafik karşı şeritten veriliyor, trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="615">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol daralıyor, trafik karşı şeritten veriliyor, trafik tıkanıklığı tehlikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="616">
+      <short_text>%lyoğun trafik</short_text>
+      <long_text>Yol daralıyor, trafik karşı şeritten veriliyor, yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="617">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol daralıyor, trafik karşı şeritten veriliyor, trafiğin yavaşlama tehlikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="618">
+      <short_text>%lyavaş akan trafik</short_text>
+      <long_text>Yol daralıyor, trafik karşı şeritten veriliyor, yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="619">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol daralması, trafik karşı şeritten veriliyor, yavaş akan trafik bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="620">
+      <short_text>%lYoğun trafik</short_text>
+      <long_text>Yol daralıyor, trafik karşı şeritten veriliyor, akıcı trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="621">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol daralması, trafik karşı şeritten veriliyor, akıcı trafik bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="622">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol daralıyor, trafik karşı şeritten veriliyor, trafik açık</long_text>
+    </tmc_event>
+    <tmc_event event_code="623">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol daralıyor, trafik karşı şeritten veriliyor, artan yoğunluklu trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="626">
+      <short_text>Geçilemez</short_text>
+      <long_text>Tıkalı, 3 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="628">
+      <short_text>Geçilemez</short_text>
+      <long_text>Çift sayılı plakaya sahip kamyonlar için kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="629">
+      <short_text>Geçilemez</short_text>
+      <long_text>Tek sayılı plakaya sahip kamyonlar için kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="637">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Emniyet şeridi kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="638">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Dönüş şeridi kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="639">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Ağır şerit kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="640">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Çok amaçlı şerit kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="641">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Bir şerit kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="642">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Emniyet şeridi tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="643">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Dönüş şeridi tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="644">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Ağır şerit tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="645">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Çok amaçlı şerit tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="646">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Şerit tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="647">
+      <short_text>carpool information</short_text>
+      <long_text>(%s kişilik) toplu taşıma araçları için özel şerit açık</long_text>
+    </tmc_event>
+    <tmc_event event_code="648">
+      <short_text>carpool information</short_text>
+      <long_text>(%s kişilik) toplu taşıma araçları için özel şerit kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="649">
+      <short_text>carpool information</short_text>
+      <long_text>(%s kişilik) toplu taşıma şeridi tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="650">
+      <short_text>carpool information</short_text>
+      <long_text>Toplu taşıma koşulları değişmiş (araç başına %s kişi)</long_text>
+    </tmc_event>
+    <tmc_event event_code="651">
+      <short_text>3 km trafik tıkanıklığı</short_text>
+      <long_text>%sşerit kapalı, 3 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="652">
+      <short_text>3 km yoğun trafik</short_text>
+      <long_text>%sşerit kapalı, 3 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="653">
+      <short_text>3 km yavaş akan trafik</short_text>
+      <long_text>%sşerit kapalı, 3 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="654">
+      <short_text>3 km trafik tıkanıklığı</short_text>
+      <long_text>Trafik karşı şeritten veriliyor, 3 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="655">
+      <short_text>3 km yoğun trafik</short_text>
+      <long_text>Trafik karşı şeritten veriliyor, 3 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="656">
+      <short_text>3 km yavaş akan trafik</short_text>
+      <long_text>Trafik karşı şeritten veriliyor, 3 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="664">
+      <short_text>Geçilemez</short_text>
+      <long_text>Yönlendirme şeridi kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="665">
+      <short_text>Geçilemez</short_text>
+      <long_text>Her iki yön kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="666">
+      <short_text>Geçilemez</short_text>
+      <long_text>Kısa süreli birden fazla kapatma</long_text>
+    </tmc_event>
+    <tmc_event event_code="671">
+      <short_text>carpool information</short_text>
+      <long_text>Toplu taşıma için otobüs şeridi kullanımına müsaade edilmiş</long_text>
+    </tmc_event>
+    <tmc_event event_code="701">
+      <short_text>Tamirat var</short_text>
+      <long_text>(%s adet) yol yapım çalışması</long_text>
+    </tmc_event>
+    <tmc_event event_code="702">
+      <short_text>Tamirat var</short_text>
+      <long_text>Büyük (%s adet) yol yapım çalışması</long_text>
+    </tmc_event>
+    <tmc_event event_code="703">
+      <short_text>Tamirat var</short_text>
+      <long_text>Onarım çalışmaları</long_text>
+    </tmc_event>
+    <tmc_event event_code="704">
+      <short_text>Tamirat var</short_text>
+      <long_text>Yolun (%s kısmında) yenileme çalışması</long_text>
+    </tmc_event>
+    <tmc_event event_code="705">
+      <short_text>Tamirat var</short_text>
+      <long_text>Orta şeritte %sçalışma</long_text>
+    </tmc_event>
+    <tmc_event event_code="706">
+      <short_text>Tehlikeli durum</short_text>
+      <long_text>(%s adet) işaretleme çalışması</long_text>
+    </tmc_event>
+    <tmc_event event_code="707">
+      <short_text>Tamirat var</short_text>
+      <long_text>Köprü çalışmaları (%s köprüde)</long_text>
+    </tmc_event>
+    <tmc_event event_code="708">
+      <short_text>Tamirat var</short_text>
+      <long_text>Geçici (%s adet) trafik ışığıyla geçici düzenleme</long_text>
+    </tmc_event>
+    <tmc_event event_code="709">
+      <short_text>Tamirat var</short_text>
+      <long_text>(%s kısımda) patlatma çalışmaları</long_text>
+    </tmc_event>
+    <tmc_event event_code="710">
+      <short_text>%ltrafik tıkanıklığı</short_text>
+      <long_text>(%s adet) yol çalışması, trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="711">
+      <short_text>1 km trafik tıkanıklığı</short_text>
+      <long_text>(%s adet) yol çalışması, 1 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="712">
+      <short_text>2 km trafik tıkanıklığı</short_text>
+      <long_text>(%s adet) yol çalışması, 2 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="713">
+      <short_text>4 km trafik tıkanıklığı</short_text>
+      <long_text>(%s adet) yol çalışması, 4 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="714">
+      <short_text>6 km trafik tıkanıklığı</short_text>
+      <long_text>(%s adet) yol çalışması, 6 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="715">
+      <short_text>10 km trafik tıkanıklığı</short_text>
+      <long_text>(%s adet) yol çalışması, 10 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="716">
+      <short_text>Tamirat var</short_text>
+      <long_text>(%s adet) yol çalışması, trafik tıkanıklığı tehlikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="717">
+      <short_text>%lyoğun trafik</short_text>
+      <long_text>(%s adet) yol çalışması, yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="718">
+      <short_text>1 km yoğun trafik</short_text>
+      <long_text>(%s adet) yol çalışması, 1 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="719">
+      <short_text>2 km yoğun trafik</short_text>
+      <long_text>(%s adet) yol çalışması, 2 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="720">
+      <short_text>4 km yoğun trafik</short_text>
+      <long_text>(%s adet) yol çalışması, 4 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="721">
+      <short_text>6 km yoğun trafik</short_text>
+      <long_text>(%s adet) yol çalışması, 6 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="722">
+      <short_text>10 km yoğun trafik</short_text>
+      <long_text>(%s adet) yol çalışması, 10 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="723">
+      <short_text>Tamirat var</short_text>
+      <long_text>(%s adet) yol çalışması, trafiğin yavaşlama tehlikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="724">
+      <short_text>%lyavaş akan trafik</short_text>
+      <long_text>(%s adet) yol çalışması, yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="725">
+      <short_text>1 km yavaş akan trafik</short_text>
+      <long_text>(%s adet) yol çalışması, 1 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="726">
+      <short_text>2 km yavaş akan trafik</short_text>
+      <long_text>(%s adet) yol çalışması, 2 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="727">
+      <short_text>4 km yavaş akan trafik</short_text>
+      <long_text>(%s adet) yol çalışması, 4 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="728">
+      <short_text>6 km yavaş akan trafik</short_text>
+      <long_text>(%s adet) yol çalışması, 6 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="729">
+      <short_text>10 km yavaş akan trafik</short_text>
+      <long_text>(%s adet) yol çalışması, 10 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="730">
+      <short_text>Tamirat var</short_text>
+      <long_text>Yol daralması, yavaş akan trafik bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="731">
+      <short_text>Tamirat var</short_text>
+      <long_text>(%s adet) yol çalışması, akıcı trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="732">
+      <short_text>Tamirat var</short_text>
+      <long_text>Yol daralması, akıcı trafik bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="733">
+      <short_text>Tamirat var</short_text>
+      <long_text>(%s adet) yol çalışması, açık trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="734">
+      <short_text>Tamirat var</short_text>
+      <long_text>(%s adet) yol çalışması, artan yoğunluklu trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="735">
+      <short_text>Geçilemez</short_text>
+      <long_text>(%s adet) yol yapım çalışmasından dolayı kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="736">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>(%s adet) yol yapım çalışması, sağ şerit kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="737">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>(%s adet) yol yapım çalışması, orta şerit kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="738">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>(%s adet) yol yapım çalışması, sol şerit kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="739">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>(%s adet) yol yapım çalışması, bekleme şeridi kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="740">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>(%s adet) yol yapım çalışması, 2 şerit kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="741">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>(%s adet) yol yapım çalışması, 3 şerit kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="742">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>(%s adet) yol yapım çalışması, her iki yön için dönüşümlü olarak sadece tek şerit var</long_text>
+    </tmc_event>
+    <tmc_event event_code="743">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol yapım çalışması, Yol (%s şeritten) tek şeride düşüyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="744">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol yapım çalışması, Yol (%s şeritten) iki şeride düşüyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="745">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol yapım çalışması, Yol (%s şeritten) üç şeride düşüyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="746">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>(%s adet) yol yapım çalışması, trafik karşı şeritten veriliyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="747">
+      <short_text>Tamirat var</short_text>
+      <long_text>Yol çalışması, gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="748">
+      <short_text>Tamirat var</short_text>
+      <long_text>Yol çalışması, gecikme %solması bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="749">
+      <short_text>Tamirat var</short_text>
+      <long_text>Yol çalışması, büyük gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="750">
+      <short_text>%ltrafik tıkanıklığı</short_text>
+      <long_text>Yolun (%s kısmında) yenileme çalışması, trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="751">
+      <short_text>1 km trafik tıkanıklığı</short_text>
+      <long_text>Yolun (%s kısmında) yenileme çalışması, 1 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="752">
+      <short_text>2 km trafik tıkanıklığı</short_text>
+      <long_text>Yolun (%s kısmında) yenileme çalışması, 2 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="753">
+      <short_text>4 km trafik tıkanıklığı</short_text>
+      <long_text>Yolun (%s kısmında) yenileme çalışması, 4 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="754">
+      <short_text>6 km trafik tıkanıklığı</short_text>
+      <long_text>Yolun (%s kısmında) yenileme çalışması, 6 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="755">
+      <short_text>10 km trafik tıkanıklığı</short_text>
+      <long_text>Yolun (%s kısmında) yenileme çalışması, 10 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="756">
+      <short_text>Tamirat var</short_text>
+      <long_text>Yolun (%s kısmında) yenileme çalışması, trafik tıkanıklığı tehlikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="757">
+      <short_text>%lyoğun trafik</short_text>
+      <long_text>Yolun (%s kısmında) yenileme çalışması, yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="758">
+      <short_text>1 km yoğun trafik</short_text>
+      <long_text>Yolun (%s kısmında) yenileme çalışması, 1 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="759">
+      <short_text>2 km yoğun trafik</short_text>
+      <long_text>Yolun (%s kısmında) yenileme çalışması, 2 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="760">
+      <short_text>4 km yoğun trafik</short_text>
+      <long_text>Yolun (%s kısmında) yenileme çalışması, 4 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="761">
+      <short_text>6 km yoğun trafik</short_text>
+      <long_text>Yolun (%s kısmında) yenileme çalışması, 6 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="762">
+      <short_text>10 km yoğun trafik</short_text>
+      <long_text>Yolun (%s kısmında) yenileme çalışması, 10 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="763">
+      <short_text>Tamirat var</short_text>
+      <long_text>Yolun (%s kısmında) yenileme çalışması, trafiğin yavaşlama tehlikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="764">
+      <short_text>%lyavaş akan trafik</short_text>
+      <long_text>Yolun (%s kısmında) yenileme çalışması, yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="765">
+      <short_text>1 km yavaş akan trafik</short_text>
+      <long_text>Yolun (%s kısmında) yenileme çalışması, 1 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="766">
+      <short_text>2 km yavaş akan trafik</short_text>
+      <long_text>Yolun (%s kısmında) yenileme çalışması, 2 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="767">
+      <short_text>4 km yavaş akan trafik</short_text>
+      <long_text>Yolun (%s kısmında) yenileme çalışması, 4 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="768">
+      <short_text>6 km yavaş akan trafik</short_text>
+      <long_text>Yolun (%s kısmında) yenileme çalışması, 6 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="769">
+      <short_text>10 km yavaş akan trafik</short_text>
+      <long_text>Yolun (%s kısmında) yenileme çalışması, 10 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="770">
+      <short_text>Tamirat var</short_text>
+      <long_text>Yolun (%s kısmında) yenileme çalışması, yavaş akan trafik bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="771">
+      <short_text>%lakıcı trafik</short_text>
+      <long_text>Yolun (%s kısmında) yenileme çalışması, akıcı trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="772">
+      <short_text>Tamirat var</short_text>
+      <long_text>Yolun (%s kısmında) yenileme çalışması, akıcı trafik bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="773">
+      <short_text>Tamirat var</short_text>
+      <long_text>Yolun (%s kısmında) yenileme çalışması, açık trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="774">
+      <short_text>Tamirat var</short_text>
+      <long_text>Yolun (%s kısmında) yenileme çalışması, artan yoğunluklu trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="775">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yolun (%s kısmında) yenileme çalışması, her iki yön için dönüşümlü olarak sadece tek şerit var</long_text>
+    </tmc_event>
+    <tmc_event event_code="776">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol yenileme çalışması, Yol (%s şeritten) tek şeride düşüyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="777">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yol yenileme çalışması, Yol (%s şeritten) iki şeride düşüyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="780">
+      <short_text>Tamirat var</short_text>
+      <long_text>Yol yenileme çalışması, gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="781">
+      <short_text>Tamirat var</short_text>
+      <long_text>Yol yenileme çalışması, gecikme %solması bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="782">
+      <short_text>Tamirat var</short_text>
+      <long_text>Yol yenileme çalışması, büyük gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="783">
+      <short_text>%ltrafik tıkanıklığı</short_text>
+      <long_text>(%s adet) işaretleme çalışması, trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="785">
+      <short_text>%lyoğun trafik</short_text>
+      <long_text>(%s adet) işaretleme çalışması, yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="786">
+      <short_text>Trafik tıkalı</short_text>
+      <long_text>(%s adet) işaretleme çalışması, trafiğin yavaşlama tehlikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="787">
+      <short_text>%lyavaş akan trafik</short_text>
+      <long_text>(%s adet) işaretleme çalışması, yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="789">
+      <short_text>%lakıcı trafik</short_text>
+      <long_text>(%s adet) işaretleme çalışması, akıcı trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="791">
+      <short_text>Tamirat var</short_text>
+      <long_text>(%s adet) işaretleme çalışması, açık trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="792">
+      <short_text>%lyavaş akan trafik</short_text>
+      <long_text>(%s adet) işaretleme çalışması, artan yoğunluklu trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="793">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>(%s adet) işaretleme çalışması, sağ şerit kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="794">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>(%s adet) işaretleme çalışması, orta şerit kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="795">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>(%s adet) işaretleme çalışması, sol şerit kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="796">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>(%s adet) işaretleme çalışması, bekleme şeridi kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="797">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>(%s adet) işaretleme çalışması, 2 şerit kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="798">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>(%s adet) işaretleme çalışması, 3 şerit kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="799">
+      <short_text>Geçilemez</short_text>
+      <long_text>Köprü yıkımı, yol kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="802">
+      <short_text>Tamirat var</short_text>
+      <long_text>Sürekli (%s adet) yol yapım çalışması</long_text>
+    </tmc_event>
+    <tmc_event event_code="803">
+      <short_text>Tamirat var</short_text>
+      <long_text>(%s adet) çalışma</long_text>
+    </tmc_event>
+    <tmc_event event_code="804">
+      <short_text>Tamirat var</short_text>
+      <long_text>(%s adet) mobil yol çalışma aracı</long_text>
+    </tmc_event>
+    <tmc_event event_code="805">
+      <short_text>Tamirat var</short_text>
+      <long_text>Köprü yıkımı (%s köprüde)</long_text>
+    </tmc_event>
+    <tmc_event event_code="806">
+      <short_text>Tamirat var</short_text>
+      <long_text>Su borularında %sçalışma</long_text>
+    </tmc_event>
+    <tmc_event event_code="807">
+      <short_text>Tamirat var</short_text>
+      <long_text>Gaz hatlarında %sçalışma</long_text>
+    </tmc_event>
+    <tmc_event event_code="808">
+      <short_text>Tamirat var</short_text>
+      <long_text>Toprak kablolarında %sçalışma</long_text>
+    </tmc_event>
+    <tmc_event event_code="809">
+      <short_text>Tamirat var</short_text>
+      <long_text>%syeraltı çalışması</long_text>
+    </tmc_event>
+    <tmc_event event_code="810">
+      <short_text>Tamirat var</short_text>
+      <long_text>Yol yapım bölgesinde trafik akışı değişmiş</long_text>
+    </tmc_event>
+    <tmc_event event_code="812">
+      <short_text>3 km trafik tıkanıklığı</short_text>
+      <long_text>(%s adet) yol çalışması, 3 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="813">
+      <short_text>3 km yoğun trafik</short_text>
+      <long_text>(%s adet) yol çalışması, 3 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="814">
+      <short_text>3 km yavaş akan trafik</short_text>
+      <long_text>(%s adet) yol çalışması, 3 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="815">
+      <short_text>Tamirat var</short_text>
+      <long_text>Gündüz (%s adet) yol yapım çalışması</long_text>
+    </tmc_event>
+    <tmc_event event_code="816">
+      <short_text>Tamirat var</short_text>
+      <long_text>Trafiğin az olduğu saatlerde (%s adet) yol yapım çalışması</long_text>
+    </tmc_event>
+    <tmc_event event_code="817">
+      <short_text>Tamirat var</short_text>
+      <long_text>Gece (%s adet) yol yapım çalışması</long_text>
+    </tmc_event>
+    <tmc_event event_code="818">
+      <short_text>3 km trafik tıkanıklığı</short_text>
+      <long_text>Yolun (%s kısmında) yenileme çalışması, 3 km trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="819">
+      <short_text>3 km yoğun trafik</short_text>
+      <long_text>Yolun (%s kısmında) yenileme çalışması, 3 km yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="820">
+      <short_text>3 km yavaş akan trafik</short_text>
+      <long_text>Yolun (%s kısmında) yenileme çalışması, 3 km yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="821">
+      <short_text>Tamirat var</short_text>
+      <long_text>Gündüz Yolun (%s kısmında) yenileme çalışması</long_text>
+    </tmc_event>
+    <tmc_event event_code="822">
+      <short_text>Tamirat var</short_text>
+      <long_text>Trafiğin az olduğu saatlerde yolun (%s kısmında) yenileme çalışması</long_text>
+    </tmc_event>
+    <tmc_event event_code="823">
+      <short_text>Tamirat var</short_text>
+      <long_text>Gece yolun (%s kısmında) yenileme çalışması</long_text>
+    </tmc_event>
+    <tmc_event event_code="824">
+      <short_text>Tehlikeli durum</short_text>
+      <long_text>(%s adet) işaretleme çalışması, tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="825">
+      <short_text>%ltrafik tıkanıklığı</short_text>
+      <long_text>(%s adet) mobil yol çalışma aracı, trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="826">
+      <short_text>Tamirat var</short_text>
+      <long_text>(%s adet) mobil yol çalışma aracı, trafik tıkanıklığı tehlikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="827">
+      <short_text>%lyoğun trafik</short_text>
+      <long_text>(%s adet) mobil yol çalışma aracı, yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="828">
+      <short_text>Tamirat var</short_text>
+      <long_text>(%s adet) mobil yol çalışma aracı, trafiğin yavaşlama tehlikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="829">
+      <short_text>%lyavaş akan trafik</short_text>
+      <long_text>(%s adet) mobil yol çalışma aracı, yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="830">
+      <short_text>Tamirat var</short_text>
+      <long_text>(%s adet) mobil yol çalışma aracı, yavaş akan trafik bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="831">
+      <short_text>%lakıcı trafik</short_text>
+      <long_text>(%s adet) mobil yol çalışma aracı, akıcı trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="832">
+      <short_text>Tamirat var</short_text>
+      <long_text>(%s adet) mobil yol çalışma aracı, akıcı trafik bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="833">
+      <short_text>Tamirat var</short_text>
+      <long_text>(%s adet) mobil yol çalışma aracı, açık trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="834">
+      <short_text>Tamirat var</short_text>
+      <long_text>(%s adet) mobil yol çalışma aracı, artan yoğunluklu trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="835">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>(%s adet) mobil yol çalışma aracı, sağ şerit kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="836">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>(%s adet) mobil yol çalışma aracı, orta şerit kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="837">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>(%s adet) mobil yol çalışma aracı, sol şerit kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="838">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>(%s adet) mobil yol çalışma aracı, 2 şerit kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="839">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>(%s adet) mobil yol çalışma aracı, 3 şerit kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="840">
+      <short_text>Tamirat var</short_text>
+      <long_text>Su borularında çalışmalar, gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="841">
+      <short_text>Tamirat var</short_text>
+      <long_text>Su borularında çalışmalar, gecikme %solması bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="842">
+      <short_text>Tamirat var</short_text>
+      <long_text>Su borularında çalışmalar, büyük gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="843">
+      <short_text>Tamirat var</short_text>
+      <long_text>Gaz borularında çalışmalar, gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="844">
+      <short_text>Tamirat var</short_text>
+      <long_text>Gaz borularında çalışmalar, gecikme %solması bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="845">
+      <short_text>Tamirat var</short_text>
+      <long_text>Gaz borularında çalışmalar, büyük gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="846">
+      <short_text>Tamirat var</short_text>
+      <long_text>Toprak kablolarında çalışmalar, gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="847">
+      <short_text>Tamirat var</short_text>
+      <long_text>Toprak kablolarında çalışmalar, gecikme %solması bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="848">
+      <short_text>Tamirat var</short_text>
+      <long_text>Toprak kablolarında çalışmalar, büyük gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="849">
+      <short_text>Tamirat var</short_text>
+      <long_text>Yeraltı çalışmaları, gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="850">
+      <short_text>Tamirat var</short_text>
+      <long_text>Yeraltı çalışmaları, gecikme %solması bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="851">
+      <short_text>Tamirat var</short_text>
+      <long_text>Yeraltı çalışmaları, büyük gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="852">
+      <short_text>Tehlikeli durum</short_text>
+      <long_text>Yol yapım araçlarından dolayı trafikte problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="853">
+      <short_text>Tamirat var</short_text>
+      <long_text>Yol yapım çalışmasının tamamlanmasından dolayı trafikte problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="856">
+      <short_text>Tehlikeli durum</short_text>
+      <long_text>Yol yapım araçlarından dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="857">
+      <short_text>Tehlikeli durum</short_text>
+      <long_text>emniyete alınmamış %skaza yeri</long_text>
+    </tmc_event>
+    <tmc_event event_code="858">
+      <short_text>Tehlikeli durum</short_text>
+      <long_text>Emniyete alınmamış %skaza yerinden dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="900">
+      <short_text>Sel tehlikesi</short_text>
+      <long_text>Su baskınları olasılığı vardır</long_text>
+    </tmc_event>
+    <tmc_event event_code="901">
+      <short_text>Yol engelli</short_text>
+      <long_text>%sengelden dolayı trafikte problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="902">
+      <short_text>Yol engelli</short_text>
+      <long_text>Yolda %sengel olmasından dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="903">
+      <short_text>Yol engelli</short_text>
+      <long_text>Yolda eşya olmasından dolayı trafikte problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="904">
+      <short_text>Yol engelli</short_text>
+      <long_text>Fırtına hasarlarından dolayı trafikte problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="905">
+      <short_text>Yol engelli</short_text>
+      <long_text>Devirlmiş %sağaçtan dolayı trafikte problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="906">
+      <short_text>Yol engelli</short_text>
+      <long_text>Devirlmiş %sağaçtan dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="907">
+      <short_text>Sel tehlikesi</short_text>
+      <long_text>Su baskınından dolayı trafikte problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="908">
+      <short_text>Sel tehlikesi</short_text>
+      <long_text>Su baskınından dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="909">
+      <short_text>Sel tehlikesi</short_text>
+      <long_text>Selden dolayı trafikte problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="910">
+      <short_text>Sel tehlikesi</short_text>
+      <long_text>Sel tehlikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="911">
+      <short_text>Yol engelli</short_text>
+      <long_text>Çığdan dolayı trafikte problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="912">
+      <short_text>Yol engelli</short_text>
+      <long_text>Olası çığdan dolayı trafikte problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="913">
+      <short_text>Tehlikeli durum</short_text>
+      <long_text>Taş çarpmasından dolayı trafikte problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="914">
+      <short_text>Tehlikeli durum</short_text>
+      <long_text>Toprak kaymasından dolayı trafikte problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="915">
+      <short_text>Yol engelli</short_text>
+      <long_text>Deprem hasarlarından dolayı trafikte problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="916">
+      <short_text>Yol tehlikeli</short_text>
+      <long_text>Yol hasarından dolayı trafikte problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="917">
+      <short_text>Yol engelli</short_text>
+      <long_text>Yolun çökmesinden dolayı trafikte problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="918">
+      <short_text>Yol engelli</short_text>
+      <long_text>Yolun kaymasından dolayı trafikte problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="919">
+      <short_text>Sel tehlikesi</short_text>
+      <long_text>Su borusunun patlamasından dolayı trafikte problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="920">
+      <short_text>Yol engelli</short_text>
+      <long_text>Gaz sızınıtısından dolayı trafikte problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="921">
+      <short_text>Yol engelli</short_text>
+      <long_text>Büyük yangından dolayı trafikte problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="922">
+      <short_text>Tehlikeli durum</short_text>
+      <long_text>Yolda hayvanlar olmasından dolayı trafikte problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="923">
+      <short_text>Tehlikeli durum</short_text>
+      <long_text>Yolda hayvanlar olmasından dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="924">
+      <short_text>Trafik tıkalı</short_text>
+      <long_text>Toplama çalışmalarından dolayı trafikte problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="925">
+      <short_text>Geçilemez</short_text>
+      <long_text>Rüzgar hasarından dolayı trafikte problem, yol tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="926">
+      <short_text>Geçilemez</short_text>
+      <long_text>Devrilmiş %sağaçtan dolayı trafikte problem, yol tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="927">
+      <short_text>Yol engelli</short_text>
+      <long_text>Devrilmiş %sağaçtan dolayı trafikte problem, yol sınırlı kullanılabilir</long_text>
+    </tmc_event>
+    <tmc_event event_code="928">
+      <short_text>%ltrafik tıkanıklığı</short_text>
+      <long_text>Su baskınından dolayı trafikte problem, trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="929">
+      <short_text>Sel tehlikesi</short_text>
+      <long_text>Su baskınından dolayı trafikte problem, trafik tıkanıklığı tehlikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="930">
+      <short_text>%lyoğun trafik</short_text>
+      <long_text>Su baskınından dolayı trafikte problem, yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="931">
+      <short_text>Trafik tıkalı</short_text>
+      <long_text>Su baskınından dolayı trafikte problem, trafiğin yavaşlama tehlikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="932">
+      <short_text>%lyavaş akan trafik</short_text>
+      <long_text>Su baskınından dolayı trafikte problem, yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="934">
+      <short_text>%lakıcı trafik</short_text>
+      <long_text>Su baskınından dolayı trafikte problem, akıcı trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="936">
+      <short_text>Sel tehlikesi</short_text>
+      <long_text>Su baskını, açık trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="937">
+      <short_text>%lyavaş akan trafik</short_text>
+      <long_text>Su baskınından dolayı trafikte problem, artan yoğunluklu trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="938">
+      <short_text>Geçilemez</short_text>
+      <long_text>Su baskınından dolayı trafikte problem, yol kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="939">
+      <short_text>Sel tehlikesi</short_text>
+      <long_text>Su baskınından dolayı trafikte problem, gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="940">
+      <short_text>Sel tehlikesi</short_text>
+      <long_text>Su baskınından dolayı trafikte problem, gecikme %solması bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="941">
+      <short_text>Sel tehlikesi</short_text>
+      <long_text>Su baskınından dolayı trafikte problem, büyük gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="942">
+      <short_text>Sel tehlikesi</short_text>
+      <long_text>Su baskınından dolayı trafikte problem, yol sınırlı kullanılabilir</long_text>
+    </tmc_event>
+    <tmc_event event_code="943">
+      <short_text>Geçilemez</short_text>
+      <long_text>Çığ düşmesinden dolayı trafikte problem, yol kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="944">
+      <short_text>Yol engelli</short_text>
+      <long_text>Çığdan dolayı trafikte problem, yol sınırlı kullanılabilir</long_text>
+    </tmc_event>
+    <tmc_event event_code="945">
+      <short_text>Geçilemez</short_text>
+      <long_text>Taş düşmesinden dolayı trafikte problem, yol kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="946">
+      <short_text>Tehlikeli durum</short_text>
+      <long_text>Taş çarpmasından dolayı trafikte problem, yol sınırlı kullanılabilir</long_text>
+    </tmc_event>
+    <tmc_event event_code="947">
+      <short_text>Geçilemez</short_text>
+      <long_text>Toprak kaymasından dolayı trafikte problem, yol kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="948">
+      <short_text>Tehlikeli durum</short_text>
+      <long_text>Toprak kaymasından dolayı trafikte problem, yol sınırlı kullanılabilir</long_text>
+    </tmc_event>
+    <tmc_event event_code="949">
+      <short_text>Geçilemez</short_text>
+      <long_text>Yolun çökmesinden dolayı trafikte problem, yol kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="950">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yolun çökmesinden dolayı trafikte problem, emniyet şeridi kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="951">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yolun çökmesinden dolayı trafikte problem, Yol (%s şeritten) tek şeride düşüyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="952">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yolun çökmesinden dolayı trafikte problem, Yol (%s şeritten) iki şeride düşüyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="953">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Yolun çökmesinden dolayı trafikte problem, Yol (%s şeritten) üç şeride düşüyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="955">
+      <short_text>Yol engelli</short_text>
+      <long_text>Yolun çökmesinden dolayı trafikte problem, yol sınırlı kullanılıyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="956">
+      <short_text>Geçilemez</short_text>
+      <long_text>Yolun kaymasından dolayı trafikte problem, yol kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="957">
+      <short_text>Geçilemez</short_text>
+      <long_text>Su borusunun patlamasından dolayı trafikte problem, yol kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="958">
+      <short_text>Sel tehlikesi</short_text>
+      <long_text>Su borusunun patlamasından dolayı trafikte problem, gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="959">
+      <short_text>Sel tehlikesi</short_text>
+      <long_text>Su borusunun patlamasından dolayı trafikte problem, gecikme %solması bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="960">
+      <short_text>Sel tehlikesi</short_text>
+      <long_text>Su borusunun patlamasından dolayı trafikte problem, büyük gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="961">
+      <short_text>Geçilemez</short_text>
+      <long_text>Gaz sızıntısından dolayı trafikte problem, yol kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="962">
+      <short_text>Yol engelli</short_text>
+      <long_text>Gaz sızınıtısından dolayı trafikte problem, gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="963">
+      <short_text>Yol engelli</short_text>
+      <long_text>Gaz sızınıtısından dolayı trafikte problem, gecikme %solması bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="964">
+      <short_text>Yol engelli</short_text>
+      <long_text>Gaz sızınıtısından dolayı trafikte problem, büyük gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="965">
+      <short_text>Geçilemez</short_text>
+      <long_text>Yangından dolayı trafikte problem, yol kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="966">
+      <short_text>Yol engelli</short_text>
+      <long_text>Yangından dolayı trafikte problem, gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="967">
+      <short_text>Yol engelli</short_text>
+      <long_text>Yangından dolayı trafikte problem, gecikme %solması bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="968">
+      <short_text>Yol engelli</short_text>
+      <long_text>Yangından dolayı trafikte problem, büyük gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="969">
+      <short_text>Geçilemez</short_text>
+      <long_text>Toplama çalışmalarından dolayı trafikte problem, yol kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="972">
+      <short_text>Yol engelli</short_text>
+      <long_text>Fırtına hasarları olasılığı vardır</long_text>
+    </tmc_event>
+    <tmc_event event_code="973">
+      <short_text>Yol engelli</short_text>
+      <long_text>Aşağıda yavaş akan  elektrik kablolarından dolayı trafikte problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="974">
+      <short_text>Sel tehlikesi</short_text>
+      <long_text>Taşmış kanalizasyonlardan dolayı trafikte problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="975">
+      <short_text>Buzlanma</short_text>
+      <long_text>Buzlanma</long_text>
+    </tmc_event>
+    <tmc_event event_code="976">
+      <short_text>Yol engelli</short_text>
+      <long_text>Çamur selinden dolayı trafikte problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="977">
+      <short_text>Yol engelli</short_text>
+      <long_text>Anızdan dolayı trafikte problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="978">
+      <short_text>Yol engelli</short_text>
+      <long_text>Uçak düşüşü</long_text>
+    </tmc_event>
+    <tmc_event event_code="979">
+      <short_text>Yol engelli</short_text>
+      <long_text>Tren kazası</long_text>
+    </tmc_event>
+    <tmc_event event_code="980">
+      <short_text>Geçilemez</short_text>
+      <long_text>%sengelden dolayı trafikte problem, yol tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="981">
+      <short_text>Yol engelli</short_text>
+      <long_text>%sengelden dolayı trafikte problem, yol sınırlı kullanılabilir</long_text>
+    </tmc_event>
+    <tmc_event event_code="982">
+      <short_text>Geçilemez</short_text>
+      <long_text>Yolda eşya olmasından dolayı trafikte problem, yol tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="983">
+      <short_text>Yol engelli</short_text>
+      <long_text>Yolda yük olmasından dolayı trafikte problem, yol sınırlı kullanılabilir</long_text>
+    </tmc_event>
+    <tmc_event event_code="984">
+      <short_text>Yol engelli</short_text>
+      <long_text>Yolda eşya olmasından dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="985">
+      <short_text>Yol engelli</short_text>
+      <long_text>Fırtına hasarlarından dolayı trafikte problem, yol sınırlı kullanılabilir</long_text>
+    </tmc_event>
+    <tmc_event event_code="986">
+      <short_text>Yol engelli</short_text>
+      <long_text>Fırtına hasarlarından dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="987">
+      <short_text>Geçilemez</short_text>
+      <long_text>Aşağıda yavaş akan  elektrik kablolarından dolayı trafikte problem, yol tıkalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="988">
+      <short_text>Yol engelli</short_text>
+      <long_text>Aşağıda yavaş akan  elektrik kablolarından dolayı trafikte problem, yol sınırlı kullanılabilir</long_text>
+    </tmc_event>
+    <tmc_event event_code="989">
+      <short_text>Yol engelli</short_text>
+      <long_text>Aşağıda yavaş akan  elektrik kablolarından dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="990">
+      <short_text>Sel tehlikesi</short_text>
+      <long_text>Taşmış kanalizasyonlardan dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="991">
+      <short_text>Sel tehlikesi</short_text>
+      <long_text>Selden dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="992">
+      <short_text>Yol engelli</short_text>
+      <long_text>Çığdan dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="993">
+      <short_text>Geçilemez</short_text>
+      <long_text>Çığ düşmesinden dolayı tehlike, yol kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="994">
+      <short_text>Yol engelli</short_text>
+      <long_text>Olası çığdan dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="995">
+      <short_text>Geçilemez</short_text>
+      <long_text>Kaygan buz, yol kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="996">
+      <short_text>Yol kaygan</short_text>
+      <long_text>Buzlanma tehlikesi, yol sınırlı kullanılıyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="997">
+      <short_text>Yol engelli</short_text>
+      <long_text>Buzlanma. Her iki yön için dönüşümlü olarak sadece tek şerit var</long_text>
+    </tmc_event>
+    <tmc_event event_code="998">
+      <short_text>Tehlikeli durum</short_text>
+      <long_text>Taş çarpması sonucu tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="999">
+      <short_text>Tehlikeli durum</short_text>
+      <long_text>Toprak kaymasından dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="1000">
+      <short_text>Yol engelli</short_text>
+      <long_text>Deprem hasarlarından dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="1001">
+      <short_text>Yol tehlikeli</short_text>
+      <long_text>Tehlikeli yol koşulları (%s yüz metrenin üzerinde)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1002">
+      <short_text>Kayma tehlikesi</short_text>
+      <long_text>Kayma tehlikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1003">
+      <short_text>Yol kaygan</short_text>
+      <long_text>Yol kaygan (%s yüz metrenin üzerinde)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1004">
+      <short_text>Yol kaygan</short_text>
+      <long_text>Yolun kirli olmasından dolayı trafikte problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="1005">
+      <short_text>Yol kaygan</short_text>
+      <long_text>Yapraklardan dolayı kayma tehlikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1006">
+      <short_text>Yol kaygan</short_text>
+      <long_text>Buzlanma tehlikesi (%s yüz metrenin üzerinde)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1007">
+      <short_text>Yol kaygan</short_text>
+      <long_text>Buz (%s yüz metrenin üzerinde)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1008">
+      <short_text>Yol kaygan</short_text>
+      <long_text>Buzlanma (%s yüz metrenin üzerinde)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1009">
+      <short_text>Yol kaygan</short_text>
+      <long_text>Donan yağmur (%s yüz metrenin üzerinde)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1010">
+      <short_text>Yol kaygan</short_text>
+      <long_text>Kısmen buzlanmış yol (%s yüz metrenin üzerinde)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1011">
+      <short_text>Yol kaygan</short_text>
+      <long_text>Sulu kar (%s yüz metrenin üzerinde)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1012">
+      <short_text>Yol kaygan</short_text>
+      <long_text>Köreşe (%s yüz metrenin üzerinde)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1013">
+      <short_text>Kar yağışı</short_text>
+      <long_text>Sertleşmiş kar tabakası (%s yüz metrenin üzerinde)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1014">
+      <short_text>Kar yağışı</short_text>
+      <long_text>Yeni kar (%s yüz metrenin üzerinde)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1015">
+      <short_text>Kar yağışı</short_text>
+      <long_text>Derin kar (%s yüz metrenin üzerinde)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1016">
+      <short_text>Kar yağışı</short_text>
+      <long_text>Kar fırtınaları (%s yüz metrenin üzerinde)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1017">
+      <short_text>Yol kaygan</short_text>
+      <long_text>Yolda eşya olmasından dolayı kayma tehlikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1018">
+      <short_text>Yol kaygan</short_text>
+      <long_text>Köreşeden dolayı kayma tehlikesi (%s yüz metrenin üzerinde)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1019">
+      <short_text>Yol kaygan</short_text>
+      <long_text>Gizli buzlanma (%s yüz metrenin üzerinde)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1020">
+      <short_text>Yol kaygan</short_text>
+      <long_text>Köreşe, yol tıkalı (%s yüz metrenin üzerinde)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1021">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Kaygan yol, yol (%s şeritten) tek şeride düşüyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="1022">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Kaygan yol, yol (%s şeritten) iki şeride düşüyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="1023">
+      <short_text>Yol daralıyor</short_text>
+      <long_text>Kaygan yol, Yol (%s şeritten) üç şeride düşüyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="1026">
+      <short_text>Yol engelli</short_text>
+      <long_text>Yolun çökmesinden dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="1027">
+      <short_text>Sel tehlikesi</short_text>
+      <long_text>Yolun kaymasından dolayı trafikte problem, gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1028">
+      <short_text>Sel tehlikesi</short_text>
+      <long_text>Yolun kaymasından dolayı trafikte problem, gecikme %solması bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="1029">
+      <short_text>Sel tehlikesi</short_text>
+      <long_text>Yolun kaymasından dolayı trafikte problem, büyük gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1030">
+      <short_text>Yol engelli</short_text>
+      <long_text>Yolun kaymasından dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="1031">
+      <short_text>Sel tehlikesi</short_text>
+      <long_text>Su borusunun patlamasından dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="1032">
+      <short_text>Yol engelli</short_text>
+      <long_text>Gaz sızınıtısından dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="1033">
+      <short_text>Yol engelli</short_text>
+      <long_text>Büyük yangından dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="1034">
+      <short_text>Trafik tıkalı</short_text>
+      <long_text>Toplama çalışmalarından dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="1035">
+      <short_text>Geçilemez</short_text>
+      <long_text>Geçilemez (%s yüz metrenin üzerinde)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1036">
+      <short_text>Yol tehlikeli</short_text>
+      <long_text>Neredeyse geçilemez (%s yüz metrenin üzerinde)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1037">
+      <short_text>Yol tehlikeli</short_text>
+      <long_text>Çok tehlikeli yol koşulları (%s yüz metrenin üzerinde)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1038">
+      <short_text>Yol tehlikeli</short_text>
+      <long_text>Ağır sürüş koşulları (%s yüz metrenin üzerinde)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1041">
+      <short_text>Sel tehlikesi</short_text>
+      <long_text>Yolda su</long_text>
+    </tmc_event>
+    <tmc_event event_code="1042">
+      <short_text>Yol kaygan</short_text>
+      <long_text>Kumdan dolayı trafikte problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="1044">
+      <short_text>Yol kaygan</short_text>
+      <long_text>Yağ izinden dolayı trafikte problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="1045">
+      <short_text>Tehlikeli durum</short_text>
+      <long_text>Sızan benzinden dolayı trafikte problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="1047">
+      <short_text>Yol kaygan</short_text>
+      <long_text>Kısmen buzlanmış yol (%s yüz metrenin üzerinde)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1048">
+      <short_text>Yol kaygan</short_text>
+      <long_text>Yolda buzlanmadan dolayı tehlike (%s yüz metrenin üzerinde)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1050">
+      <short_text>Yol kaygan</short_text>
+      <long_text>Buzlanma, tehlike (%s yüz metrenin üzerinde)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1054">
+      <short_text>Yol kaygan</short_text>
+      <long_text>Yolda kum olmasından dolayı kayma tehlikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1055">
+      <short_text>Yol kaygan</short_text>
+      <long_text>Yolun kirli olmasından dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="1056">
+      <short_text>Yol kaygan</short_text>
+      <long_text>Mıcırdan dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="1057">
+      <short_text>Yol kaygan</short_text>
+      <long_text>Yağ izinden dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="1058">
+      <short_text>Tehlikeli durum</short_text>
+      <long_text>Sızan benzinden dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="1059">
+      <short_text>Yol tehlikeli</short_text>
+      <long_text>Yol hasarından dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="1060">
+      <short_text>Yol kaygan</short_text>
+      <long_text>köprüler üzerinde kısmen buzlanmış yol (%s yüz metrenin üzerinde)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1061">
+      <short_text>Yol kaygan</short_text>
+      <long_text>Köprüler üzerinde buzlanmadan dolayı tehlike (%s yüz metrenin üzerinde)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1062">
+      <short_text>Yol kaygan</short_text>
+      <long_text>Köprüler üzerinde, ormanlık alanlarda, gölgeli bölgelerde ve otoyollara bağlantı noktalarında kısmen buzlanmış yol (%s yüz metrenin üzerinde)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1064">
+      <short_text>Yol tehlikeli</short_text>
+      <long_text>Römorklu araçlar geçemez (%s yüz metrenin üzerinde)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1066">
+      <short_text>Trafik tıkalı</short_text>
+      <long_text>Kurtarma çalışmalarından dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="1067">
+      <short_text>Tehlikeli durum</short_text>
+      <long_text>Yolda büyük hayvanlar olmasından dolayı trafikte problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="1068">
+      <short_text>Tehlikeli durum</short_text>
+      <long_text>Yolda hayvan sürüleri olmasından dolayı trafikte problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="1073">
+      <short_text>Yol tehlikeli</short_text>
+      <long_text>Çok tehlikeli yol koşulları olasılığı vardır (%s yüz metrenin üzerinde)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1074">
+      <short_text>Yol kaygan</short_text>
+      <long_text>Yağmurun donma olasılığı vardır (%s yüz metrenin üzerinde)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1075">
+      <short_text>Kar yağışı</short_text>
+      <long_text>Kar fırtınaları olasılığı (%s yüz metrenin üzerinde)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1079">
+      <short_text>Aşırı soğuk</short_text>
+      <long_text>Ani düşen sıcaklıklar (%s dereceye kadar)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1080">
+      <short_text>Aşırı ısı</short_text>
+      <long_text>Aşırı ısı (%s derecenin üzerinde)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1081">
+      <short_text>Aşırı soğuk</short_text>
+      <long_text>Aşırı soğuk</long_text>
+    </tmc_event>
+    <tmc_event event_code="1083">
+      <short_text>Sıcaklık %s</short_text>
+      <long_text>Sıcaklık %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1084">
+      <short_text>Tehlikeli durum</short_text>
+      <long_text>Yangın</long_text>
+    </tmc_event>
+    <tmc_event event_code="1086">
+      <short_text>kaza</short_text>
+      <long_text>Araç bir köprünün altında sıkışmış</long_text>
+    </tmc_event>
+    <tmc_event event_code="1101">
+      <short_text>Kar yağışı</short_text>
+      <long_text>Kuvvetli kar yağışı %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1102">
+      <short_text>Kar yağışı</short_text>
+      <long_text>Kuvvetli kar yağışı %s, görüş mesafesi 30 metrenin altında</long_text>
+    </tmc_event>
+    <tmc_event event_code="1103">
+      <short_text>Kar yağışı</short_text>
+      <long_text>Kuvvetli kar yağışı %s, görüş mesafesi 50 metrenin altında</long_text>
+    </tmc_event>
+    <tmc_event event_code="1104">
+      <short_text>Kar yağışı %s</short_text>
+      <long_text>Kar yağışı %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1105">
+      <short_text>Kar yağışı</short_text>
+      <long_text>Kar yağışı %s, görüş mesafesi 30 metrenin altında</long_text>
+    </tmc_event>
+    <tmc_event event_code="1106">
+      <short_text>Görüş engelli</short_text>
+      <long_text>Dolu (görüş mesafesi %s metreye düştü)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1107">
+      <short_text>Kar yağışı</short_text>
+      <long_text>Sulu kar (görüş mesafesi %s metreye düştü)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1108">
+      <short_text>Görüş engelli</short_text>
+      <long_text>Yağış (görüş mesafesi %s metreye düştü)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1109">
+      <short_text>Kuwetli yağmur</short_text>
+      <long_text>Kuvvetli yağmur %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1110">
+      <short_text>Kuwetli yağmur</short_text>
+      <long_text>Aşırı yağmur %s, görüş mesafesi 30 metrenin altında</long_text>
+    </tmc_event>
+    <tmc_event event_code="1111">
+      <short_text>Kuwetli yağmur</short_text>
+      <long_text>Aşırı yağmur %s, görüş mesafesi 50 metrenin altında</long_text>
+    </tmc_event>
+    <tmc_event event_code="1112">
+      <short_text>Kuwetli yağmur</short_text>
+      <long_text>Yağmur %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1113">
+      <short_text>Kuwetli yağmur</short_text>
+      <long_text>Yağmur %s, görüş mesafesi 100 metrenin altında</long_text>
+    </tmc_event>
+    <tmc_event event_code="1114">
+      <short_text>Kuwetli yağmur</short_text>
+      <long_text>Sağanak yağmur %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1115">
+      <short_text>Aşırı buzlanma</short_text>
+      <long_text>Aşırı buzlanma</long_text>
+    </tmc_event>
+    <tmc_event event_code="1116">
+      <short_text>Kırağı</short_text>
+      <long_text>Kırağı</long_text>
+    </tmc_event>
+    <tmc_event event_code="1118">
+      <short_text>Kuwetli yağmur</short_text>
+      <long_text>Kuwetli yağmur</long_text>
+    </tmc_event>
+    <tmc_event event_code="1119">
+      <short_text>Kuwetli yağmur</short_text>
+      <long_text>Kuwetli yağmur</long_text>
+    </tmc_event>
+    <tmc_event event_code="1128">
+      <short_text>Kar yağışı</short_text>
+      <long_text>Kar fırtınası (görüş mesafesi %s metreye düştü)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1130">
+      <short_text>Görüş engelli</short_text>
+      <long_text>Tipi (görüş mesafesi %s metreye düştü)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1131">
+      <short_text>Görüş engelli</short_text>
+      <long_text>Görüş engelli</long_text>
+    </tmc_event>
+    <tmc_event event_code="1132">
+      <short_text>Görüş engelli</short_text>
+      <long_text>Kuvvetli dolu (görüş mesafesi %s metreye düştü)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1133">
+      <short_text>Görüş engelli</short_text>
+      <long_text>Görüş engelli</long_text>
+    </tmc_event>
+    <tmc_event event_code="1134">
+      <short_text>Kar yağışı</short_text>
+      <long_text>Kuvvetli kar yağışı, görüş mesafesi (%s metreye) düştü</long_text>
+    </tmc_event>
+    <tmc_event event_code="1135">
+      <short_text>Kar yağışı</short_text>
+      <long_text>Kar yağışı, görüş mesafesi (%s metreye) düştü</long_text>
+    </tmc_event>
+    <tmc_event event_code="1136">
+      <short_text>Kuwetli yağmur</short_text>
+      <long_text>Aşırı yağmur, görüş mesafesi (%s metreye) düştü</long_text>
+    </tmc_event>
+    <tmc_event event_code="1137">
+      <short_text>Kuwetli yağmur</short_text>
+      <long_text>Yağmur, görüş mesafesi (%s metreye) düştü</long_text>
+    </tmc_event>
+    <tmc_event event_code="1153">
+      <short_text>Görüş engelli</short_text>
+      <long_text>Görüş engelli</long_text>
+    </tmc_event>
+    <tmc_event event_code="1154">
+      <short_text>Görüş engelli</short_text>
+      <long_text>Görüş engelli</long_text>
+    </tmc_event>
+    <tmc_event event_code="1155">
+      <short_text>Görüş engelli</short_text>
+      <long_text>Görüş engelli</long_text>
+    </tmc_event>
+    <tmc_event event_code="1156">
+      <short_text>Kuwetli yağmur</short_text>
+      <long_text>Kuwetli yağmur</long_text>
+    </tmc_event>
+    <tmc_event event_code="1157">
+      <short_text>Kuwetli yağmur</short_text>
+      <long_text>Kuwetli yağmur</long_text>
+    </tmc_event>
+    <tmc_event event_code="1158">
+      <short_text>Kuwetli yağmur</short_text>
+      <long_text>Kuwetli yağmur</long_text>
+    </tmc_event>
+    <tmc_event event_code="1170">
+      <short_text>Kar yağışı</short_text>
+      <long_text>Kuvvetli kar yağışı %sbekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="1171">
+      <short_text>Kuwetli yağmur</short_text>
+      <long_text>Kuvvetli yağmur %sbekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="1173">
+      <short_text>Görüş engelli</short_text>
+      <long_text>Tipi bekleniyor (görüş mesafesi %s metreye düştü)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1174">
+      <short_text>Görüş engelli</short_text>
+      <long_text>Kuvvetli dolu bekleniyor (görüş mesafesi %s metreye düştü)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1175">
+      <short_text>Görüş engelli</short_text>
+      <long_text>Görüş mesafesinin (%s metreye) düşmesi bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="1176">
+      <short_text>Yol kaygan</short_text>
+      <long_text>Donlu sisten dolayı görüşün engellenmesi bekleniyor (görüş mesafesi %s metreye düştü). Kayma tehlikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1177">
+      <short_text>Sis</short_text>
+      <long_text>Yoğun sis bekleniyor (görüş mesafesi %s metreye düştü)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1178">
+      <short_text>Sis</short_text>
+      <long_text>Sis bekleniyor (görüş mesafesi %s metreye düştü)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1190">
+      <short_text>Aşırı kirli hava</short_text>
+      <long_text>Aşırı kirli hava</long_text>
+    </tmc_event>
+    <tmc_event event_code="1191">
+      <short_text>Smog alarm</short_text>
+      <long_text>Aşırı hava kirliliği</long_text>
+    </tmc_event>
+    <tmc_event event_code="1201">
+      <short_text>Kuwetli rüzgâr</short_text>
+      <long_text>Kasırga</long_text>
+    </tmc_event>
+    <tmc_event event_code="1202">
+      <short_text>Kuwetli rüzgâr</short_text>
+      <long_text>Kasırga %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1203">
+      <short_text>Kuwetli rüzgâr</short_text>
+      <long_text>kasırgaye benzer fırtınalar %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1204">
+      <short_text>Kuwetli rüzgâr</short_text>
+      <long_text>Fırtına %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1205">
+      <short_text>Kuwetli rüzgâr</short_text>
+      <long_text>Kuvvetli rüzgar %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1209">
+      <short_text>Kuwetli rüzgâr</short_text>
+      <long_text>Ani rüzgarlar %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1210">
+      <short_text>Kuwetli rüzgâr</short_text>
+      <long_text>Yan rüzgar %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1211">
+      <short_text>Kuwetli rüzgâr</short_text>
+      <long_text>Kuvvetli rüzgar %s, havaleli araçlar için engel</long_text>
+    </tmc_event>
+    <tmc_event event_code="1300">
+      <short_text>Görüş engelli</short_text>
+      <long_text>Görüş engelli</long_text>
+    </tmc_event>
+    <tmc_event event_code="1301">
+      <short_text>Sis</short_text>
+      <long_text>Yoğun sis (görüş mesafesi %s metreye düştü)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1302">
+      <short_text>Sis</short_text>
+      <long_text>Yoğun sisten dolayı görüşün engellenmesi, görüş mesafesi 30 metrenin altında</long_text>
+    </tmc_event>
+    <tmc_event event_code="1303">
+      <short_text>Sis</short_text>
+      <long_text>Yoğun sisten dolayı görüşün engellenmesi, görüş mesafesi 50 metrenin altında</long_text>
+    </tmc_event>
+    <tmc_event event_code="1304">
+      <short_text>Sis</short_text>
+      <long_text>Sis (görüş mesafesi %s metreye düştü)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1305">
+      <short_text>Sis</short_text>
+      <long_text>Sisten dolayı görüşün engellenmesi, görüş mesafesi 100 metrenin altında</long_text>
+    </tmc_event>
+    <tmc_event event_code="1307">
+      <short_text>Sis</short_text>
+      <long_text>Sis (görüş mesafesi %s metreye düştü)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1308">
+      <short_text>Sis</short_text>
+      <long_text>Donlu sisten dolayı görüşün engellenmesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1309">
+      <short_text>Görüş engelli</short_text>
+      <long_text>Duman, görüş mesafesi (%s metreye) düştü</long_text>
+    </tmc_event>
+    <tmc_event event_code="1310">
+      <short_text>Görüş engelli</short_text>
+      <long_text>Toz (görüş mesafesi %s metreye düştü)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1312">
+      <short_text>Kar yağışı</short_text>
+      <long_text>Sis ve kar (görüş mesafesi %s metreye düştü)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1318">
+      <short_text>Görüş engelli</short_text>
+      <long_text>görüş mesafesi (%s metreye) düştü</long_text>
+    </tmc_event>
+    <tmc_event event_code="1319">
+      <short_text>Görüş engelli</short_text>
+      <long_text>Görüş mesafesi 30 metrenin altında</long_text>
+    </tmc_event>
+    <tmc_event event_code="1320">
+      <short_text>Görüş engelli</short_text>
+      <long_text>Görüş mesafesi 50 metrenin altında</long_text>
+    </tmc_event>
+    <tmc_event event_code="1321">
+      <short_text>Görüş engelli</short_text>
+      <long_text>Görüş mesafesi 100 metrenin altında</long_text>
+    </tmc_event>
+    <tmc_event event_code="1322">
+      <short_text>Görüş engelli</short_text>
+      <long_text>Sis, görüş mesafesi (%s metreye) düştü</long_text>
+    </tmc_event>
+    <tmc_event event_code="1323">
+      <short_text>Kar yağışı</short_text>
+      <long_text>Kar yığını, görüş mesafesi (%s metreye) düştü</long_text>
+    </tmc_event>
+    <tmc_event event_code="1324">
+      <short_text>Görüş engelli</short_text>
+      <long_text>Su sıçraması sonucu tehlike, görüş mesafesi (%s metreye) düştü</long_text>
+    </tmc_event>
+    <tmc_event event_code="1325">
+      <short_text>Görüş engelli</short_text>
+      <long_text>Güneşin batmasından dolayı görüşün engellenmesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1326">
+      <short_text>Görüş engelli</short_text>
+      <long_text>Kum fırtınası (görüş mesafesi %s metreye düştü)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1327">
+      <short_text>Görüş engelli</short_text>
+      <long_text>Görüş engelli</long_text>
+    </tmc_event>
+    <tmc_event event_code="1332">
+      <short_text>Kirli hava alarmı</short_text>
+      <long_text>Kirli hava alarmı</long_text>
+    </tmc_event>
+    <tmc_event event_code="1337">
+      <short_text>Yol kaygan</short_text>
+      <long_text>Sisten dolayı görüşün engellenmesi, yol kaygan (görüş mesafesi %s metreye düştü)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1338">
+      <short_text>Smog alarm</short_text>
+      <long_text>Kirli hava alarmı, sürüş yasağı</long_text>
+    </tmc_event>
+    <tmc_event event_code="1340">
+      <short_text>Görüş engelli</short_text>
+      <long_text>Böcek sürüsünden dolayı görüş engellemesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1450">
+      <short_text>festival var</short_text>
+      <long_text>Uluslararası spor organizasyonu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1451">
+      <short_text>festival var</short_text>
+      <long_text>Oyun</long_text>
+    </tmc_event>
+    <tmc_event event_code="1452">
+      <short_text>festival var</short_text>
+      <long_text>Turnuva</long_text>
+    </tmc_event>
+    <tmc_event event_code="1453">
+      <short_text>festival var</short_text>
+      <long_text>Hafif atletizm</long_text>
+    </tmc_event>
+    <tmc_event event_code="1454">
+      <short_text>festival var</short_text>
+      <long_text>Top oyunu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1455">
+      <short_text>festival var</short_text>
+      <long_text>Boks turnuvası</long_text>
+    </tmc_event>
+    <tmc_event event_code="1456">
+      <short_text>festival var</short_text>
+      <long_text>Boğa güreşi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1457">
+      <short_text>festival var</short_text>
+      <long_text>Kriket maçı</long_text>
+    </tmc_event>
+    <tmc_event event_code="1458">
+      <short_text>festival var</short_text>
+      <long_text>Bisiklet yarışı</long_text>
+    </tmc_event>
+    <tmc_event event_code="1459">
+      <short_text>festival var</short_text>
+      <long_text>Futbol maçı</long_text>
+    </tmc_event>
+    <tmc_event event_code="1460">
+      <short_text>festival var</short_text>
+      <long_text>Golf turnuvası</long_text>
+    </tmc_event>
+    <tmc_event event_code="1461">
+      <short_text>festival var</short_text>
+      <long_text>Maraton</long_text>
+    </tmc_event>
+    <tmc_event event_code="1462">
+      <short_text>festival var</short_text>
+      <long_text>At yarışı</long_text>
+    </tmc_event>
+    <tmc_event event_code="1463">
+      <short_text>festival var</short_text>
+      <long_text>Rugby maçı</long_text>
+    </tmc_event>
+    <tmc_event event_code="1464">
+      <short_text>festival var</short_text>
+      <long_text>Binicilik</long_text>
+    </tmc_event>
+    <tmc_event event_code="1465">
+      <short_text>festival var</short_text>
+      <long_text>Tenis turnuvası</long_text>
+    </tmc_event>
+    <tmc_event event_code="1466">
+      <short_text>festival var</short_text>
+      <long_text>Su sporları organizasyonu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1467">
+      <short_text>festival var</short_text>
+      <long_text>Kış sporları organizasyonu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1468">
+      <short_text>festival var</short_text>
+      <long_text>Kermes</long_text>
+    </tmc_event>
+    <tmc_event event_code="1469">
+      <short_text>festival var</short_text>
+      <long_text>Panayır</long_text>
+    </tmc_event>
+    <tmc_event event_code="1470">
+      <short_text>festival var</short_text>
+      <long_text>Tören alayı</long_text>
+    </tmc_event>
+    <tmc_event event_code="1471">
+      <short_text>Tehlikeli durum</short_text>
+      <long_text>Meraklılar</long_text>
+    </tmc_event>
+    <tmc_event event_code="1472">
+      <short_text>Tehlikeli durum</short_text>
+      <long_text>Yolda insanlar olmasından dolayı trafikte problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="1473">
+      <short_text>Tehlikeli durum</short_text>
+      <long_text>Yolda çocuklar olmasından dolayı trafikte problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="1474">
+      <short_text>Tehlikeli durum</short_text>
+      <long_text>Yolda bisiklet sürücüleri olmasından dolayı trafikte problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="1475">
+      <short_text>festival var</short_text>
+      <long_text>Grev</long_text>
+    </tmc_event>
+    <tmc_event event_code="1476">
+      <short_text>Güvenlik olayı</short_text>
+      <long_text>Güvenlik olayı</long_text>
+    </tmc_event>
+    <tmc_event event_code="1477">
+      <short_text>Polis kontrolü</short_text>
+      <long_text>Polis kontrolü</long_text>
+    </tmc_event>
+    <tmc_event event_code="1478">
+      <short_text>Terör saldırısı</short_text>
+      <long_text>Terör saldırısı</long_text>
+    </tmc_event>
+    <tmc_event event_code="1479">
+      <short_text>Topçu savaşı</short_text>
+      <long_text>Topçu savaşı</long_text>
+    </tmc_event>
+    <tmc_event event_code="1480">
+      <short_text>Afet alarmı</short_text>
+      <long_text>Afet alarmı</long_text>
+    </tmc_event>
+    <tmc_event event_code="1481">
+      <short_text>Hava alarmı</short_text>
+      <long_text>Hava alarmı</long_text>
+    </tmc_event>
+    <tmc_event event_code="1482">
+      <short_text>Tehlikeli durum</short_text>
+      <long_text>Yolda insanlar olmasından dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="1483">
+      <short_text>Tehlikeli durum</short_text>
+      <long_text>Yolda çocuklar olmasından dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="1484">
+      <short_text>Tehlikeli durum</short_text>
+      <long_text>Yolda bisiklet sürücüleri olmasından dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="1485">
+      <short_text>Geçilemez</short_text>
+      <long_text>Emniyet olayı, yol kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="1486">
+      <short_text>Güvenlik olayı, gecikme %s</short_text>
+      <long_text>Güvenlik olayı, gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1487">
+      <short_text>Güvenlik olayı, gecikme %solması bekleniyor</short_text>
+      <long_text>Güvenlik olayı, gecikme %solması bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="1488">
+      <short_text>Güvenlik olayı, büyük gecikme %s</short_text>
+      <long_text>Güvenlik olayı, büyük gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1489">
+      <short_text>Polis kontrolü, gecikme %s</short_text>
+      <long_text>Polis kontrolü, gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1490">
+      <short_text>Polis kontrolü, gecikme %solması bekleniyor</short_text>
+      <long_text>Polis kontrolü, gecikme %solması bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="1491">
+      <short_text>Polis kontrolü, büyük gecikme %s</short_text>
+      <long_text>Polis kontrolü, büyük gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1494">
+      <short_text>Boşaltma</short_text>
+      <long_text>Boşaltma</long_text>
+    </tmc_event>
+    <tmc_event event_code="1495">
+      <short_text>%lyavaş akan trafik</short_text>
+      <long_text>Boşaltma, çok trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="1501">
+      <short_text>festival var</short_text>
+      <long_text>Organizasyon</long_text>
+    </tmc_event>
+    <tmc_event event_code="1502">
+      <short_text>festival var</short_text>
+      <long_text>Spor organizasyonu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1503">
+      <short_text>festival var</short_text>
+      <long_text>Şov</long_text>
+    </tmc_event>
+    <tmc_event event_code="1504">
+      <short_text>festival var</short_text>
+      <long_text>Festival</long_text>
+    </tmc_event>
+    <tmc_event event_code="1505">
+      <short_text>festival var</short_text>
+      <long_text>Sergi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1506">
+      <short_text>festival var</short_text>
+      <long_text>Fuar</long_text>
+    </tmc_event>
+    <tmc_event event_code="1507">
+      <short_text>festival var</short_text>
+      <long_text>Pazar</long_text>
+    </tmc_event>
+    <tmc_event event_code="1508">
+      <short_text>festival var</short_text>
+      <long_text>Seramoni</long_text>
+    </tmc_event>
+    <tmc_event event_code="1509">
+      <short_text>festival var</short_text>
+      <long_text>Resmi ziyaret</long_text>
+    </tmc_event>
+    <tmc_event event_code="1510">
+      <short_text>festival var</short_text>
+      <long_text>Geçit töreni</long_text>
+    </tmc_event>
+    <tmc_event event_code="1511">
+      <short_text>festival var</short_text>
+      <long_text>Kalabalık</long_text>
+    </tmc_event>
+    <tmc_event event_code="1512">
+      <short_text>festival var</short_text>
+      <long_text>Kortej</long_text>
+    </tmc_event>
+    <tmc_event event_code="1513">
+      <short_text>festival var</short_text>
+      <long_text>Gösteri</long_text>
+    </tmc_event>
+    <tmc_event event_code="1514">
+      <short_text>festival var</short_text>
+      <long_text>Kamu güvenliğinin rahatsız edilmesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1515">
+      <short_text>Güvenlik tedbirlerinden dolayı engelleme</short_text>
+      <long_text>Güvenlik tedbirlerinden dolayı engelleme</long_text>
+    </tmc_event>
+    <tmc_event event_code="1516">
+      <short_text>Bomba alarmı</short_text>
+      <long_text>Bomba alarmı</long_text>
+    </tmc_event>
+    <tmc_event event_code="1517">
+      <short_text>%ltrafik tıkanıklığı</short_text>
+      <long_text>Önemli olay, trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="1519">
+      <short_text>%lyoğun trafik</short_text>
+      <long_text>Önemli olay, yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="1521">
+      <short_text>%lyavaş akan trafik</short_text>
+      <long_text>Önemli olay, yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="1523">
+      <short_text>%lakıcı trafik</short_text>
+      <long_text>Önemli olay, akıcı trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="1525">
+      <short_text>festival var</short_text>
+      <long_text>Önemli olay, açık trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="1526">
+      <short_text>%lyavaş akan trafik</short_text>
+      <long_text>Önemli olay, artan yoğunluklu trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="1527">
+      <short_text>Geçilemez</short_text>
+      <long_text>Önemli olay, yol kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="1528">
+      <short_text>Gecikme var</short_text>
+      <long_text>Organizasyon, gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1530">
+      <short_text>Uzun bekleme süresi var</short_text>
+      <long_text>Organizasyon, büyük gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1531">
+      <short_text>%ltrafik tıkanıklığı</short_text>
+      <long_text>Spor organizasyonu, trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="1533">
+      <short_text>%lyoğun trafik</short_text>
+      <long_text>Spor organizasyonu, yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="1535">
+      <short_text>%lyavaş akan trafik</short_text>
+      <long_text>Spor organizasyonu, yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="1537">
+      <short_text>%lakıcı trafik</short_text>
+      <long_text>Spor organizasyonu, akıcı trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="1539">
+      <short_text>festival var</short_text>
+      <long_text>Spor organizasyonu, açık trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="1540">
+      <short_text>%lyavaş akan trafik</short_text>
+      <long_text>Spor organizasyonu, artan yoğunluklu trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="1541">
+      <short_text>Geçilemez</short_text>
+      <long_text>Spor organizasyonu, yol kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="1542">
+      <short_text>Gecikme var</short_text>
+      <long_text>Spor organizasyonu, gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1544">
+      <short_text>Uzun bekleme süresi var</short_text>
+      <long_text>Spor organizasyonu, büyük gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1545">
+      <short_text>%ltrafik tıkanıklığı</short_text>
+      <long_text>Fuar, trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="1547">
+      <short_text>%lyoğun trafik</short_text>
+      <long_text>Fuar, yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="1549">
+      <short_text>%lyavaş akan trafik</short_text>
+      <long_text>Fuar, yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="1551">
+      <short_text>%lakıcı trafik</short_text>
+      <long_text>Fuar, akıcı trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="1553">
+      <short_text>festival var</short_text>
+      <long_text>Fuar, açık trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="1554">
+      <short_text>%lyavaş akan trafik</short_text>
+      <long_text>Fuar, artan yoğunluklu trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="1555">
+      <short_text>Geçilemez</short_text>
+      <long_text>Fuar, yol kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="1556">
+      <short_text>Gecikme var</short_text>
+      <long_text>Fuar, gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1558">
+      <short_text>Uzun bekleme süresi var</short_text>
+      <long_text>Fuar, büyük gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1559">
+      <short_text>Geçilemez</short_text>
+      <long_text>Geçit töreni, yol kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="1560">
+      <short_text>Gecikme var</short_text>
+      <long_text>Geçit töreni, gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1562">
+      <short_text>Uzun bekleme süresi var</short_text>
+      <long_text>Geçit töreni, büyük gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1563">
+      <short_text>Geçilemez</short_text>
+      <long_text>Taşınma, yol kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="1564">
+      <short_text>Uzun bekleme süresi var</short_text>
+      <long_text>Grev, gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1566">
+      <short_text>Uzun bekleme süresi var</short_text>
+      <long_text>Grev, büyük gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1567">
+      <short_text>Geçilemez</short_text>
+      <long_text>Gösteri, yol kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="1568">
+      <short_text>Gecikme var</short_text>
+      <long_text>Gösteri, gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1570">
+      <short_text>Uzun bekleme süresi var</short_text>
+      <long_text>Gösteri, büyük gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1571">
+      <short_text>%ltrafik tıkanıklığı</short_text>
+      <long_text>Güvenlik tedbirlerinden dolayı problem, trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="1573">
+      <short_text>%lyoğun trafik</short_text>
+      <long_text>Güvenlik tedbirlerinden dolayı engel, yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="1575">
+      <short_text>%lyavaş akan trafik</short_text>
+      <long_text>Güvenlik tedbirlerinden dolayı engelleme, yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="1577">
+      <short_text>%lakıcı trafik</short_text>
+      <long_text>Güvenlik tedbirlerinden dolayı engelleme, akıcı trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="1579">
+      <short_text>%lyavaş akan trafik</short_text>
+      <long_text>Güvenlik tedbirlerinden dolayı engelleme, artan yoğunluklu trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="1580">
+      <short_text>Geçilemez</short_text>
+      <long_text>Güvenlik tedbirlerinden dolayı engelleme, yol kapalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="1581">
+      <short_text>Gecikme var</short_text>
+      <long_text>Güvenlik tedbirlerinden dolayı engelleme, gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1583">
+      <short_text>Uzun bekleme süresi var</short_text>
+      <long_text>Güvenlik tedbirlerinden dolayı engelleme, büyük gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1586">
+      <short_text>Güvenlik tedbirlerinden dolayı engelleme, trafik açık</short_text>
+      <long_text>Güvenlik tedbirlerinden dolayı engelleme, trafik açık</long_text>
+    </tmc_event>
+    <tmc_event event_code="1590">
+      <short_text>festival var</short_text>
+      <long_text>Birden fazla organizasyon</long_text>
+    </tmc_event>
+    <tmc_event event_code="1591">
+      <short_text>festival var</short_text>
+      <long_text>Olay bilgisi artık yok</long_text>
+    </tmc_event>
+    <tmc_event event_code="1592">
+      <short_text>festival var</short_text>
+      <long_text>Motor sporu organizasyonu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1593">
+      <short_text>festival var</short_text>
+      <long_text>Beyzbol maçı</long_text>
+    </tmc_event>
+    <tmc_event event_code="1594">
+      <short_text>festival var</short_text>
+      <long_text>Basketbol maçı</long_text>
+    </tmc_event>
+    <tmc_event event_code="1595">
+      <short_text>festival var</short_text>
+      <long_text>Bot sporu organizasyonu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1596">
+      <short_text>festival var</short_text>
+      <long_text>Konser</long_text>
+    </tmc_event>
+    <tmc_event event_code="1597">
+      <short_text>festival var</short_text>
+      <long_text>Hokey maçı</long_text>
+    </tmc_event>
+    <tmc_event event_code="1601">
+      <short_text>Gecikme var</short_text>
+      <long_text>Gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1602">
+      <short_text>Gecikme var</short_text>
+      <long_text>Gecikme 15 dakikaya kadar</long_text>
+    </tmc_event>
+    <tmc_event event_code="1603">
+      <short_text>Gecikme var</short_text>
+      <long_text>Gecikme 30 dakikaya kadar</long_text>
+    </tmc_event>
+    <tmc_event event_code="1604">
+      <short_text>Gecikme var</short_text>
+      <long_text>Gecikme bir saate kadar</long_text>
+    </tmc_event>
+    <tmc_event event_code="1605">
+      <short_text>Gecikme var</short_text>
+      <long_text>Gecikme iki saate kadar</long_text>
+    </tmc_event>
+    <tmc_event event_code="1606">
+      <short_text>Gecikme var</short_text>
+      <long_text>Gecikme bir kac saat</long_text>
+    </tmc_event>
+    <tmc_event event_code="1607">
+      <short_text>Gecikme var</short_text>
+      <long_text>Gecikme olabilir</long_text>
+    </tmc_event>
+    <tmc_event event_code="1608">
+      <short_text>Gecikme var</short_text>
+      <long_text>Uzun gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1615">
+      <short_text>Servis durduruldu</short_text>
+      <long_text>Servis durduruldu (%s zamana kadar)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1616">
+      <short_text>%sservis yok</short_text>
+      <long_text>%sservis yok</long_text>
+    </tmc_event>
+    <tmc_event event_code="1617">
+      <short_text>%srezervasyon dolu</short_text>
+      <long_text>%srezervasyon dolu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1621">
+      <short_text>Gecikme var</short_text>
+      <long_text>Gecikme 5 dakikaya kadar</long_text>
+    </tmc_event>
+    <tmc_event event_code="1622">
+      <short_text>Gecikme var</short_text>
+      <long_text>Gecikme 10 dakikaya kadar</long_text>
+    </tmc_event>
+    <tmc_event event_code="1623">
+      <short_text>Gecikme var</short_text>
+      <long_text>Gecikme 20 dakikaya kadar</long_text>
+    </tmc_event>
+    <tmc_event event_code="1624">
+      <short_text>Gecikme var</short_text>
+      <long_text>Gecikme 25 dakikaya kadar</long_text>
+    </tmc_event>
+    <tmc_event event_code="1625">
+      <short_text>Gecikme var</short_text>
+      <long_text>Gecikme 40 dakikaya kadar</long_text>
+    </tmc_event>
+    <tmc_event event_code="1626">
+      <short_text>Gecikme var</short_text>
+      <long_text>Gecikme 50 dakikaya kadar</long_text>
+    </tmc_event>
+    <tmc_event event_code="1627">
+      <short_text>Gecikme var</short_text>
+      <long_text>Gecikme 90 dakikaya kadar</long_text>
+    </tmc_event>
+    <tmc_event event_code="1628">
+      <short_text>Gecikme var</short_text>
+      <long_text>Gecikme üç saate kadar</long_text>
+    </tmc_event>
+    <tmc_event event_code="1629">
+      <short_text>Gecikme var</short_text>
+      <long_text>Gecikme dört saate kadar</long_text>
+    </tmc_event>
+    <tmc_event event_code="1630">
+      <short_text>Gecikme var</short_text>
+      <long_text>Gecikme beş saate kadar</long_text>
+    </tmc_event>
+    <tmc_event event_code="1631">
+      <short_text>Gecikme vart</short_text>
+      <long_text>Uzun gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1632">
+      <short_text>Gecikme var</short_text>
+      <long_text>Gecikme belirsiz</long_text>
+    </tmc_event>
+    <tmc_event event_code="1633">
+      <short_text>Feribot trafiği belirsiz bir zamana kadar iptal edildi</short_text>
+      <long_text>Feribot trafiği belirsiz bir zamana kadar iptal edildi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1634">
+      <short_text>İptaller</short_text>
+      <long_text>İptaller</long_text>
+    </tmc_event>
+    <tmc_event event_code="1635">
+      <short_text>Park etmek</short_text>
+      <long_text>Park and Ride servisi çalışmıyor (%s zamana kadar)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1636">
+      <short_text>Özel hat kuruldu</short_text>
+      <long_text>Özel hat kuruldu (%s zamana kadar)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1637">
+      <short_text>ÖPNV iptal edildi</short_text>
+      <long_text>ÖPNV iptal edildi (%s zamana kadar)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1638">
+      <short_text>Demiryolu çalışmıyor</short_text>
+      <long_text>Demiryolu çalışmıyor (%s zamana kadar)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1639">
+      <short_text>Otobüsler çalışmıyor</short_text>
+      <long_text>Otobüsler çalışmıyor (%s zamana kadar)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1640">
+      <short_text>Karşılıklı seferler kuruldu</short_text>
+      <long_text>Karşılıklı seferler kuruldu (%s zamana kadar)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1641">
+      <short_text>Ücretsiz karşılıklı seferler</short_text>
+      <long_text>Ücretsiz karşılıklı seferler (%s zamana kadar)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1649">
+      <short_text>Trenler çalışmıyor</short_text>
+      <long_text>Trenler çalışmıyor (%s zamana kadar)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1651">
+      <short_text>Metro çalışmıyor</short_text>
+      <long_text>Metro çalışmıyor (%s zamana kadar)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1652">
+      <short_text>İptaller olması bekleniyor</short_text>
+      <long_text>İptaller olması bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="1655">
+      <short_text>Tüm gidişler dolu</short_text>
+      <long_text>Tüm gidişler dolu (%s zamana kadar)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1656">
+      <short_text>Sonraki varış %s</short_text>
+      <long_text>Sonraki varış %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1657">
+      <short_text>Demiryolu ulaşımında aksamalar</short_text>
+      <long_text>Demiryolu ulaşımında aksamalar. Gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1658">
+      <short_text>Otobüs ulaşımında aksamalar</short_text>
+      <long_text>Otobüs ulaşımında aksamalar. Gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1659">
+      <short_text>Metro ulaşımında aksamalar</short_text>
+      <long_text>Metro ulaşımında aksamalar</long_text>
+    </tmc_event>
+    <tmc_event event_code="1660">
+      <short_text>ÖPNV tekrar çalışıyor</short_text>
+      <long_text>ÖPNV tekrar çalışıyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="1661">
+      <short_text>Feribot çalışmıyor</short_text>
+      <long_text>Feribot çalışmıyor (%s zamana kadar)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1662">
+      <short_text>Park etmek</short_text>
+      <long_text>Sürüş süresi %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1683">
+      <short_text>Tamirat var</short_text>
+      <long_text>Tamirat var</long_text>
+    </tmc_event>
+    <tmc_event event_code="1684">
+      <short_text>Sel tehlikesi</short_text>
+      <long_text>Sel tehlikesi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1695">
+      <short_text>Seyahat bilgileri</short_text>
+      <long_text>Şu andaki sürüş süresi %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1696">
+      <short_text>Seyahat bilgileri</short_text>
+      <long_text>Beklenen sürüş süresi %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1700">
+      <short_text>Yol engelli</short_text>
+      <long_text>Yavaş seyreden %sbakım aracından dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="1701">
+      <short_text>Ters yönden gelen araç</short_text>
+      <long_text>Dikkat! Şeridinizde size doğru gelen %ssürücü var!</long_text>
+    </tmc_event>
+    <tmc_event event_code="1704">
+      <short_text>Tehlikeli durum</short_text>
+      <long_text>Dikkatsiz %ssürücüden dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="1705">
+      <short_text>Tehlikeli durum</short_text>
+      <long_text>Yavaş seyreden %saraçtan dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="1706">
+      <short_text>Tehlikeli durum</short_text>
+      <long_text>%skurtarma aracı çalışıyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="1707">
+      <short_text>Tehlikeli durum</short_text>
+      <long_text>Dikkat! Hızlı geçen %skurtarma aracı</long_text>
+    </tmc_event>
+    <tmc_event event_code="1708">
+      <short_text>Tehlikeli durum</short_text>
+      <long_text>Dikkat! Takipten dolayı tehlike (%s araç)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1709">
+      <short_text>Yol engelli</short_text>
+      <long_text>Seyreden bir aracın kirletmesinden dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="1710">
+      <short_text>Tehlikeli durum</short_text>
+      <long_text>Araçtan yola yük düşüyor, tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="1720">
+      <short_text>Demiryolu ulaşımında aksamalar</short_text>
+      <long_text>Demiryolu ulaşımında aksamalar</long_text>
+    </tmc_event>
+    <tmc_event event_code="1721">
+      <short_text>ÖPVN çalışmıyor</short_text>
+      <long_text>ÖPVN çalışmıyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="1731">
+      <short_text>%sağır yük nakliyesinden dolayı tehlike</short_text>
+      <long_text>%sağır yük nakliyesinden dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="1732">
+      <short_text>%sgeniş araçlı nakliyeden dolayı tehlike</short_text>
+      <long_text>%sgeniş araçlı nakliyeden dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="1733">
+      <short_text>%suzun araçlı nakliyeden dolayı tehlike</short_text>
+      <long_text>%suzun araçlı nakliyeden dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="1734">
+      <short_text>%syavaş araçtan dolayı tehlike</short_text>
+      <long_text>%syavaş araçtan dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="1735">
+      <short_text>%spaletli araçtan dolayı tehlike</short_text>
+      <long_text>%spaletli araçtan dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="1736">
+      <short_text>Tehlikeli madde nakil</short_text>
+      <long_text>Tehlikeli madde taşıyan %saraçtan dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="1737">
+      <short_text>%strafik konvoyundan dolayı tehlike</short_text>
+      <long_text>%strafik konvoyundan dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="1738">
+      <short_text>%saskeri konvoydan dolayı tehlike</short_text>
+      <long_text>%saskeri konvoydan dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="1739">
+      <short_text>Havaleli %snakliyeden dolayı tehlike</short_text>
+      <long_text>Havaleli %snakliyeden dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="1740">
+      <short_text>%lyavaş akan trafik</short_text>
+      <long_text>Ağır yük nakliyesinden dolayı yavaş akan trafik. Gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1741">
+      <short_text>%lyavaş akan trafik</short_text>
+      <long_text>Trafik konvoyundan dolayı yavaş akan trafik. Gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1751">
+      <short_text>Ağır yük nakliyesi %s</short_text>
+      <long_text>Ağır yük nakliyesi %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1752">
+      <short_text>%sgeniş araçlı nakliye</short_text>
+      <long_text>%sgeniş araçlı nakliye</long_text>
+    </tmc_event>
+    <tmc_event event_code="1753">
+      <short_text>%suzun araçlı nakliye</short_text>
+      <long_text>%suzun araçlı nakliye</long_text>
+    </tmc_event>
+    <tmc_event event_code="1754">
+      <short_text>%syavaş araç</short_text>
+      <long_text>%syavaş araç</long_text>
+    </tmc_event>
+    <tmc_event event_code="1755">
+      <short_text>%strafik konvoyu</short_text>
+      <long_text>%strafik konvoyu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1764">
+      <short_text>%spaletli araç</short_text>
+      <long_text>%spaletli araç</long_text>
+    </tmc_event>
+    <tmc_event event_code="1765">
+      <short_text>Tehlikeli madde nakil</short_text>
+      <long_text>Tehlikeli madde taşıyan %saraç</long_text>
+    </tmc_event>
+    <tmc_event event_code="1766">
+      <short_text>%saskeri konvoy</short_text>
+      <long_text>%saskeri konvoy</long_text>
+    </tmc_event>
+    <tmc_event event_code="1767">
+      <short_text>%sağır yük nakliyesi, sollamak mümkün değil.</short_text>
+      <long_text>%sağır yük nakliyesi, sollamak mümkün değil.</long_text>
+    </tmc_event>
+    <tmc_event event_code="1768">
+      <short_text>Tehlikeli madde nakil</short_text>
+      <long_text>Tehlikeli madde nakliyesi, sonraki park alanına gidin</long_text>
+    </tmc_event>
+    <tmc_event event_code="1801">
+      <short_text>Şerit değiştirme düzenekleri çalışmıyor</short_text>
+      <long_text>Şerit değiştirme düzenekleri çalışmıyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="1802">
+      <short_text>Trafik ışıkları aksaklı</short_text>
+      <long_text>Acil çağrı telefonları çalışmıyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="1803">
+      <short_text>Trafik ışıkları aksaklı</short_text>
+      <long_text>Acil çağrı çalışmıyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="1804">
+      <short_text>Yol engelli</short_text>
+      <long_text>(%s adet) trafik ışığı çalışmıyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="1805">
+      <short_text>Yol engelli</short_text>
+      <long_text>(%s adet) trafik ışığı bozulmuş</long_text>
+    </tmc_event>
+    <tmc_event event_code="1806">
+      <short_text>Trafik ışıkları aksaklı</short_text>
+      <long_text>Tren yolu geçişinde problem</long_text>
+    </tmc_event>
+    <tmc_event event_code="1807">
+      <short_text>%ltrafik tıkanıklığı</short_text>
+      <long_text>(%s adet) trafik ışığı çalışmıyor, trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="1809">
+      <short_text>%lyoğun trafik</short_text>
+      <long_text>(%s adet) trafik ışığı çalışmıyor, yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="1811">
+      <short_text>%lyavaş akan trafik</short_text>
+      <long_text>(%s adet) trafik ışığı çalışmıyor, yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="1812">
+      <short_text>Yol engelli</short_text>
+      <long_text>(%s adet) trafik ışığı çalışmıyor, yavaş akan trafik bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="1813">
+      <short_text>%lakıcı trafik</short_text>
+      <long_text>(%s adet) trafik ışığı çalışmıyor, akıcı trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="1814">
+      <short_text>Yol engelli</short_text>
+      <long_text>(%s adet) trafik ışığı çalışmıyor, akıcı trafik bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="1815">
+      <short_text>Trafik ışıkları aksaklı</short_text>
+      <long_text>(%s adet) trafik ışığı çalışmıyor, trafik açık</long_text>
+    </tmc_event>
+    <tmc_event event_code="1816">
+      <short_text>%lyavaş akan trafik</short_text>
+      <long_text>(%s adet) trafik ışığı çalışmıyor, artan yoğunluklu trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="1817">
+      <short_text>Yol engelli</short_text>
+      <long_text>Trafik ışıkları çalışmıyor, gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1818">
+      <short_text>Yol engelli</short_text>
+      <long_text>Trafik ışıkları çalışmıyor, gecikme %solması bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="1819">
+      <short_text>Yol engelli</short_text>
+      <long_text>Trafik ışıkları çalışmıyor, büyük gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1820">
+      <short_text>%ltrafik tıkanıklığı</short_text>
+      <long_text>Tren yolu geçişinde problem, trafik tıkanıklığı</long_text>
+    </tmc_event>
+    <tmc_event event_code="1822">
+      <short_text>%lyoğun trafik</short_text>
+      <long_text>Tren yolu geçişinde problem, yoğun trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="1824">
+      <short_text>%lyavaş akan trafik</short_text>
+      <long_text>Tren yolu geçişinde problem, yavaş akan trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="1825">
+      <short_text>Yol engelli</short_text>
+      <long_text>Tren yolu geçişinde problem, yavaş akan trafik bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="1826">
+      <short_text>%lakıcı trafik</short_text>
+      <long_text>Tren yolu geçişinde problem, akıcı trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="1827">
+      <short_text>Yol engelli</short_text>
+      <long_text>Tren yolu geçişinde problem, akıcı trafik bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="1828">
+      <short_text>Trafik ışıkları aksaklı</short_text>
+      <long_text>Tren yolu geçişinde problem, trafik açık</long_text>
+    </tmc_event>
+    <tmc_event event_code="1829">
+      <short_text>%lyavaş akan trafik</short_text>
+      <long_text>Tren yolu geçişinde problem, artan yoğunluklu trafik</long_text>
+    </tmc_event>
+    <tmc_event event_code="1838">
+      <short_text>Trafik ışıkları aksaklı</short_text>
+      <long_text>Şerit değiştirme düzeneği arızalı</long_text>
+    </tmc_event>
+    <tmc_event event_code="1840">
+      <short_text>Trafik ışıkları aksaklı</short_text>
+      <long_text>Dönüşümlü trafik işareti çalışmıyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="1841">
+      <short_text>Trafik ışıkları aksaklı</short_text>
+      <long_text>Dönüşümlü trafik işareti hatalı çalışıyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="1842">
+      <short_text>Trafik ışıkları aksaklı</short_text>
+      <long_text>Dönüşümlü trafik işareti tekrar çalışıyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="1843">
+      <short_text>Trafik ışıkları aksaklı</short_text>
+      <long_text>(%s adet) trafik ışığı çalışmıyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="1844">
+      <short_text>Trafik ışıkları aksaklı</short_text>
+      <long_text>(%s adet) trafik ışığı hatalı çalışıyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="1845">
+      <short_text>Trafik ışıkları aksaklı</short_text>
+      <long_text>Geçici (%s adet) trafik ışığı bozulmuş</long_text>
+    </tmc_event>
+    <tmc_event event_code="1846">
+      <short_text>Trafik ışıkları aksaklı</short_text>
+      <long_text>Geçici (%s adet) trafik ışığı hatalı çalışıyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="1847">
+      <short_text>Trafik ışıkları aksaklı</short_text>
+      <long_text>Trafik bilgisayarının çalışmamasından dolayı trafik akışı sorunlu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1848">
+      <short_text>Trafik ışıkları aksaklı</short_text>
+      <long_text>Trafik ışığı yönetimi değişti</long_text>
+    </tmc_event>
+    <tmc_event event_code="1849">
+      <short_text>Trafik ışıkları aksaklı</short_text>
+      <long_text>Tünel havalandırması çalışmıyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="1850">
+      <short_text>Trafik ışıkları aksaklı</short_text>
+      <long_text>Şerit değiştirme düzenekleri çalışmıyor, tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="1853">
+      <short_text>Yol engelli</short_text>
+      <long_text>Yol engelli</long_text>
+    </tmc_event>
+    <tmc_event event_code="1864">
+      <short_text>Yol engelli</short_text>
+      <long_text>Şerit değiştirme düzenekleri arızalı, tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="1865">
+      <short_text>Trafik ışıkları aksaklı</short_text>
+      <long_text>Acil çağrı telefonları çalışmıyor, polis sık sık devriyede</long_text>
+    </tmc_event>
+    <tmc_event event_code="1866">
+      <short_text>Trafik ışıkları aksaklı</short_text>
+      <long_text>Acil çağrı telefonları çalışmıyor, acil durumda polisi bekleyin</long_text>
+    </tmc_event>
+    <tmc_event event_code="1867">
+      <short_text>Yol engelli</short_text>
+      <long_text>(%s adet) trafik ışığı çalışmıyor, tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="1868">
+      <short_text>Yol engelli</short_text>
+      <long_text>Trafik ışıkları bozulmuş, gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1869">
+      <short_text>Yol engelli</short_text>
+      <long_text>Trafik ışıkları bozulmuş, gecikme %solması bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="1870">
+      <short_text>Yol engelli</short_text>
+      <long_text>Trafik ışıkları bozulmuş, büyük gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1875">
+      <short_text>Yol engelli</short_text>
+      <long_text>Hatalı çalışan (%s adet) trafik ışığından dolayı tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="1876">
+      <short_text>Yol engelli</short_text>
+      <long_text>Geçici trafik ışığı bozulmuş, gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1877">
+      <short_text>Yol engelli</short_text>
+      <long_text>Geçici trafik ışığı bozulmuş, gecikme %solması bekleniyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="1878">
+      <short_text>Yol engelli</short_text>
+      <long_text>Geçici trafik ışığı bozulmuş, büyük gecikme %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1879">
+      <short_text>Yol engelli</short_text>
+      <long_text>Geçici (%s adet) trafik ışığı bozulmuş, tehlike</long_text>
+    </tmc_event>
+    <tmc_event event_code="1886">
+      <short_text>Park etmek</short_text>
+      <long_text>Normal park yasakları artık yok</long_text>
+    </tmc_event>
+    <tmc_event event_code="1887">
+      <short_text>Park etmek</short_text>
+      <long_text>Özel park yasakları etkin</long_text>
+    </tmc_event>
+    <tmc_event event_code="1888">
+      <short_text>%10 dolu</short_text>
+      <long_text>%10 dolu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1889">
+      <short_text>%20 dolu</short_text>
+      <long_text>%20 dolu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1890">
+      <short_text>%30 dolu</short_text>
+      <long_text>%30 dolu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1891">
+      <short_text>%40 dolu</short_text>
+      <long_text>%40 dolu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1892">
+      <short_text>%50 dolu</short_text>
+      <long_text>%50 dolu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1893">
+      <short_text>%60 dolu</short_text>
+      <long_text>%60 dolu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1894">
+      <short_text>%70 dolu</short_text>
+      <long_text>%70 dolu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1895">
+      <short_text>%80 dolu</short_text>
+      <long_text>%80 dolu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1896">
+      <short_text>%90 dolu</short_text>
+      <long_text>%90 dolu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1897">
+      <short_text>10'a kadar boş yer var</short_text>
+      <long_text>10'a kadar boş yer var</long_text>
+    </tmc_event>
+    <tmc_event event_code="1898">
+      <short_text>20'a kadar boş yer var</short_text>
+      <long_text>20'a kadar boş yer var</long_text>
+    </tmc_event>
+    <tmc_event event_code="1899">
+      <short_text>30'a kadar boş yer var</short_text>
+      <long_text>30'a kadar boş yer var</long_text>
+    </tmc_event>
+    <tmc_event event_code="1900">
+      <short_text>40'a kadar boş yer var</short_text>
+      <long_text>40'a kadar boş yer var</long_text>
+    </tmc_event>
+    <tmc_event event_code="1901">
+      <short_text>Sonraki gidiş %s</short_text>
+      <long_text>Sonraki gidiş %s</long_text>
+    </tmc_event>
+    <tmc_event event_code="1903">
+      <short_text>Park yeri %sdolu</short_text>
+      <long_text>Park yeri %sdolu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1904">
+      <short_text>Tüm park yerleri %sbüyük oranda dolu</short_text>
+      <long_text>Tüm park yerleri %sbüyük oranda dolu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1905">
+      <short_text>Park etmek</short_text>
+      <long_text>Henüz %sadet boş yer var</long_text>
+    </tmc_event>
+    <tmc_event event_code="1906">
+      <short_text>Park etmek</short_text>
+      <long_text>Park and Ride servisi çalışıyor(%s zamana kadar)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1908">
+      <short_text>Servis mesaj</short_text>
+      <long_text>Lütfen %sradyo programını açın</long_text>
+    </tmc_event>
+    <tmc_event event_code="1909">
+      <short_text>Servis mesaj</short_text>
+      <long_text>Bu frekansta alarm bildirimi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1910">
+      <short_text>Servis mesaj</short_text>
+      <long_text>Belirlenen süreler içerisinde yeni alarm bildirimi</long_text>
+    </tmc_event>
+    <tmc_event event_code="1913">
+      <short_text>Servis mesaj</short_text>
+      <long_text>Lütfen %sradyo programını açın</long_text>
+    </tmc_event>
+    <tmc_event event_code="1918">
+      <short_text>Dolu</short_text>
+      <long_text>Dolu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1920">
+      <short_text>Tek tük yerler boş</short_text>
+      <long_text>Tek tük yerler boş</long_text>
+    </tmc_event>
+    <tmc_event event_code="1921">
+      <short_text>%sadet yer mevcut</short_text>
+      <long_text>%sadet yer mevcut</long_text>
+    </tmc_event>
+    <tmc_event event_code="1922">
+      <short_text>Park yeri büyük olasılıkla dolu</short_text>
+      <long_text>Park yeri büyük olasılıkla dolu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1923">
+      <short_text>Büyük olasılıkla park yeri yok</short_text>
+      <long_text>Büyük olasılıkla park yeri yok</long_text>
+    </tmc_event>
+    <tmc_event event_code="1924">
+      <short_text>Otopark dolu</short_text>
+      <long_text>Otopark dolu</long_text>
+    </tmc_event>
+    <tmc_event event_code="1926">
+      <short_text>Artık park yeri yok</short_text>
+      <long_text>Artık park yeri yok</long_text>
+    </tmc_event>
+    <tmc_event event_code="1927">
+      <short_text>Park etmek</short_text>
+      <long_text>Park yasağı (%s saate kadar)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1928">
+      <short_text>Park etmek</short_text>
+      <long_text>Park yeri sınırlaması artık yok</long_text>
+    </tmc_event>
+    <tmc_event event_code="1930">
+      <short_text>Servis mesaj</short_text>
+      <long_text>Şu anda TMC servisi yok (%s saate kadar)</long_text>
+    </tmc_event>
+    <tmc_event event_code="1961">
+      <short_text>Tehlikeli durum</short_text>
+      <long_text>Kurtarma araçlarının ortak şeritten geçmesine müsaade edin</long_text>
+    </tmc_event>
+    <tmc_event event_code="1962">
+      <short_text>carpool information</short_text>
+      <long_text>Toplu taşıma şeridi tüm araçlar için açık</long_text>
+    </tmc_event>
+    <tmc_event event_code="1963">
+      <short_text>carpool information</short_text>
+      <long_text>Polis trafiği toplu taşıma şeridi üzerinden düzenliyor</long_text>
+    </tmc_event>
+    <tmc_event event_code="1974">
+      <short_text>Tehlikeli durum</short_text>
+      <long_text>Kurtarma araçları için yol açın</long_text>
+    </tmc_event>
+    <tmc_event event_code="1977">
+      <short_text>Tehlikeli durum</short_text>
+      <long_text>Kurtarma araçlarının kamyon şeridinden geçmesine müsaade edin</long_text>
+    </tmc_event>
+    <tmc_event event_code="2000">
+      <short_text>Geçilemez</short_text>
+      <long_text>Kirli hava alarmından dolayı bölge tüm trafiğe kapalı (%s saate kadar)</long_text>
+    </tmc_event>
+    <tmc_event event_code="2013">
+      <short_text>Benzin istasyonu ve dinlenme tesisi dolmuş</short_text>
+      <long_text>Benzin istasyonu ve dinlenme tesisi dolmuş</long_text>
+    </tmc_event>
+    <tmc_event event_code="2021">
+      <short_text>Çalışmıyor, yedek otobüs seferleri</short_text>
+      <long_text>Çalışmıyor, yedek otobüs seferleri</long_text>
+    </tmc_event>
+    <tmc_event event_code="2022">
+      <short_text>Grev nedeniyle iptal</short_text>
+      <long_text>Grev nedeniyle iptal</long_text>
+    </tmc_event>
+  </locale>
+</TmcConfig>

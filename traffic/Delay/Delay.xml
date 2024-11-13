@@ -1,0 +1,1724 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<!--
+<DurationConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Delay.xsd">
+-->
+<DelayConfig version="1">
+   <!-- define maximum distance in meters for penalty calculation -->
+   <MaximumTrafficLength>10000</MaximumTrafficLength>
+   <!-- define maximum penalty (only for duration tag) in seconds for penalty calculation -->
+   <MaximumDuration>86400</MaximumDuration>
+   <!-- unknown tendency -->
+   <LevelOfService losCode="0">
+      <!-- unknown traffic flow -->
+      <Duration> <!--  0 min -->
+         <!-- zu rechnen, Gefahr, Wetter, sonstiges -->
+         <Point offset="0">0</Point>
+         <Event id="11" />
+         <Event id="12" />
+         <Event id="20" />
+         <Event id="22" />
+         <Event id="23" />
+         <Event id="36" />
+         <Event id="37" />
+         <Event id="40" />
+         <Event id="52" />
+         <Event id="53" />
+         <Event id="57" />
+         <Event id="63" />
+         <Event id="64" />
+         <Event id="139" />
+         <Event id="140" />
+         <Event id="201" />
+         <Event id="202" />
+         <Event id="203" />
+         <Event id="204" />
+         <Event id="205" />
+         <Event id="206" />
+         <Event id="207" />
+         <Event id="208" />
+         <Event id="209" />
+         <Event id="210" />
+         <Event id="248" />
+         <Event id="276" />
+         <Event id="311" />
+         <Event id="331" />
+         <Event id="335" />
+         <Event id="336" />
+         <Event id="337" />
+         <Event id="338" />
+         <Event id="339" />
+         <Event id="340" />
+         <Event id="341" />
+         <Event id="342" />
+         <Event id="343" />
+         <Event id="344" />
+         <Event id="345" />
+         <Event id="346" />
+         <Event id="347" />
+         <Event id="351" />
+         <Event id="355" />
+         <Event id="359" />
+         <Event id="376" />
+         <Event id="378" />
+         <Event id="380" />
+         <Event id="382" />
+         <Event id="391" />
+         <Event id="392" />
+         <Event id="393" />
+         <Event id="394" />
+         <Event id="395" />
+         <Event id="399" />
+         <Event id="403" />
+         <Event id="404" />
+         <Event id="409" />
+         <Event id="493" />
+         <Event id="494" />
+         <Event id="601" />
+         <Event id="602" />
+         <Event id="603" />
+         <Event id="624" />
+         <Event id="625" />
+         <Event id="627" />
+         <Event id="628" />
+         <Event id="629" />
+         <Event id="631" />
+         <Event id="635" />
+         <Event id="636" />
+         <Event id="647" />
+         <Event id="648" />
+         <Event id="649" />
+         <Event id="650" />
+         <Event id="657" />
+         <Event id="658" />
+         <Event id="659" />
+         <Event id="660" />
+         <Event id="661" />
+         <Event id="662" />
+         <Event id="663" />
+         <Event id="671" />
+         <Event id="672" />
+         <Event id="673" />
+         <Event id="676" />
+         <Event id="678" />
+         <Event id="679" />
+         <Event id="680" />
+         <Event id="681" />
+         <Event id="701" />
+         <Event id="702" />
+         <Event id="703" />
+         <Event id="704" />
+         <Event id="705" />
+         <Event id="706" />
+         <Event id="707" />
+         <Event id="708" />
+         <Event id="709" />
+         <Event id="781" />
+         <Event id="800" />
+         <Event id="801" />
+         <Event id="802" />
+         <Event id="803" />
+         <Event id="804" />
+         <Event id="805" />
+         <Event id="806" />
+         <Event id="807" />
+         <Event id="808" />
+         <Event id="809" />
+         <Event id="810" />
+         <Event id="811" />
+         <Event id="815" />
+         <Event id="816" />
+         <Event id="817" />
+         <Event id="821" />
+         <Event id="822" />
+         <Event id="823" />
+         <Event id="824" />
+         <Event id="854" />
+         <Event id="855" />
+         <Event id="856" />
+         <Event id="857" />
+         <Event id="858" />
+         <Event id="859" />
+         <Event id="860" />
+         <Event id="861" />
+         <Event id="862" />
+         <Event id="897" />
+         <Event id="898" />
+         <Event id="900" />
+         <Event id="902" />
+         <Event id="906" />
+         <Event id="908" />
+         <Event id="910" />
+         <Event id="923" />
+         <Event id="971" />
+         <Event id="972" />
+         <Event id="975" />
+         <Event id="978" />
+         <Event id="979" />
+         <Event id="984" />
+         <Event id="986" />
+         <Event id="989" />
+         <Event id="990" />
+         <Event id="991" />
+         <Event id="992" />
+         <Event id="994" />
+         <Event id="996" />  <!-- Glatteis -->
+         <Event id="997" />  <!-- Glatteis -->
+         <Event id="998" />
+         <Event id="999" />
+         <Event id="1000" />
+         <Event id="1002" />
+         <Event id="1005" />
+         <Event id="1006" />
+         <Event id="1007" /> <!-- Glatteis -->
+         <Event id="1008" /> <!-- Glatteis -->
+         <Event id="1009" /> <!-- Glatteis -->
+         <Event id="1010" /> <!-- Glatteis -->
+         <Event id="1011" /> <!-- Glatteis -->
+         <Event id="1012" /> <!-- Glatteis -->
+         <Event id="1013" /> <!-- Glatteis -->
+         <Event id="1014" /> <!-- Glatteis -->
+         <Event id="1015" /> <!-- Glatteis -->
+         <Event id="1016" /> <!-- Glatteis -->
+         <Event id="1017" /> <!-- Glatteis -->
+         <Event id="1018" /> <!-- Glatteis -->
+         <Event id="1019" /> <!-- Glatteis -->
+         <Event id="1024" />
+         <Event id="1025" />
+         <Event id="1026" />
+         <Event id="1028" />
+         <Event id="1030" />
+         <Event id="1031" />
+         <Event id="1032" />
+         <Event id="1033" />
+         <Event id="1034" />
+         <Event id="1037" />
+         <Event id="1038" />
+         <Event id="1039" />
+         <Event id="1040" />
+         <Event id="1041" />
+         <Event id="1047" /> <!-- Glatteis -->
+         <Event id="1048" /> <!-- Glatteis -->
+         <Event id="1050" />
+         <Event id="1054" />
+         <Event id="1055" />
+         <Event id="1056" />
+         <Event id="1057" />
+         <Event id="1058" />
+         <Event id="1059" />
+         <Event id="1060" /> <!-- Glatteis -->
+         <Event id="1061" />
+         <Event id="1062" /> <!-- Glatteis -->
+         <Event id="1063" />
+         <Event id="1064" />
+         <Event id="1065" />
+         <Event id="1066" />
+         <Event id="1069" />
+         <Event id="1070" />
+         <Event id="1073" />
+         <Event id="1074" />
+         <Event id="1075" />
+         <Event id="1079" />
+         <Event id="1080" />
+         <Event id="1081" />
+         <Event id="1082" />
+         <Event id="1083" />
+         <Event id="1084" />
+         <Event id="1086" />
+         <Event id="1101" /> <!-- Wetter -->
+         <Event id="1102" /> <!-- Wetter -->
+         <Event id="1103" /> <!-- Wetter -->
+         <Event id="1104" /> <!-- Wetter -->
+         <Event id="1105" /> <!-- Wetter -->
+         <Event id="1106" /> <!-- Wetter -->
+         <Event id="1107" /> <!-- Wetter -->
+         <Event id="1108" /> <!-- Wetter -->
+         <Event id="1109" /> <!-- Wetter -->
+         <Event id="1110" /> <!-- Wetter -->
+         <Event id="1111" /> <!-- Wetter -->
+         <Event id="1112" /> <!-- Wetter -->
+         <Event id="1113" /> <!-- Wetter -->
+         <Event id="1114" /> <!-- Wetter -->
+         <Event id="1115" /> <!-- Wetter -->
+         <Event id="1116" /> <!-- Wetter -->
+         <Event id="1126" /> <!-- Wetter -->
+         <Event id="1127" /> <!-- Wetter -->
+         <Event id="1128" /> <!-- Wetter -->
+         <Event id="1130" /> <!-- Wetter -->
+         <Event id="1132" /> <!-- Wetter -->
+         <Event id="1134" /> <!-- Wetter -->
+         <Event id="1135" /> <!-- Wetter -->
+         <Event id="1136" /> <!-- Wetter -->
+         <Event id="1137" /> <!-- Wetter -->
+         <Event id="1165" /> <!-- Wetter -->
+         <Event id="1166" /> <!-- Wetter -->
+         <Event id="1170" /> <!-- Wetter -->
+         <Event id="1171" /> <!-- Wetter -->
+         <Event id="1172" /> <!-- Wetter -->
+         <Event id="1173" /> <!-- Wetter -->
+         <Event id="1174" /> <!-- Wetter -->
+         <Event id="1175" /> <!-- Wetter -->
+         <Event id="1176" /> <!-- Wetter -->
+         <Event id="1177" /> <!-- Wetter -->
+         <Event id="1178" /> <!-- Wetter -->
+         <Event id="1179" /> <!-- Wetter -->
+         <Event id="1180" /> <!-- Wetter -->
+         <Event id="1190" /> <!-- Wetter -->
+         <Event id="1191" /> <!-- Wetter -->
+         <Event id="1201" /> <!-- Wetter -->
+         <Event id="1202" /> <!-- Wetter -->
+         <Event id="1203" /> <!-- Wetter -->
+         <Event id="1204" /> <!-- Wetter -->
+         <Event id="1205" /> <!-- Wetter -->
+         <Event id="1209" /> <!-- Wetter -->
+         <Event id="1210" /> <!-- Wetter -->
+         <Event id="1211" /> <!-- Wetter -->
+         <Event id="1212" /> <!-- Wetter -->
+         <Event id="1213" /> <!-- Wetter -->
+         <Event id="1214" /> <!-- Wetter -->
+         <Event id="1215" /> <!-- Wetter -->
+         <Event id="1217" /> <!-- Wetter -->
+         <Event id="1301" /> <!-- Wetter -->
+         <Event id="1302" /> <!-- Wetter -->
+         <Event id="1303" /> <!-- Wetter -->
+         <Event id="1304" /> <!-- Wetter -->
+         <Event id="1305" /> <!-- Wetter -->
+         <Event id="1307" /> <!-- Wetter -->
+         <Event id="1308" /> <!-- Wetter -->
+         <Event id="1309" /> <!-- Wetter -->
+         <Event id="1310" /> <!-- Wetter -->
+         <Event id="1312" /> <!-- Wetter -->
+         <Event id="1313" /> <!-- Wetter -->
+         <Event id="1314" />
+         <Event id="1318" /> <!-- Wetter -->
+         <Event id="1319" /> <!-- Wetter -->
+         <Event id="1320" /> <!-- Wetter -->
+         <Event id="1321" /> <!-- Wetter -->
+         <Event id="1322" /> <!-- Wetter -->
+         <Event id="1323" /> <!-- Wetter -->
+         <Event id="1324" /> <!-- Wetter -->
+         <Event id="1325" /> <!-- Wetter -->
+         <Event id="1326" /> <!-- Wetter -->
+         <Event id="1332" />
+         <Event id="1337" /> <!-- Wetter -->
+         <Event id="1340" />
+         <Event id="1345" /> <!-- Wetter -->
+         <Event id="1346" />
+         <Event id="1449" /> <!-- ??? -->
+         <Event id="1450" />
+         <Event id="1451" />
+         <Event id="1452" />
+         <Event id="1453" />
+         <Event id="1454" />
+         <Event id="1455" />
+         <Event id="1456" />
+         <Event id="1457" />
+         <Event id="1458" />
+         <Event id="1459" />
+         <Event id="1460" />
+         <Event id="1461" />
+         <Event id="1462" />
+         <Event id="1463" />
+         <Event id="1464" />
+         <Event id="1465" />
+         <Event id="1466" />
+         <Event id="1467" />
+         <Event id="1468" />
+         <Event id="1469" />
+         <Event id="1470" />
+         <Event id="1471" />
+         <Event id="1475" />
+         <Event id="1476" />
+         <Event id="1477" />
+         <Event id="1478" />
+         <Event id="1479" />
+         <Event id="1480" />
+         <Event id="1481" />
+         <Event id="1482" />
+         <Event id="1483" />
+         <Event id="1484" />
+         <Event id="1487" />
+         <Event id="1490" />
+         <Event id="1492" />
+         <Event id="1493" />
+         <Event id="1494" />
+         <Event id="1496" />
+         <Event id="1497" />
+         <Event id="1501" />
+         <Event id="1502" />
+         <Event id="1503" />
+         <Event id="1504" />
+         <Event id="1505" />
+         <Event id="1506" />
+         <Event id="1507" />
+         <Event id="1508" />
+         <Event id="1509" />
+         <Event id="1510" />
+         <Event id="1511" />
+         <Event id="1512" />
+         <Event id="1513" />
+         <Event id="1514" />
+         <Event id="1515" />
+         <Event id="1516" />
+         <Event id="1529" />
+         <Event id="1543" />
+         <Event id="1557" />
+         <Event id="1561" />
+         <Event id="1565" />
+         <Event id="1569" />
+         <Event id="1582" />
+         <Event id="1585" />
+         <Event id="1587" />
+         <Event id="1588" />
+         <Event id="1589" />
+         <Event id="1590" />
+         <Event id="1591" />
+         <Event id="1592" />
+         <Event id="1593" />
+         <Event id="1594" />
+         <Event id="1595" />
+         <Event id="1596" />
+         <Event id="1597" />
+         <Event id="1607" />
+         <Event id="1609" />
+         <Event id="1610" />
+         <Event id="1611" />
+         <Event id="1612" />
+         <Event id="1613" />
+         <Event id="1614" />
+         <Event id="1615" />
+         <Event id="1617" />
+         <Event id="1618" />
+         <Event id="1619" />
+         <Event id="1620" />
+         <Event id="1634" />
+         <Event id="1635" />
+         <Event id="1636" />
+         <Event id="1637" />
+         <Event id="1638" />
+         <Event id="1639" />
+         <Event id="1640" />
+         <Event id="1641" />
+         <Event id="1642" />
+         <Event id="1643" />
+         <Event id="1644" />
+         <Event id="1645" />
+         <Event id="1646" />
+         <Event id="1647" />
+         <Event id="1649" />
+         <Event id="1650" />
+         <Event id="1651" />
+         <Event id="1652" />
+         <Event id="1653" />
+         <Event id="1654" />
+         <Event id="1656" />
+         <Event id="1659" />
+         <Event id="1660" />
+         <Event id="1661" />
+         <Event id="1662" />
+         <Event id="1664" />
+         <Event id="1695" />
+         <Event id="1696" />
+         <Event id="1700" />
+         <Event id="1701" />
+         <Event id="1702" />
+         <Event id="1703" />
+         <Event id="1704" />
+         <Event id="1705" />
+         <Event id="1706" />
+         <Event id="1707" />
+         <Event id="1708" />
+         <Event id="1709" />
+         <Event id="1710" />
+         <Event id="1711" />
+         <Event id="1712" />
+         <Event id="1720" />
+         <Event id="1721" />
+         <Event id="1731" />
+         <Event id="1732" />
+         <Event id="1733" />
+         <Event id="1734" />
+         <Event id="1735" />
+         <Event id="1736" />
+         <Event id="1737" />
+         <Event id="1738" />
+         <Event id="1739" />
+         <Event id="1751" />
+         <Event id="1752" />
+         <Event id="1753" />
+         <Event id="1754" />
+         <Event id="1755" />
+         <Event id="1757" />
+         <Event id="1760" />
+         <Event id="1762" />
+         <Event id="1763" />
+         <Event id="1764" />
+         <Event id="1765" />
+         <Event id="1766" />
+         <Event id="1808" />
+         <Event id="1810" />
+         <Event id="1821" />
+         <Event id="1823" />
+         <Event id="1818" />
+         <Event id="1831" />
+         <Event id="1833" />
+         <Event id="1834" />
+         <Event id="1835" />
+         <Event id="1836" />
+         <Event id="1837" />
+         <Event id="1838" />
+         <Event id="1839" />
+         <Event id="1840" />
+         <Event id="1841" />
+         <Event id="1842" />
+         <Event id="1843" />
+         <Event id="1844" />
+         <Event id="1845" />
+         <Event id="1846" />
+         <Event id="1848" />
+         <Event id="1849" />
+         <Event id="1850" />
+         <Event id="1851" />
+         <Event id="1852" />
+         <Event id="1853" />
+         <Event id="1854" />
+         <Event id="1855" />
+         <Event id="1856" />
+         <Event id="1857" />
+         <Event id="1861" />
+         <Event id="1862" />
+         <Event id="1864" />
+         <Event id="1865" />
+         <Event id="1866" />
+         <Event id="1867" />
+         <Event id="1869" />
+         <Event id="1871" />
+         <Event id="1872" />
+         <Event id="1873" />
+         <Event id="1874" />
+         <Event id="1875" />
+         <Event id="1877" />
+         <Event id="1879" />
+         <Event id="1881" />
+         <Event id="1882" />
+         <Event id="1883" />
+         <Event id="1884" />
+         <Event id="1886" />
+         <Event id="1887" />
+         <Event id="1888" />
+         <Event id="1889" />
+         <Event id="1890" />
+         <Event id="1891" />
+         <Event id="1892" />
+         <Event id="1893" />
+         <Event id="1894" />
+         <Event id="1895" />
+         <Event id="1896" />
+         <Event id="1897" />
+         <Event id="1898" />
+         <Event id="1899" />
+         <Event id="1900" />
+         <Event id="1901" />
+         <Event id="1902" />
+         <Event id="1903" />
+         <Event id="1904" />
+         <Event id="1905" />
+         <Event id="1906" />
+         <Event id="1907" />
+         <Event id="1908" />
+         <Event id="1909" />
+         <Event id="1910" />
+         <Event id="1911" />
+         <Event id="1913" />
+         <Event id="1914" />
+         <Event id="1915" />
+         <Event id="1916" />
+         <Event id="1918" />
+         <Event id="1920" />
+         <Event id="1921" />
+         <Event id="1922" />
+         <Event id="1923" />
+         <Event id="1924" />
+         <Event id="1925" />
+         <Event id="1926" />
+         <Event id="1927" />
+         <Event id="1928" />
+         <Event id="1929" />
+         <Event id="1930" />
+         <Event id="1931" />
+         <Event id="1932" />
+         <Event id="1934" />
+         <Event id="1938" />
+         <Event id="1940" />
+         <Event id="1941" />
+         <Event id="1942" />
+         <Event id="1943" />
+         <Event id="1944" />
+         <Event id="1945" />
+         <Event id="1946" />
+         <Event id="1947" />
+         <Event id="1948" />
+         <Event id="1949" />
+         <Event id="1950" />
+         <Event id="1951" />
+         <Event id="1952" />
+         <Event id="1953" />
+         <Event id="1954" />
+         <Event id="1955" />
+         <Event id="1956" />
+         <Event id="1957" />
+         <Event id="1958" />
+         <Event id="1959" />
+         <Event id="1960" />
+         <Event id="1961" />
+         <Event id="1962" />
+         <Event id="1963" />
+         <Event id="1964" />
+         <Event id="1965" />
+         <Event id="1966" />
+         <Event id="1967" />
+         <Event id="1971" />
+         <Event id="1972" />
+         <Event id="1973" />
+         <Event id="1974" />
+         <Event id="1975" />
+         <Event id="1976" />
+         <Event id="1977" />
+         <Event id="1978" />
+         <Event id="1979" />
+         <Event id="1980" />
+         <Event id="1981" />
+         <Event id="1982" />
+         <Event id="1983" />
+         <Event id="1985" />
+         <Event id="1986" />
+         <Event id="1990" />
+         <Event id="1991" />
+         <Event id="1993" />
+         <Event id="1994" />
+         <Event id="1995" />
+         <Event id="1998" />
+         <Event id="1999" />
+         <Event id="2006" />
+         <Event id="2007" />
+         <Event id="2013" />
+         <Event id="2021" />
+         <Event id="2022" />
+         <Event id="2028" />
+         <Event id="2029" />
+         <Event id="2030" />
+         <Event id="2033" />
+         <Event id="2034" />
+         <Event id="2035" />
+         <Event id="2038" />
+         <Event id="2039" />
+         <Event id="2040" />
+         <Event id="2041" />
+         <Event id="2047" />
+      </Duration>
+      <Duration> <!--  5 min -->
+         <!-- Zeitverlust -->
+         <Point offset="0">300</Point>
+         <Event id="41" />
+         <Event id="42" />
+         <Event id="51" />
+         <Event id="91" />
+         <Event id="136" />
+         <Event id="200" />
+         <Event id="211" />
+         <Event id="212" />
+         <Event id="213" />
+         <Event id="214" />
+         <Event id="241" />
+         <Event id="242" />
+         <Event id="243" />
+         <Event id="244" />
+         <Event id="245" />
+         <Event id="246" />
+         <Event id="247" />
+         <Event id="275" />
+         <Event id="304" />
+         <Event id="305" />
+         <Event id="306" />
+         <Event id="307" />
+         <Event id="308" />
+         <Event id="309" />
+         <Event id="310" />
+         <Event id="324" />
+         <Event id="325" />
+         <Event id="326" />
+         <Event id="327" />
+         <Event id="328" />
+         <Event id="329" />
+         <Event id="330" />
+         <Event id="370" />
+         <Event id="371" />
+         <Event id="372" />
+         <Event id="373" />
+         <Event id="374" />
+         <Event id="375" />
+         <Event id="388" />
+         <Event id="397" />
+         <Event id="479" />
+         <Event id="480" />
+         <Event id="481" />
+         <Event id="482" />
+         <Event id="483" />
+         <Event id="484" />
+         <Event id="486" />
+         <Event id="487" />
+         <Event id="488" />
+         <Event id="489" />
+         <Event id="490" />
+         <Event id="491" />
+         <Event id="500" />
+         <Event id="501" />
+         <Event id="502" />
+         <Event id="503" />
+         <Event id="504" />
+         <Event id="505" />
+         <Event id="506" />
+         <Event id="507" />
+         <Event id="508" />
+         <Event id="509" />
+         <Event id="510" />
+         <Event id="511" />
+         <Event id="512" />
+         <Event id="513" />
+         <Event id="514" />
+         <Event id="515" />
+         <Event id="516" />
+         <Event id="517" />
+         <Event id="518" />
+         <Event id="519" />
+         <Event id="520" />
+         <Event id="637" />
+         <Event id="638" />
+         <Event id="639" />
+         <Event id="640" />
+         <Event id="641" />
+         <Event id="642" />
+         <Event id="643" />
+         <Event id="644" />
+         <Event id="645" />
+         <Event id="646" />
+         <Event id="736" />
+         <Event id="737" />
+         <Event id="738" />
+         <Event id="739" />
+         <Event id="740" />
+         <Event id="741" />
+         <Event id="742" />
+         <Event id="743" />
+         <Event id="744" />
+         <Event id="745" />
+         <Event id="746" />
+         <Event id="747" />
+         <Event id="748" />
+         <Event id="775" />
+         <Event id="776" />
+         <Event id="777" />
+         <Event id="778" />
+         <Event id="779" />
+         <Event id="780" />
+         <Event id="793" />
+         <Event id="794" />
+         <Event id="795" />
+         <Event id="796" />
+         <Event id="797" />
+         <Event id="798" />
+         <Event id="835" />
+         <Event id="836" />
+         <Event id="837" />
+         <Event id="838" />
+         <Event id="839" />
+         <Event id="841" />
+         <Event id="840" />
+         <Event id="843" />
+         <Event id="844" />
+         <Event id="846" />
+         <Event id="847" />
+         <Event id="849" />
+         <Event id="850" />
+         <Event id="852" />
+         <Event id="853" />
+         <Event id="899" />
+         <Event id="901" />
+         <Event id="903" />
+         <Event id="904" />
+         <Event id="905" />
+         <Event id="907" />
+         <Event id="909" />
+         <Event id="911" />
+         <Event id="912" />
+         <Event id="913" />
+         <Event id="914" />
+         <Event id="915" />
+         <Event id="916" />
+         <Event id="917" />
+         <Event id="918" />
+         <Event id="919" />
+         <Event id="920" />
+         <Event id="921" />
+         <Event id="922" />
+         <Event id="924" />
+         <Event id="927" />
+         <Event id="928" />
+         <Event id="929" />
+         <Event id="930" />
+         <Event id="931" />
+         <Event id="932" />
+         <Event id="933" />
+         <Event id="934" />
+         <Event id="935" />
+         <Event id="937" />
+         <Event id="939" />
+         <Event id="940" />
+         <Event id="941" />
+         <Event id="942" />
+         <Event id="944" />
+         <Event id="946" />
+         <Event id="948" />
+         <Event id="950" />
+         <Event id="951" />
+         <Event id="952" />
+         <Event id="953" />
+         <Event id="954" />
+         <Event id="955" />
+         <Event id="958" />
+         <Event id="959" />
+         <Event id="960" />
+         <Event id="962" />
+         <Event id="963" />
+         <Event id="964" />
+         <Event id="966" />
+         <Event id="967" />
+         <Event id="968" />
+         <Event id="973" />
+         <Event id="974" />
+         <Event id="976" />
+         <Event id="977" />
+         <Event id="981" />
+         <Event id="983" />
+         <Event id="985" />
+         <Event id="988" />
+         <Event id="1001" />
+         <Event id="1003" />
+         <Event id="1004" />
+         <Event id="1021" />
+         <Event id="1022" />
+         <Event id="1023" />
+         <Event id="1027" />
+         <Event id="1042" />
+         <Event id="1043" />
+         <Event id="1044" />
+         <Event id="1045" />
+         <Event id="1067" />
+         <Event id="1068" />
+         <Event id="1472" />
+         <Event id="1473" />
+         <Event id="1474" />
+         <Event id="1486" />
+         <Event id="1489" />
+         <Event id="1528" />
+         <Event id="1542" />
+         <Event id="1556" />
+         <Event id="1560" />
+         <Event id="1564" />
+         <Event id="1568" />
+         <Event id="1581" />
+         <Event id="1601" />
+         <Event id="1621" />
+         <Event id="1657" />
+         <Event id="1658" />
+         <Event id="1740" />
+         <Event id="1741" />
+         <Event id="1756" />
+         <Event id="1759" />
+         <Event id="1767" />
+         <Event id="1768" />
+         <Event id="1769" />
+         <Event id="1770" />
+         <Event id="1771" />
+         <Event id="1801" />
+         <Event id="1802" />
+         <Event id="1803" />
+         <Event id="1804" />
+         <Event id="1805" />
+         <Event id="1806" />
+         <Event id="1817" />
+         <Event id="1830" />
+         <Event id="1847" />
+         <Event id="1858" />
+         <Event id="1868" />
+         <Event id="1876" />
+         <Event id="1880" />
+      </Duration>
+      <Duration> <!-- 10 min -->
+         <Point offset="0">600</Point>
+         <Event id="1622" />
+      </Duration>
+      <Duration> <!-- 15 min -->
+         <Point offset="0">900</Point>
+         <Event id="1602" />
+      </Duration>
+      <Duration> <!-- 20 min -->
+         <Point offset="0">1200</Point>
+         <Event id="1623" />
+      </Duration>
+      <Duration> <!-- 25 min -->
+         <Point offset="0">1500</Point>
+         <Event id="1624" />
+      </Duration>
+      <Duration> <!-- 30 min -->
+         <Point offset="0">1800</Point>
+         <Event id="1603" />
+      </Duration>
+      <Duration> <!-- 40 min -->
+         <Point offset="0">2400</Point>
+         <Event id="1625" />
+      </Duration>
+      <Duration> <!-- 50 min -->
+         <Point offset="0">3000</Point>
+         <Event id="1626" />
+      </Duration>
+      <Duration> <!-- 60 min -->
+         <!-- großer Zeitverlust -->
+         <Point offset="0">3600</Point>
+         <Event id="249" />
+         <Event id="277" />
+         <Event id="312" />
+         <Event id="332" />
+         <Event id="377" />
+         <Event id="390" />
+         <Event id="749" />
+         <Event id="782" />
+         <Event id="842" />
+         <Event id="845" />
+         <Event id="848" />
+         <Event id="851" />
+         <Event id="1029" />
+         <Event id="1488" />
+         <Event id="1491" />
+         <Event id="1530" />
+         <Event id="1544" />
+         <Event id="1558" />
+         <Event id="1562" />
+         <Event id="1566" />
+         <Event id="1570" />
+         <Event id="1583" />
+         <Event id="1604" />
+         <Event id="1608" />
+         <Event id="1631" />
+         <Event id="1632" />
+         <Event id="1758" />
+         <Event id="1761" />
+         <Event id="1819" />
+         <Event id="1832" />
+         <Event id="1870" />
+         <Event id="1878" />
+         <Event id="1885" />
+      </Duration>
+      <Duration> <!-- 75 min -->
+         <Point offset="0">4500</Point>
+         <Event id="1616" />
+      </Duration>
+      <Duration> <!-- 90 min -->
+         <Point offset="0">5400</Point>
+         <Event id="1627" />
+         <Event id="1655" />
+      </Duration>
+      <Duration> <!--  2 h -->
+         <Point offset="0">7200</Point>
+         <Event id="1605" />
+      </Duration>
+      <Duration> <!--  3 h -->
+         <Point offset="0">10800</Point>
+         <Event id="1628" />
+      </Duration>
+      <Duration> <!--  4 h -->
+         <Point offset="0">14400</Point>
+         <Event id="1606" />
+         <Event id="1629" />
+      </Duration>
+      <Duration> <!--  5 h -->
+         <Point offset="0">18000</Point>
+         <Event id="1630" />
+      </Duration>
+      <Speed> <!-- 10 km/h -->
+         <Point offset="0">10</Point>
+         <Event id="70" />
+      </Speed>
+      <Speed> <!-- 20 km/h -->
+         <Point offset="0">20</Point>
+         <Event id="71" />
+      </Speed>
+      <Speed> <!-- 30 km/h -->
+         <Point offset="0">30</Point>
+         <Event id="72" />
+      </Speed>
+      <Speed> <!-- 40 km/h -->
+         <Point offset="0">40</Point>
+         <Event id="73" />
+      </Speed>
+      <Speed> <!-- 50 km/h -->
+         <Point offset="0">50</Point>
+         <Event id="74" />
+      </Speed>
+      <Speed> <!-- 60 km/h -->
+         <Point offset="0">60</Point>
+         <Event id="75" />
+      </Speed>
+      <Speed>
+         <Point offset="0">70</Point>
+         <Event id="76" />
+      </Speed>
+   </LevelOfService>
+
+   <LevelOfService losCode="1">
+      <!-- free traffic flow (100% - 90%) störungsfreier Verkehr -->
+      <Duration>
+         <Point offset="0">0</Point>
+         <Event id="124" />
+         <Event id="126" />
+         <Event id="127" />
+         <Event id="128" />
+         <Event id="137" />
+         <Event id="141" />
+         <Event id="238" />
+         <Event id="301" />
+         <Event id="321" />
+         <Event id="333" />
+         <Event id="334" />
+         <Event id="396" />
+         <Event id="466" />
+         <Event id="467" />
+         <Event id="468" />
+         <Event id="544" />
+         <Event id="554" />
+         <Event id="564" />
+         <Event id="574" />
+         <Event id="599" />
+         <Event id="612" />
+         <Event id="622" />
+         <Event id="630" />
+         <Event id="632" />
+         <Event id="633" />
+         <Event id="634" />
+         <Event id="733" />
+         <Event id="773" />
+         <Event id="791" />
+         <Event id="833" />
+         <Event id="936" />
+         <Event id="970" />
+         <Event id="1525" />
+         <Event id="1539" />
+         <Event id="1553" />
+         <Event id="1584" />
+         <Event id="1586" />
+         <Event id="1648" />
+         <Event id="1663" />
+         <Event id="1815" />
+         <Event id="1828" />
+      </Duration>
+   </LevelOfService>
+
+   <LevelOfService losCode="2">
+      <!-- heavy traffic flow (90% - 75%) reger, starker Verkehr -->
+      <Duration>
+         <Point offset="0">100</Point>
+         <Point offset="1000">150</Point>
+         <Point offset="5000">300</Point>
+         <Point offset="10000">600</Point>
+         <Point offset="100000">6000</Point>
+         <Event id="61" />
+         <Event id="62" />
+         <Event id="122" />
+         <Event id="236" />
+         <Event id="271" />
+         <Event id="299" />
+         <Event id="319" />
+         <Event id="366" />
+         <Event id="542" />
+         <Event id="552" />
+         <Event id="562" />
+         <Event id="572" />
+         <Event id="597" />
+         <Event id="610" />
+         <Event id="620" />
+         <Event id="731" />
+         <Event id="771" />
+         <Event id="789" />
+         <Event id="831" />
+         <Event id="1495" />
+         <Event id="1523" />
+         <Event id="1537" />
+         <Event id="1551" />
+         <Event id="1577" />
+         <Event id="1813" />
+         <Event id="1826" />
+      </Duration>
+   </LevelOfService>
+
+   <LevelOfService losCode="3">
+      <!-- slow traffic flow (75% - 45%) dichter Verkehr-->
+      <Duration>
+         <Point offset="0">150</Point>
+         <Point offset="1000">250</Point>
+         <Point offset="5000">500</Point>
+         <Point offset="10000">750</Point>
+         <Point offset="100000">7500</Point>
+         <Event id="1" />
+         <Event id="115" />
+         <Event id="116" />
+         <Event id="117" />
+         <Event id="118" />
+         <Event id="119" />
+         <Event id="120" />
+         <Event id="134" />
+         <Event id="142" />
+         <Event id="143" />
+         <Event id="229" />
+         <Event id="230" />
+         <Event id="231" />
+         <Event id="232" />
+         <Event id="233" />
+         <Event id="234" />
+         <Event id="264" />
+         <Event id="265" />
+         <Event id="266" />
+         <Event id="267" />
+         <Event id="268" />
+         <Event id="269" />
+         <Event id="292" />
+         <Event id="293" />
+         <Event id="294" />
+         <Event id="295" />
+         <Event id="296" />
+         <Event id="297" />
+         <Event id="317" />
+         <Event id="350" />
+         <Event id="354" />
+         <Event id="358" />
+         <Event id="364" />
+         <Event id="535" />
+         <Event id="536" />
+         <Event id="537" />
+         <Event id="538" />
+         <Event id="539" />
+         <Event id="540" />
+         <Event id="550" />
+         <Event id="560" />
+         <Event id="570" />
+         <Event id="590" />
+         <Event id="591" />
+         <Event id="592" />
+         <Event id="593" />
+         <Event id="594" />
+         <Event id="595" />
+         <Event id="608" />
+         <Event id="618" />
+         <Event id="653" />
+         <Event id="656" />
+         <Event id="724" />
+         <Event id="725" />
+         <Event id="726" />
+         <Event id="727" />
+         <Event id="728" />
+         <Event id="729" />
+         <Event id="764" />
+         <Event id="765" />
+         <Event id="766" />
+         <Event id="767" />
+         <Event id="768" />
+         <Event id="769" />
+         <Event id="787" />
+         <Event id="814" />
+         <Event id="820" />
+         <Event id="829" />
+         <Event id="1521" />
+         <Event id="1535" />
+         <Event id="1549" />
+         <Event id="1575" />
+         <Event id="1811" />
+         <Event id="1824" />
+      </Duration>
+   </LevelOfService>
+
+   <LevelOfService losCode="4">
+      <!-- queuing traffic flow (45% - 20%) stockender Verkehr -->
+      <Duration>
+         <Point offset="0">200</Point>
+         <Point offset="1000">300</Point>
+         <Point offset="5000">750</Point>
+         <Point offset="10000">1100</Point>
+         <Point offset="100000">11000</Point>
+         <Event id="108" />
+         <Event id="109" />
+         <Event id="110" />
+         <Event id="111" />
+         <Event id="112" />
+         <Event id="113" />
+         <Event id="131" />
+         <Event id="222" />
+         <Event id="223" />
+         <Event id="224" />
+         <Event id="225" />
+         <Event id="226" />
+         <Event id="227" />
+         <Event id="257" />
+         <Event id="258" />
+         <Event id="259" />
+         <Event id="260" />
+         <Event id="261" />
+         <Event id="262" />
+         <Event id="285" />
+         <Event id="286" />
+         <Event id="287" />
+         <Event id="288" />
+         <Event id="289" />
+         <Event id="290" />
+         <Event id="315" />
+         <Event id="349" />
+         <Event id="353" />
+         <Event id="357" />
+         <Event id="362" />
+         <Event id="381" />
+         <Event id="528" />
+         <Event id="529" />
+         <Event id="530" />
+         <Event id="531" />
+         <Event id="532" />
+         <Event id="533" />
+         <Event id="548" />
+         <Event id="558" />
+         <Event id="568" />
+         <Event id="583" />
+         <Event id="584" />
+         <Event id="585" />
+         <Event id="586" />
+         <Event id="587" />
+         <Event id="588" />
+         <Event id="606" />
+         <Event id="616" />
+         <Event id="652" />
+         <Event id="655" />
+         <Event id="717" />
+         <Event id="718" />
+         <Event id="719" />
+         <Event id="720" />
+         <Event id="721" />
+         <Event id="722" />
+         <Event id="757" />
+         <Event id="758" />
+         <Event id="759" />
+         <Event id="760" />
+         <Event id="761" />
+         <Event id="762" />
+         <Event id="783" />
+         <Event id="785" />
+         <Event id="813" />
+         <Event id="819" />
+         <Event id="827" />
+         <Event id="1519" />
+         <Event id="1533" />
+         <Event id="1547" />
+         <Event id="1573" />
+         <Event id="1809" />
+         <Event id="1822" />
+      </Duration>
+   </LevelOfService>
+
+   <LevelOfService losCode="5">
+      <!-- stationary traffic flow (20% - 5%) Stau -->
+      <Duration>
+         <Point offset="0">400</Point>
+         <Point offset="1000">1200</Point>
+         <Point offset="5000">3600</Point>
+         <Point offset="10000">7200</Point>
+         <Point offset="100000">72000</Point>
+         <Event id="101" />
+         <Event id="102" />
+         <Event id="103" />
+         <Event id="104" />
+         <Event id="105" />
+         <Event id="106" />
+         <Event id="129" />
+         <Event id="133" />
+         <Event id="138" />
+         <Event id="215" />
+         <Event id="216" />
+         <Event id="217" />
+         <Event id="218" />
+         <Event id="219" />
+         <Event id="220" />
+         <Event id="250" />
+         <Event id="251" />
+         <Event id="252" />
+         <Event id="253" />
+         <Event id="254" />
+         <Event id="255" />
+         <Event id="278" />
+         <Event id="279" />
+         <Event id="280" />
+         <Event id="281" />
+         <Event id="282" />
+         <Event id="283" />
+         <Event id="313" />
+         <Event id="348" />
+         <Event id="352" />
+         <Event id="356" />
+         <Event id="360" />
+         <Event id="521" />
+         <Event id="522" />
+         <Event id="523" />
+         <Event id="524" />
+         <Event id="525" />
+         <Event id="526" />
+         <Event id="546" />
+         <Event id="556" />
+         <Event id="566" />
+         <Event id="576" />
+         <Event id="578" />
+         <Event id="579" />
+         <Event id="580" />
+         <Event id="581" />
+         <Event id="604" />
+         <Event id="614" />
+         <Event id="651" />
+         <Event id="654" />
+         <Event id="710" />
+         <Event id="711" />
+         <Event id="712" />
+         <Event id="713" />
+         <Event id="714" />
+         <Event id="715" />
+         <Event id="750" />
+         <Event id="751" />
+         <Event id="752" />
+         <Event id="753" />
+         <Event id="754" />
+         <Event id="755" />
+         <Event id="812" />
+         <Event id="818" />
+         <Event id="825" />
+         <Event id="1036" />
+         <Event id="1517" />
+         <Event id="1531" />
+         <Event id="1545" />
+         <Event id="1571" />
+         <Event id="1807" />
+         <Event id="1820" />
+      </Duration>
+   </LevelOfService>
+
+   <LevelOfService losCode="6">
+      <!-- no traffic flow (5% - 0%) 86400 Gespert, blockiert -->
+      <Duration>
+         <Point offset="0">43200</Point>
+         <Event id="16" />
+         <Event id="24" />
+         <Event id="25" />
+         <Event id="26" />
+         <Event id="27" />
+         <Event id="28" />
+         <Event id="83" />
+         <Event id="240" />
+         <Event id="303" />
+         <Event id="323" />
+         <Event id="369" />
+         <Event id="401" />
+         <Event id="402" />
+         <Event id="405" />
+         <Event id="406" />
+         <Event id="407" />
+         <Event id="408" />
+         <Event id="410" />
+         <Event id="411" />
+         <Event id="412" />
+         <Event id="413" />
+         <Event id="414" />
+         <Event id="415" />
+         <Event id="416" />
+         <Event id="417" />
+         <Event id="418" />
+         <Event id="419" />
+         <Event id="420" />
+         <Event id="421" />
+         <Event id="422" />
+         <Event id="423" />
+         <Event id="424" />
+         <Event id="425" />
+         <Event id="426" />
+         <Event id="427" />
+         <Event id="428" />
+         <Event id="429" />
+         <Event id="430" />
+         <Event id="431" />
+         <Event id="432" />
+         <Event id="433" />
+         <Event id="434" />
+         <Event id="435" />
+         <Event id="436" />
+         <Event id="437" />
+         <Event id="438" />
+         <Event id="439" />
+         <Event id="440" />
+         <Event id="441" />
+         <Event id="442" />
+         <Event id="443" />
+         <Event id="444" />
+         <Event id="445" />
+         <Event id="446" />
+         <Event id="447" />
+         <Event id="448" />
+         <Event id="449" />
+         <Event id="450" />
+         <Event id="451" />
+         <Event id="452" />
+         <Event id="453" />
+         <Event id="454" />
+         <Event id="455" />
+         <Event id="456" />
+         <Event id="457" />
+         <Event id="458" />
+         <Event id="459" />
+         <Event id="460" />
+         <Event id="461" />
+         <Event id="462" />
+         <Event id="463" />
+         <Event id="464" />
+         <Event id="465" />
+         <Event id="469" />
+         <Event id="470" />
+         <Event id="471" />
+         <Event id="472" />
+         <Event id="473" />
+         <Event id="474" />
+         <Event id="475" />
+         <Event id="476" />
+         <Event id="477" />
+         <Event id="478" />
+         <Event id="485" />
+         <Event id="492" />
+         <Event id="495" />
+         <Event id="496" />
+         <Event id="497" />
+         <Event id="498" />
+         <Event id="499" />
+         <Event id="626" />
+         <Event id="664" />
+         <Event id="665" />
+         <Event id="666" />
+         <Event id="735" />
+         <Event id="799" />
+         <Event id="925" />
+         <Event id="926" />
+         <Event id="938" />
+         <Event id="943" />
+         <Event id="945" />
+         <Event id="947" />
+         <Event id="949" />
+         <Event id="956" />
+         <Event id="957" />
+         <Event id="961" />
+         <Event id="965" />
+         <Event id="969" />
+         <Event id="980" />
+         <Event id="982" />
+         <Event id="987" />
+         <Event id="993" />
+         <Event id="995" />
+         <Event id="1020" />
+         <Event id="1035" />
+         <Event id="1338" />
+         <Event id="1485" />
+         <Event id="1527" />
+         <Event id="1541" />
+         <Event id="1555" />
+         <Event id="1559" />
+         <Event id="1563" />
+         <Event id="1567" />
+         <Event id="1580" />
+         <Event id="1633" />
+         <Event id="2000" />
+      </Duration>
+   </LevelOfService>
+
+
+<!-- constant tendency -->
+   <LevelOfService losCode="9">
+      <!-- free traffic flow constant -->
+   </LevelOfService>
+
+   <LevelOfService losCode="10">
+      <!-- heavy traffic flow constant -->
+   </LevelOfService>
+
+   <LevelOfService losCode="11">
+      <!-- slow traffic flow constant -->
+   </LevelOfService>
+
+   <LevelOfService losCode="12">
+      <!-- queuing traffic flow constant -->
+   </LevelOfService>
+
+   <LevelOfService losCode="13">
+      <!-- stationary traffic flow constant -->
+   </LevelOfService>
+
+   <LevelOfService losCode="14">
+      <!-- no traffic flow constant -->
+   </LevelOfService>
+
+
+<!-- increasing (+1) tendency -->
+   <LevelOfService losCode="17">
+      <!-- free traffic flow increasing (+1) -->
+      <Duration>
+         <Point offset="0">0</Point>
+         <Event id="55" />
+         <Event id="123" />
+         <Event id="237" />
+         <Event id="272" />
+         <Event id="300" />
+         <Event id="320" />
+         <Event id="367" />
+         <Event id="790" />
+      </Duration>
+      <Duration>
+         <!-- frei -> reger Verkehr -->
+         <Point offset="0">360</Point>
+         <Event id="543" />
+         <Event id="553" />
+         <Event id="563" />
+         <Event id="573" />
+         <Event id="611" />
+         <Event id="621" />
+         <Event id="732" />
+         <Event id="772" />
+         <Event id="832" />
+         <Event id="1524" />
+         <Event id="1538" />
+         <Event id="1552" />
+         <Event id="1578" />
+         <Event id="1814" />
+         <Event id="1827" />
+      </Duration>
+   </LevelOfService>
+
+   <LevelOfService losCode="18">
+      <!-- heavy traffic flow increasing (+1) -->
+   </LevelOfService>
+
+   <LevelOfService losCode="19">
+      <!-- slow traffic flow increasing (+1) -->
+      <Duration>
+         <Point offset="0">150</Point>
+         <Point offset="1000">250</Point>
+         <Point offset="5000">500</Point>
+         <Point offset="10000">750</Point>
+         <Point offset="100000">7500</Point>
+         <Event id="125" />
+         <Event id="274" />
+         <Event id="302" />
+         <Event id="322" />
+         <Event id="368" />
+         <Event id="387" />
+         <Event id="545" />
+         <Event id="555" />
+         <Event id="565" />
+         <Event id="575" />
+         <Event id="600" />
+         <Event id="613" />
+         <Event id="623" />
+         <Event id="734" />
+         <Event id="774" />
+         <Event id="792" />
+         <Event id="834" />
+         <Event id="1526" />
+         <Event id="1540" />
+         <Event id="1554" />
+         <Event id="1579" />
+         <Event id="1812" />
+         <Event id="1816" />
+         <Event id="1825" />
+         <Event id="1829" />
+      </Duration>
+   </LevelOfService>
+
+   <LevelOfService losCode="20">
+      <!-- queuing traffic flow increasing (+1) -->
+      <Duration>
+         <Point offset="0">200</Point>
+         <Point offset="1000">300</Point>
+         <Point offset="5000">750</Point>
+         <Point offset="10000">1100</Point>
+         <Point offset="100000">11000</Point>
+         <Event id="2" />
+      </Duration>
+   </LevelOfService>
+
+
+<!-- decreasing (-1) tendency -->
+   <LevelOfService losCode="26">
+      <!-- heavy traffic flow decreasing (-1) -->
+      <Duration>
+         <Point offset="0">100</Point>
+         <Point offset="1000">150</Point>
+         <Point offset="5000">300</Point>
+         <Point offset="10000">600</Point>
+         <Point offset="100000">6000</Point>
+         <Event id="385" />
+      </Duration>
+   </LevelOfService>
+
+   <LevelOfService losCode="27">
+      <!-- slow traffic flow decreasing (-1) -->
+      <Duration>
+         <Point offset="0">150</Point>
+         <Point offset="1000">250</Point>
+         <Point offset="5000">500</Point>
+         <Point offset="10000">750</Point>
+         <Point offset="100000">7500</Point>
+         <Event id="135" />
+         <Event id="383" />
+      </Duration>
+   </LevelOfService>
+
+   <LevelOfService losCode="28">
+      <!-- queuing traffic flow decreasing (-1) -->
+   </LevelOfService>
+
+   <LevelOfService losCode="29">
+      <!-- stationary traffic flow decreasing (-1) -->
+      <Duration>
+         <Point offset="0">360</Point>
+         <Point offset="1000">600</Point>
+         <Point offset="5000">1800</Point>
+         <Point offset="10000">3500</Point>
+         <Point offset="100000">35000</Point>
+         <Event id="379" />
+      </Duration>
+   </LevelOfService>
+
+   <LevelOfService losCode="30">
+      <!-- no traffic flow decreasing (-1) -->
+   </LevelOfService>
+
+
+<!-- increasing (+2) tendency -->
+   <LevelOfService losCode="33">
+      <!-- free traffic flow increasing (+2) -->
+      <Duration>
+         <Point offset="0">0</Point>
+         <Event id="56" />
+         <Event id="107" />
+         <Event id="114" />
+         <Event id="121" />
+         <Event id="130" />
+         <Event id="132" />
+         <Event id="221" />
+         <Event id="228" />
+         <Event id="235" />
+         <Event id="256" />
+         <Event id="263" />
+         <Event id="270" />
+         <Event id="284" />
+         <Event id="291" />
+         <Event id="298" />
+         <Event id="314" />
+         <Event id="316" />
+         <Event id="318" />
+         <Event id="361" />
+         <Event id="363" />
+         <Event id="365" />
+      </Duration>
+      <Duration>
+         <!-- frei -> Staufefahr, stockender, dichter V. -->
+         <Point offset="0">420</Point>
+         <Event id="527" />
+         <Event id="534" />
+         <Event id="541" />
+         <Event id="547" />
+         <Event id="549" />
+         <Event id="551" />
+         <Event id="557" />
+         <Event id="559" />
+         <Event id="561" />
+         <Event id="567" />
+         <Event id="569" />
+         <Event id="571" />
+         <Event id="577" />
+         <Event id="582" />
+         <Event id="589" />
+         <Event id="596" />
+         <Event id="598" />
+         <Event id="605" />
+         <Event id="607" />
+         <Event id="609" />
+         <Event id="615" />
+         <Event id="617" />
+         <Event id="619" />
+         <Event id="716" />
+         <Event id="723" />
+         <Event id="730" />
+         <Event id="756" />
+         <Event id="763" />
+         <Event id="770" />
+         <Event id="784" />
+         <Event id="786" />
+         <Event id="788" />
+         <Event id="826" />
+         <Event id="828" />
+         <Event id="830" />
+         <Event id="1518" />
+         <Event id="1520" />
+         <Event id="1522" />
+         <Event id="1532" />
+         <Event id="1534" />
+         <Event id="1536" />
+         <Event id="1546" />
+         <Event id="1548" />
+         <Event id="1550" />
+         <Event id="1572" />
+         <Event id="1574" />
+         <Event id="1576" />
+      </Duration>
+   </LevelOfService>
+
+   <LevelOfService losCode="34">
+      <!-- heavy traffic flow increasing (+2) -->
+   </LevelOfService>
+
+   <LevelOfService losCode="35">
+      <!-- slow traffic flow increasing (+2) -->
+      <Duration>
+         <Point offset="0">150</Point>
+         <Point offset="1000">250</Point>
+         <Point offset="5000">500</Point>
+         <Point offset="10000">750</Point>
+         <Point offset="100000">7500</Point>
+         <Event id="239" />
+      </Duration>
+   </LevelOfService>
+
+
+<!-- decreasing (-2) tendency -->
+   <LevelOfService losCode="43">
+      <!-- slow traffic flow decreasing (-2) -->
+   </LevelOfService>
+
+   <LevelOfService losCode="44">
+      <!-- queuing traffic flow decreasing (-2) -->
+   </LevelOfService>
+
+   <LevelOfService losCode="45">
+      <!-- stationary traffic flow decreasing (-2) -->
+   </LevelOfService>
+
+   <LevelOfService losCode="46">
+      <!-- no traffic flow decreasing (-3) -->
+   </LevelOfService>
+
+</DelayConfig>
