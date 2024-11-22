@@ -265,14 +265,14 @@
       <LabelStyle>84</LabelStyle>
       <LayerSet>
         <LayerPattern type="uni-fill" layer="0">
-          <Color mode="day">#7A93B6FF</Color>
-          <Color mode="night">#999354FF</Color>
+          <Color mode="day">#5E554FFF</Color>
+          <Color mode="night">#A3A3A3FF</Color>
           <Thickness func="104" unit="px">10.0</Thickness><!--8-->
           <Priority>1000</Priority>
         </LayerPattern>
         <LayerPattern type="uni-fill" layer="1">
-          <Color mode="day">#737360FF</Color>
-          <Color mode="night">#5E554FFF</Color>
+          <Color mode="day">#7A93B6FF</Color>
+          <Color mode="night">#32332FFF</Color>
           <Thickness func="104" unit="px">16.0</Thickness><!--15-->
           <Priority>90</Priority>
         </LayerPattern>
@@ -393,14 +393,14 @@
       <LayerSet>
         <LayerPattern type="uni-fill" layer="0">
           <Color mode="day">  #C5CFDCFF</Color>
-          <Color mode="night">#726D50FF</Color>
+          <Color mode="night">#A3A3A3FF</Color>
           <Thickness func="103" unit="px">10.0</Thickness><!--8-->
           <Priority>900</Priority>
         </LayerPattern>
         <LayerPattern type="uni-fill" layer="1">
-          <Color mode="day">  #B4C1CFFF</Color>
+          <Color mode="day">  #787878FF</Color>
           <Color mode="night">#32332FFF</Color>
-          <Thickness func="103" unit="px">16.0</Thickness><!--14-->
+          <Thickness func="103" unit="px">12.0</Thickness><!--14-->
           <Priority>80</Priority>
         </LayerPattern>
       </LayerSet>
@@ -558,14 +558,14 @@
       <LayerSet>
         <LayerPattern type="uni-fill" layer="0">
           <Color mode="day">  #C5CFDCFF</Color>
-          <Color mode="night">#494948FF</Color>
+          <Color mode="night">#A3A3A3FF</Color>
           <Thickness func="102" unit="px">7.0</Thickness><!--5.0-->
           <Priority>700</Priority>
         </LayerPattern>
         <LayerPattern type="uni-fill" layer="1">
           <Color mode="day">  #787878FF</Color>
           <Color mode="night">#202222FF</Color>
-          <Thickness func="102" unit="px">13.0</Thickness><!--12.0-->
+          <Thickness func="102" unit="px">10.0</Thickness><!--12.0-->
           <Priority>60</Priority>
         </LayerPattern>
       </LayerSet>
