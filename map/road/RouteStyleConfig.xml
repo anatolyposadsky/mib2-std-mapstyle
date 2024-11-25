@@ -1,4 +1,4 @@
-﻿<RouteStyleConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1" >
+<RouteStyleConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1" >
 	
 	<!-- we can config some general route display options here, these will not result in a style database entry -->
 	<RouteSelfOverLap>true</RouteSelfOverLap>
@@ -383,15 +383,15 @@
 				<LayerSet>
 					<LayerPattern layer="0" type="uni-fill">
 						<!--inline-->
-						<Color mode="day"  >#FFFFFFFF</Color>
-						<Color mode="night">#FFFFFFFF</Color>
+						<Color mode="day"  >#42E014FF</Color>
+						<Color mode="night">#42E014FF</Color>
 						<Thickness func="100" unit="px">8.0</Thickness>
 						<Priority>104</Priority>
 					</LayerPattern>
 					<LayerPattern layer="1" type="uni-fill">
 						<!--outline-->
-						<Color mode="day"  >#ED3F49FF</Color>
-						<Color mode="night">#ED3F49FF</Color>
+						<Color mode="day"  >#34B310FF</Color>
+						<Color mode="night">#34B310FF</Color>
 						<Thickness func="100" unit="px">20.0</Thickness>
 						<Priority>103</Priority>
 					</LayerPattern>
@@ -420,15 +420,15 @@
 				<LayerSet>
 					<LayerPattern layer="0" type="uni-fill">
 						<!--inline-->
-						<Color mode="day"  >#FFFFFFFF</Color>
-						<Color mode="night">#FFFFFFFF</Color>
+						<Color mode="day"  >#42E014FF</Color>
+						<Color mode="night">#42E014FF</Color>
 						<Thickness func="100" unit="px">8.0</Thickness>
 						<Priority>102</Priority>
 					</LayerPattern>
 					<LayerPattern layer="1" type="uni-fill">
 						<!--outline-->
-						<Color mode="day"  >#ED3F49FF</Color>
-						<Color mode="night">#ED3F49FF</Color>
+						<Color mode="day"  >#34B310FF</Color>
+						<Color mode="night">#34B310FF</Color>
 						<Thickness func="100" unit="px">20.0</Thickness>
 						<Priority>101</Priority>
 					</LayerPattern>
@@ -457,15 +457,15 @@
 				<LayerSet>
 					<LayerPattern layer="0" type="uni-fill">
 						<!--inline-->
-						<Color mode="day"  >#F1B9B9FF</Color>
-						<Color mode="night">#F1B9B9FF</Color>
+						<Color mode="day"  >#42E014FF</Color>
+						<Color mode="night">#42E014FF</Color>
 						<Thickness func="100" unit="px">8.0</Thickness>
 						<Priority>100</Priority>
 					</LayerPattern>
 					<LayerPattern layer="1" type="uni-fill">
 						<!--outline-->
-						<Color mode="day"  >#ED3F49FF</Color>
-						<Color mode="night">#ED3F49FF</Color>
+						<Color mode="day"  >#34B310FF</Color>
+						<Color mode="night">#34B310FF</Color>
 						<Thickness func="100" unit="px">20.0</Thickness>
 						<Priority>99</Priority>
 					</LayerPattern>
@@ -494,15 +494,15 @@
 				<LayerSet>
 					<LayerPattern layer="0" type="uni-fill">
 						<!--inline-->
-						<Color mode="day"  >#FFFFFFFF</Color>
-						<Color mode="night">#FFFFFFFF</Color>
+						<Color mode="day"  >#42E014FF</Color>
+						<Color mode="night">#42E014FF</Color>
 						<Thickness func="100" unit="px">8.0</Thickness>
 						<Priority>10</Priority>
 					</LayerPattern>
 					<LayerPattern layer="1" type="uni-fill">
 						<!--outline-->
-						<Color mode="day"  >#ED3F49FF</Color>
-						<Color mode="night">#ED3F49FF</Color>
+						<Color mode="day"  >#34B310FF</Color>
+						<Color mode="night">#34B310FF</Color>
 						<Thickness func="100" unit="px">20.0</Thickness>
 						<Priority>9</Priority>
 					</LayerPattern>
@@ -531,15 +531,15 @@
 				<LayerSet>
 					<LayerPattern layer="0" type="uni-fill">
 						<!--inline-->
-						<Color mode="day"  >#FFFFFFFF</Color>
-						<Color mode="night">#FFFFFFFF</Color>
+						<Color mode="day"  >#42E014FF</Color>
+						<Color mode="night">#42E014FF</Color>
 						<Thickness func="100" unit="px">8.0</Thickness>
 						<Priority>20</Priority>
 					</LayerPattern>
 					<LayerPattern layer="1" type="uni-fill">
 						<!--outline-->
-						<Color mode="day"  >#ED3F49FF</Color>
-						<Color mode="night">#ED3F49FF</Color>
+						<Color mode="day"  >#34B310FF</Color>
+						<Color mode="night">#34B310FF</Color>
 						<Thickness func="100" unit="px">20.0</Thickness>
 						<Priority>19</Priority>
 					</LayerPattern>
@@ -568,15 +568,15 @@
 				<LayerSet>
 					<LayerPattern layer="0" type="uni-fill">
 						<!--inline-->
-						<Color mode="day"  >#FFFFFFFF</Color>
-						<Color mode="night">#FFFFFFFF</Color>
+						<Color mode="day"  >#42E014FF</Color>
+						<Color mode="night">#42E014FF</Color>
 						<Thickness func="100" unit="px">8.0</Thickness>
 						<Priority>30</Priority>
 					</LayerPattern>
 					<LayerPattern layer="1" type="uni-fill">
 						<!--outline-->
-						<Color mode="day"  >#ED3F49FF</Color>
-						<Color mode="night">#ED3F49FF</Color>
+						<Color mode="day"  >#34B310FF</Color>
+						<Color mode="night">#34B310FF</Color>
 						<Thickness func="100" unit="px">20.0</Thickness>
 						<Priority>29</Priority>
 					</LayerPattern>
@@ -605,15 +605,15 @@
 				<LayerSet>
 					<LayerPattern layer="0" type="uni-fill">
 						<!--inline-->
-						<Color mode="day"  >#FFFFFFFF</Color>
-						<Color mode="night">#FFFFFFFF</Color>
+						<Color mode="day"  >#42E014FF</Color>
+						<Color mode="night">#42E014FF</Color>
 						<Thickness func="100" unit="px">8.0</Thickness>
 						<Priority>30</Priority>
 					</LayerPattern>
 					<LayerPattern layer="1" type="uni-fill">
 						<!--outline-->
-						<Color mode="day"  >#ED3F49FF</Color>
-						<Color mode="night">#ED3F49FF</Color>
+						<Color mode="day"  >#34B310FF</Color>
+						<Color mode="night">#34B310FF</Color>
 						<Thickness func="100" unit="px">20.0</Thickness>
 						<Priority>29</Priority>
 					</LayerPattern>
@@ -642,15 +642,15 @@
 				<LayerSet>
 					<LayerPattern layer="0" type="uni-fill">
 						<!--inline-->
-						<Color mode="day"  >#FFFFFFFF</Color>
-						<Color mode="night">#FFFFFFFF</Color>
+						<Color mode="day"  >#42E014FF</Color>
+						<Color mode="night">#42E014FF</Color>
 						<Thickness func="100" unit="px">8.0</Thickness>
 						<Priority>120</Priority>
 					</LayerPattern>
 					<LayerPattern layer="1" type="uni-fill">
 						<!--outline-->
-						<Color mode="day"  >#ED3F49FF</Color>
-						<Color mode="night">#ED3F49FF</Color>
+						<Color mode="day"  >#34B310FF</Color>
+						<Color mode="night">#34B310FF</Color>
 						<Thickness func="100" unit="px">20.0</Thickness>
 						<Priority>119</Priority>
 					</LayerPattern>

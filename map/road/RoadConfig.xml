@@ -265,14 +265,14 @@
       <LabelStyle>84</LabelStyle>
       <LayerSet>
         <LayerPattern type="uni-fill" layer="0">
-          <Color mode="day">#5E554FFF</Color>
-          <Color mode="night">#A3A3A3FF</Color>
+          <Color mode="day">#FFD745FF</Color>
+          <Color mode="night">#DCB93AFF</Color>
           <Thickness func="104" unit="px">10.0</Thickness><!--8-->
           <Priority>1000</Priority>
         </LayerPattern>
         <LayerPattern type="uni-fill" layer="1">
-          <Color mode="day">#7A93B6FF</Color>
-          <Color mode="night">#32332FFF</Color>
+          <Color mode="day">#705D19FF</Color>
+          <Color mode="night">#705D19FF</Color>
           <Thickness func="104" unit="px">16.0</Thickness><!--15-->
           <Priority>90</Priority>
         </LayerPattern>
@@ -392,14 +392,14 @@
       <LabelStyle>84</LabelStyle>
       <LayerSet>
         <LayerPattern type="uni-fill" layer="0">
-          <Color mode="day">  #C5CFDCFF</Color>
-          <Color mode="night">#A3A3A3FF</Color>
+          <Color mode="day">  #FFF9A9FF</Color>
+          <Color mode="night">#BAB24CFF</Color>
           <Thickness func="103" unit="px">10.0</Thickness><!--8-->
           <Priority>900</Priority>
         </LayerPattern>
         <LayerPattern type="uni-fill" layer="1">
-          <Color mode="day">  #787878FF</Color>
-          <Color mode="night">#32332FFF</Color>
+          <Color mode="day">  #8E8A5AFF</Color>
+          <Color mode="night">#8E8A5AFF</Color>
           <Thickness func="103" unit="px">12.0</Thickness><!--14-->
           <Priority>80</Priority>
         </LayerPattern>
@@ -557,14 +557,14 @@
       <LabelStyle>99</LabelStyle>
       <LayerSet>
         <LayerPattern type="uni-fill" layer="0">
-          <Color mode="day">  #C5CFDCFF</Color>
+          <Color mode="day">  #F0F0F0FF</Color>
           <Color mode="night">#A3A3A3FF</Color>
           <Thickness func="102" unit="px">7.0</Thickness><!--5.0-->
           <Priority>700</Priority>
         </LayerPattern>
         <LayerPattern type="uni-fill" layer="1">
-          <Color mode="day">  #787878FF</Color>
-          <Color mode="night">#202222FF</Color>
+          <Color mode="day">  #32332FFF</Color>
+          <Color mode="night">#32332FFF</Color>
           <Thickness func="102" unit="px">10.0</Thickness><!--12.0-->
           <Priority>60</Priority>
         </LayerPattern>
@@ -703,18 +703,18 @@
       <LabelStyle>99</LabelStyle>
       <LayerSet>
         <LayerPattern type="uni-fill" layer="0">
-          <Color mode="day">#B9B9B9FF</Color><!--B9B9B9FF-->
-          <Color mode="night">#202222FF</Color><!--202222FF-->
-          <Thickness func="100" unit="px">6</Thickness>
+          <Color mode="day">#DCDCDCFF</Color><!--B9B9B9FF-->
+          <Color mode="night">#B9B9B9FF</Color><!--202222FF-->
+          <Thickness func="100" unit="px">4</Thickness>
           <Density />
           <Aspect />
           <SlashAngle />
           <Priority>600</Priority>
         </LayerPattern>
         <LayerPattern type="uni-fill" layer="1">
-          <Color mode="day">#747474FF</Color><!--747474FF-->
-          <Color mode="night">#4C4B4AFF</Color><!--4C4B4AFF-->
-          <Thickness func="100" unit="px">9</Thickness>
+          <Color mode="day">#32332FFF</Color><!--747474FF-->
+          <Color mode="night">#32332FFF</Color><!--4C4B4AFF-->
+          <Thickness func="100" unit="px">7</Thickness>
           <Density />
           <Aspect />
           <SlashAngle />
@@ -776,17 +776,17 @@
       <LayerSet>
         <LayerPattern desc="inline" type="uni-fill" layer="0">
           <Color mode="day">#B9B9B9FF</Color><!--B9B9B9FF-->
-          <Color mode="night">#202222FF</Color><!--202222FF-->
-          <Thickness func="100" unit="px">6</Thickness>
+          <Color mode="night">#B9B9B9FF</Color><!--202222FF-->
+          <Thickness func="100" unit="px">4</Thickness>
           <Density />
           <Aspect />
           <SlashAngle />
           <Priority>500</Priority>
         </LayerPattern>
         <LayerPattern desc="outline" type="uni-fill" layer="1">
-          <Color mode="day">#747474FF</Color><!--747474FF-->
+          <Color mode="day">#4C4B4AFF</Color><!--747474FF-->
           <Color mode="night">#4C4B4AFF</Color><!--4C4B4AFF-->
-          <Thickness func="100" unit="px">9</Thickness>
+          <Thickness func="100" unit="px">7</Thickness>
           <Density />
           <Aspect />
           <SlashAngle />
