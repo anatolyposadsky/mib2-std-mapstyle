@@ -9,3 +9,4 @@ Custom mapstyle. Color scheme based on Porsche navigation (MHI2)
 
 git clone git@github.com:anatolyposadsky/mib2-std-mapstyle.git && tar --format=posix --exclude='./.git' --options gzip:compression-level=9 -czf vw_default.tar.gz --cd mib2-std-mapstyle .
 
+Just transfer file vw/se/sk_default.cfg to a Navi SD card and replace an original file. Full path: maps/00/cfg/mapcfg/
