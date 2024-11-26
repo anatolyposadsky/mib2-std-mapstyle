@@ -211,7 +211,7 @@
             <Color mode="day">#ABD8B3FF</Color>
             <Color mode="night">#ABD8B3FF</Color>
             <Thickness />
-            <Priority>30</Priority>
+            <Priority>10</Priority>
          </LayerPattern>
       </LayerSet>
 
@@ -335,7 +335,7 @@
             <Color mode="day">#AAAA88FF</Color>
             <Color mode="night">#AAAA88FF</Color>
             <Thickness />
-            <Priority>41</Priority>
+            <Priority>10</Priority>
          </LayerPattern>
       </LayerSet>
 
@@ -519,7 +519,7 @@
         <Density />
         <Aspect />
         <SlashAngle />
-        <Priority>-1</Priority>
+        <Priority>10</Priority>
       </LayerPattern>
     </LayerSet>
 
@@ -543,7 +543,7 @@
         <Density />
         <Aspect />
         <SlashAngle />
-        <Priority>-1</Priority>
+        <Priority>10</Priority>
       </LayerPattern>
     </LayerSet>
 
@@ -565,7 +565,7 @@
         <Density />
         <Aspect />
         <SlashAngle />
-        <Priority>-1</Priority>
+        <Priority>10</Priority>
       </LayerPattern>
     </LayerSet>
 
@@ -592,7 +592,7 @@
         <Density />
         <Aspect />
         <SlashAngle />
-        <Priority>-1</Priority>
+        <Priority>10</Priority>
       </LayerPattern>
     </LayerSet>
 
@@ -615,7 +615,7 @@
         <Density />
         <Aspect />
         <SlashAngle />
-        <Priority>-1</Priority>
+        <Priority>10</Priority>
       </LayerPattern>
     </LayerSet>
     <LabelRef />
