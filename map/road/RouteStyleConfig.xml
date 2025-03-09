@@ -383,15 +383,15 @@
 				<LayerSet>
 					<LayerPattern layer="0" type="uni-fill">
 						<!--inline-->
-						<Color mode="day"  >#8C0A05FF</Color>
-						<Color mode="night">#8C0A05FF</Color>
+						<Color mode="day"  >#CD221CFF</Color>
+						<Color mode="night">#CD221CFF</Color>
 						<Thickness func="100" unit="px">8.0</Thickness>
 						<Priority>104</Priority>
 					</LayerPattern>
 					<LayerPattern layer="1" type="uni-fill">
 						<!--outline-->
-						<Color mode="day"  >#CD221CFF</Color>
-						<Color mode="night">#CD221CFF</Color>
+						<Color mode="day"  >#8C0A05FF</Color>
+						<Color mode="night">#8C0A05FF</Color>
 						<Thickness func="100" unit="px">20.0</Thickness>
 						<Priority>103</Priority>
 					</LayerPattern>
