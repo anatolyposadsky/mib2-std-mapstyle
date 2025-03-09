@@ -281,7 +281,7 @@
 
       <LayerSet>
       <LayerPattern type="uni-fill" layer="0">
-            <Color mode="day">  #EFEFE0FF</Color>
+            <Color mode="day">  #C8C8B9FF</Color>
             <Color mode="night">#636267FF</Color>
             <Thickness />
             <Priority>10</Priority>
@@ -560,7 +560,7 @@
     <LayerSet>
       <LayerPattern type="uni-fill" layer="0">
         <Color mode="day">#999B9BFF</Color>
-        <Color mode="night">#2A2A2AFF</Color>
+        <Color mode="night">#464646FF</Color>
         <Thickness func="100" unit="px" />
         <Density />
         <Aspect />
@@ -586,8 +586,8 @@
     </ScaleLevelVisibility>
     <LayerSet>
       <LayerPattern type="uni-fill" layer="0">
-        <Color mode="day">#E3DDC6FF</Color>
-        <Color mode="night">#252526FF</Color>
+        <Color mode="day">#C89B94FF</Color>
+        <Color mode="night">#673034FF</Color>
         <Thickness func="100" unit="px" />
         <Density />
         <Aspect />
